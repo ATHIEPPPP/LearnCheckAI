@@ -1,0 +1,13 @@
+numpy
+langchain>=0.3,<0.4
+fastapi[all]
+pgvector
+python-dotenv
+psycopg2-binary
+
+# Google Gemini integration
+google-genai>=0.7.0
+langchain-google-genai>=2.0.0
+scikit-learn
+pandas
+tqdm
