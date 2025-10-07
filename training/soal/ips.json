@@ -1,0 +1,5879 @@
+[
+  {
+    "pertanyaan": "Tiap orang pasti memiliki ....",
+    "opsi": {
+      "A": "rumah",
+      "B": "mobil",
+      "C": "nama"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Orang tuaku adalah ....",
+    "opsi": {
+      "A": "kakek dan nenek",
+      "B": "paman dan bibi",
+      "C": "ayah dan ibu"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Ibu dari ayah kita panggil ....",
+    "opsi": {
+      "A": "bibi",
+      "B": "nenek",
+      "C": "budhe"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Alamat disebut juga ....",
+    "opsi": {
+      "A": "nama orang",
+      "B": "desa",
+      "C": "tempat tinggal"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Temanku bernama Deni Irawan. Aku memanggilnya Deni. Deni merupakan nama ....",
+    "opsi": {
+      "A": "lengkap",
+      "B": "panggilan",
+      "C": "samaran"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Saudara sepupu adalah anak dari ....",
+    "opsi": {
+      "A": "tetanggaku",
+      "B": "kakakku",
+      "C": "pamanku"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Orang yang melahirkan bibi adalah ....",
+    "opsi": {
+      "A": "ibu",
+      "B": "nenek",
+      "C": "budhe"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Anak pertama disebut juga anak ....",
+    "opsi": {
+      "A": "sulung",
+      "B": "bungsu",
+      "C": "terakhir"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Peristiwa yang pernah terjadi disebut ....",
+    "opsi": {
+      "A": "pengalaman",
+      "B": "kegiatan",
+      "C": "pelajaran"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Setiap orang punya pengalaman yang ....",
+    "opsi": {
+      "A": "sama",
+      "B": "serupa",
+      "C": "berbeda"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Contoh pengalaman yang perlu ditiru adalah ....",
+    "opsi": {
+      "A": "berkelahi dengan teman",
+      "B": "mencuri mangga",
+      "C": "belajar melukis"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pengalaman yang bisa didapat bersama ibu adalah ....",
+    "opsi": {
+      "A": "menonton sepak bola",
+      "B": "memancing",
+      "C": "membuat kue"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pengalaman yang menyenangkan tidak akan ....",
+    "opsi": {
+      "A": "diceritakan",
+      "B": "dilupakan",
+      "C": "diingat"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Menyayangi adalah perbuatan ....",
+    "opsi": {
+      "A": "terpuji",
+      "B": "tercela",
+      "C": "terlarang"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kedudukan ayah dalam keluarga adalah ....",
+    "opsi": {
+      "A": "anggota keluarga",
+      "B": "kepala keluarga",
+      "C": "pembantu keluarga"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kasih sayang orang tua ....",
+    "opsi": {
+      "A": "terbatas",
+      "B": "tak terhingga",
+      "C": "terhitung"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kerukunan bisa diterapkan di ....",
+    "opsi": {
+      "A": "rumah",
+      "B": "sekolah",
+      "C": "mana saja"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Contoh kerukunan dalam kehidupan sehari-hari adalah ....",
+    "opsi": {
+      "A": "mengganggu teman",
+      "B": "belajar bersama",
+      "C": "mencontek ketika ulangan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Bila ada masalah hendaknya .... bersama.",
+    "opsi": {
+      "A": "dibicarakan",
+      "B": "dibiarkan",
+      "C": "dilupakan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kerukunan akan menciptakan kehidupan yang ....",
+    "opsi": {
+      "A": "kacau",
+      "B": "berantakan",
+      "C": "tenang dan damai"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Persatuan dan kesatuan akan tetap terjaga apabila kita .... dengan teman.",
+    "opsi": {
+      "A": "berkelahi",
+      "B": "bertengkar",
+      "C": "rukun"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Contoh hidup rukun di sekolah adalah ....",
+    "opsi": {
+      "A": "tidak terlambat datang di sekolah",
+      "B": "bekerja sama mengerjakan soal ulangan",
+      "C": "bersama-sama melaksanakan piket kelas"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jika bercita-cita menjadi penari maka kita harus ……",
+    "opsi": {
+      "A": "Bermain",
+      "B": "menulis",
+      "C": "berlatih"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Nenek membuat lemper dengan cara ……",
+    "opsi": {
+      "A": "Dikukus",
+      "B": "digoreng",
+      "C": "dipanggang"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Saat kita mendapat hadiah dari Ibu guru maka kita harus mengucapkan ...",
+    "opsi": {
+      "A": "Terima kasih",
+      "B": "Minta maaf",
+      "C": "Minta tolong"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Saat ada teman kita yang sakit maka kita harus ...",
+    "opsi": {
+      "A": "Mengejeknya",
+      "B": "Tertawa",
+      "C": "Menjenguknya"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Rumah Sela berada di sebelah selatan rumah Wanda.   Selatan menunjukkan ...",
+    "opsi": {
+      "A": "Rumah",
+      "B": "Teras",
+      "C": "Arah"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Rumah Ratna berada di timur masjid. Yang menunjukkan tempat umum adalah ...",
+    "opsi": {
+      "A": "Rumah Ratna",
+      "B": "Timur",
+      "C": "Masjid"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Tempat yang tidak termasuk tempat umum adalah ...",
+    "opsi": {
+      "A": "Rumah",
+      "B": "Masjid",
+      "C": "Rumah sakit"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut yang tidak termasuk arah adalah ....",
+    "opsi": {
+      "A": "Barat",
+      "B": "Selatan",
+      "C": "Depan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Merayakan pesta ulang tahun bersama dengan orang tua dan saudara laki-laki maupun perempuan merupakan pengalaman bersama ….",
+    "opsi": {
+      "A": "Sahabat",
+      "B": "Keluarga",
+      "C": "Teman"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pergi liburan bersama dengan orang-orang tersayang merupakan pengalaman yang paling ….",
+    "opsi": {
+      "A": "Menyedihkan",
+      "B": "Menyenangkan",
+      "C": "Bebas"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Jatuh saat berlari merupakan pengalaman yang ….",
+    "opsi": {
+      "A": "Hebat",
+      "B": "Menyenangkan",
+      "C": "Menyedihkan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Ketika hendak pergi ke sekolah atau keluar rumah, kita diwajibkan untuk ….",
+    "opsi": {
+      "A": "Berpamitan",
+      "B": "Menangis",
+      "C": "Meminta uang"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Dengan ayah dan juga ibu kita harus selalu ….",
+    "opsi": {
+      "A": "Tidak sopan",
+      "B": "Menyayangi",
+      "C": "Memusuhi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Seseorang yang sudah merawat kita sampai saat ini adalah ….",
+    "opsi": {
+      "A": "Ibu",
+      "B": "Nenek",
+      "C": "Teman"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Dalam keluarga ayah bertugas mencari …. untuk memenuhi kebutuhan dari keluarganya.",
+    "opsi": {
+      "A": "Anak",
+      "B": "Keinginan",
+      "C": "Nafkah"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Rumah yang sehat merupakan rumah yang ….",
+    "opsi": {
+      "A": "Bersih",
+      "B": "Kotor",
+      "C": "Bagus"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "bertengkar dengan kakak adalah perbuatan yang …",
+    "opsi": {
+      "A": "mulia",
+      "B": "baik",
+      "C": "buruk"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "adik punya mainan baru kakak lalu merebutnya sikap kakak itu tidak …",
+    "opsi": {
+      "A": "apa-apa",
+      "B": "baik",
+      "C": "lucu"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "jika adik berbuat salah maka kita harus mau …",
+    "opsi": {
+      "A": "memaafkannya",
+      "B": "memarahinya",
+      "C": "menghukumnya"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "rani pintar membaca tetapi budi belum bisa baca maka sikap rani tidak boleh …",
+    "opsi": {
+      "A": "menghina budi",
+      "B": "mengajari budi",
+      "C": "menasihati budi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "keluarga yang rukun membuat kita menjadi nyaman … di rumah",
+    "opsi": {
+      "A": "pergi",
+      "B": "tinggal",
+      "C": "berkelahi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "kamu punya mainan baru dan  adik ingin meminjamnya\nmaka kamu harus …",
+    "opsi": {
+      "A": "marah",
+      "B": "meminjami",
+      "C": "pergi saja"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "rudi suka main bola dan dani suka berenenang\nmereka punya hobi yang …",
+    "opsi": {
+      "A": "sama",
+      "B": "mirip",
+      "C": "berbeda"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "saat bermain bola dengan teman kita tidak boleh …",
+    "opsi": {
+      "A": "menang",
+      "B": "kalah",
+      "C": "curang"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "teman yang bertengkar harus …",
+    "opsi": {
+      "A": "dibantu",
+      "B": "disemangati",
+      "C": "dilerai"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "ayah deni dokter dan ayah rina guru. ayah deni dan rina berbeda ….",
+    "opsi": {
+      "A": "agama",
+      "B": "pekerjaan",
+      "C": "umur"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "aldo umurnya 10 tahun dan bagas umurnya 12 tahun\nmereka berbeda …",
+    "opsi": {
+      "A": "daerah",
+      "B": "kesukaan",
+      "C": "usia"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "rani seorang perempuan dan ahmad seorang laki-laki\nmereka berdua berbeda jenis …",
+    "opsi": {
+      "A": "pekerjaannya",
+      "B": "kelaminnya",
+      "C": "makanannya"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "contoh hidup tidak rukun adalah … dengan adik.",
+    "opsi": {
+      "A": "bermain",
+      "B": "berebut mainan",
+      "C": "berbicara"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Tempat untuk menyimpan foto keluarga adalah ....",
+    "opsi": {
+      "A": "album",
+      "B": "buku",
+      "C": "map",
+      "D": "kardus"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Dokumen yang diperoleh setelah lulus sekolah adalah .....",
+    "opsi": {
+      "A": "koran",
+      "B": "Ijazah",
+      "C": "kartu keluarga",
+      "D": "surat nikah"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kita bisa mengingat masa kecil dengan melihat.....",
+    "opsi": {
+      "A": "koran",
+      "B": "majalah",
+      "C": "buku",
+      "D": "Foto"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Yang termasuk koleksi barang berharga adalah .....",
+    "opsi": {
+      "A": "surat kelahiran",
+      "B": "kartu keluarga",
+      "C": "kartu pelajar",
+      "D": "Piala"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Para penduduk bergotong royong membangun .....",
+    "opsi": {
+      "A": "jembatan",
+      "B": "kandang sapi",
+      "C": "rumah",
+      "D": "jalan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "KTP dibuat untuk anggota keluarga yang berusia  ....",
+    "opsi": {
+      "A": "10 tahun",
+      "B": "15 tahun",
+      "C": "16 tahun",
+      "D": "17 tahun"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Dokumen diatur rapi agar  ..............  mencarinya.",
+    "opsi": {
+      "A": "sulit",
+      "B": "lambat",
+      "C": "sukar",
+      "D": "Mudah"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Hal yang dilakukan bayi bila lapar dan haus adalah  ........",
+    "opsi": {
+      "A": "menangis",
+      "B": "merangkak",
+      "C": "tertawa",
+      "D": "Tengkurap"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kelengkapan dokumen bagi pengendara kendaraan bermotor adalah  .....",
+    "opsi": {
+      "A": "helm",
+      "B": "KTP",
+      "C": "SIM",
+      "D": "Kartu Siswa"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kewajiban sebagai seorang siswa adalah  .....",
+    "opsi": {
+      "A": "belajar",
+      "B": "nonton TV",
+      "C": "bermain",
+      "D": "tiduran"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Orang yang akan menikah harus mendaftarkan diri ke ........",
+    "opsi": {
+      "A": "karang taruna",
+      "B": "KUA",
+      "C": "balai desa",
+      "D": "sekolah"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "KTP dan KK adalah dokumen resmi yang dibuat oleh ...",
+    "opsi": {
+      "A": "Kepala sekolah",
+      "B": "Orang tua kita",
+      "C": "Pemerintah"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "SIM adalah singkatan dari ...",
+    "opsi": {
+      "A": "Surat izin membaca",
+      "B": "Surat izin mengemudi",
+      "C": "Surat izin mengendarai"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Contoh hewan yang dapat memakan dokumen kita menjadi rusak adalah ...",
+    "opsi": {
+      "A": "Tikus dan ayam",
+      "B": "Rayap dan tikus",
+      "C": "Kelinci dan kambing"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Koleksi barang berharga dapat tetap awet dan tahan laman jika selalu ...",
+    "opsi": {
+      "A": "Difigura",
+      "B": "Dirawat",
+      "C": "Dibungkus"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Orang yang mengoreksi benda berharga dinamakan ...",
+    "opsi": {
+      "A": "Narator",
+      "B": "Distributor",
+      "C": "Kolektor"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Foto keluarga harus disimpan dengan ...",
+    "opsi": {
+      "A": "Semaunya",
+      "B": "Sembarangan",
+      "C": "Rapi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Foto diri adalah contoh dokumen ...",
+    "opsi": {
+      "A": "Keluarga",
+      "B": "Sekolah",
+      "C": "Pribadi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Ketika seorang telah lahir maka akan dibuatkan ...",
+    "opsi": {
+      "A": "Tanda lahir",
+      "B": "Akta kelahiran",
+      "C": "Akta tanah"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Lembaran yang ditulisi hasil nilai dari nilai-nilai ulangan sekolah dinamakan ...",
+    "opsi": {
+      "A": "Piagam",
+      "B": "Rapor",
+      "C": "Ijazah"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Hari ini Bu Rika melahirkan anak pertama, maka suami Bu Rika merasa ...",
+    "opsi": {
+      "A": "Bahagia",
+      "B": "Sedih",
+      "C": "Kesal"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Saat adik sedang sakit maka ayah dan ibu terlihat merasa sangat ...",
+    "opsi": {
+      "A": "Bahagia",
+      "B": "Khawatir",
+      "C": "Senang"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Peristiwa penting dalam keluarga contohnya ...",
+    "opsi": {
+      "A": "Menyiram tanaman",
+      "B": "Sarapan pagi",
+      "C": "Kelahiran adik"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pengalaman yang menyenangkan contohnya adalah ...",
+    "opsi": {
+      "A": "Jatuh dari sepeda",
+      "B": "Menjadi juara kelas",
+      "C": "Jatuh terpeleset"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kapur barus diletakkan di dekat benda-benda berharga bertujuan agar ...",
+    "opsi": {
+      "A": "Tidak Mudah sobek dan lecek",
+      "B": "Tidak basah terkena air hujan",
+      "C": "Tidak didekati kecoa yang mendekat"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Foto dapat menjadi benda berharga karena bisa untuk ...",
+    "opsi": {
+      "A": "Harganya sangat mahal",
+      "B": "Menceritakan kenangan masa lalu",
+      "C": "Menceritakan cerita masa depan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Peristiwa yang penting mudah sekali untuk ...",
+    "opsi": {
+      "A": "Dilupakan",
+      "B": "Diingat",
+      "C": "Ditertawakan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pengalaman yang kita lalui ada yang menyenangkan dan juga ada yang ...",
+    "opsi": {
+      "A": "Lucu",
+      "B": "Menyedihkan",
+      "C": "Mengembirakan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Saat orang bersedih biasanya ia akan ...",
+    "opsi": {
+      "A": "Tersenyum",
+      "B": "Tertawa",
+      "C": "Menangis"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Alia tidak dapat merayakan ulang tahunnya. Ayah, ibu dan keluarganya hanya bisa mendoakannya. namun Bagas tetap merasa bahagia karena ia ...",
+    "opsi": {
+      "A": "Akan mengundang teman-temannya",
+      "B": "Bersyukur punya keluarga yang sayang kepadanya",
+      "C": "Meminta hadiah di tahun berikutnya"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dika asyik menonton televisi maka ia pun dimarahin ayah karena tidak mau belajar. Dika sebaiknya ...",
+    "opsi": {
+      "A": "Menonton televisi di ruang lain",
+      "B": "Minta dibelikan televisi di kamar",
+      "C": "Segera belajar dan mematikan televisi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perbuatan yang buruk sebaiknya kita ...",
+    "opsi": {
+      "A": "Tinggalkan",
+      "B": "Pertahankan",
+      "C": "Banggakan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Hari ini harus lebih baik dari ...",
+    "opsi": {
+      "A": "Minggu",
+      "B": "Besok",
+      "C": "Kemarin"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kewajiban anak sebagai anggota keluarga adalah ....",
+    "opsi": {
+      "A": "menghormati orang tua",
+      "B": "menasihati orang tua",
+      "C": "mengatur orang tua"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Asal usul keluarga dikenal dengan istilah ....",
+    "opsi": {
+      "A": "garis keluarga",
+      "B": "silsilah keluarga",
+      "C": "keturunan keluarga"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Anak dari adik laki-laki ayah disebut saudara ....",
+    "opsi": {
+      "A": "tiri",
+      "B": "kandung",
+      "C": "sepupu"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Contoh kegiatan anak yang dilakukan tiap pagi adalah ....",
+    "opsi": {
+      "A": "berjualan di pasar",
+      "B": "memasak di dapur",
+      "C": "merapikan tempat tidur"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Hak ayah dan ibu sebagai orang tua adalah ....",
+    "opsi": {
+      "A": "menasihati anak-anaknya",
+      "B": "menyayangi anak-anaknya",
+      "C": "dihormati anak-anaknya"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kewajiban orang tua adalah ....",
+    "opsi": {
+      "A": "memberi uang saku",
+      "B": "mendidik anak",
+      "C": "menghormati anak"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Yudi adalah anak terakhir. Ia tidak memiliki adik. Yudi disebut anak ....",
+    "opsi": {
+      "A": "sulung",
+      "B": "bungsu",
+      "C": "tunggal"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Adik perempuan dari ayah atau ibu disebut ....",
+    "opsi": {
+      "A": "kakak",
+      "B": "bibi",
+      "C": "nenek"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Peran ibu dalam keluarga adalah ....",
+    "opsi": {
+      "A": "membantu ayah mencari nafkah",
+      "B": "menghormati dan menyayangi anak",
+      "C": "membantu anak mengerjakan tugas"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Keluarga Pak Adi sangat rukun karena ....",
+    "opsi": {
+      "A": "saling menghormati",
+      "B": "selalu bersama-sama",
+      "C": "suka bergaul"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Bubur adik tumpah ke lantai. Ibu segera membersihkannya. Sikap kamu sebaiknya ....",
+    "opsi": {
+      "A": "melihat ibu membersihkan lantai",
+      "B": "memarahi adik karena sudah menumpahkan bubur",
+      "C": "membantu ibu membersihkan lantai"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kita wajib membantu orang tua sesuai dengan ....",
+    "opsi": {
+      "A": "keahlian",
+      "B": "kemauan",
+      "C": "kemampuan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jika adik menangis maka aku harus ....",
+    "opsi": {
+      "A": "membiarkannya",
+      "B": "menghiburnya",
+      "C": "memarahinya"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Perbuatan yang tidak boleh dilakukan setelah berbuat kesalahan adalah ....",
+    "opsi": {
+      "A": "mengakui kesalahan",
+      "B": "memperbaiki kesalahan",
+      "C": "mengulangi kesalahan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Orang yang harus menaati peraturan dalam keluarga adalah ....",
+    "opsi": {
+      "A": "anak",
+      "B": "orang tua",
+      "C": "semua anggota keluarga"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Mencuci pakaian sendiri adalah usaha belajar hidup ....",
+    "opsi": {
+      "A": "hemat",
+      "B": "rukun",
+      "C": "mandiri"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kakek dan nenek termasuk keluarga ....",
+    "opsi": {
+      "A": "inti",
+      "B": "tambahan",
+      "C": "utama"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Untuk memenuhi kebutuhan hidupnya orang harus ....",
+    "opsi": {
+      "A": "berdoa",
+      "B": "belajar",
+      "C": "bekerja"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk keluarga inti adalah ....",
+    "opsi": {
+      "A": "paman",
+      "B": "bibi",
+      "C": "ibu"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Contoh hak anak dari orang tua adalah ....",
+    "opsi": {
+      "A": "membantu orang tua",
+      "B": "mendapatkan kasih sayang",
+      "C": "mematuhi nasihatnya"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Mengatur keuangan keluarga merupakan tugas ....",
+    "opsi": {
+      "A": "ayah",
+      "B": "ibu",
+      "C": "anak pertama"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Setiap anak memiliki hak untuk ....",
+    "opsi": {
+      "A": "mendapatkan pendidikan",
+      "B": "mengerjakan tugas",
+      "C": "menjaga nama baik keluarga"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Membantu pekerjaan orang tua adalah perbuatan ....",
+    "opsi": {
+      "A": "mulia",
+      "B": "tercela",
+      "C": "terpaksa"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Orang yang suka menunda-nunda pekerjaan termasuk orang yang ....",
+    "opsi": {
+      "A": "rajin",
+      "B": "baik",
+      "C": "malas"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Saudara kandung adalah ....",
+    "opsi": {
+      "A": "saudara satu ayah satu ibu",
+      "B": "saudara satu rumah",
+      "C": "anak dari kakek dan nenek"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Akibat dari suka berkata bohong adalah ....",
+    "opsi": {
+      "A": "disayang teman",
+      "B": "dijauhi teman",
+      "C": "tidak dipercaya teman"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pekerjaan akan terasa ringan jika dikerjakan ....",
+    "opsi": {
+      "A": "sendirian",
+      "B": "bersama-sama",
+      "C": "orang lain"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Penebangan liar di hutan dapat mengakibatkan ...",
+    "opsi": {
+      "A": "Air terjun semakin banyak",
+      "B": "Banyak hewan berkembang biak",
+      "C": "Tanah menjadi lebih mahal",
+      "D": "Banjir dan tanah longsor"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Salah satu alat yang dapat membantu menunjukkan arah adalah ...",
+    "opsi": {
+      "A": "Kompas",
+      "B": "Sepeda",
+      "C": "Jam tangan",
+      "D": "Topi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Untuk mencegah erosi, tanah-tanah di lahan perbukitan dibuat ...",
+    "opsi": {
+      "A": "Bendungan",
+      "B": "Terasering",
+      "C": "Sungai",
+      "D": "Rumah"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Utara pada gambar arah mata angin ditunjukkan ke bagian ...",
+    "opsi": {
+      "A": "Kiri",
+      "B": "Atas",
+      "C": "Bawah",
+      "D": "Kanan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah tempat-tempat umum yang ada di desa, kecuali ...",
+    "opsi": {
+      "A": "Gereja",
+      "B": "Lapangan",
+      "C": "Rumah kepala desa",
+      "D": "Puskesmas"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kenampakan lingkungan alam merupakan ciptaan ...",
+    "opsi": {
+      "A": "Petani",
+      "B": "Insinyur",
+      "C": "Tuhan",
+      "D": "Tukang kayu"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Lingkungan yang sudah ada dengan sendirinya tanpa dibuat oleh manusia dinamakan lingkungan ...",
+    "opsi": {
+      "A": "Buatan",
+      "B": "Hutan",
+      "C": "Fisik",
+      "D": "Alam"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Genangan air yang luas yang dikelilingi daratan dinamakan ...",
+    "opsi": {
+      "A": "Danau",
+      "B": "Samudra",
+      "C": "Sungai",
+      "D": "Laut"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk lingkungan buatan adalah ...",
+    "opsi": {
+      "A": "Kebun",
+      "B": "Pantai",
+      "C": "Danau",
+      "D": "Gunung"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kerjasama dapat membuat diri kita mempunyai ...",
+    "opsi": {
+      "A": "Kurang teman",
+      "B": "Sulit berteman",
+      "C": "Banyak teman",
+      "D": "Sedikit teman"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut yang bukan manfaat kerjasama adalah ...",
+    "opsi": {
+      "A": "Pekerjaan menjadi semakin lama",
+      "B": "Mempererat tali persaudaraan",
+      "C": "Pekerjaan menjadi terasa ringan",
+      "D": "Pekerjaan menjadi cepat selesai"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kerjasama dapat membuat pekerjaan yang berat menjadi terasa lebih ...",
+    "opsi": {
+      "A": "Lama",
+      "B": "Seru",
+      "C": "Tambah sulit",
+      "D": "Ringan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Orang yang tidak suka kerjasama di lingkungan masyarakat maka akan ...",
+    "opsi": {
+      "A": "Memiliki sedikit teman",
+      "B": "Diidolakan masyarakat",
+      "C": "Disukai masyarakat",
+      "D": "Dibenci masyarakat"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Contoh kerjasama di lingkungan sekolah yang perlu dipertahankan adalah ...",
+    "opsi": {
+      "A": "Menyapu halaman",
+      "B": "Berkelahi dengan kelas lain",
+      "C": "Mengerjakan PR",
+      "D": "Mengerjakan ulangan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Arah mata angin yang pokok ada ...",
+    "opsi": {
+      "A": "4",
+      "B": "10",
+      "C": "2",
+      "D": "3"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Tiang bendera Merah Putih sekolah biasanya diletakkan di ...",
+    "opsi": {
+      "A": "Belakang ruang kelas",
+      "B": "Depan gudang sekolag",
+      "C": "Pagar sekolah",
+      "D": "Halaman utama sekolah"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Denah ruangan kelas menunjukkan ...",
+    "opsi": {
+      "A": "Tempat buku-buku",
+      "B": "Tempat bunga-bunga",
+      "C": "Tempat bermain di dalam kelas",
+      "D": "Tempat duduk siswa"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Contoh kerjasama di rumah adalah ...",
+    "opsi": {
+      "A": "Menyapu teras kelas",
+      "B": "Menyapu lantai masjid",
+      "C": "Membersihkan jalan desa",
+      "D": "Membersihkan halaman rumah"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Kerjasama di lingkungan sekolah dilakukan oleh orang-orang berikut, kecuali ...",
+    "opsi": {
+      "A": "Kepala desa",
+      "B": "Para murid",
+      "C": "Para guru",
+      "D": "Kepala sekolah"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Menjaga kebersihan di lingkungan sekolah merupakan tanggung jawab dari ...",
+    "opsi": {
+      "A": "Siswa",
+      "B": "Seluruh warga sekolah",
+      "C": "Tukang kebun",
+      "D": "Guru"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kerjasama harus dibiasakan mulai dari lingkungan ...",
+    "opsi": {
+      "A": "Keluarga",
+      "B": "Desa",
+      "C": "Sekola",
+      "D": "Masyarakat"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Tujuan dari kerjasama membersihkan sungai salah satunya adalah untuk ...",
+    "opsi": {
+      "A": "Mencegah terjadinya pergaulan bebas",
+      "B": "Mencegah terjadinya banjir",
+      "C": "Mencegah tanah longsor",
+      "D": "Menjaga keamanan dari pencuri"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kerjasama dapat berjalan dengan baik jika semua warga ...",
+    "opsi": {
+      "A": "Saling memerintah",
+      "B": "Saling mementingkan diri sendiri",
+      "C": "Saling bantu membantu",
+      "D": "Saling menunggu kerjaan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Lingkungan yang merupakan ciptaan Tuhan adalah ....",
+    "opsi": {
+      "A": "lingkungan buatan",
+      "B": "lingkungan alam",
+      "C": "lingkungan hidup"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Lingkungan alam mengalami perubahan yang disebut ....",
+    "opsi": {
+      "A": "proses ilmiah",
+      "B": "proses mekanis",
+      "C": "proses alamiah"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Tanah sekitar Gunung berapi sangat subur karena ....",
+    "opsi": {
+      "A": "mengandung belerang",
+      "B": "mengandung lumpur",
+      "C": "mengandung abu vulkanik"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sikap memelihara lingkungan sekitar harus kita ....",
+    "opsi": {
+      "A": "abaikan",
+      "B": "biasakan",
+      "C": "lupakan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Contoh faktor alami yang menyebabkan kerusakan alam\nmisalnya ....",
+    "opsi": {
+      "A": "gempa bumi",
+      "B": "penebangan hutan",
+      "C": "penimbunan sampah"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Reboisasi adalah ....",
+    "opsi": {
+      "A": "usaha untuk menanami kembali hutan yang gundul",
+      "B": "usaha untuk menanami kembali halaman yang gundul",
+      "C": "usaha untuk menanami kembali taman yang gundul"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Manakah tindakan yang salah terhadap lingkungan?",
+    "opsi": {
+      "A": "membuat terasiring",
+      "B": "membuang sampah ke sungai",
+      "C": "menjaga sumber mata air"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Lingkungan bisa rusak karena faktor alami dan ....",
+    "opsi": {
+      "A": "faktor takdir",
+      "B": "faktor manusia",
+      "C": "faktor tuhan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Manakah yang bukan bagian dari denah sekolah?",
+    "opsi": {
+      "A": "letak kelas",
+      "B": "ruang guru",
+      "C": "letak dapur"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Peta adalah gambaran tentang ....yang dibuat dalam bidang datar.",
+    "opsi": {
+      "A": "manusia",
+      "B": "alam",
+      "C": "permukaan bumi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Manakah yang merupakan peta wilayah kota?",
+    "opsi": {
+      "A": "peta Indonesia",
+      "B": "peta sumatera",
+      "C": "peta bogor"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Gotong royong sesuai dengan Pancasila sila yang ke ....",
+    "opsi": {
+      "A": "satu",
+      "B": "dua",
+      "C": "tiga"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Salah satu manfaat kerjasama adalah ....",
+    "opsi": {
+      "A": "mendatangkan uang",
+      "B": "mendatangkan musuh",
+      "C": "mempererat persatuan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Di bawah ini yang termasuk lingkungan buatan adalah ....",
+    "opsi": {
+      "A": "selat, laut, dan gunung",
+      "B": "danau, gunung, dan laut",
+      "C": "sungai, teluk, dan daratan",
+      "D": "waduk, jalan, dan gedung"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Lingkungan alam yang dimanfaatkan untuk olah raga selancar adalah ....",
+    "opsi": {
+      "A": "sungai",
+      "B": "danau",
+      "C": "laut",
+      "D": "rawa-rawa"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini merupakan lingkungan alam yang dimanfaatkan untuk PLTA adalah ....",
+    "opsi": {
+      "A": "danau",
+      "B": "samudra",
+      "C": "pantai",
+      "D": "teluk"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Taman Laut Raja Ampat terdapat di Provinsi ....",
+    "opsi": {
+      "A": "Jawa Barat",
+      "B": "Sumatra Barat",
+      "C": "Papua Barat",
+      "D": "Sumatera Barat"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sungai menjadi transportasi utama di Pulau ....",
+    "opsi": {
+      "A": "Sumatra",
+      "B": "Sulawesi",
+      "C": "Jawa",
+      "D": "Kalimantan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sungai yang terdapat di Pulau Sumatera adalah Sungai ....",
+    "opsi": {
+      "A": "Brantas",
+      "B": "Kampar",
+      "C": "Kapuas",
+      "D": "Barito"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Lingkungan buatan yang digunakan untuk sarana olah raga adalah ....",
+    "opsi": {
+      "A": "balai desa",
+      "B": "stadion",
+      "C": "stasiun",
+      "D": "taman"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Lautan yang menjorok ke daratan disebut ....",
+    "opsi": {
+      "A": "teluk",
+      "B": "tanjung",
+      "C": "selat",
+      "D": "danau"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Taman Laut di Sulawesi Utara adalah ....",
+    "opsi": {
+      "A": "Taman Laut Wakatobi",
+      "B": "Taman Laut Bunaken",
+      "C": "Taman Laut Banda",
+      "D": "Taman Laut karimun"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Ngarai Sianok terdapat di daerah ....",
+    "opsi": {
+      "A": "Bukit Tinggi",
+      "B": "Bukit Barisan",
+      "C": "Jambi",
+      "D": "Bengkulu"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini merupakan kerusakan lingkungan yang disebabkan oleh peristiwa alam kecuali ....",
+    "opsi": {
+      "A": "banjir",
+      "B": "kebakaran hutan",
+      "C": "gempa bumi",
+      "D": "tsunami"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sampah yang berasal dari plastik, kertas, dan kaleng sebaiknya ....",
+    "opsi": {
+      "A": "dibakar",
+      "B": "ditimbun",
+      "C": "dikubur",
+      "D": "didaur ulang"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Selain banjir, hutan yang gundul juga dapat menyebabkan ....",
+    "opsi": {
+      "A": "kebakaran hutan",
+      "B": "kekeringan",
+      "C": "tanah longsor",
+      "D": "kabut asap"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Penghargaan untuk orang yang berjasa di bidang lingkungan hidup adalah ....",
+    "opsi": {
+      "A": "Adipura",
+      "B": "Adipura Kencana",
+      "C": "Adiwiyata",
+      "D": "Kalpataru"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Gambar yang menunjukkan letak suatu tempat disebut ....",
+    "opsi": {
+      "A": "peta",
+      "B": "denah",
+      "C": "petunjuk",
+      "D": "mata angin"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kumpulan gambar peta disebut ....",
+    "opsi": {
+      "A": "atlas",
+      "B": "kamus",
+      "C": "ensiklopedi",
+      "D": "buku peta"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Arah yang digunakan untuk mengetahui arah mata angin disebut ....",
+    "opsi": {
+      "A": "anemometer",
+      "B": "barometer",
+      "C": "speedometer",
+      "D": "kompas"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Matahari dapat digunakan sebagai petunjuk arah. Apabila kita menghadap ke arah matahari terbit, berarti di depan kita adalah arah ....",
+    "opsi": {
+      "A": "barat",
+      "B": "utara",
+      "C": "timur",
+      "D": "selatan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Arti simbol peta dapat diketahui melalui ....",
+    "opsi": {
+      "A": "atlas",
+      "B": "legenda",
+      "C": "judul peta",
+      "D": "skala"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berikut ini yang tidak termasuk komponen peta adalah ....",
+    "opsi": {
+      "A": "mata angin",
+      "B": "skala",
+      "C": "judul peta",
+      "D": "denah"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Jarum kompas selalu menunjuk arah ....",
+    "opsi": {
+      "A": "utara-selatan",
+      "B": "timur-barat",
+      "C": "tenggara-barat laut",
+      "D": "barat daya-timur laut"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Jika kita berdiri menghadap ke barat, maka di sebelah kanan kita adalah arah ....",
+    "opsi": {
+      "A": "utara",
+      "B": "barat",
+      "C": "timur",
+      "D": "selatan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perbandingan jarak dalam peta dengan jarak sebenarnya disebut ....",
+    "opsi": {
+      "A": "simbol",
+      "B": "legenda",
+      "C": "skala",
+      "D": "keterangan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebagai penunjuk arah pada malam hari, para nelayan menggunakan bantuan ....",
+    "opsi": {
+      "A": "bulan",
+      "B": "rasi bintang",
+      "C": "angin darat",
+      "D": "angin laut"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Bekerja sama merupakan sifat manusia sebagai makhluk ....",
+    "opsi": {
+      "A": "individu",
+      "B": "sosial",
+      "C": "hidup",
+      "D": "sempurna"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kegiatan berikut ini yang tidak boleh dilakukan dengan cara kerja sama adalah ....",
+    "opsi": {
+      "A": "mengerjakan tugas kelompok",
+      "B": "mengerjakan ulangan",
+      "C": "piket kelas",
+      "D": "membersihkan lingkungan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Contoh permainan yang memerlukan kerja sama adalah ....",
+    "opsi": {
+      "A": "lompat tali",
+      "B": "petak umpet",
+      "C": "catur",
+      "D": "sepak bola"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Gotong-royong banyak dilakukan di daerah ....",
+    "opsi": {
+      "A": "pedesaan",
+      "B": "perkotaan",
+      "C": "pesisir pantai",
+      "D": "pegunungan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Bentuk kerja sama antara bangsa-bangsa di Asia Tenggara adalah ....",
+    "opsi": {
+      "A": "PBB",
+      "B": "ASEAN",
+      "C": "OPEC",
+      "D": "APEC"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Nelayan adalah pekerjaan yang menghasilkan...",
+    "opsi": {
+      "A": "Jasa",
+      "B": "Barang",
+      "C": "Tenaga",
+      "D": "Karya seni"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Tujuan manusia bekerja adalah untuk...",
+    "opsi": {
+      "A": "Mempertahankan hidup",
+      "B": "Menjadi orang kaya",
+      "C": "Bergaya hidup mewah",
+      "D": "memenuhi kebutuhan hidup"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebagian besar penduduk Indonesia hidup bercocok tanam, sehingga Indonesia disebut negara...",
+    "opsi": {
+      "A": "republik",
+      "B": "Kesatuan",
+      "C": "Agraris",
+      "D": "maritim"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pedagang akan memperoleh pendapatan apabila...",
+    "opsi": {
+      "A": "Berjualan di pasar",
+      "B": "Menggelar dagangannya",
+      "C": "Dagangannya ditawar",
+      "D": "Dagangannya laku"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pak Ali tidak bekerja di perusahaan, tetapi ia membuka lapangan pekerjaan sendiri. Pak Ali adalah seorang...",
+    "opsi": {
+      "A": "Wirausaha",
+      "B": "Buruh pabrik",
+      "C": "Pegawai negeri",
+      "D": "asisten rumah tangga"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk kebutuhan primer adalah...",
+    "opsi": {
+      "A": "Rumah",
+      "B": "Handphone",
+      "C": "Mobil",
+      "D": "rekreasi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Di bawah ini yang tidak termasuk ciri-ciri orang yang memiliki semangat kerja adalah...",
+    "opsi": {
+      "A": "Suka bekerja keras",
+      "B": "Menghargai waktu",
+      "C": "Memiliki banyak uang dan boros",
+      "D": "Meningkatkan pengetahuan dan keterampilan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Arsitek dalam bekerja lebih banyak menggunakan...",
+    "opsi": {
+      "A": "Otot",
+      "B": "Otak",
+      "C": "Tenaga",
+      "D": "Barang"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pasukan kuning bekerja untuk memberi pelayanan di bidang...",
+    "opsi": {
+      "A": "Kesehatan",
+      "B": "Pendidikan",
+      "C": "Keamanan",
+      "D": "Kebersihan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Tuna wisma dapat diartikan sebagai...",
+    "opsi": {
+      "A": "Pengangguran",
+      "B": "Gelandangan",
+      "C": "wiraswasta",
+      "D": "Pengusaha"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Segitiga merah pada gambar dalam peta merupakan simbol . . . .",
+    "opsi": {
+      "A": "gunung berapi",
+      "B": "pegunungan",
+      "C": "gunung",
+      "D": "gunung tertingi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Gambar lautan pada peta akan dilukiskan dengan warna . . . .",
+    "opsi": {
+      "A": "hujau",
+      "B": "merah",
+      "C": "biru",
+      "D": "putih"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jika dalam peta tertulis 1 : 350.000 maka setiap 1 cm pada jarak adalah. . . .",
+    "opsi": {
+      "A": "35 km",
+      "B": "0,35 km",
+      "C": "350 km",
+      "D": "3,5 km"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Untuk memperbesar atau memperkecil gambar peta digunakan bantuan garis ...",
+    "opsi": {
+      "A": "koordinat",
+      "B": "bujur",
+      "C": "katulistiwa",
+      "D": "lintang"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pengaruh lingkungan sosial yang tidak baik contohnya . . . .",
+    "opsi": {
+      "A": "pertandingan sepak bola",
+      "B": "belajar bersama",
+      "C": "tawuran pelajar",
+      "D": "saling memberi salam bila bertemu"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Manusia dapat menciptakan kebudayaan karena oleh Tuhan dianugerahi . . . .",
+    "opsi": {
+      "A": "perasaan",
+      "B": "naluri",
+      "C": "Indra penglihatan",
+      "D": "Akal pikiran"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Di bawah ini adalah pemamfaatan lahan yang ada di dataran rendah, kecuali . .",
+    "opsi": {
+      "A": "pertanian pangan",
+      "B": "perikanan",
+      "C": "Kawasan industri",
+      "D": "PLTA"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jenis tanaman yang ada di daerah pantai yang sangat berguna untuk mencegah abrasi gelombang laut adalah  . . . .",
+    "opsi": {
+      "A": "pandan",
+      "B": "jati",
+      "C": "ketapang",
+      "D": "bakau"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Gempa bumi yang disebabkan oleh letusan gunung merapi  disebut gempa ....",
+    "opsi": {
+      "A": "tektonik",
+      "B": "mekanik",
+      "C": "vulkanik",
+      "D": "elektronik"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Di bawah ini adalah pulau – pulau yang banyak terdapat gunung berapi  yang masih aktif, kecuali  . . .",
+    "opsi": {
+      "A": "Maluku",
+      "B": "Sumatra",
+      "C": "Kalimatan",
+      "D": "Jawa"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Gambar seluruh atau sebagian permukaan bumi yang dilukis ke suatu bidang datar dengan skala tertentu disebut.. . . .",
+    "opsi": {
+      "A": "bumi",
+      "B": "tata surya",
+      "C": "peta",
+      "D": "tanah"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Masyarakat yang tinggal di sekitar daerah pantai umumnya bekerja sebagai. . . .",
+    "opsi": {
+      "A": "sopir",
+      "B": "nelayan",
+      "C": "peternak sapi",
+      "D": "pengusaha"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Air termasuk sumber daya alam yang dapat diperbarui, karena air dapat mengalami . . . .",
+    "opsi": {
+      "A": "siklus",
+      "B": "penguapan",
+      "C": "peresapan",
+      "D": "pengapungan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sungai adalah ....",
+    "opsi": {
+      "A": "tanah basah yang selalu digenangi air dan ditumbuhi tanaman",
+      "B": "cekungan yang cukup luas di permukaan bumi yang digenangi oleh air",
+      "C": "batas antara daratan dan lautan",
+      "D": "saluran buatan alam yang dialiri oleh air tawar"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Semboyan negara kita adalah....",
+    "opsi": {
+      "A": "Jalasveva Jaya Mahe",
+      "B": "Kartika Eka Paksi",
+      "C": "Bhinneka Tunggal Ika",
+      "D": "Tut Wuri Handayani"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Alat musik angklung berasal dari .. . .",
+    "opsi": {
+      "A": "Jawa Barat",
+      "B": "Madura",
+      "C": "Bali",
+      "D": "Jawa Tengah"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Supaya kapas dapat menjadi benang perlu dilakukan . . .",
+    "opsi": {
+      "A": "pencucian",
+      "B": "perajutan",
+      "C": "penjemuran",
+      "D": "pemintalan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Bangunan untuk menyimpan berbagai peninggalan sejarah disebut . . . .",
+    "opsi": {
+      "A": "prasasti",
+      "B": "istana",
+      "C": "situs",
+      "D": "museum"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Benda, barang atau segala sesuatu yang kita wariskan dari mereka yang sudah meninggal  di sebut ....",
+    "opsi": {
+      "A": "harta",
+      "B": "gambar",
+      "C": "peninggalan",
+      "D": "bangunan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Suatu bentuk bangunan yang didirikan untuk memperingati suatu peristiwa tertentu yang bernilai sejarah  disebut . . . .",
+    "opsi": {
+      "A": "makam",
+      "B": "tugu",
+      "C": "benteng",
+      "D": "istana"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Cerita Bawang Putih Bawang Merah dalam masyarakat Betawi (Jakarta) termasuk sumber sejarah jenis ....",
+    "opsi": {
+      "A": "mitos",
+      "B": "dongeng",
+      "C": "fabel",
+      "D": "legenda"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Indonesia memiliki kebudayaan yang beragam karena memiliki ....",
+    "opsi": {
+      "A": "Satu suku",
+      "B": "Ribuan suku",
+      "C": "Laut yang luas",
+      "D": "Pulau yang luas"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Keragaman suku bangsa dan agama di Indonesia tidak perlu dijadikan masalah, justru menjadi salah satu ....",
+    "opsi": {
+      "A": "Kelemahan Bangsa",
+      "B": "Budaya luar",
+      "C": "Kekayaan Bangsa",
+      "D": "Kekuasaan Bangsa"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Salah satu penyebab banyaknya suku bangsa yang ada di Indonesia adalah ....",
+    "opsi": {
+      "A": "Indonesia merupakan negara katulistiwa",
+      "B": "Indonesia memiliki penduduk yang ramah",
+      "C": "Indonesia memiliki banyak penduduk",
+      "D": "Indonesia memiliki ribuan pulau"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Keragaman suku bangsa di Indonesia disebabkan oleh faktor ....",
+    "opsi": {
+      "A": "Keadaan transportasi",
+      "B": "Perbedaan keadaan",
+      "C": "Perbedaan kepercayaan",
+      "D": "Kondisi negara kepulauan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Bahan tambang berikut ini yang dimanfaatkan untuk pelapis besi agar tidak berkarat adalah ..",
+    "opsi": {
+      "A": "nikel",
+      "B": "emas",
+      "C": "timah",
+      "D": "baja"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Tumbuhan, hewan, tanah, udara, matahari, air merupakan contoh sumber daya alam yang ....",
+    "opsi": {
+      "A": "cepat habis",
+      "B": "terbarukan",
+      "C": "tidak terbarukan",
+      "D": "sekali pakai"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pusat penyebaran agama Hindu adalah kerajaan ...",
+    "opsi": {
+      "A": "Sriwijaya",
+      "B": "Demak",
+      "C": "Majapahit",
+      "D": "Samudra Pasai"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Tiga dewa dalam ajaran Hindu disebut ...",
+    "opsi": {
+      "A": "Trisatya",
+      "B": "Trimurti",
+      "C": "Tridarma",
+      "D": "Tripitaka"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kemunduran kerajaaan Majapahit disebabkan karena perang ...",
+    "opsi": {
+      "A": "Badar",
+      "B": "Puputan",
+      "C": "Palapa",
+      "D": "Paregrek"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Raja yang terkenal dari kerajaan Singasari adalah ...",
+    "opsi": {
+      "A": "Anusapati",
+      "B": "Tunggul Ametung",
+      "C": "Ken Arok",
+      "D": "Kertanegara"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kerajaan Mataram terletak di ...",
+    "opsi": {
+      "A": "Yogyakarta",
+      "B": "Mojokerto",
+      "C": "Banten",
+      "D": "Cirebon"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kerajaan Kutai terdapat di Provinsi ...",
+    "opsi": {
+      "A": "Kalimantan Barat",
+      "B": "Kalimantan Selatan",
+      "C": "Kalimantan Timur",
+      "D": "Kalimantan Tengah"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Raja yang diceritakan dalam Prasasti Ciaruteun adalah",
+    "opsi": {
+      "A": "Mulawarman",
+      "B": "Asmawarman",
+      "C": "Purnawarman",
+      "D": "Munawarman"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kitab Negarakertagama ditulis oleh ...",
+    "opsi": {
+      "A": "Empu Sendok",
+      "B": "Empu Tantular",
+      "C": "Empu Prapanca",
+      "D": "Empu Tantular"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sastrawan yang hidup pada masa Sultan Iskandar Muda adalah ...",
+    "opsi": {
+      "A": "Malik As-Saleh",
+      "B": "Hamzah Fansuri",
+      "C": "Zainal Abidin",
+      "D": "Syeh Siti Jenar"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Raja yang terkenal dari Kerajaan Gowa-Tallo adalah ...",
+    "opsi": {
+      "A": "Sultan Baabullah",
+      "B": "Sultan Hasanuddin",
+      "C": "Karaeng Matoaya",
+      "D": "Sultan Zainal Abidin"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Nama lain dari Sunan Gunung Jati adalah ...",
+    "opsi": {
+      "A": "Maulana Malik Ibrahim",
+      "B": "Raden Mas Syahid",
+      "C": "Syarif Hidayatullah",
+      "D": "Raden Umar Said"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Indonesia terletak diantara dua benua, yaitu ...",
+    "opsi": {
+      "A": "Eropa dan Afrika",
+      "B": "Asia dan Australia",
+      "C": "Asia dan Eropa",
+      "D": "Amerika dan Eropa"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Garis bujur 0° terletak di kota ...",
+    "opsi": {
+      "A": "Pontianak",
+      "B": "Samarinda",
+      "C": "Greenwich",
+      "D": "London"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sungai terpanjang di Indonesia adalah Sungai ...",
+    "opsi": {
+      "A": "Kapuas",
+      "B": "Barito",
+      "C": "Musi",
+      "D": "Bengawan Solo"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pegunungan Bukit Barisan terdapat di Pulau ...",
+    "opsi": {
+      "A": "Jawa",
+      "B": "Sumatra",
+      "C": "Kalimantan",
+      "D": "Sulawesi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Selat yang menghubungkan Pulau Jawa dan Sumatra adalah selat ...",
+    "opsi": {
+      "A": "Jawa",
+      "B": "Madura",
+      "C": "Sunda",
+      "D": "Bangkalan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Di bawah ini yang tidak termasuk laut adalah Laut ...",
+    "opsi": {
+      "A": "Banda",
+      "B": "Karimata",
+      "C": "Jawa",
+      "D": "Arafuru"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Danau yang terbentuk karena letusan gunung berapi disebut ...",
+    "opsi": {
+      "A": "danau tektonik",
+      "B": "danau buatan",
+      "C": "danau vulkanik",
+      "D": "danau tektovulkanik"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perhatikan data-data berikut ini !\n(1) Kelapa sawit\n(2) Rafflesia\n(3) Pinus\n(4) Lada\n(5) Cengkih\n(6) Bakau\nDari data di atas yang termasuk flora Indonesia bagian barat adalah ...",
+    "opsi": {
+      "A": "(1), (2), dan (3)",
+      "B": "(1), (3), dan (5)",
+      "C": "(4), (5), dan (6)",
+      "D": "(1), (4), dan (6)"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk fauna tipe asiatis adalah ...",
+    "opsi": {
+      "A": "kuskus",
+      "B": "komodo",
+      "C": "macan tutul",
+      "D": "biawak"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Hutan musim banyak terdapat di daerah ...",
+    "opsi": {
+      "A": "Jawa Timur, Nusa Tenggara, dan Sulawesi Selatan",
+      "B": "Jawa Tengah, Jawa Timur, dan Jawa Barat",
+      "C": "Jawa Tengah, Nusa Tenggara, dan Kalimantan",
+      "D": "Jawa Tengah, Papua, dan Maluku"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Dataran tinggi yang berada di Sumatra Barat adalah Dataran Tinggi ...",
+    "opsi": {
+      "A": "Brastagi",
+      "B": "Karo",
+      "C": "Dieng",
+      "D": "Kerinci"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Rumah adat dari Sulawesi Utara adalah Rumah ...",
+    "opsi": {
+      "A": "Gadang",
+      "B": "Baileo",
+      "C": "Tongkonan",
+      "D": "Hanoi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Suku Dani banyak mendiami daerah ...",
+    "opsi": {
+      "A": "Maluku",
+      "B": "Sulawesi",
+      "C": "Jawa",
+      "D": "Papua"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Adanya pembagian waktu di Indonesia yang berbeda-beda disebabkan oleh ...",
+    "opsi": {
+      "A": "letak geografis",
+      "B": "letak astronomis",
+      "C": "geologis",
+      "D": "iklim dan cuaca"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kolintang adalah jenis alat musik dari daerah ...",
+    "opsi": {
+      "A": "Nusa Tenggara Timur",
+      "B": "Minahasa",
+      "C": "Bali",
+      "D": "Minangkabau"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kegiatan ekonomi yang bertujuan menghasilkan barang dan jasa untuk memenuhi kebutuhan hidup manusia disebut kegiatan ...",
+    "opsi": {
+      "A": "konsumsi",
+      "B": "distribusi",
+      "C": "produksi",
+      "D": "ekspedisi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kegiatan menyalurkan barang-barang kebutuhan dari produsen kepada konsumen dinamakan kegiatan ...",
+    "opsi": {
+      "A": "konsumsi",
+      "B": "distribusi",
+      "C": "produksi",
+      "D": "ekspedisi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Perikanan dibedakan menjadi dua, yaitu perikanan ...",
+    "opsi": {
+      "A": "tambak dan air tawar",
+      "B": "darat dan laut",
+      "C": "sungai dan rawa",
+      "D": "tambak dan laut"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Batu bara, gas, dan minyak bumi merupakan barang tambang ...",
+    "opsi": {
+      "A": "mineral logam",
+      "B": "bukan logam",
+      "C": "sumber energi",
+      "D": "mineral"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perusahaan yang memiliki badan hukum resmi adalah ...",
+    "opsi": {
+      "A": "firma",
+      "B": "CV",
+      "C": "PT",
+      "D": "koperasi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Keuntungan yang diperoleh pemilik saham dalam PT disebut ...",
+    "opsi": {
+      "A": "SHU",
+      "B": "deviden",
+      "C": "laba",
+      "D": "keuntungan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Di bawah ini yang tidak termasuk BUMN adalah ...",
+    "opsi": {
+      "A": "PLN",
+      "B": "KUD",
+      "C": "perum",
+      "D": "persero"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Bapak Koperasi Indonesia adalah ...",
+    "opsi": {
+      "A": "Ir. Soekarno",
+      "B": "Moh. Yamin",
+      "C": "Soeharto",
+      "D": "Moh. Hatta"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut ini yang tidak termasuk ciri-ciri koperasi adalah ...",
+    "opsi": {
+      "A": "swadana",
+      "B": "swakarsa",
+      "C": "swadaya",
+      "D": "swasembada"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Indonesia terletak diantara dua benua dan dua samudra sehingga mendapat sebutan ....",
+    "opsi": {
+      "A": "Nusantara",
+      "B": "Maritim",
+      "C": "Agraris",
+      "D": "Zamrud Khatulistiwa"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Untuk mengatur jalannya pemerintahan wilayah NKRI dibagi atas beberapa ....",
+    "opsi": {
+      "A": "pulau",
+      "B": "provinsi",
+      "C": "wilayah",
+      "D": "daerah"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Contoh sikap waspada terhadap masalah sosial  di Indonesia adalah ....",
+    "opsi": {
+      "A": "menjaga keharmonisan",
+      "B": "bersikap menyendiri",
+      "C": "tidak bermasyarakat",
+      "D": "bergaul seenaknya"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Contoh masalah sosial di Indonesia maupun negara tetangga adalah ....",
+    "opsi": {
+      "A": "kemakmuran",
+      "B": "kemajuan",
+      "C": "kesejahteraan",
+      "D": "kemiskinan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Secara astronomis wilayah Indonesia terletak antara ....",
+    "opsi": {
+      "A": "60 LU – 110 LS dan 950 BT – 1410 BT",
+      "B": "60 LU – 110 LU dan 950 BT – 1410 BT",
+      "C": "60 LU – 110 LU dan 950 BB – 1410 BT",
+      "D": "60 LU – 110 LS dan 950 BB – 1410 BT"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Provinsi Timor Timur berdiri sebagai negara baru pada tahun ….",
+    "opsi": {
+      "A": "1979",
+      "B": "1989",
+      "C": "1999",
+      "D": "2000"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pada masa awal kemerdekaan Kepulauan Nusa Tenggara disebut Provinsi….",
+    "opsi": {
+      "A": "Sunda Kecil",
+      "B": "Sunda Besar",
+      "C": "Nusa Tenggara Barat",
+      "D": "Nusa Tenggara Timur"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Provinsi Bangka Belitung merupakan pemekaran dari provinsi ....",
+    "opsi": {
+      "A": "Lampung",
+      "B": "Sumatera Selatan",
+      "C": "Bengkulu",
+      "D": "Riau"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Letak Indonesia secara geografis sangat strategis karena berada di persilangan dua benua yaitu Benua ....",
+    "opsi": {
+      "A": "Asia dan Afrika",
+      "B": "Australia dan Amerika",
+      "C": "Asia dan Eropa",
+      "D": "Asia dan Australia"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Tanjung Pinang ibu kota Provinsi ….",
+    "opsi": {
+      "A": "Riau",
+      "B": "Kepulauan Riau",
+      "C": "Bangka Belitung",
+      "D": "Jambi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Negara di Asia Tenggara yang tidak mempunyai laut adalah ….",
+    "opsi": {
+      "A": "Laos",
+      "B": "Kamboja",
+      "C": "Thailand",
+      "D": "Vietnam"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kuala Lumpur adalah ibu kota negara ....",
+    "opsi": {
+      "A": "Laos",
+      "B": "Kamboja",
+      "C": "Singapura",
+      "D": "Malaysia"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Di Asia Tenggara yang termasuk negara kepulauan adalah ....",
+    "opsi": {
+      "A": "Filipina dan Malaysia",
+      "B": "Indonesia dan Filipina",
+      "C": "Filipina dan Thailand",
+      "D": "Indonesia dan Thailand"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Wilayah yang berbatasan langsung dengan Indonesia adalah ….",
+    "opsi": {
+      "A": "Singapura dan Malaysia",
+      "B": "Malaysia dan Brunai Darussalam",
+      "C": "Papua Nugini dan Malaysia",
+      "D": "Filipina dan Malaysia"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Gunung Fan Si Pan terletak di Negara ….",
+    "opsi": {
+      "A": "Vietnam",
+      "B": "Laos",
+      "C": "Kamboja",
+      "D": "India"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Negara di Asia Tenggara yang merupakan tujuan wisata yang paling populer adalah ….",
+    "opsi": {
+      "A": "Filipina",
+      "B": "Indonesia",
+      "C": "Singapura",
+      "D": "Laos"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Negara ini mendapat sebutan “Macan Asia” kecuali ….",
+    "opsi": {
+      "A": "Jepang",
+      "B": "Korea Selatan",
+      "C": "Singapura",
+      "D": "Malaysia"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Gunung Fuji dianggap kramat oleh penduduk ….",
+    "opsi": {
+      "A": "Jepang",
+      "B": "India",
+      "C": "Cina",
+      "D": "Mesir"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Penduduk asli Australia adalah ….",
+    "opsi": {
+      "A": "Aborigin",
+      "B": "Negro",
+      "C": "Eskimo",
+      "D": "Indian"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Antara Benua Asia dan Benua Afrika dibatasi oleh ….",
+    "opsi": {
+      "A": "Laut Kaspia",
+      "B": "Pegunungan Ural",
+      "C": "Laut Hitam",
+      "D": "Terusan Suez"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Negara yang berada di wilayah Asia Timur adalah ….",
+    "opsi": {
+      "A": "Jepang dan RRC",
+      "B": "RRC dan Vietnam",
+      "C": "Jepang dan India",
+      "D": "Vietnam dan Sri Langka"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Australia mendapat sebutan negara ….",
+    "opsi": {
+      "A": "Tirai Bambu",
+      "B": "Kanguru",
+      "C": "Sakura",
+      "D": "Matahari Terbit"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sungai terpanjang di dunia adalah Sungai ….",
+    "opsi": {
+      "A": "Nil",
+      "B": "Amazon",
+      "C": "Mississippi",
+      "D": "Gangga"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kenampakan alam buatan yang sangat terkenal di India dalah ....",
+    "opsi": {
+      "A": "Tembok Besar",
+      "B": "Terusan Suez",
+      "C": "Istana Taj Mahal",
+      "D": "Lembah Kasmir"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Benua Amerika dikelompokkan menjadi 3 kawasan, kecuali ….",
+    "opsi": {
+      "A": "Amerika Utara",
+      "B": "Amerika Tengah",
+      "C": "Amerika Selatan",
+      "D": "Amerika Timur"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Provinsi pertama di Indonesia terbentuk berdasarkan hasil sidang...",
+    "opsi": {
+      "A": "PPKI",
+      "B": "BPUPKI",
+      "C": "MPRS",
+      "D": "MPR"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Deklarasi Juanda dicetuskan tanggal...",
+    "opsi": {
+      "A": "12 September 1957",
+      "B": "10 Oktober 1957",
+      "C": "2 November 1957",
+      "D": "13 Desember 1957"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Wilayah lautan selebar 12 mil laut yang diukur berdasarkan garis lurus yang ditarik dari garis dasr ke arah laut bebas pada saat air surut disebut...",
+    "opsi": {
+      "A": "zona ekonomi eksklusif",
+      "B": "batas landas kontinen",
+      "C": "batas landas benua",
+      "D": "lautan teritorial"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Batas wilayah Zona Ekonomi Eksklusif adalah...mil",
+    "opsi": {
+      "A": "12",
+      "B": "150",
+      "C": "200",
+      "D": "300"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Provinsi Gorontalo merupakan pemekaran dari wilayah Provinsi...",
+    "opsi": {
+      "A": "Sulawesi Utara",
+      "B": "Sulawesi Tenggara",
+      "C": "Sulawesi Tengah",
+      "D": "Sulawesi Selatan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pada tahun 1967, Provinsi Sumatra Selatan dimekarkan menjadi...",
+    "opsi": {
+      "A": "Sumatra Selatan dan Jambi",
+      "B": "Sumatra Selatan dan Lampung",
+      "C": "Sumatra Selatan dan Bengkulu",
+      "D": "Lampung dan Bengkulu"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sungai Chao Phraya merupakan bentang alam yang terdapat di negara...",
+    "opsi": {
+      "A": "Thailand",
+      "B": "Filipina",
+      "C": "Kamboja",
+      "D": "Vietnam"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Bangunan Candi atau Kuil Angkor Wat terdapat di negara...",
+    "opsi": {
+      "A": "Laos",
+      "B": "Thailand",
+      "C": "Vietnam",
+      "D": "Kamboja"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Batas sebelah selatan Benua Asia adalah...",
+    "opsi": {
+      "A": "Samudra Pasifik",
+      "B": "Samudra Atlantik",
+      "C": "Samudra Hindia",
+      "D": "Samudra Indonesia"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Benua yang paling kecil adalah benua...",
+    "opsi": {
+      "A": "Asia",
+      "B": "Amerika",
+      "C": "Australia",
+      "D": "Eropa"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Gunung tertinggi di Benua Afrika adalah gunung...",
+    "opsi": {
+      "A": "Fuji",
+      "B": "Etna",
+      "C": "Kilimanjaro",
+      "D": "Elbrus"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Timur Tengah adalah sebutan untuk kawasan...",
+    "opsi": {
+      "A": "Asia timur",
+      "B": "Afrika Barat",
+      "C": "Asia Barat",
+      "D": "Amerika Selatan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Negara di bawah ini yang terletak di Amerika Utara adalah...",
+    "opsi": {
+      "A": "Kanada",
+      "B": "Peru",
+      "C": "Panama",
+      "D": "Chili"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sungai besar di bagian utara Amerika Selatan adalah Sungai...",
+    "opsi": {
+      "A": "Nil",
+      "B": "Amazon",
+      "C": "Mississipi",
+      "D": "Yang Tze"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Gurun Sahara terletak di Benua Afrika bagian...",
+    "opsi": {
+      "A": "utara",
+      "B": "selatan",
+      "C": "barat",
+      "D": "timur"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Hasil bumi terbesar Brasil adalah...",
+    "opsi": {
+      "A": "kopi",
+      "B": "teh",
+      "C": "cengkih",
+      "D": "lada"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Negara di Benua Eropa yang menempati wilayah paling rendah adalah...",
+    "opsi": {
+      "A": "Inggris",
+      "B": "Belanda",
+      "C": "Prancis",
+      "D": "Rusia"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sungai terpanjang di dunia adalah sungai...",
+    "opsi": {
+      "A": "Amazon",
+      "B": "Mississipi",
+      "C": "Nil",
+      "D": "Musi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Antara Benua Eropa dan Asia dipisahkan oleh pegunungan...",
+    "opsi": {
+      "A": "Ural",
+      "B": "Alpen",
+      "C": "Himalaya",
+      "D": "Rocky Mountain"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Negara berikut ini yang tidak terletak di wilayah Amerika Utara adalah...",
+    "opsi": {
+      "A": "Meksiko",
+      "B": "Kanada",
+      "C": "Paraguay",
+      "D": "Amerika Serikat"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Mesir merupakan negara di Benua Afrika yang terletak di kawasan...",
+    "opsi": {
+      "A": "Afrika Utara",
+      "B": "Afrika Timur",
+      "C": "Afrika Barat",
+      "D": "Afrika Tengah"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sungai Amazon adalah sungai yang terbesar di dunia yang terdapat di negara...",
+    "opsi": {
+      "A": "Amerika Serikat",
+      "B": "Brasil",
+      "C": "Meksiko",
+      "D": "Kanada"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Prancis adalah negara yang terletak di kawasan Eropa...",
+    "opsi": {
+      "A": "Utara",
+      "B": "Barat",
+      "C": "Selatan",
+      "D": "Timur"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sungai di Australia yang bermuara di Danau Eyre adalah Sungai...",
+    "opsi": {
+      "A": "Darling",
+      "B": "Murray",
+      "C": "Diamantina",
+      "D": "Dawson"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Terusan suez terdapat di negara...",
+    "opsi": {
+      "A": "Mesir",
+      "B": "Arab Saudi",
+      "C": "Libia",
+      "D": "Turki"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Penduduk asli Amerika adalah suku...",
+    "opsi": {
+      "A": "Tionghoa",
+      "B": "Indian",
+      "C": "Aborigin",
+      "D": "Negro"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kota di Inggris yang menjadi batas pergantian tanggal internasional adalah...",
+    "opsi": {
+      "A": "London",
+      "B": "Greenwich",
+      "C": "Manchester",
+      "D": "Liverpool"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Ekspor merupakan kegiatan yang menjual produk berupa barang atau jasa ke luar negeri. Salah satu hal yang melatarbelakangi ekspor ini adalah sumber daya alam yang melimpah di suatu negara. Untuk meningkatkan ekspor, pemerintah bisa melakukan …",
+    "opsi": {
+      "A": "Pelarangan impor barang pokok",
+      "B": "Peningkatan kurs valuta asing",
+      "C": "Penyederhanaan prosedur impor",
+      "D": "Pemberian subsidi untuk eksportir"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Ilmu ekonomi adalah ilmu yang membahas ......",
+    "opsi": {
+      "A": "perilaku manusia menyimpan barang dan jada",
+      "B": "perilaku manusia dalam memenuhi kebutuhannya",
+      "C": "perilaku manusia untuk membeli barang dan jasa",
+      "D": "perilaku manusia untuk membelanjakan uangnya"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Proses sosialisasi primer seseorang pertama kali terjadi di........",
+    "opsi": {
+      "A": "di lingkungan keluarga",
+      "B": "di lingkungan sekolah",
+      "C": "di lingkungan antar teman",
+      "D": "di lingkungan masyarakat"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah pabrik tekstil membutuhkan banyak tenaga kerja untuk menjahit produk mereka, maka, rumah tangga perusahaan menggunakan faktor produksi berupa tenaga kerja yang ditawarkan oleh rumah tangga keluarga/ konsumen. Sebagai balas jasa atas faktor produksi ini, rumah tangga produsen memberikan balas jasa berupa …..",
+    "opsi": {
+      "A": "Upah",
+      "B": "Laba",
+      "C": "Bea cukai",
+      "D": "Sewa"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Seseorang perlu mempelajari ilmu ekonomi karena ......",
+    "opsi": {
+      "A": "ingin mencapai kemakmuran",
+      "B": "penduduk terus bertambah jumlahnya",
+      "C": "jumlah alat pemuas kebutuhan terbatas",
+      "D": "jumlah kebutuhan manusia terbatas"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": ".Latar belakang munculnya masalah ekonomi adalah...",
+    "opsi": {
+      "A": "kebutuhan manusia hanya sedikit dan alat pemenuhan kebutuhan terbatas",
+      "B": "kebutuhan manusia terbatas dan alat pemenuhan kebutuhan melimpah",
+      "C": "kebutuhan manusia tidak terbatas dan alat pemenuhan kebutuhan terbatas",
+      "D": "kebutuhan manusia tidak terbatas dan alat pemenuhan kebutuhan manusia tidak terbatas"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Adanya perdagangan internasional dikarenakan produk atau barang yang dibutuhkan tidak tersedia di dalam negeri. Atau bias juga tersedia namun tidak mencukupi. Ketika pasokan beras dalam negeri kurang mencukupi, maka pemerintah bisa melakukan …..",
+    "opsi": {
+      "A": "Mempercepat masa panen padi dalam negeri",
+      "B": "Memasak pedagang untuk menurunkan harga beras",
+      "C": "Impor beras dari negara lain yang juga penghasil beras",
+      "D": "Ekspor beras berkualitas ke luar negeri"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Agama Hindu adalah campuran cari kepercayaan suku...",
+    "opsi": {
+      "A": "Brahmana dan Ksatria",
+      "B": "Arya dan Dravida",
+      "C": "Arya dan Brahmana",
+      "D": "Dravida dan Sudra"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Agama yang dianut oleh mayoritas penduduk Thailand adalah ....",
+    "opsi": {
+      "A": "Islam",
+      "B": "Budha",
+      "C": "Hindu",
+      "D": "Kristen"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Akibat pkemajuan teknologi sering terjadi perubahan pada pekerjaan; yang mula-mula dikerjakan dengan tenaga manusia diganti dengan tenaga mesin. Pergantian sistem ini disebut.......",
+    "opsi": {
+      "A": "mekanisasi",
+      "B": "kapitalisasi",
+      "C": "reproduksi",
+      "D": "rasionalisasi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Alasan dasar masyarakat hidup berkelompok di pinggir pantai adalah..",
+    "opsi": {
+      "A": "Kehidupan di pantai yang ramai",
+      "B": "Kehidupan berkumpul anggota keluarga lebih menyenangkan",
+      "C": "Dekat dengan mata pencaharian",
+      "D": "Pantai sebagai tempat wisata"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Bagian permukaan bumi yang menjulang ke atas dan lebih tinggi dari daerah sekitarnya disebut......",
+    "opsi": {
+      "A": "gunung",
+      "B": "dataran rendah",
+      "C": "dataran tinggi",
+      "D": "sungai"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Bagian permukaan bumi yang tanahnya relatif datar dan letaknya tinggi lebih dari 200m dpl disebut ...........",
+    "opsi": {
+      "A": "ngarai",
+      "B": "dataran rendah",
+      "C": "dataran tinggi",
+      "D": "depresi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Bangunan Masjid Demak yang merupakan tempat ibadah umat Islam memiliki corak candi Hindu dengan atap bertingkat seperti layaknya candi Hindu merupakan bentuk percampuran budaya yaitu….",
+    "opsi": {
+      "A": "asimilasi",
+      "B": "akulturasi",
+      "C": "akomodasi",
+      "D": "kerjasama"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Bangunan yang disusun secara bertingkat untuk pemujaan terhadap roh nenek moyang disebut…..",
+    "opsi": {
+      "A": "Kubur batu",
+      "B": "Sarkofagus",
+      "C": "Punden Berundak",
+      "D": "Dolmen"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Barang yang dapat menghasilkan barang lain disebut sebagai barang produksi (modal) dengan contoh berikut, kecuali…",
+    "opsi": {
+      "A": "Lahan",
+      "B": "Mesin",
+      "C": "Meja",
+      "D": "Gedung"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Bentuk karakteristik budaya yang diakibatkan perbedaan iklim kawasan negara-negara ASEAN yaitu...",
+    "opsi": {
+      "A": "cara berpakaian",
+      "B": "cara berbicara",
+      "C": "upacara perkawinan",
+      "D": "pola makan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Bentuk kerja sama yang merupakan penggabungan antara organisasi dua atau lebih yang berusaha dalam mencapai tujuan bersama yang telah disepakati disebut…..",
+    "opsi": {
+      "A": "Bargaining",
+      "B": "Koalisi",
+      "C": "Joint Venture",
+      "D": "Kooptasi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berbagai hasil dari bentukan alam yang berguna bagi manusia untuk memenuhi kebutuhan manusia adalah …..",
+    "opsi": {
+      "A": "Barang tambang",
+      "B": "Sumber energi",
+      "C": "Sumber daya alam",
+      "D": "Potensi alam"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berdasarkan gambar berikut, Perusahan Listrik Negara (PLN) merupakan salah satu bentuk Badan Usaha Milik Negara (BUMN) sebagai pelaku ekonomi yang berperan sebagai …..",
+    "opsi": {
+      "A": "Konsumen",
+      "B": "Produsen",
+      "C": "Distributor",
+      "D": "Regulator"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berdasarkan intensitas atau tingkatannya, kebutuhan yang harus dipenuhi dan jika tidak dipenuhi akan berpengaruh terhadap kelangsungan hidup manusia disebut dengan kebutuhan…",
+    "opsi": {
+      "A": "Primer",
+      "B": "Sekunder",
+      "C": "Tersier",
+      "D": "Kuartener"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berdasarkan keputusan Mahkamah Internasional, Pulau Ligitan dan Sipadan diberikan kepada negara...",
+    "opsi": {
+      "A": "Indonesia",
+      "B": "Singapura",
+      "C": "Filipina",
+      "D": "Malaysia"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berdasarkan letak astronomisnya, wilayah Asia Tenggaraterletak pada garis lintang...",
+    "opsi": {
+      "A": "11˚ LU - 28˚ LU",
+      "B": "11˚ LU - 28˚ LS",
+      "C": "11˚ LS - 28˚ LU",
+      "D": "11˚ LS - 28˚ LS"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah faktor- faktor penyebab konflik, kecuali ....",
+    "opsi": {
+      "A": "perbedaan antar individu",
+      "B": "perbedaan kebudayaan",
+      "C": "perbedaan geografis",
+      "D": "perubahan social"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah negara- negara pendiri ASEAN kecuali ....",
+    "opsi": {
+      "A": "Indonesia",
+      "B": "Singapura",
+      "C": "Brunei Darussalam",
+      "D": "Thailand"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah tempat suci agama Buddha, kecuali...",
+    "opsi": {
+      "A": "Taman Lumbini",
+      "B": "Bodh-Gaya",
+      "C": "Lembah Gangga",
+      "D": "Kusinagara"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah usaha untuk meningkatkan ekonomi maritim di Indonesia, kecuali ....",
+    "opsi": {
+      "A": "memberikan pelatihan terhadap SDM di daerah pesisir pantai untuk mengembangkan ekonominya",
+      "B": "memberikan bantuan atau subsidi kepada nelayan miskin",
+      "C": "memberikan keleluasaan asing untuk menangkap ikan di perairan Indonesia",
+      "D": "memberikan penyuluhan tentang aturan dan regulasi untuk mengenal teritorial Indonesia"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini yang BUKAN faktor yang memengaruhi ekspor baik dari dalam ataupun luar negeri adalah …..",
+    "opsi": {
+      "A": "Keadaan pasar luar negeri",
+      "B": "Keuletan eksportir untuk menangkap peluang pasar",
+      "C": "Keuletan importir untuk memenangi pangsa pasar",
+      "D": "Kondisi sosial, ekonomi, dan politik suatu negara"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan merupakan faktor pendorong mobilitas sosial adalah ....",
+    "opsi": {
+      "A": "kualitas individu",
+      "B": "keadaan ekonomi",
+      "C": "status sosial",
+      "D": "diskriminasi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan termasuk faktor pendorong bagi perkembangan negara Singapura menjadi negara paling maju dan paling modern di Asia Tenggara adalah...",
+    "opsi": {
+      "A": "Singapura memiliki letak yang strategis",
+      "B": "Singapura memiliki sarana dan prasarana penerbangan dan pelabuhan bertaraf internasional",
+      "C": "Singapura memiliki sumber daya alam yang melimpah",
+      "D": "kondisi politik dan keamanan negara Singapura relatif stabil"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan upaya meningkatkan ekonomi maritime indonesia adalah …..",
+    "opsi": {
+      "A": "Mengenalkan batas-batas laut indonesia kepada nelayan",
+      "B": "Meningkatkan kualitas sumber daya manusia oleh pemerintah",
+      "C": "Memberikan kebebasan kepada kapal asing",
+      "D": "Memberi bantuan untuk nelayan miskin"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini yang merupakan ciri-ciri manusia kreatif adalah…\n\n1. Bersifat ingin tahu\n2. Sering mengajukan pertanyaan yang baik\n3. Banyak gagasan dan asal usul terhadap suatu masalah\n4. Mampu menyatakan pendapat secara spontan\n5. Tidak mudah terpengaruh pendapat orang lain\n6. Mampu mengajukan gagasan yang berbeda dengan orang lain\n7. Berpikir kedepan",
+    "opsi": {
+      "A": "1, 2, 3",
+      "B": "4, 5, 6",
+      "C": "1, 3, 5",
+      "D": "benar semua"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut ini yang merupakan perusahaan BUMN adalah..",
+    "opsi": {
+      "A": "PT Maju Lancar",
+      "B": "Mandala Airlines",
+      "C": "Bank Central Asia",
+      "D": "Bank Indonesia"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk kebutuhan rohani kecuali…",
+    "opsi": {
+      "A": "Agama",
+      "B": "Pendidikan",
+      "C": "Rekreasi",
+      "D": "Olahraga"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk relief permukaan bumi di daratan adalah .............",
+    "opsi": {
+      "A": "ambang laut",
+      "B": "palung laut",
+      "C": "lubuk laut",
+      "D": "depresi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk tenaga eksogen adalah .............",
+    "opsi": {
+      "A": "gempa bumi, gempa tektonik, erosi, pelapukan",
+      "B": "pelapukan, erosi, abrasi, sedimentasi",
+      "C": "pelapukan, erosi, abrasi, gunung meletus",
+      "D": "gempa bumi, gempa tektonik, gempa vulkanik, erosi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk tenaga endogen adalah .............",
+    "opsi": {
+      "A": "gempa bumi, gempa tektonik, erosi, pelapukan",
+      "B": "pelapukan, erosi, abrasi, sedimentasi",
+      "C": "pelapukan, erosi, abrasi, gunung meletus",
+      "D": "gempa bumi, gempa tektonik, gempa vulkanik, gunung meletus"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut ini yang tidak termasuk faktor-faktor yang mendasari terbentuknya interaksi sosial:",
+    "opsi": {
+      "A": "simpati",
+      "B": "imitasi",
+      "C": "antipati",
+      "D": "motivasi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini yang tidak termasuk relief permukaan bumi di daratan adalah .............",
+    "opsi": {
+      "A": "ngarai, dataran rendah, dataran tinggi, depresi",
+      "B": "ngarai, dataran rendah, dataran tinggi, palung laut",
+      "C": "ngarai, dataran rendah, gunung, pegunungan",
+      "D": "ngarai, dataran rendah, depresi, peneplain"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Besar kecilnya pendapatan seseorang mempengaruhi besarnya kebutuhan orang tersebut, maka .........",
+    "opsi": {
+      "A": "jumlah pendapatan selalu sama dengan jumlah pengeluaran",
+      "B": "semakin besar pendapatan maka semakin besar pengeluaran",
+      "C": "semakin besar pendapatan maka semakin kecil pengeluaran",
+      "D": "semakin besar pendapatan maka pengeluaran untuk kebutuhan tetap"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Bila seseorang telah mengadakan pertemuan secara langsung seperti tatap muka, maka orang tersebut telah mengadakan...",
+    "opsi": {
+      "A": "Interaksi",
+      "B": "Kontak primer",
+      "C": "Kontak sekunder langsung",
+      "D": "Kontak sekunder tidak langsung"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Candi Borobudur dan Candi Mendut merupakan peninggalan kerajaan…",
+    "opsi": {
+      "A": "Mataram Kuno",
+      "B": "Medang",
+      "C": "Kediri",
+      "D": "Sriwijaya"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Contoh barang yang termasuk barang substitusi adalah…",
+    "opsi": {
+      "A": "Gula merah dengan gula putih",
+      "B": "Motor dengan bensin",
+      "C": "Air kemasan",
+      "D": "Alat tulis dengan tas"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Contoh hasil kebudayaan manusia purba yaitu kapak, sabit, pisau berada di zaman….",
+    "opsi": {
+      "A": "Zaman logam",
+      "B": "Zaman tembaga",
+      "C": "Zaman perunggu",
+      "D": "Zaman besi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Contoh peninggalan masa pra aksara berikut benar, kecuali…",
+    "opsi": {
+      "A": "Dolmen",
+      "B": "Gong",
+      "C": "Waruga",
+      "D": "Sarkofagus"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Daerah cekung seperti cawan yang mengalami pemerosotan, atau daratan yang mempunyai ketinggian lebih rendah dari permukaan air laut disebut ...........",
+    "opsi": {
+      "A": "ngarai",
+      "B": "dataran rendah",
+      "C": "dataran tinggi",
+      "D": "depresi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Daerah Kabupaten Wonosobo, Jawa Tengah, dengan tanah yang subur lebih mungkin memproduksi sayur mayur lebih banyak dan menjualnya sampai ke luar daerah dibandingkan misalnya daerah Gunung Kidul, Yogyakarta. Ini menunjukkan bahwa salah satu faktor pendorong terjadinya perdagangan antar daerah/pulau adalah …..",
+    "opsi": {
+      "A": "Jumlah penduduk",
+      "B": "Bentuk pemerintahan",
+      "C": "Perbedaan hasil produksi",
+      "D": "Luas wilayah"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Dalam komunikasi secara verbal kita dapat memahami secara langsung lawan bicara dari …..",
+    "opsi": {
+      "A": "nada bicaranya",
+      "B": "ekspresi wajah",
+      "C": "penyampaian secara langsung",
+      "D": "a,b,c benar"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Dampak alih fungsi lahan pertanian menjadi pemukiman, yaitu produktivitas pangan akan menjadi...",
+    "opsi": {
+      "A": "naik",
+      "B": "turun",
+      "C": "signifikan",
+      "D": "menguntungkan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dampak pencemaran air, tanah, dan udara membuat ….",
+    "opsi": {
+      "A": "kualitas hidup manusia meningkat",
+      "B": "keseimbangan ekosistem terganggu dan mempengaruhi kehidupan manusia",
+      "C": "pertanian menurun",
+      "D": "kehidupan manusia terganggu"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "daratan yang hampir rata akibat pengaruh tenaga dari luar bumi (eksogen) berupa pengikisan",
+    "opsi": {
+      "A": "ngarai",
+      "B": "pegunungan",
+      "C": "peneplain",
+      "D": "depresi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Daratan yang ketinggiannya antara  0 - 200 m dpl dan biasanya berada di dekat pantai disebut .....",
+    "opsi": {
+      "A": "gunung",
+      "B": "dataran rendah",
+      "C": "dataran tinggi",
+      "D": "sungai"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dari 47 pelabuhan yang akan dikembangkan di ASEAN, 14 di antaranya ada di Indonesia. Targetya lima pelabuhan besar tersebut siap untuk ASEAN Connectivity, dan Indonesia sebenarnya berkepentingan untuk proyek-proyek sea transportation ini.\n\nInvestasi pihak swasta dibutuhkan dalam proyek-proyek ASEAN Connectivity ini, khususnya pada infrastruktur transportasi. dari informasi tersebut maka Indonesia perlu memaksimalkan sektor …..",
+    "opsi": {
+      "A": "Pelayaran",
+      "B": "Pertanian",
+      "C": "Peternakan",
+      "D": "Wisata bahari"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Dari gambar tersebut dapat diketahui bahwa lahan pertanian berupa sayur merupakan faktor produksi …..",
+    "opsi": {
+      "A": "Modal",
+      "B": "Tenaga kerja",
+      "C": "Alam",
+      "D": "Kewirausahaan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Dengan meningkatkanya pertumbuhan penduduk suatu negara, konversi lahan tidak akan dapat dihindari lagi sebab ....",
+    "opsi": {
+      "A": "meningkatnya kebutuhan pokok masyarakat tersebut",
+      "B": "lahan akan semakin dibutuhkan untuk manusia",
+      "C": "meningkatnya kebutuhan pokok masyarakat",
+      "D": "lahan pertanian semakin menipis"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Di Bali terdapat suatu organisasi kemasyarakatan yang khusus mengatur sistem pengairan sawah yang digunakan dalam bercocok tanam padi. Pada umumnya memiliki pura yang dinamakan pura uluncarik atau pura bedugul, yang khusus dibangun oleh para pemilik lahan dan petani.\n\nPura tersebut diperuntukkan bagi dewi sri, yaitu dewi kemakmuran dan kesuburan menurut kepercayaan masyarakat setempat. Sistem irigasi yang diatur oleh seorang pemuka adat (pekaseh) ini disebut dengan …..",
+    "opsi": {
+      "A": "Subak",
+      "B": "Terasiring",
+      "C": "Ekofarming",
+      "D": "Ekologi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Di bawah ini adalah contoh usaha yang tidak menghasilkan jasa",
+    "opsi": {
+      "A": "bank",
+      "B": "tukang cukur",
+      "C": "toko swalayan",
+      "D": "bengkel"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Di bawah ini adalah dampak negatif terjadinya konfflik, kecuali ....",
+    "opsi": {
+      "A": "memperjelas aspek- aspek kehidupan yang masih belum tuntas ditelaah",
+      "B": "keretakan hubungan antar individu dan persatuan kelompok",
+      "C": "berubahnya kepribadian para individu",
+      "D": "komunikasi yang tidak terjalin dengan baik"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Di bawah ini adalah faktor pernghambat kerjasama di kawasa ASEAN, kecuali ....",
+    "opsi": {
+      "A": "perbedaan ideologi",
+      "B": "konflik dan peperangan",
+      "C": "kebijakan proaktif",
+      "D": "perbedaan bentang alam"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Di bawah ini adalah kontibusi sektor pertanian bagi perekonomian di Indonesia kecuali ....",
+    "opsi": {
+      "A": "meningkatkan pendapatan nasional",
+      "B": "mengurangi tenaga kerja",
+      "C": "membantu penyediaan pangan",
+      "D": "memasok penyediaan bahan industry"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Di bawah ini merupakan contoh kegiatan yang termasuk dalam ekonomi kelautan adalah ....",
+    "opsi": {
+      "A": "jasa penyeberangan antar pulau",
+      "B": "usaha pembuatan dan servis kapal",
+      "C": "budidaya kerang mutiara",
+      "D": "industri galangan kapal"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Di bawah ini yang bukan merupakan dampak perdagangan bebas negara kawasan ASEAN (AFTA) bagi Indonesia adalah ....",
+    "opsi": {
+      "A": "menambah devisa negara",
+      "B": "mendorong kemajuan ilmu pengetahuan dan teknologi",
+      "C": "munculnya sifat konsumerisme",
+      "D": "meningkatkan peluang investor yang menanamkan modal dan membangun basis produksi di Indonesia."
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Efek rumah kaca membuat perubahan …..",
+    "opsi": {
+      "A": "kenaikan suhu di permukaan bumi",
+      "B": "suhu udara menjadi sejuk",
+      "C": "semua hunian manusia menggunakan kaca",
+      "D": "tidak ada perubahan yang diakibatkan efek rumah kaca"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Faktor lingkungan juga dapat mempengaruhi keinginan manusia dalam memenuhi kebutuhan, yaitu .....",
+    "opsi": {
+      "A": "orang yang hidup di desa lebih boros dibanding dengan orang yang hidup di kota",
+      "B": "orang yang hidup di lingkungan kumuh juga tetap kumuh",
+      "C": "orang yang hidup di desa tetap bertani",
+      "D": "orang yang hidup di kota lebih boros dibanding dengan orang yang hidup di desa"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Faktor pendorong kerja sama antarnegara ASEAN yaitu...",
+    "opsi": {
+      "A": "kesamaan dan perbedaan ideologi",
+      "B": "kesamaan dan perbedaan kepentingan tiap-tiap negara",
+      "C": "kesamaan dan perbedaan kondisi geografis",
+      "D": "jawaban A, B, dan C benar"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Faktor yang memengaruhi kebutuhan di bawah ini tepat, kecuali…",
+    "opsi": {
+      "A": "Jenis kelamin",
+      "B": "Pendidikan",
+      "C": "Keinginan",
+      "D": "Kemajuan iptek"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Harefa menolong kucing yang terjebak dalam saluran air karena diajarkan orang tuanya untuk tolong menolong dengan makhluk hidup lainnya merupakan pengaruh dari agen sosialisasi ....",
+    "opsi": {
+      "A": "Keluarga karena adanya pembiasaan penerapan nilai yang bersumber dari perasaan dan estetis",
+      "B": "Keluarga karena adanya penanaman nilai material secara terus menerus",
+      "C": "Keluarga, melalui penanaman dan pembiasaan nilai material",
+      "D": "Keluarga, melalui penanaman nilai kebaikan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Harga pasar terbentuk setelah adanya…",
+    "opsi": {
+      "A": "Kesepakatan antara penjual dan pembeli",
+      "B": "Permintaan dan penawaran",
+      "C": "Proses penawaran yang selesai",
+      "D": "Diskon yang ditetapkan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Hari raya umat Buddha adalah hari raya...",
+    "opsi": {
+      "A": "Waisak",
+      "B": "Nyepi",
+      "C": "Galungan",
+      "D": "Isa Almasih"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Homo wajakensis adalah manusia praaksara yang ditemukan di provinsi….",
+    "opsi": {
+      "A": "Jawa Timur",
+      "B": "Jawa Tengah",
+      "C": "Jawa Barat",
+      "D": "Madura"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Hubungan manusia yang dinamis, saling mempengaruhi antar individu dengan individu atau kelompok disebut .......",
+    "opsi": {
+      "A": "interaksi sosial",
+      "B": "kepribadian",
+      "C": "pengaruh sosial",
+      "D": "penyimpangan sosial"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Hubungan pengaruh – mempengaruhi antar manusia dan masyarakat dapat terjadi setelah memenuhi syarat yaitu adanya...",
+    "opsi": {
+      "A": "Dinamika dan stratifikasi sosial",
+      "B": "Kontak dan komunikasi",
+      "C": "Nilai dan norma sosial",
+      "D": "Komunikasi dan interaksi sosial"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Indonesia berpeluang menjadi negara yang berpotensi besar dalam sektor perikanan. Alasan utama yang mendasari hal tersebut adalah ....",
+    "opsi": {
+      "A": "majunya teknologi yang dipakai oleh para nelayan",
+      "B": "wilayah perairan Indonesia yang sangat luas",
+      "C": "sumber daya alam kelautan Indonesia yang melimpah untuk dimanfaatkan secara bebas",
+      "D": "perairan dengan lautan yang tenang"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Indonesia dapat menjadi kekuatan penting dalam mengembangkan dunia kemaritiman dan kelautan di dunia. Di bawah ini yang bukan termasuk alasan yang mendasari hal tersebut adalah ....",
+    "opsi": {
+      "A": "sumber daya alam yang strategis",
+      "B": "letaknya strategis di persilangan samudra hindia dan pasifik",
+      "C": "posisi sebagai negara kepulauan terbesar di dunia",
+      "D": "Indonesia dekat dengan negara- negara yang kuat kemaritimannya"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Indonesia disebut negara agraris karena sebagian besar penduduknya bekerja di sektor ....",
+    "opsi": {
+      "A": "perindustrian",
+      "B": "perikanan",
+      "C": "pertanian",
+      "D": "perkebunan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Indonesia merupakan negara dengan kekayaan laut yang begitu besar. Pemaksimalan potensi laut dapat dilakukan dengan …..",
+    "opsi": {
+      "A": "Memanfaatkan sumber daya laut secara massal dengan berbagai cara",
+      "B": "Memberikan pelatihan kepada masyarakat tentang cara-cara memanfaatkan sumber daya laut dengan cara yang bijaksana",
+      "C": "Menjual sumber daya laut pada pihak asing karena mereka memiliki alat yang lebih canggih",
+      "D": "Membiarkan saja supaya sumber daya tersebut dapat berkembang dan terus berkembang"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Indonesia sebagai salah satu negara yang termasuk dalam wilayah tropis memiliki potensi pertanian yang sangat baik. Sektor pertanian juga menjadi kontributor besar dalam pendapatan nasional, penyerapan tenaga kerja, penyediaan pangan dan penyediaan bahan baku industri. Namun pengembangan agrikultur di Indonesia ini memiliki hambatan berikut, kecuali …..",
+    "opsi": {
+      "A": "Skala usaha pertanian relatif kecil",
+      "B": "Alih fungsi lahan pertanian menjadi nonpertanian",
+      "C": "Penggunaan teknologi tingkat tinggi",
+      "D": "Kurangnya penyediaan benih yang bermutu"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jika pendapatan seseorang bertambah maka jumlah kebituhan ikut bertambah. Hal ini membuktikan bahwa kebutuhan manusia itu bersifat..........",
+    "opsi": {
+      "A": "mutlak",
+      "B": "terbatas",
+      "C": "tak terbatas",
+      "D": "ada di mana-mana"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kawasan Asia Tenggara merupakan pertemuan jalur pegunungan muda Sirkum Pasifik dan Sirkum Mediterania. Hal tersebut menyebabkan kawasan Asia Tenggara...",
+    "opsi": {
+      "A": "sering dilanda badai tropis",
+      "B": "merupakan kawasan paling stabil",
+      "C": "sering dilanda bencana banjir",
+      "D": "sering terjadi bencana alam tektonisme dan vulkanisme"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Kebutuhan manusia terhadap suatu yang tidak tampak disebut kebutuhan..........",
+    "opsi": {
+      "A": "barang",
+      "B": "jasa",
+      "C": "imateril",
+      "D": "jasmani"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kegiatan ekonomi negara Brunei Darussalam bertumpu pada sektor ....",
+    "opsi": {
+      "A": "pertanian",
+      "B": "perikanan",
+      "C": "perindustrian",
+      "D": "pertambangan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Kegiatan ekonomi yang dilakukan diwilayah pesisir pantai, dan lautan serta darat yang menggunakan sumber daya alam (SDA) dan jasa-jasa lingkungan kelautan untuk menghasilkan barang atau jasa disebut ....",
+    "opsi": {
+      "A": "ekonomi kelautan",
+      "B": "ekonomi kerakyatan",
+      "C": "ekonomi maritim",
+      "D": "ekonomi pertanian"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kegiatan ekonomi yang mencakup transportasi laut, industri galangan kapal dan perawatannya, pembangunan dan pengoperasian pelabuhan beserta industri dan jasa terkait disebut ...",
+    "opsi": {
+      "A": "ekonomi kelautan",
+      "B": "ekonomi kerakyatan",
+      "C": "ekonomi maritim",
+      "D": "ekonomi pertanian"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kegiatan ekspor merupakan kegiatan menjual barang ke luar negeri. Indonesia mengekspor karet ke australia, sedangkan australia mengekspor gandum ke indonesia. Perdagangan kedua negara terjadi karena adanya…",
+    "opsi": {
+      "A": "Perbedaan sumber daya alam",
+      "B": "Perbedaan sumber daya manusia",
+      "C": "Efisiensi produk",
+      "D": "Perbedaan teknologi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kegiatan ekspor yang dilakukan suatu negara dapat mendatangkan keuntungan. Dari segi ekonomi, negara yang melakukan ekspor memperoleh keuntungan seperti …..",
+    "opsi": {
+      "A": "Meningkatkan kepercayaan diri",
+      "B": "Memperluas lapangan kerja",
+      "C": "Menguasai kebutuhan masyarakat",
+      "D": "Memperbanyak biaya transportasi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kegiatan pemanfaatan sumber daya hayati yang dilakukan manusia untuk menghasilkan bahan pangan, bahan baku industri, sumber energi, atau untuk mengelola lingkungan hidupnya adalah pengertian dari …..",
+    "opsi": {
+      "A": "Ekosistem",
+      "B": "Ekofarming",
+      "C": "Agrobisnis",
+      "D": "Agrikultur"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Kegiatan yang bukan termasuk bidang pertanian adalah...",
+    "opsi": {
+      "A": "Reboisasi",
+      "B": "Pemupukan tanaman padi",
+      "C": "Membawa hasil panen ke pasar",
+      "D": "Pembibitan padi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kekayaan laut dapat memberikan kontribusi yang sangat penting bagi perekonomian nasional. Dalam hal ini peran masyarakat untuk menjaga dan mengembangkan potensi tersebut adalah....",
+    "opsi": {
+      "A": "menggunakan kapal- kapal teknologi mutakhir untuk mengeruk hasil laut",
+      "B": "memanfaatkan secara bijak dengan tetap menjaga kelestarian lingkungannya",
+      "C": "bekerja sama dengan negara lain untuk memanfaatkan hasil laut secara besar- besaran",
+      "D": "memanfaatkan hasil laut dengan sebesar- besarnya"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kelompok buruh melakukan demonstrasi UU Cipta kerja di depan gedung DPR untuk menyuarakan pendapat mereka mengenai UU tersebut. Pada situasi tersebut, kelompok buruh termasuk pada kelompok sosial yang melalui hasil pengalaman ....",
+    "opsi": {
+      "A": "kedekatan",
+      "B": "individu",
+      "C": "perasaan senasib",
+      "D": "keakraban"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kepulauan Raja Ampat dari Indonesia timur. Keindahan tempat ini tidak perlu diragukan lagi, bahkan sudah diakui dunia. Buktinya, banyak media asing menjuluki raja ampat sebagai the last paradise on earth atau surga terakhir dunia.\n\nBerdasarkan informasi tersebut maka Raja Ampat dapat dikategorikan ke dalam potensi maritime Indonesia pada sektor …..",
+    "opsi": {
+      "A": "Pariwisata bahari",
+      "B": "Ekofarming",
+      "C": "Pelayaran",
+      "D": "Pertanian"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kerajaan yang menjadi pusat ilmiah pelajaran agama Budha adalah…",
+    "opsi": {
+      "A": "Mataram Kuno",
+      "B": "Sriwijaya",
+      "C": "Tarumanegara",
+      "D": "Medang"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kerja sama yang diadakan para menteri pada pertemuan Defence Ministers Meeting (ADMM) membahas bidang...",
+    "opsi": {
+      "A": "sosial",
+      "B": "pendidikan",
+      "C": "politik",
+      "D": "budaya"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kesultanan Islam di Indonesia yang didirikan oleh Raden Patah adalah…",
+    "opsi": {
+      "A": "Samudera Pasai",
+      "B": "Aceh Darussalam",
+      "C": "Makassar",
+      "D": "Demak"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Kesultanan Islam yang masa kejayaannya dipimpin oleh Sultan Ageng Tirtayasa adalah…",
+    "opsi": {
+      "A": "Banten",
+      "B": "Samudera Pasai",
+      "C": "Makassar",
+      "D": "Banjar"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Keterbatasan alat pemenuhan kebutuhan manusia mengakibatkan...",
+    "opsi": {
+      "A": "manusia tidak puas",
+      "B": "kelangkaan alat pemenuhan kebutuhan manusia",
+      "C": "terbatasnya penyaluran kebutuhan",
+      "D": "terpenuhinya kebutuhan manusia"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Keterlibatan antara seseorang dan individu lain, atau antarkelompok baik secara fisik maupun verbal disebut…..",
+    "opsi": {
+      "A": "interaksi sosia",
+      "B": "kontak sosial",
+      "C": "komunikasi sosial",
+      "D": "komunikasi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Ketika konsumen membeli barang dan jasa dari produsen, konsumen berkewajiban membayar barang dan jasa yang diterima. Oleh karena itu, rumah tangga keluarga/konsumen harus memiliki pendapatan. Pendapatan rumah tangga keluarga diperoleh dari beberapa hal berikut, kecuali …..",
+    "opsi": {
+      "A": "Sewa",
+      "B": "Upah",
+      "C": "Bea cukai",
+      "D": "Laba"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kota-kota metropolitan seperti Jakarta, Surabaya, dan Bandung mempunyai pencemaran udara yang cukup tinggi karena aktivitas penduduknya yang cukup banyak menggunakan kendaraan bermotor. Sebaliknya di kota-kota yang pencemaran udaranya rendah mempunyai\naktivitas penduduk yang cenderung sedikit menggunakan kendaraan bermotor dalam aktivitas sehari-harinya. Maka dapat disimpulkan bahwa ….",
+    "opsi": {
+      "A": "kota-kota metropolitan mempunyai sumbangan yang kecil terhadap pencemaran udara dibandingkan kota-kota kecil",
+      "B": "kota-kota metropolitan mempunyai sumbangan yang besar terhadap pencemaran udara dibandingkan kota-kota kecil",
+      "C": "kota-kota metropolitan mempunyai sumbangan yang sama dengan pencemaran udara yang terjadi di kota-kota kecil",
+      "D": "kota-kota metropolitan mempunyai sumbangan yang cukup terhadap pencemaran udara yang terjadi di kota-kota kecil"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Lembah yang dalam dengan dinding yang curam dan di dalamnya mengalir sungai disebut ...........",
+    "opsi": {
+      "A": "ngarai",
+      "B": "dataran rendah",
+      "C": "dataran tinggi",
+      "D": "depresi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Manakah dari negara-negara ASEAN berikut yang memiliki iklim subtropis?",
+    "opsi": {
+      "A": "Myanmar",
+      "B": "Laos",
+      "C": "Filipina",
+      "D": "Vietnam"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Manusia pada masa ini memenuhi kebutuhan makannya dengan cara berburu dan berpindah tempat tergantung ketersediaan makanan. Hidup berpindah-pindah disebut….",
+    "opsi": {
+      "A": "berkelompok",
+      "B": "nomaden",
+      "C": "menetap",
+      "D": "sosialisasi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Manusia sering disebut sebagai “Homo Economicus” artinya .......",
+    "opsi": {
+      "A": "manusia adalah makhlik ekonomi",
+      "B": "manusia yang ekonomis",
+      "C": "manusia berekonomi",
+      "D": "manusia ekonomi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Mardi adalah seorang karyawan swasta yang bekerja di salah satu perusahaan. Dikarenakan prestasinya dan etos kerjanya yang baik, dalam jangka waktu yang singkat dia dipromosikan menjadi kepala bagian. Apa yang dialami oleh Mardi merupakan suatu bentuk mobilitas ....",
+    "opsi": {
+      "A": "vertikal",
+      "B": "horizontal",
+      "C": "geografis",
+      "D": "antargenerasi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Masa dimana manusia belum mengenal aksara atau tulisan disebut….",
+    "opsi": {
+      "A": "masa praaksara",
+      "B": "masa hindu- budha",
+      "C": "masa Islam",
+      "D": "masa pengenalan budaya"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Masa dimana manusia sudah memiliki keterampilan dan keahlian dalam melakukan pekerjaan tertentu terjadi di zaman…",
+    "opsi": {
+      "A": "Zaman perundagian",
+      "B": "Zaman bercocok tanam",
+      "C": "Zaman berburu tingkat lanjut",
+      "D": "Zaman berburu sederhana"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Masyarakat di sekitar Pegunungan Kendeng dan aktivis peduli lingkungan menentang perusahaan pabrik semen karena dikhawatirkan dapat merusak ekosistem di Pegunungan Kendeng yang berdampak kepada lingkungan sekitar. Hal tersebut dapat disimpulkan merupakan bentuk interaksi sosial yaitu….",
+    "opsi": {
+      "A": "konflik",
+      "B": "persaingan",
+      "C": "kontravensi",
+      "D": "kerusuhan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Melalui kebijakan KUR, UMKM akan terhindar dari kendala aturan-aturan perbankan yang menyulitkan mereka untuk mendapatkan pinjaman modal dari lembaga keuangan formal (LKF) karena dalam program KUR pemerintah telah menitipkan uang (yang berasal dari APBN) sebesar Rp1,4 triliun pada lembaga penjaminan. Harapannya, bank-bank nasional yang dilibatkan dalam program tersebut akan mampu memberikan pinjaman kepada UMKM. Kebijakan ini menjadi angin segar bagi pelaku ekonomi khususnya sektor …..",
+    "opsi": {
+      "A": "Wirusaha",
+      "B": "Konsumen",
+      "C": "Pemerintah",
+      "D": "Produsen"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Mempengaruhi orang lain atau membuat orang lain tidak sadar sehingga mau menuruti apa saja yang diperintahkan disebut........",
+    "opsi": {
+      "A": "empati",
+      "B": "imitasi",
+      "C": "sugesti",
+      "D": "motivasi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Menurut tingkat kehidupan sosial ekonomi, kehidupan manusia praaksara dikelompokkan menjadi 3, kecuali…",
+    "opsi": {
+      "A": "Masa berburu dan mengumpulkan makanan",
+      "B": "Masa bercocok tanam",
+      "C": "Masa mencari pasangan",
+      "D": "Masa perundagian"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Menurut waktu pemenuhannya, kebutuhan dibedakan menjadi sekarang dan yang akan datang. Berikut ini yang merupakan kebutuhan yang akan datang adalah…",
+    "opsi": {
+      "A": "Makan",
+      "B": "Obat saat sakit",
+      "C": "Minum",
+      "D": "Tabungan biaya pendidikan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Meskipun perusahaan merupakan penghasil barang atau jasa, namun perusahaan juga tetap melakukan kegiatan konsumsi. Salah satu kegiatan konsumsi yang dilakukan perusahaan yakni …..",
+    "opsi": {
+      "A": "Menggunakan barang dan jasa",
+      "B": "Menyerahkan faktor-faktor produksi",
+      "C": "Menggunakan faktor-faktor produksi",
+      "D": "Menerima pembayaran atas penyerahan faktor-faktor produksi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Mobil listrik mengalami kenaikan pembelian pada masa sekarang ini. Peminat dari mobil listrik meningkat dan pengembangan mobil listrik oleh perusahaan-perusahan dan bahkan negara seperti Indonesia terus dikembangkan. Fenomena mobil listrik merupakan respon\nterhadap sumber daya alam yang….",
+    "opsi": {
+      "A": "tidak terbatas",
+      "B": "dapat didaur ulang",
+      "C": "mudah dimanfaatkan",
+      "D": "terbatas"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Negara anggota ASEAN yang kegiatan perekonomiannya tidak didukung oleh pertanian yaitu...",
+    "opsi": {
+      "A": "Indonesia",
+      "B": "Malaysia",
+      "C": "Singapura",
+      "D": "Laos"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Negara yang berbentuk geografis protruded dan penduduknya mayoritasras mongol yaitu...",
+    "opsi": {
+      "A": "Vietnam",
+      "B": "Thailand",
+      "C": "Myanmar",
+      "D": "Laos"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Nelayan ikan dengan skala besar yang beroperasi di kawasan Asia Tenggara memanfaatkan data cuaca, suhu, arah angin untuk mencari ikan di lautan. Fenomena ini berkaitan dengan faktor yang mempengaruhi interaksi antarruang, yaitu...",
+    "opsi": {
+      "A": "faktor geologi",
+      "B": "faktor ketersediaan sumber daya",
+      "C": "faktor iklim",
+      "D": "faktor teknologi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Nilai positif dari kasus pengungsi manusia perahu dari Myanmar yang menimbulkan interaksi antar negara ASEAN antara lain...",
+    "opsi": {
+      "A": "bertambahnya warga asing",
+      "B": "memupuk rasa kemanusiaan",
+      "C": "meningkatkan persaingan kerja",
+      "D": "diskriminasi sosial pengungsi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Orangtua akan membelikan sepeda motor untuk anaknya, bilan anak tersebut rajin beribadah dan rajin belajar. Tindakan orangtua tersebut termasuk memberikan............",
+    "opsi": {
+      "A": "empati",
+      "B": "imitasi",
+      "C": "sugesti",
+      "D": "motivasi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pada masa pembabakan zaman praaksara kehidupan manusia pada masa 60 juta tahun lalu sampai kini disebut….",
+    "opsi": {
+      "A": "Arkaikum",
+      "B": "Paleozoikum",
+      "C": "Mesozoikum",
+      "D": "Neozoikum"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pada masa peralihan mesolitikum menuju neolitikum terjadi revolusi kebudayaan manusia. Proses peralihan tersebut adalah….",
+    "opsi": {
+      "A": "berburu makanan",
+      "B": "mengumpulkan makanan",
+      "C": "bergantung pada alam",
+      "D": "memproduksi makanan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pada zaman perunggu manusia menemukan logam campuran antara tembaga dan timah. Penemuan benda di zaman ini dipercaya bahwa manusia telah memiliki kepercayaan. Genderang dalam ukuran besar dengan bentuk menyempit di bagian pinggang disebut….",
+    "opsi": {
+      "A": "moko",
+      "B": "nekara",
+      "C": "kapak corong",
+      "D": "tembaga"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pakaian nelayan lebih tipis dibandingkan pakaian orang gunung. Perbedaan jenis pakaian ini menunjukkan bahwa kebutuhan manusia berbeda karena adanya perbedaan faktor...",
+    "opsi": {
+      "A": "selera",
+      "B": "kedudukan sosial",
+      "C": "Tingkat pendidikan",
+      "D": "lingkungan tempat tinggal"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Para arkeolog telah menemukan fosil tengkorak manusia serta peralatannya. Fosil manusia menunjukan adanya perbedaan bentuk tubuh manusia saat itu dengan masa sekarang. Perbedaannya yang paling menonjol adalah….",
+    "opsi": {
+      "A": "perbedaan tinggi badan",
+      "B": "perbedaan bentuk tangan",
+      "C": "perbedaan bentuk tubuh",
+      "D": "perbedaan bentuk tengkorak dan volume otak"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pariwisata bahari yang ditingkatkan akan memiliki dampak yang sangat penting bagi perekonomian, kecuali dalam hal ....",
+    "opsi": {
+      "A": "penyerapan tenaga kerja",
+      "B": "peningkatan pendapatan masyarakat",
+      "C": "peningkatan pemasukan negara",
+      "D": "perubahan pola hidup masyarakat"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pelaku ekonomi adalah individu, kelompok, atau lembaga yang melakukan kegiatan perekonomian baik produksi, distribusi, dan konsumsi. Umumnya, pelaku ekonomi terdiri dari rumah tangga keluarga, masyarakat, perusahaan, pemerintah dan negara. Salah satu tugas pemerintah sebagai pelaku ekonomi adalah …..",
+    "opsi": {
+      "A": "Menyediakan barang dan jasa publik",
+      "B": "Mencerdaskan kehidupan bangsa",
+      "C": "Menawarkan faktor-faktor produksi ke pasar barang dan jasa",
+      "D": "Memelihara fakir miskin dan gelandangan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pelaku ekonomi dalam suatu perekonomian terdiri atas …..",
+    "opsi": {
+      "A": "BUMN, BUMS, dan koperasi",
+      "B": "BUMN, BUMS, BUMD, dan koperasi",
+      "C": "Rumah tangga keluarga, rumah tangga perusahaan, rumah tangga pemerintah, dan rumah tangga luar negeri",
+      "D": "Rumah tangga konsumen, rumah tangga produsen, distributor dan pemerintah"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pemanfaatan sumber daya hayati dalam agrikultur dilakukan untuk menghasilkan hal- hal berikut ini, kecuali ....",
+    "opsi": {
+      "A": "bahan pangan",
+      "B": "bahan indsutri",
+      "C": "bahan habis pakai",
+      "D": "bahan bakar energi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pembangunan ekonomi maritime akan membawa industri pada kebutuhan akan sumber daya manusia kemaritiman dan inovasi teknologi yang berbasis pada pendidikan kemaritiman yang unggul dan modern. Jika proses ini dapat berlangsung maka pembangunan ekonomi maritim bisa dipastikan akan membawa masyarakat lebih makmur. Pembangunan di bidang kelautan ini diarahkan untuk mencapai tujuan berikut ini, kecuali …..",
+    "opsi": {
+      "A": "Pertumbuhan ekonomi rendah",
+      "B": "Peningkatan kesejahteraan seluruh pelaku usaha",
+      "C": "Terpeliharanya kelestarian lingkungan dan sumber daya kelautan",
+      "D": "Menjadikan laut sebagai pemersatu dan tegaknya kedaulatan bangsa"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pembangunan mal harus memperhatikan...",
+    "opsi": {
+      "A": "Adanya mal tidak mengganggu lingkungan",
+      "B": "Bentuknya yang indah",
+      "C": "Barangnya murah",
+      "D": "Pengunjungnya banyak"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pendidikan merupakan kebutuhan manusia. Kebutuhan tersebut digolongkan sebagai kebutuhan…..",
+    "opsi": {
+      "A": "mendesak",
+      "B": "sekarang",
+      "C": "masa depan",
+      "D": "sepanjang waktu"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pendistribusian kembali pendapatan masyarakat kelompok kaya kepada masyarakat kelompok miskin baik berasal dari pajak ataupun pungutan-pungutan lain dan dilakukan sebagai salah satu bentuk jaminan sosial yang dilakukan negara kepada masyarakat bisa juga disebut dengan …..",
+    "opsi": {
+      "A": "Agrikultur",
+      "B": "Redistribusi pendapatan",
+      "C": "Reboisasi",
+      "D": "Agrobisnis"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Penerimaan negara merupakan pemasukan yang diperoleh negara untuk membiayai dan menjalankan setiap program pemerintahan, sedangkan sumber penerimaan negara berasal dari berbagai sektor. Salah satu sumber pendapatan negara berasal dari …..",
+    "opsi": {
+      "A": "Pajak",
+      "B": "Penjualan barang dan jasa",
+      "C": "Penyediaan faktor produksi",
+      "D": "Sewa gedung dan tanah"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pengembangan agrikultur di Indonesia memiliki beberapa hambatan. Di bawah ini yang bukan termasuk hambatan pengembangan agrikultur di Indonesia adalah ....",
+    "opsi": {
+      "A": "skala usaha pertanian yang relatif kecil",
+      "B": "teknologi yang masih sederhana",
+      "C": "situasi pasar yang seimbang yaitu porsi yang sama dikuasai oleh para pedagang besar dan kecil",
+      "D": "alih fungsi lahan pertanian menjadi lahan nonpertanian"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Peninggalan Kerajaan Kutai yang membuktikan kerajaan tersebut bercorak Hindu adalah...",
+    "opsi": {
+      "A": "Yupa",
+      "B": "Kuil",
+      "C": "Candi",
+      "D": "Kitab"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Peninggalan sejarah Islam di Indonesia yang digunakan sebagai istana raja atau sultan adalah…",
+    "opsi": {
+      "A": "Keraton",
+      "B": "Masjid",
+      "C": "Gedung parlemen",
+      "D": "Benteng"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Peningkatan sistem budidaya di sektor pertanian yang ramah lingkungan dan terintegrasi dengan kearifan lokal di setiap daerah di indonesia dinamakan dengan strategi …..",
+    "opsi": {
+      "A": "Ekofarming",
+      "B": "Distribusi pupuk secara merata",
+      "C": "Perbaikan irigasi",
+      "D": "Deskomposisi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Penyebaran kebudayaan Hindu-Buddha di Indonesia dilakukan orang Indonesia sendiri yang datang ke India. Pernyataan ini termasuk dari inti teori...",
+    "opsi": {
+      "A": "Brahmana",
+      "B": "Ksatria",
+      "C": "Waisya",
+      "D": "Arus balik"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Perdagangan internasional merupakan kegiatan pertukaran jasa, barang, maupun modal yang dilakukan oleh penduduk berbagai negara atas kesepakatan bersama. Faktor yang dapat mendorong timbulnya perdagangan internasional, yaitu …..",
+    "opsi": {
+      "A": "Keinginan untuk menguasai pasar di beberapa negara rekan dagangannya",
+      "B": "Keinginan untuk melindungi produsen dalam negeri melalui kebijakan tarif",
+      "C": "Perbedaan bahasa dan mata uang yang digunakan oleh berbagai negara",
+      "D": "Perbedaan jenis barang dan jasa yang diproduksi masing-masing negara"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Perdagangan luar negeri memungkinkan suatu negara untuk mempelajari teknik produksi yang lebih efisien dan cara manajemen yang lebih modern. Banyak faktor yang mendorong suatu negara melakukan perdagangan antarnegara. Berikut ini yang bukan merupakan faktor pendorong terjadinya perdagangan antar negara adalah …..",
+    "opsi": {
+      "A": "Sumber daya alam",
+      "B": "Teknologi",
+      "C": "Kualitas sumber daya manusia",
+      "D": "Sistem ekonomi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Perdagangan yang dilakukan oleh penduduk/lembaga suatu daerah atau pulau dengan penduduk/lembaga suatu daerah atau pulau lain dalam satu batas wilayah negara atas dasar kesepakatan bersama merupakan pengertian dari …..",
+    "opsi": {
+      "A": "Perdagangan antar daerah/pulau",
+      "B": "Perdagangan luar negeri",
+      "C": "Perdagangan internasional",
+      "D": "Barter"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perekonomian harus diatur sehingga perekonomian dapat menyejahterakan masyarakat secara adil dan merata. Regulasi dan aturan yang dibuat oleh pemerintah antara lain berupa pemberian subsidi pada perusahaan dalam negeri sehingga mampu bersaing dengan produk dari luar. Hal ini menunjukkan peran pemerintah sebagai …..",
+    "opsi": {
+      "A": "Konsumen",
+      "B": "Produsen",
+      "C": "Distributor",
+      "D": "Regulator"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Perhatikan contoh berikut ini,,\n\n(1) obat- obatan\n(2) serat\n(3) karet\n(4) kelapa sawit\n(5) tinta percetakan\n\n Hasil agrikultur ditunjukkan oleh nomor ....",
+    "opsi": {
+      "A": "(1) dan (3)",
+      "B": "(2) dan (3)",
+      "C": "(3) dan (4)",
+      "D": "(4) dan (5)"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perhatikan contoh di bawah ini.\n\n1) Penggunaan monorel kereta jurusan Bandung-Jakarta.\n2) Kemacetan yang panjang di Johor, Malaysia.\n3) Penggunaan hutan sebagai jalur Jalan Lintas Selatan (JJLS) di Jawa.\n4) Pembangunan transportasi bawah tanah di Thailand.\n5) Alih fungsi lahan dari pemukiman menjadi kawasan bandar udara.\n\nManakah pernyataan yang menunjukkan dampak negatif dari interaksi antarnegara-negara ASEAN yang menimbulkan perubahan di bidang transportasi?",
+    "opsi": {
+      "A": "1, 2, dan 4.",
+      "B": "1, 3, dan 5.",
+      "C": "2, 3, dan 5.",
+      "D": "3, 4, dan 5."
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan berikut ini,\n\n(1) Pertumbuhan ekonomi yang tinggi secara berkelanjutan\n(2) Peningkatan kesejahteraan seluruh pelaku usaha\n(3) Pemanfaatan sumber daya alam secara besar- besaran\n(4) Terpeliharanya kelestarian lingkungan dan sumber daya kelautan\n\nTujuan kelautan negara Indonesia ditunjukkan oleh pernyataan nomor ....",
+    "opsi": {
+      "A": "(1) dan (2)",
+      "B": "(2) dan (3)",
+      "C": "(3) dan (4)",
+      "D": "(3) dan (5)"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perhimpunan negara-negara di kawasan Asia Tenggara dibentuk berdasarkan...",
+    "opsi": {
+      "A": "Deklarasi Kuala Lumpur",
+      "B": "Deklarasi Bangkok",
+      "C": "Deklarasi Yangon",
+      "D": "Jakarta Charter"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Perilaku meniru gaya hidup orang lain disebut........",
+    "opsi": {
+      "A": "empati",
+      "B": "imitasi",
+      "C": "sugesti",
+      "D": "motivasi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Perkembangan ilmu pengetahuan dan teknologi mengakibatkan......",
+    "opsi": {
+      "A": "jumlah produksi barang-barang meningkat",
+      "B": "harga barang-barang meningkat",
+      "C": "jumlah pengangguran meningkat",
+      "D": "terjadi krisis ekonomi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perkembangan Islam di Indonesia dilakukan melalui kegiatan berikut, kecuali…",
+    "opsi": {
+      "A": "Pernikahan",
+      "B": "Pertempuran",
+      "C": "Pendidikan",
+      "D": "Perdagangan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Perpindahan penduduk ke daerah relokasi baru sebab kawasan yang didiami terkena bencana merupakan salah satu contoh bentuk mobilitas ....",
+    "opsi": {
+      "A": "vertikal",
+      "B": "horizontal",
+      "C": "geografis",
+      "D": "antargenerasi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pertandingan persahabatan antara Tim Sriwijaya Fc melawan Tim Persija berakhir dengan scor 2-1. Hal ini termasuk contoh dari interaksi sosial..........",
+    "opsi": {
+      "A": "individu dengan individu",
+      "B": "individu dengan kelompok",
+      "C": "hubungan sesama kelompok",
+      "D": "kelompok dengan kelompok"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pertukaran pelajar dan mahasiswa di kawasan negara ASEAN merupakan bentuk kerjasama di bidang ....",
+    "opsi": {
+      "A": "ekonomi",
+      "B": "politik",
+      "C": "sosial",
+      "D": "Pendidikan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Perubahan sebagian atau seluruh fungsi lahan dari fungsi semula menjadi fungsi yang lain dan memengaruhi lingkungan dan potensi lahan itu sendiri disebut...",
+    "opsi": {
+      "A": "konversi lahan",
+      "B": "penggunaan tanah",
+      "C": "pergantian lahan",
+      "D": "konversi tanah"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Potensi ekonomi maritime Indonesia dapat dilihat dari berbagai sektor berikut, kecuali …..",
+    "opsi": {
+      "A": "Sektor pelayaran",
+      "B": "Sektor perikanan",
+      "C": "Sektor pertanian",
+      "D": "Sektor pariwisata bahari"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Presiden SBY berpidato di depan anggota DPR RI. Hal ini termasuk contoh dari..........",
+    "opsi": {
+      "A": "kontak sosial langsung",
+      "B": "kontak sosial tidak langsung",
+      "C": "kontak sosial satua arah",
+      "D": "tidak terjadi kontak sosial"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Proses bongkar muat barang pada perdagangan antar pulau tersebut dilakukan karena untuk mencapai tujuan tertentu yaitu …..",
+    "opsi": {
+      "A": "Memperoleh keuntungan dan menghabiskan waktu",
+      "B": "Memperluas pasar dan mematikan usaha mikro",
+      "C": "Menjajah wilayah lain dan mendapat pengakuan",
+      "D": "Memperoleh keuntungan dan memperluas pasar"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Proses diaspora Bangsa Indonesia menyebabkan penduduk Madagaskar terindikasi memiliki percampuran darah dari Indonesia yaitu suku….",
+    "opsi": {
+      "A": "Dayak",
+      "B": "Jawa",
+      "C": "Bugis",
+      "D": "Manda"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Proses imitasi seseorang pertama kali terjadi di........",
+    "opsi": {
+      "A": "di lingkungan keluarga",
+      "B": "di lingkungan sekolah",
+      "C": "di lingkungan antar teman",
+      "D": "di lingkungan masyarakat"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Raja Mulawarman memerintah kerajaan…",
+    "opsi": {
+      "A": "Tarumanegara",
+      "B": "Kutai",
+      "C": "Singasari",
+      "D": "Majapahit"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Raja yang terkenal di Tarumanegara adalah…",
+    "opsi": {
+      "A": "Asnawarman",
+      "B": "Purnawarman",
+      "C": "Mulawarman",
+      "D": "Suwawarman"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Redistribusi pendapatan dapat dilakukan dalam bentuk …..",
+    "opsi": {
+      "A": "Jaminan sosial yang dilakukan negara kepada masyarakat",
+      "B": "Pembagian pendapatan nasional",
+      "C": "Pengalokasian pajak kepada penduduk miskin",
+      "D": "Pemberian subsidi kepada seluruh masyarakat"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Rumah tangga konsumen biasa disebut sebagai konsumen, merupakan pihak yang melakukan kegiatan konsumsi barang dan jasa yang dihasilkan produsen. Berikut ini tidak termasuk imbalan jasa yang diterima rumah tangga konsumsi dari rumah tangga produksi adalah …..",
+    "opsi": {
+      "A": "Laba",
+      "B": "Upah",
+      "C": "Pajak",
+      "D": "Bunga"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Rumah tangga konsumen yang menyerahkan factor produksi berupa kompetensi kewirausahaan kepada pihak produsen akan memperoleh imbalan berupa …..",
+    "opsi": {
+      "A": "Sewa",
+      "B": "Bunga",
+      "C": "Keuntungan",
+      "D": "Gaji"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Rumi memanfaatkan waktu luang untuk membuat pesanan tas rajut.\nPernyataan tersebut mencerminkan tindakan manusia sebagai makhluk ....",
+    "opsi": {
+      "A": "Individu",
+      "B": "Religius",
+      "C": "Ekonomi",
+      "D": "Sosial"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Salah satu bangunan yang merupakan budaya zaman Megalitikum adalah Menhir. Bentuk Menhir adalah sebagai berikut….",
+    "opsi": {
+      "A": "tugu batu yang ditegakkan dan ditempatkan di suatu tempat untuk memperingati orang yang sudah meninggal.",
+      "B": "kuburan dari batu yang bentuknya mirip kuburan.",
+      "C": "patung yang terbuat dari batu",
+      "D": "sejenis kuburan batu tetapi memiliki tutup di atasnya"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Salah satu bentuk kerja sama di bidang politik antarnegara-negara ASEANadalah...",
+    "opsi": {
+      "A": "membangun pupuk urea di Malaysia",
+      "B": "menanggulangi penyalahgunaan narkotika",
+      "C": "melaksanakan festival seni ASEAN",
+      "D": "membentuk Pusat Informasi Pariwisata"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Salah satu bentuk kerjasama Indonesia di bidang ekonomi dengan negara- negara di kawasan ASEAN adalah ....",
+    "opsi": {
+      "A": "pertukaran pelajar Indonesia - Malaysia",
+      "B": "pengiriman kontingen olahraga Indonesia dalam Sea Games",
+      "C": "ekspor Indonesia berupa minyak mentah ke Singapura",
+      "D": "latihan bersama militer Indonesia- Filipina dalam menjaga perbatasan dari teroris"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Salah satu bentuk konflik yang pernah terjadi di Amerika antara orang - orang kulit putih dengan orang kulit hitam  merupakan contoh bentuk konflik ....",
+    "opsi": {
+      "A": "pribadi",
+      "B": "rasial",
+      "C": "politik",
+      "D": "antar kelas social"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Salah satu cara untuk menjaga kerukunan dalam masyarakat yang majemuk adalah ....",
+    "opsi": {
+      "A": "saling bersaing dalam berbagai aspek kehidupan",
+      "B": "toleransi antar umat beragama",
+      "C": "suka mendebatkan kebenaran akan ajaran yang dianut terhadap ajaran agama lain",
+      "D": "memandang rendah pendapat orang lain"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Salah satu contoh bentuk mobilitas intergenerasi adalah ....",
+    "opsi": {
+      "A": "ayahnya seorang kepala sekolah sedangkan anaknya hanyalah seorang guru",
+      "B": "kakaknya seorang direktur sedangkan adiknya seorang staf biasa",
+      "C": "karyawan mendapatkan promosi jabatan naik menjadi kepala bagian",
+      "D": "seorang karyawan diberhentikan dari pekerjaannya karena indisipliner"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Salah satu contoh pemanfaatan peta dengan menggunakan teknologi  adalah perkembangan perekonomian yaitu kemudahan menghitung biaya jarak yang harus ditempuh untuk pembelian secara online. Perusahaan yang bergerak dalam pengiriman barang disebut…..",
+    "opsi": {
+      "A": "perusahaan transportasi",
+      "B": "perusahaan online",
+      "C": "perusahaan jasa",
+      "D": "perusahaan jasa ekspedisi."
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Salah satu dampak positif mobilitas sosial bagi kehidupan masyarakat adalah ....",
+    "opsi": {
+      "A": "memotivasi seseorang agar lebih maju",
+      "B": "menimbulkan gesekan antar golongan",
+      "C": "berkurangnya solidaritas kelompok",
+      "D": "timbulnya gangguan psikologis"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Salah satu faktor yang menyebabkan keberagaman di Indonesia adalah ....",
+    "opsi": {
+      "A": "pekerjaan",
+      "B": "kepercayaan",
+      "C": "letak geografis",
+      "D": "Pendidikan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Salah satu hasil tambang terbesar Malaysia adalah ....",
+    "opsi": {
+      "A": "bauksit",
+      "B": "timah",
+      "C": "minyak bumi",
+      "D": "gas alam"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Salah satu kerja sama antarnegara ASEAN di bidang industri berikut ini adalah...",
+    "opsi": {
+      "A": "proyek soda api Rock Salt Soda Ash Project di Thailand dengan Indonesia",
+      "B": "proyek vaksin ASEAN Vaccine Project di Singapura dengan Kamboja",
+      "C": "proyek tambang ASEAN Copper Fabrication Project di Filipina dengan Singapura",
+      "D": "proyek pupuk ASEAN Aceh Fertilizer Project di Indonesia dengan Malaysia"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Salah satu tujuan dibentuknya ASEAN adalah ....",
+    "opsi": {
+      "A": "mewujudkan negara- negara ASEAN sebagai negara terkuat di dunia",
+      "B": "menjadikan negara- negara ASEAN sebagai sentral ekonomi di dunia",
+      "C": "menciptakan kawasan asia tenggara sebagai kawasan yang samai, aman, stabil dan sejahtera",
+      "D": "membantu negara- negara terjajah untuk merdeka"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Salah satu tujuan suatu negara bekerja sama dengan negara lain adalah ....",
+    "opsi": {
+      "A": "mengisi kekurangan di bidang ekonomi bagi masing- masing negara",
+      "B": "menghimpun kekuatan untuk menyerang negara lain",
+      "C": "meningkatkan rasa solidaritas negara- negara yang pernah terjajah",
+      "D": "turut campur dalam urusan dalam negeri negara lain"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebagai konsumen, rumah tangga konsumsi berperan dalam mengonsumsi barang dan jasa yang dihasilkan oleh rumah tangga produksi. Rumah tangga konsumsi mengonsumsi barang dan jasa bertujuan untuk …..",
+    "opsi": {
+      "A": "Diproduksi lebih lanjut",
+      "B": "Memperoleh dan menikmati daya guna yang maksimal",
+      "C": "Memenuhi kebutuhan hidupnya",
+      "D": "Menghabiskan pendapatan guna memperoleh kepuasan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Secara garis besar bentang alam terdiri dari bentang darat dan bentang perairan.Bentang darat yang berupa pulau atau serangkaian pulau, negara yang bukan merupakan bentang pulau atau serangkaian pulau adalah...",
+    "opsi": {
+      "A": "Singapura",
+      "B": "Brunei",
+      "C": "Thailand",
+      "D": "Indonesia"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Secara garis besar dapat dikatakan bahwa rumah tangga berperan melakukan kegiatan konsumsi. Kegiatan ekonomi yang dilakukan dalam rumah tangga adalah mengonsumsi barang dan jasa dengan tujuan untuk memenuhi kebutuhan hidup. Karena termasuk pelaku ekonomi maka rumah tangga harus bertindak rasional dalam arti …..",
+    "opsi": {
+      "A": "Harus memilih barang dan jasa yang terbaik",
+      "B": "Mempertimbangkan korban dan hasil dalam setiap tindakannya",
+      "C": "Harus taat membayar pajak yang ditetapkan pemerintah",
+      "D": "Menawarkan faktor-faktor produksi di pasar faktor"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Secara geologis, sejarah perkembangan bumi dibagi 4 periode, kecuali…",
+    "opsi": {
+      "A": "zaman arkaekum (2500 juta tahun lalu)",
+      "B": "zaman palaeozoikum (250 juta tahun lalu)",
+      "C": "zaman mesozoikum (140 juta tahun lalu)",
+      "D": "zaman mekonoikum (60 juta tahun lalu)"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Seorang guru mengajar siswa-siswanya di dalam kelas. Hal ini termasuk contoh dari interaksi sosial..........",
+    "opsi": {
+      "A": "individu dengan individu",
+      "B": "seseorang dengan seseorang",
+      "C": "individu dengan kelompok",
+      "D": "kelompok dengan kelompok"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Seseorang bertemu dengan teman lama lalu berjabat tangan dan ngobrol bersama. Hal ini termasuk contoh dari interaksi sosial..........",
+    "opsi": {
+      "A": "individu dengan individu",
+      "B": "individu dengan kelompok",
+      "C": "hubungan sesama kelompok",
+      "D": "kelompok dengan kelompok"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Seseorang dapat dikatakan  hidup makmur apabila ...........",
+    "opsi": {
+      "A": "semua kebutuhan sudah dipenuhi",
+      "B": "memiliki harta yang banyak",
+      "C": "memiliki banyak perusahaan",
+      "D": "pendapatannya tinggi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Strategi ekofarming dalam pengembangan agrikultur di Indonesia bertujuan untuk ....",
+    "opsi": {
+      "A": "menciptakan keharmonisan lingkungan yang bersifat ekologis",
+      "B": "memanfaatkan sebesar- besarnya potensi alam untuk kesejahteraan bersama",
+      "C": "menggunakan sistem teknologi dalam pengolahan pertanian",
+      "D": "menciptakan sistem kerja yang sistematis dalam pengolahan lahan pertanian"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Suatu bentuk penyelesaian masalah melalui pihak ketiga, apabila masing-masing\npihak yang bertentangan tidak mampu menyelesaikan sendiri disebut….",
+    "opsi": {
+      "A": "akomodasi",
+      "B": "toleransi",
+      "C": "arbitration",
+      "D": "mediasi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Suatu daerah memiliki ciri-ciri:\n1. Curah hujan\n\n2. Lahan tanah yang miring\n\n3. Mudah erosi\n\nPenggunaan lahan yang cocok untuk daerah itu adalah..",
+    "opsi": {
+      "A": "Pemukiman",
+      "B": "Hutan lindung",
+      "C": "Sawah",
+      "D": "Perikanan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Suatu keluarga giat menabung untuk memenuhi kebutuhan..........",
+    "opsi": {
+      "A": "sosial",
+      "B": "individu",
+      "C": "sekarang",
+      "D": "masa datang"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Suatu tindakan sosial yang berorientasi kepada suatu sistem nilai tertentu disebut tindakan sosial yang bersifat........",
+    "opsi": {
+      "A": "tradisional",
+      "B": "rasional",
+      "C": "irasional",
+      "D": "modernisasi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sumber daya alam di Indonesia tidak terbatas pada kekayaan hayati saja. Berbagai daerah di Indonesia dikenal sebagai penghasil berbagai jenis bahan tambang seperti timah, nikel, tembaga, bauksit, timah, batu bara, emas dan perak. Sumber daya alam adalah suatu kekayaan alam yang berasal dari bumi dan dimanfaatkan untuk …..",
+    "opsi": {
+      "A": "Dikonsumsi langsung",
+      "B": "Menjadi bahan baku",
+      "C": "Memenuhi kebutuhan hidup manusia",
+      "D": "Mencegah bahaya kekeringan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sumber utama penghasilan devisa negara Thailand adalah dalam bidang ....",
+    "opsi": {
+      "A": "pertanian",
+      "B": "perikanan",
+      "C": "industri",
+      "D": "pertambangan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sunan Kudus menyebarkan agama Islam dengan cara mendekati masyarakat dengan memanfaatkan simbol-simbol Hindu dan Budha. Hal tersebut bisa dilihat pada arsitektur Masjid Kudus yang memiliki keunikan tersendiri. Proses ini merupakan salah satu contoh bentuk proses ....",
+    "opsi": {
+      "A": "asimilasi",
+      "B": "akulturasi",
+      "C": "transmisi",
+      "D": "mediasi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Teori yang menjelaskan bahwa proses masuknya kebudayaan Hindu-Budha dibawa oleh pedagang India adalah teori…",
+    "opsi": {
+      "A": "Waisya",
+      "B": "Ksatria",
+      "C": "Brahmana",
+      "D": "Arus balik"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Terjadinya konflik sosial di masyarakat merupakan salah satu masalah yang terjadi dalam kehidupan bermasyarakat. Konflik sosial dapat diatasi apabila….",
+    "opsi": {
+      "A": "masyarakat memiliki rasa toleransi",
+      "B": "rasa cinta terhadap suku sangat tinggi",
+      "C": "adanya persaingan dalam masyarakat",
+      "D": "masyarakat tidak saling mengenal satu sama lain"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Tiga peran penting rumah tangga pemerintah adalah sebagai …..",
+    "opsi": {
+      "A": "Regulator, konsumen, dan produsen",
+      "B": "Konsumen, produsen, dan pemungut pajak",
+      "C": "Motivator, fasilitator, dan regulator",
+      "D": "Perencana, pelaksana, dan pengawas"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Tradisi lisan lebih sulit untuk dianalisis karena ....",
+    "opsi": {
+      "A": "perlu menangkap kenyataan di belakang ceritanya",
+      "B": "disampaikan secara lengkap dan jelas",
+      "C": "esensi cerita bersifat tetap",
+      "D": "membutuhkan banyak narasumber"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Transfer uang dari orang kaya ke orang miskin dengan jaminan sosial sebagai bentuk dukungan warga masyarakat yang kuat kepada warga masyarakat yang lemah secara ekonomi merupakan bentuk redistribusi pendapatan secara …..",
+    "opsi": {
+      "A": "Diagonal",
+      "B": "Vertikal",
+      "C": "Horizontal",
+      "D": "Aktual"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Tugu batu yang berfungsi sebagai tugu peringatan di zaman kerajaan Kutai adalah…",
+    "opsi": {
+      "A": "Yupa",
+      "B": "Stupa",
+      "C": "Prasasti",
+      "D": "Candi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Tulisan indah dalam bahasa Arab yang merupakan peninggalan sejarah Islam di Indonesia disebut dengan…",
+    "opsi": {
+      "A": "Kaligrafi",
+      "B": "Debus",
+      "C": "Karya seni",
+      "D": "Lukisan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Usaha peningkatan perekonomian dengan memberdayakan sektor pertanian disebut ....",
+    "opsi": {
+      "A": "ekonomi kelautan",
+      "B": "ekonomi kerakyatan",
+      "C": "ekonomi maritim",
+      "D": "ekonomi pertanian"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Yang bukan merupakan bentuk saluran mobilitas sosial dalam kehidupan masyarakat adalah ....",
+    "opsi": {
+      "A": "lembaga keagamaan",
+      "B": "pernikahan",
+      "C": "lembaga pendidikan",
+      "D": "perusahaan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Kegiatan atau aktivitas dalam proses pertukaran barang dan jasa antar negara disebut …",
+    "opsi": {
+      "A": "Perdagangan Internasional",
+      "B": "Perdagangan Nasional",
+      "C": "Perdagangan luar negeri",
+      "D": "Perdagangan dalam negeri"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah faktor yang mendorong perdagangan internasional, kecuali ...........",
+    "opsi": {
+      "A": "perbedaan iklim terjadinya globalisasi",
+      "B": "perbedaan jumlah penduduk",
+      "C": "globalisasi",
+      "D": "perbedaan sumber daya alam"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berikut hambatan perdagangan internasional, kecuali …",
+    "opsi": {
+      "A": "Adanya proteksi",
+      "B": "Adanya kuota",
+      "C": "Adanya politik dumping",
+      "D": "Adanya harga lebih mahal"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Indonesia dengan Thailand memproduksi dua jenis barang yaitu pakaian dan tas dengan asumsi masing-masing negara tersebut menggunakan tenaga dan waktu yang digunakan sama. Ternyata Indonesia mampu menghasilkan barang pakaian lebih banyak, sedangkan Thailand menghasilkan tas lebih banyak.\nBerdasarkan deskripsi di atas maka manakah diantara pernyataan di bawah ini yang paling tepat!",
+    "opsi": {
+      "A": "Keuanggulan mutlak Indonesia adalah barang pakaian",
+      "B": "Keuanggulan komparatif Indonesia adalah tas",
+      "C": "Keunggulan mutlak Thailand adalah barang pakaian",
+      "D": "Keunggulan komparatif Thailand adalah tas"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berikut ciri-ciri perdagangan dalam negeri, kecuali …",
+    "opsi": {
+      "A": "Pembeli dan penjual biasanya bertemu",
+      "B": "Dilakukan dalam wilayah antarnegara",
+      "C": "Mata uang yang digunakan sama",
+      "D": "Tidak dikenakan bea masuk"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sejak kehadirannya beberapa tahun belakangan ini, istilah startup menjadi sangat tren khususnya di kalangan anak muda. Kepopulerannya kian melejit semenjak beberapa startup Indonesia berhasil menyabet gelar unicorn dengan rata-rata usia CEO yang masih terbilang masih muda. Pesatnya pertumbuhan teknologi serta informasi tentunya menjadi salah satu faktor pendorong banyak anak muda Indonesia yang tertarik untuk mendirikan startup.\n\nBerikut ini faktor lain yang mendorong anak muda mengembangkan bisnis startup adalah……..",
+    "opsi": {
+      "A": "membangun koneksi yang lebih luas",
+      "B": "berkembangnya tempat “nongkrrong” anak-anak muda",
+      "C": "meningkatkan devisa",
+      "D": "negara meningkatkan wawasan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut beberapa faktor pendorong yang menjadi penyebab terjadinya perdagangan internasional, kecuali …",
+    "opsi": {
+      "A": "Adanya persamaan sumber daya alam",
+      "B": "Adanya perbedaan kualitas sumber daya manusia",
+      "C": "Adanya perbedaan ilmu pengetahuan dan teknologi",
+      "D": "Adanya perbedaan harga barang"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Benua yang terletak di bagian timur bumi adalah ....",
+    "opsi": {
+      "A": "benua afrika",
+      "B": "benua asia",
+      "C": "benua eropa",
+      "D": "benua amerika"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Secara geografis, benua asia terletak diantara ....",
+    "opsi": {
+      "A": "benua afrika dan amerika",
+      "B": "benua eropa dan australia",
+      "C": "benua eropa dan amerika",
+      "D": "benua afrika dan australia"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Salah satu negara di Asia yang jumlah penduduknya terbanyak adalah ....",
+    "opsi": {
+      "A": "India",
+      "B": "Indonesia",
+      "C": "China",
+      "D": "Jepang"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Dataran tertinggi dan terluas di Asia adalah dataran tinggi ....",
+    "opsi": {
+      "A": "Dieng",
+      "B": "Analotia",
+      "C": "Tibet",
+      "D": "Dekan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Di bawah ini adalah ciri khas yang membedakan benua asia dengan benua lainnya, kecuali ....",
+    "opsi": {
+      "A": "benua terluas nomor dua setelah Amerika",
+      "B": "tempat lahirnya agama- agama besar dunia",
+      "C": "memiliki gunung tertinggi di dunia",
+      "D": "benua dimana terdapat negara yang berpenduduk terbanyak"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Batas posisi geografis benua Afrika sebelah utara berbatasan dengan ....",
+    "opsi": {
+      "A": "Laut Tengah",
+      "B": "Laut Merah",
+      "C": "Samudra Hindia",
+      "D": "Samudra Atlantik"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sungai terpanjang di Afrika adalah sungai ....",
+    "opsi": {
+      "A": "Niger",
+      "B": "Zambesi",
+      "C": "Congo",
+      "D": "Nil"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Salah satu gurun terkenal di Afrika yang juga merupakan gurun terluas adalah ....",
+    "opsi": {
+      "A": "Namib",
+      "B": "Libia",
+      "C": "Sahara",
+      "D": "Kalahari"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebagian besar penduduk Afrika menggantungkan hidup dari sektor ....",
+    "opsi": {
+      "A": "perindustrian",
+      "B": "perikanan",
+      "C": "pertanian",
+      "D": "pertambangan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Christoporus Colombus adalah salah satu tokoh yang berperan dalam penemuan benua baru yaitu Amerika. Tokoh tersebut merupakan penjelajah yang berasal dari ...",
+    "opsi": {
+      "A": "Italia",
+      "B": "Spanyol",
+      "C": "Inggris",
+      "D": "Portugal"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berdasarkan sifat aslinya penduduk Amerika terbagi menjadi dua yaitu penduduk asli dan penduduk imigran. Penduduk asli Amerika adalah ....",
+    "opsi": {
+      "A": "orang negro",
+      "B": "orang Mongol",
+      "C": "orang Indian",
+      "D": "oranf Mesir"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini jenis hewan wilayah benua Amerika yang tinggal di daerah iklim kutub, kecuali ....",
+    "opsi": {
+      "A": "anjing laut",
+      "B": "penguin",
+      "C": "rusa",
+      "D": "beruang kutub"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Batas benua Eropa dan Asia adalah ....",
+    "opsi": {
+      "A": "Samudera Arktik",
+      "B": "Samudera Atlantik",
+      "C": "Pegunungan Ural",
+      "D": "Laut Tengah"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Gunung tertinggi di Eropa adalah gunung Elbrus yang terdapat di negara ....",
+    "opsi": {
+      "A": "Rusia",
+      "B": "Jerman",
+      "C": "Inggris",
+      "D": "Perancis"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Di bawah ini yang bukan merupakan hewan khas benua Australia adalah ....",
+    "opsi": {
+      "A": "kuskus",
+      "B": "koala",
+      "C": "rusa",
+      "D": "kanguru"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah unsur- unsur sosial dalam masyarakat yang mengalami perubahan, kecuali ....",
+    "opsi": {
+      "A": "nilai- nilai sosial",
+      "B": "norma- norma sosial",
+      "C": "pola- pola perilaku",
+      "D": "keyakinan masyarakat"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Faktor penyebab perubahan sosial budaya dapat dikelompokkan menjadi dua yaitu faktor internal dan faktor eksternal. Yang termasuk faktor internal adalah ....",
+    "opsi": {
+      "A": "lingkungan alam",
+      "B": "peperangan",
+      "C": "pengaruh budaya masyarakat lain",
+      "D": "bertambahnya atau berkurangnya penduduk"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pernyataan yang benar berkaitan dengan faktor pendorong perubahan sosial budaya adalah ....",
+    "opsi": {
+      "A": "Sikap tradisional berpengaruh dalam mendorong perubahan sosial budaya",
+      "B": "Adanya kontak dengan budaya lain dapat mendorong perubahan sosial budaya",
+      "C": "Masyarakat yang homogen memudahkan terjadinya perubahan sosial budaya",
+      "D": "Rasa puas terhadap apa yang dialami mendorong manusia untuk melakukan berbagai perubahan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berdasarkan kecepatan perubahan, bentuk perubahan sosial budaya dibedakan menjadi dua yaitu evolusi dan revolusi. Berikut pernyataan yang benar mengenai evolusi dan revolusi dalam perubahan sosial budaya adalah ....",
+    "opsi": {
+      "A": "evolusi memerlukan waktu yang lebih cepat daripada revolusi",
+      "B": "evolusi cenderung lambat perubahannya, terjadi dengan sendirinya tanpa suatu rencana atau kehendak apapun",
+      "C": "revolusi sejalan dengan keadaan dan kondisi pertumbuhan masyarakat secara damai dan berkesinambungan",
+      "D": "revolusi dalam perubahan sosial budaya lebih cenderung bersifat damai daripada evolusi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dalam menyikapi perubahan, penyesuaian dilakukan agar ketertiban dan keteraturan dalam masyarakat tetap terjaga. Salah satu cara penyesuaian dimana unsur- unsur dari luar diterima dan disesuaikan dengan kebudayaan lokal sehingga membentuk kebudayaan yang berbeda merupakan cara ....",
+    "opsi": {
+      "A": "akomodasi",
+      "B": "asimilasi",
+      "C": "menerima unsur baru",
+      "D": "integrase"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Disintegrasi merupakan proses pecahnya suatu kesatuan menjadi bagian- bagian kecil yang terpisah satu sama lain. Berikut ini adalah contoh perilaku masyarakat terhadap perubahan yang mampu menimbulkan disintegrasi, kecuali ....",
+    "opsi": {
+      "A": "kenakalan remaja",
+      "B": "demonstrasi",
+      "C": "kriminalitas",
+      "D": "globalisasi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Salah satu contoh sikap yang tepat untuk dilakukan dalam menghadapi globalisasi adalah ....",
+    "opsi": {
+      "A": "membeli barang- barang dari luar negeri",
+      "B": "memakai pakaian secara modern",
+      "C": "menerapkan gaya hidup hedonisme",
+      "D": "meningkatkan kemampuan dalam bersaing secara sehat"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Contoh tanda- tanda lunturnya nilai- nilai sosial karena globalisasi adalah ....",
+    "opsi": {
+      "A": "gaya konsumerisme yang tinggi",
+      "B": "sikap gotong royong yang baik",
+      "C": "toleransi yang terjaga",
+      "D": "tradisi ketimuran dipertahankan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Hal yang harus dilakukan agar kita siap menghadapi globalisasi adalah ....",
+    "opsi": {
+      "A": "memboikot produk- produk asing yang masuk ke negara kita",
+      "B": "menggunakan produk luar negeri yang memang lebih mahal dan ternama",
+      "C": "menumbuhkan rasa bangga akan hasil budaya sendiri",
+      "D": "mengusir orang asing yang tinggal di negara kita"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Dampak positif globalisasi yang secara langsung dapat dinikmati oleh masyarakat adalah ....",
+    "opsi": {
+      "A": "kemudahan akses informasi dan komunikasi",
+      "B": "budaya kita akan lebih dikenal dunia",
+      "C": "budaya kita akan lebih kaya",
+      "D": "sistem pemerintahan akan semakin terbuka"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Salah satu Karakteristik Benua Asia adalah...",
+    "opsi": {
+      "A": "Sering dijuluki sebagai Benua Hitam",
+      "B": "Memiliki Sungai terpanjang di dunia",
+      "C": "Merupakan Benua terluas di dunia",
+      "D": "Seluruh wilayahnya terletak di Bumi bagian Selatan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Batas-batas Benua Asia :\n\n1) Samudera Pasifik\n2) Pegunungan Ural\n3) Laut Merah\n4) Samudera Artika\n5) Pegunungan Himalaya\n\nPernyataan di atas yang merupakan batas Benua Asia disebelah Timur dan Barat adalah yang bernomor...",
+    "opsi": {
+      "A": "1), 2) dan 3)",
+      "B": "2), 3) dan 4)",
+      "C": "1), 4) dan 5",
+      "D": "4), 5) dan 6)"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Luas Benua Afrika 30.290.000 km2, luas Benua Eropa 10.355.000 km2, luas Benua Asia 44.000.000 km2, luas Benua Australia 8.945.000 km2, luas Benua Amerika 42.057.100 km2.Dari data luas benua-benua di dunia tersebut, Benua Amerika menduduki peringkat ke...",
+    "opsi": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Samudera yang membatasi Benua Amerika disebelah Barat adalah...",
+    "opsi": {
+      "A": "Pasifik",
+      "B": "Atlantik",
+      "C": "Artik",
+      "D": "Hindia"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Benua Eropa adalah benua yang memiliki iklim subtropis dan sedang. Hal ini dikarenakan Benua Eropa berada pada posisi...",
+    "opsi": {
+      "A": "35 derajat LU – 34 derajat LS",
+      "B": "35 derajat LU – 80 derajat LU",
+      "C": "83 derajat LU – 55 derajat LS",
+      "D": "80 derajat LU – 11 derajat LS"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perhatikan negara-negara di Benua Afrika berikut.\n\n1) Kenya\n2) Sudan\n3) Afrika Selatan\n4) Somalia\n5) Tanzania\n\nNegara-negara yang dilalui Sungai Nil ditunjukkan oleh nomor...",
+    "opsi": {
+      "A": "1), 2), dan 3)",
+      "B": "1), 2), dan 5)",
+      "C": "2), 3), dan 4)",
+      "D": "3), 4), dan 5)"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Rangkaian pegunungan yang melalui Benua Afrika adalah...",
+    "opsi": {
+      "A": "Pegunungan Rocky",
+      "B": "Pegunungan Himalaya",
+      "C": "Pegunungan Cameroon",
+      "D": "Pegunungan Andes"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berdasarkan kondisi fisik dan iklim, maka jenis flora yang berkembang di benua Afrika dibagian utara adalah...",
+    "opsi": {
+      "A": "hutan hujan tropis",
+      "B": "hutan kanifer",
+      "C": "stepa dan kaktus",
+      "D": "lumut dan tundra"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Nama-nama bentang alam :\n\n1). Gunung Kilimanjaro\n2). Pegunungan Himalaya\n3). Gurun Sahara\n4). Sungai Nil\n5). Plato Kimberly\n\nBerdasarkan pernyataan diatas yang merupakan bentang alam di Benua Afrika ditunjukkan nomor...",
+    "opsi": {
+      "A": "1), 2), 3)",
+      "B": "2), 3), 5)",
+      "C": "1), 3), 4)",
+      "D": "2), 4), 5)"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Australia adalah benua yang letaknya berada pada zona turunnya massa udara ( Zona Subsidensi) sehingga sebagian besar bentang alamnya (70%) berupa...",
+    "opsi": {
+      "A": "Gunung",
+      "B": "Gurun",
+      "C": "Steppa",
+      "D": "Hutan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Fenomena alam Jepang :\n\n1) Jepang merupakan bagian dari cincin api ( Ring of Fire )\n2) menjadi tempat pertemuan arus kuroshio dan arus oyashio\n3) Jepang merupakan negara dengan banyak pulau (archipelago)\n4) terletak pada perbatasan lempeng Benua Asia dan lempeng Samudra Pasifik\n\nFaktor yang mengakibatkan Jepang dikenal sebagai negara yang sering mengalami bencana alam berupa gempa bumi dan gunung api meletus adalah yang bernoror...",
+    "opsi": {
+      "A": "1), dan 3)",
+      "B": "2), dan 4)",
+      "C": "1) dan 4)",
+      "D": "2) dan 3)"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Penduduk asli yang terdapat di Negara Amerika Serikat adalah...",
+    "opsi": {
+      "A": "Aborigin",
+      "B": "Hamit",
+      "C": "Ainu",
+      "D": "Indian"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Bangunan bersejarah yang terdapat di Negara Mesir adalah...",
+    "opsi": {
+      "A": "Piramida",
+      "B": "Coloseum",
+      "C": "Tajmahal",
+      "D": "Heoregliph"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Penduduk di Benua Asia terdiri atas tiga ras utama namun ras tersebut telah bercampur sehingga mengalami proses asimilasi antara satu dan lainnya. Ras yang mendominasi kawasan Asia Timur dan Asia Tenggara adalah...",
+    "opsi": {
+      "A": "Kaukasoid",
+      "B": "Mongoloid",
+      "C": "Negroid",
+      "D": "Europoid"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berdasarkan World Population Data Sheet (WDPS, 2015) penduduk usia produktif adalah penduduk yang berusia antara...",
+    "opsi": {
+      "A": "15 – 65 Tahun",
+      "B": "20 – 80 Tahun",
+      "C": "12 – 64 Tahun",
+      "D": "25 – 80 Tahun"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pada tahun 2005 penduduk Benua Amerika diperkirakan mencapai 888.000.000 jiwa, kemudian pada tahun 2015 telah mencapai 987.000.000 jiwa. Hal ini berarti rata-rata pertambahan penduduk dalam satu tahun mencapai...",
+    "opsi": {
+      "A": "99.000 jiwa",
+      "B": "990.000 jiwa",
+      "C": "9.900.000 jiwa",
+      "D": "99.000.000 jiwa"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kondisi penduduk :\n\n1) jumlah penduduknya terbanyak di dunia\n2) sebagian besar penduduknya tergolong usia produktif\n3) mata pencaharian mayoritas penduduknya masih mengandalkan sektor pertanian\n\nPernyataan di atas menggambarkan kondisi penduduk di benua...",
+    "opsi": {
+      "A": "Asia",
+      "B": "Amerika",
+      "C": "Afrika",
+      "D": "Eropa"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kemampuan seseorang untuk melahirkan sesuatu yang baru, baik itu berupa gagasan maupun karya nyata yang relatif berbeda dengan yang ada sebelumnya disebut ....",
+    "opsi": {
+      "A": "wirausaha",
+      "B": "kreativitas",
+      "C": "motivasi",
+      "D": "etos kerja"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Orang-orang yang mempunyai kemampuan melihat dan menangkap peluang bisnis, mengumpulkan sumber daya yang dibutuhkan guna mengambil keuntungan dan mengambil tindakan yang tepat, serta memastikan keberhasilan disebut ....",
+    "opsi": {
+      "A": "wirausahawan",
+      "B": "motivator",
+      "C": "kreator",
+      "D": "pebisnis"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Aset utama era ekonomi baru dalam menciptakan nilai tambah ekonomi lebih mengandalkan pada ....",
+    "opsi": {
+      "A": "sumber daya alam",
+      "B": "sumber daya manusia",
+      "C": "modal",
+      "D": "budaya bangsa"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah modal dalam mengembangkan ekonomi kreatif, kecuali ....",
+    "opsi": {
+      "A": "keadaan geografis",
+      "B": "jumlah penduduk yang banyak",
+      "C": "sumber daya yang melimpah",
+      "D": "kekayaan seni budaya"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Salah satu contoh produk pemanfaatan kekayaan potensi seni budaya daerah dalam ekonomi kreatif adalah ....",
+    "opsi": {
+      "A": "kerajinan tangan dari berbagai daerah di Indonesia",
+      "B": "sistem periklanan yang modern",
+      "C": "penerbitan dan pencetakan buku",
+      "D": "film yang menggunakan teknologi terkini"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Di bawah ini yang bukan merupakan lingkup industri kreatif yang dicanangkan pemerintah, adalah ....",
+    "opsi": {
+      "A": "periklanan",
+      "B": "arsitektur",
+      "C": "seni pertunjukan",
+      "D": "pertanian"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Perdagangan barang- barang asli, unik dan langka serta memiliki nilai estetika seni dan sejarah yang tinggi melalui lelang, galeri, toko, pasar swalayan dan internet, meliputi barang-barang musik, percetakan, kerajinan, automobile, dan film merupakan contoh salah satu lingkup industri kreatif yaitu ....",
+    "opsi": {
+      "A": "periklanan",
+      "B": "arsitektur",
+      "C": "pasar barang seni",
+      "D": "kerajinan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Salah satu lingkup ekonomi kreatif adalah arsitektur. Kegiatan ini berkaitan dengan ....",
+    "opsi": {
+      "A": "jasa periklanan",
+      "B": "desain bangunan",
+      "C": "perdagangan barang seni",
+      "D": "kreasi desain grafis"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Usaha inovatif yang menawarkan penemuan ilmu dan teknologi serta mengambil manfaat terapan dari ilmu dan teknologi gtersebut guna perbaikan produk dan kreasi baru, proses baru, material baru, alat baru, metode baru dan teknologi baru yang dapat memenuhi kebutuhan pasar termasuk dalam lingkup ....",
+    "opsi": {
+      "A": "jasa periklanan",
+      "B": "desain bangunan",
+      "C": "perdagangan barang seni",
+      "D": "riset dan pengembangan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Salah satu tujuan ekonomi kreatif bagi kegiatan ekonomi lokal adalah ....",
+    "opsi": {
+      "A": "mendongkrak hasil kegiatan menembus pasar internasional",
+      "B": "mengenalkan hasil kerajinan bagi masyarakat domestik",
+      "C": "melatih generasi muda untuk berwirausaha",
+      "D": "mengenalkan para pemuda untuk mengembangkan IPTEK"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Contoh kegiatan kreatif yang rutin dilselenggarakan adalah Braga Festival di kota ....",
+    "opsi": {
+      "A": "Semarang",
+      "B": "Yogyakarta",
+      "C": "Bandung",
+      "D": "Jakarta"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jember Fashion Carnival (JFC) merupakan acara seni budaya tahunan yang diselenggarakan pemerintah Kabupaten Jember, Jawa Timur dengan tujuan  ....",
+    "opsi": {
+      "A": "menumbuhkan potensi kreatif daerah",
+      "B": "memberikan modal bagi pengusaha kreatif",
+      "C": "menyeragamkan produk ekonomi kreatif daerah",
+      "D": "menunjukkan eksistensi potensi daerah di tingkat nasional​"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah peran pemerintah dalam kegiatan ekonomi berdasarkan UUD 1945 kecuali....",
+    "opsi": {
+      "A": "mengembangkan koperasi",
+      "B": "mengembangkan BUMN",
+      "C": "memanfaatkan segala sumber kekayaan alam demi kemakmuran rakyat",
+      "D": "aktif dalam kegiatan ekonomi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sistem ekonomi di Indonesia diatur dalam UUD 1945 pasal ....",
+    "opsi": {
+      "A": "32",
+      "B": "33",
+      "C": "34",
+      "D": "35"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berdasarkan UUD 1945, Perekonomian di negara Indonesia merupakan usaha bersama berdasar atas asas ....",
+    "opsi": {
+      "A": "kebersamaan",
+      "B": "kesatuan",
+      "C": "kekeluargaan",
+      "D": "kerakyatan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan termasuk strategi pemerintah dalam mengembangkan ekonomi kreatif adalah ....",
+    "opsi": {
+      "A": "menyiapkan insentif untuk memacu pertumbuhan industri berbasis budaya",
+      "B": "membuat aturan yang mengikat dan tegas bagi pelaku industri kreatif",
+      "C": "membuat roadmap industri kreatif yang melibatkan lembaga pemerintah dan swasta",
+      "D": "membuat program komprehensif untuk menggerakkan industri kreatif"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Updating dan pengembangan database dan portal Indonesia Kreatif serta informasi yang diperlukan berkenaan dengan perkembangan ekonomi kreatif Indonesia diperlukan untuk pemetaan dan penyajian semua informasi yang terkait dengan pelaku usaha ekonomi kreatif. Hal ini adalah salah satu strategi pemerintah melalui kementrian perdagangan dalam bidang ....",
+    "opsi": {
+      "A": "periklanan",
+      "B": "perindustrian",
+      "C": "teknologi informasi",
+      "D": "telekomunikasi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan merupakan bagian subsektor ekonomi kreatif dalam produk abstrak adalah ….",
+    "opsi": {
+      "A": "data",
+      "B": "craft",
+      "C": "software",
+      "D": "advertising"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Peningkatan penggunaan teknologi melalui program kemitraan bertujuan untuk ....",
+    "opsi": {
+      "A": "meningkatkan kemampuan dan keahlian pelaku ekspor atau calon pelaku ekspor ekonomi kreatif dalam menciptakan produk yang berdaya saing tinggi",
+      "B": "memajukan sektor ekonomi kreatif di daerah",
+      "C": "menyediakan segala informasi berkaitan dengan ekonomi kreatif",
+      "D": "menciptakan iklim sehat dalam industry"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Salah satu tujuan wahana kreatif yang dipajang di berbagai tempat wisata dan bandara internasional adalah ....",
+    "opsi": {
+      "A": "sebagai sarana untuk meningkatkan kualitas mutu pelayanan",
+      "B": "sebagai sarana mempromosikan dan memperkenalkan produk kreatif Indonesia",
+      "C": "memperluas pemasaran keluar negeri",
+      "D": "menjalin kerjasaa dengan mitra luar negeri"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Proses pertukaran barang dan jasa antara dua negara atau lebih dengan tujuan mendapatkan keuntungan/laba disebut ....",
+    "opsi": {
+      "A": "perdagangan lokal",
+      "B": "perdagangan antardaerah",
+      "C": "perdagangan antar pulau",
+      "D": "perdagangan internasional"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Apabila suatu Negara dapat menghasilkan komoditi-komoditi tertentu dengan lebih efisien dibandingkan dengan negara lain maka terjadi ....",
+    "opsi": {
+      "A": "kerugian mutlak",
+      "B": "keuntungan mutlak",
+      "C": "keunggulan mutlak",
+      "D": "kelemahan mutlak"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Bila suatu negara mampu memproduksi barang dengan biaya murah dibandingkan dengan negara lain sehingga terdapat suatu laba atau keuntungan maka keuntungan itu disebut .....",
+    "opsi": {
+      "A": "keuntungan mutlak",
+      "B": "keunggulan mutlak",
+      "C": "keunggulan komparatif",
+      "D": "kerugian mutlak"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah komoditas unggulan Indonesia dalam kontribusi pasaran dunia, kecuali ....",
+    "opsi": {
+      "A": "gandum, minyak bumi, emas",
+      "B": "minyak sawit, karet, beras",
+      "C": "tekstil, gandum, kedelai",
+      "D": "kedelai, timah, gandum"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Di bawah ini yang bukan termasuk tantangan yang dihadapi dalam perdagangan internasional adalah ....",
+    "opsi": {
+      "A": "pudarnya identitas kebudayaan",
+      "B": "eksploitasi sumber daya alam besar- besaran",
+      "C": "perubahan teknologi yang semakin maju",
+      "D": "ancaman fisik lingkungan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Cara menanggulangi perubahan identitas seiring masuknya kebudayaan barat masuk ke Indonesia adalah ....",
+    "opsi": {
+      "A": "menyesuaikan budaya kita dengan budaya barat",
+      "B": "menyaring budaya barat yang baik tanpa meninggalkan budaya sendiri",
+      "C": "memadukan budaya barat dengan budaya sendiri",
+      "D": "menerapkan budaya barat sebagai pengganti budaya sendiri"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Langkah nyata yang dapat dilakukan dalam menghadapi era perdagangan bebas adalah ....",
+    "opsi": {
+      "A": "memanfaatkan produk luar negeri sebagai pengganti produk dala negeri",
+      "B": "meningkatkan kualitas produk dalam negeri agar mampu bersaing dengan produk luar negeri",
+      "C": "meminimalisir biaya produksi agar lebih efisien",
+      "D": "mengganti tenaga kerja dengan robot agar lebih baik"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "PT Freeport adalah salah satu perusahaan yang bergerak dalam bidang ....",
+    "opsi": {
+      "A": "perkebunan",
+      "B": "pertambangan",
+      "C": "pertanian",
+      "D": "alat berat"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Salah satu kilang minyak pengolah minyak mentah terbesar yang terdapat di ndonesia adalah ....",
+    "opsi": {
+      "A": "Bandung",
+      "B": "Sukabumi",
+      "C": "Cepu",
+      "D": "Banjarmasin"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Penguasaan atas bumi, air, dan seluruh kekayaan alam yang terkandung di dalamnya untuk sebesar-besar kemakmuran rakyat. Hal ini seperti diatur dalam UUD 1945 pasal ....",
+    "opsi": {
+      "A": "32",
+      "B": "33",
+      "C": "34",
+      "D": "35"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Unit pengolahan minyak di Indonesia yang menjadi pelopor dimulainya eksplorasi minyak di Indonesia adalah ....",
+    "opsi": {
+      "A": "Pangkalan Brandan",
+      "B": "Dumai",
+      "C": "Cilacap",
+      "D": "Balikpapan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Batik merupakan salah satu dari keunggulan ekonomi yang dimiliki oleh Indonesia dapat menembus Pasar Internasional dengan ciri khas tertentu. Berikut ini adalah daerah penghasil batik terkenal di Indonesia, kecuali ....",
+    "opsi": {
+      "A": "Pekalongan",
+      "B": "Solo",
+      "C": "Wonosobo",
+      "D": "Yogyakarta"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perhatikan ciri- ciri berikut ini,\n\n(1) kain dihias dengan tekstur corak batik yang menggunakan tangan\n(2) dibutuhkan cap yang terbuat dari tembaga\n(3) pembuatan relatif lama yaitu sekitar 2-3 bulan\n(4) harga relatif mahal\n(5) pewarnaan menggunakan serat- serat alami\n\nTeknik pembuatan batik tulis ditunjukkan oleh nomor ....",
+    "opsi": {
+      "A": "(1), (2) dan (3)",
+      "B": "(1), (2) dan (4)",
+      "C": "(1), (3) dan (4)",
+      "D": "(2), (3) dan (5)"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perpindahan penduduk dari satu tempat ke tempat lainnya disebut ....",
+    "opsi": {
+      "A": "urbanisasi",
+      "B": "transformasi penduduk",
+      "C": "mobilitas penduduk",
+      "D": "imigrasi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Mobilitas penduduk yang sifatnya menetap dan permanen dalam suatu daerah disebut ....",
+    "opsi": {
+      "A": "migrasi",
+      "B": "komutasi",
+      "C": "sirkulasi",
+      "D": "urbanisasi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perpindahan penduduk dari desa ke kota atau kota kecil ke kota besar disebut ....",
+    "opsi": {
+      "A": "transmigrasi",
+      "B": "imigrasi",
+      "C": "emigrasi",
+      "D": "urbanisasi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Perpindahan penduduk yang sifatnya sementara pada hari yang sama disebut ....",
+    "opsi": {
+      "A": "migrasi",
+      "B": "komutasi",
+      "C": "sirkulasi",
+      "D": "urbanisasi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Bentuk perpindahan penduduk tidak menetap, tetapi ada juga yang menetap atau tinggal untuk sementara waktu di daerah tujuan disebut ....",
+    "opsi": {
+      "A": "migrasi",
+      "B": "komutasi",
+      "C": "sirkulasi",
+      "D": "urbanisasi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Seorang karyawan yang berdomisili di Semarang bekerja di Yogakarta dan menginap di perumahan perusahaan, dengan pulang tiap seminggu kali. hal ini merupakan bentuk ....",
+    "opsi": {
+      "A": "migrasi",
+      "B": "komutasi",
+      "C": "sirkulasi",
+      "D": "imigrasi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kebijakan dimana  pemerintah  tidak  melakukan  diskriminasi  terhadap  impor  atau impor disebut ....",
+    "opsi": {
+      "A": "pasar lokal",
+      "B": "pasar saham",
+      "C": "pasar abstrak",
+      "D": "pasar bebas"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Di bawah ini yang bukan merupakan hal- hal yang ddipromosikan dalam kebijakan perdagangan bebas adalah ....",
+    "opsi": {
+      "A": "Perdagangan barang tanpa pajak termasuk tarif atau hambatan perdagangan",
+      "B": "Perdagangan jasa tanpa pajak atau hambatan perdagangan lainnya.",
+      "C": "Akses ke pasar yang tidak diatur.",
+      "D": "Akses informasi pasar yang diatur."
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Bentuk integrasi ekonomi ASEAN dengan anggota negara-negara yang berada dikawasan Asia Tenggara (ASEAN) dala hal perdagangan bebas dikenal dengan istilah ....",
+    "opsi": {
+      "A": "COSD",
+      "B": "ACT",
+      "C": "MEA",
+      "D": "AFTA"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Wujud dari kesepakatan dari negara-negara ASEAN untuk membentuk suatu kawasan bebas perdagangan dalam rangka meningkatkan daya saing ekonomi kawasan regional ASEAN dengan menjadikan ASEAN sebagai basis produksi dunia adalah ....",
+    "opsi": {
+      "A": "COSD",
+      "B": "ACT",
+      "C": "MEA",
+      "D": "AFTA"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Tujuan utama dari MEA (Masyarakat ekonomi ASEAN) adalah ....",
+    "opsi": {
+      "A": "menguasai perdagangan negara di kawasan Asia Pasifik",
+      "B": "menghilangkan secara signifikan hambatan-hambatan kegiatan ekonomi lintas kawasan ASEAN",
+      "C": "menyaingi negara- negara maju dalam perdagangan",
+      "D": "mempermudah akses perdagangan negara- negara berkembang di kawasan ASEAN"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "MEA akan dibentuk sebagai kawasan ekonomi dengan tingkat  kompetisi yang tinggi. Beberapa kebijakan di bawah ini diambil untuk mewujudkan hal tersebut, kecuali ....",
+    "opsi": {
+      "A": "Competition policy",
+      "B": "consumer protection",
+      "C": "Intellectual Property Rights (IPR)",
+      "D": "safe policy"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan merupakan tujuan AFTA adalah ....",
+    "opsi": {
+      "A": "Menjadikan kawasan ASEAN sebagai tempat produksi yang kompetitif",
+      "B": "Menarik lebih banyak Foreign Direct Investment (FDI)",
+      "C": "Meningkatkan perdagangan antar negara anggota ASEAN (intra-ASEAN Trade)",
+      "D": "menjadikan negara- negara ASEAN sebagai penguasa perdagangan di dunia"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Organisasi APEC merupakan organisasi yang betujuan untuk meningkatkan kesejahteraan dan pertumbuhan ekonomi di kawasan ....",
+    "opsi": {
+      "A": "Asia",
+      "B": "Eropa",
+      "C": "Asia Pasifik",
+      "D": "Asia tenggara"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pemrakarsa organisasi APEC adalah ....",
+    "opsi": {
+      "A": "perdana Menteri Malaysia",
+      "B": "Presiden RI",
+      "C": "Perdana Menteri Australia",
+      "D": "Presiden Singapura"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Dibawah ini adalah tujuan dibentuknya MEE (Masyarakat Ekonomi Eropa), kecuali ....",
+    "opsi": {
+      "A": "Integrasi Eropa dengan cara menjalin kerja sama ekonomi, memperbaiki taraf hidup, dan memperluas lapangan kerja",
+      "B": "memajukan perdagangan dan menjamin adanya persaingan bebas serta keseimbangan perdagangan antarnegara anggota",
+      "C": "mengatasi persaingan dengan negara- negara berkembang di Asia",
+      "D": "Meluaskan hubungan dengan negara-negara selain anggota MEE"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Organisasi perdagangan dunia merupakan satu-satunya badan internasional yang mengatur masalah perdagangan antarnegara adalah ....",
+    "opsi": {
+      "A": "WTO",
+      "B": "MEE",
+      "C": "AFTA",
+      "D": "APEC"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pada Tanggal berapa MPR mengadakan Sidang Istimewa untuk menentapkan langkah pemerintah dalam melaksanakan reformasi di segala bidang…",
+    "opsi": {
+      "A": "8-10 November 1998",
+      "B": "10-13 November 1998",
+      "C": "14-16 November 1998",
+      "D": "17-20 November 1998"
+    },
+    "jawaban_benar": "B"
+  }
+]

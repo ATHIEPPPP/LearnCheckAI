@@ -1,0 +1,3241 @@
+=== MATERI FISIKA ===
+
+[Materi #1]
+Topik (otomatis): benda, gerak, bersifat, relatif
+Inti konsep: keadaan si pengamat terhadap benda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gerak benda selalu bersifat relatif. Hal ini berarti bahwa bergerak atau tidaknya suatu benda di tentukan oleh ….
+
+[Materi #2]
+Topik (otomatis): satuan, kelajuan
+Inti konsep: m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Satuan kelajuan dalam SI adalah ….
+
+[Materi #3]
+Topik (otomatis): gerak, benda, bergerak, lintasan
+Inti konsep: gerak parabola
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gerak benda yang bergerak dengan lintasan berbentuk setengah lingkaran adalah ….
+
+[Materi #4]
+Topik (otomatis): menyebabkan, benda, mengalami, gerak
+Inti konsep: Gaya gravitasi bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Apa yang menyebabkan benda mengalami gerak parabola ….
+
+[Materi #5]
+Topik (otomatis): mobil, kelajuan, jam, berjalan
+Inti konsep: 25 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil dengan kelajuan 90 km/jam berjalan dari Jakarta menuju semarang. Kecepatan mobil tersebut jika di nyatakan dalam SI adalah ….
+
+[Materi #6]
+Topik (otomatis): benda, bergerak, jatuh, bebas
+Inti konsep: gerak lurus beraturan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda yang bergerak jatuh bebas dari ketinggian tertentu di sebut ….
+
+[Materi #7]
+Topik (otomatis): perhatikan, pernyataan, berikut, bola
+Inti konsep: 1 dan 4
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut.
+1) Bola yang di lemparkan vertical keatas
+2) Naik sepatu roda di jalan mendatar
+3) Buah kelapa yang jatuh dari pohon
+4) Mobil sedang di rem hingga berhenti
+Yang termasuk gerak lurus berubah beraturan di perlambat adalah ….
+
+[Materi #8]
+Topik (otomatis): gaya, bekerja, benda, mengakibatkan
+Inti konsep: gerak dan bentuk benda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gaya yang bekerja pada sebuah benda akan mengakibatkan perubahan ….
+
+[Materi #9]
+Topik (otomatis): bus, rem, secara, mendadak
+Inti konsep: Hukum I Newton
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika sebuah bus di rem secara mendadak, penumpang yang duduk di dalamnya akan terhempas kedepan. Peristiwa ini adalah contoh berlakunya ….
+
+[Materi #10]
+Topik (otomatis): sifat, inersia, benda, dapat
+Inti konsep: benda cenderung mempertahankan keadaannya yang diam atau bergerak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sifat Inersia Benda dapat di artikan ….
+
+[Materi #11]
+Topik (otomatis): benda, sebesar, bermassa, diam
+Inti konsep: 50 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda bermassa 5 Kg diam diatas tanah. Benda tersebut mengalami percepatan gravitasi sebesar 10 m/s2 . gaya berat yang bekerja pada benda tersebut adalah sebesar ….
+
+[Materi #12]
+Topik (otomatis): sebesar, benda, gaya, bekerja
+Inti konsep: 10 Kg
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gaya sebesar 20 N bekerja pada sebuah benda yang menyebabkan percepatan sebesar 2 m/s2, maka massa benda itu adalah ….
+
+[Materi #13]
+Topik (otomatis): gaya, keluarkan, memindahkan, beban
+Inti konsep: gaya kuasa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gaya yang di keluarkan untuk memindahkan beban pada materi pesawat sederhana di sebut ….
+
+[Materi #14]
+Topik (otomatis): pesawat, sederhana, cocok, gunakan
+Inti konsep: gunting
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pesawat sederhana yang cocok di gunakan memotong kertas adalah ….
+
+[Materi #15]
+Topik (otomatis): keuntungan, mekanis, pesawat, sederhana
+Inti konsep: perbandingan antara gaya beban dan gaya kuasa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keuntungan mekanis sebuah pesawat sederhana adalah ….
+
+[Materi #16]
+Topik (otomatis): keuntungan, mekanis, katrol, tetap
+Inti konsep: 1 kali
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keuntungan mekanis dari katrol tetap sebesar ….
+
+[Materi #17]
+Topik (otomatis): alat-alat, berikut, bekerja, menggunakan
+Inti konsep: gunting, jungkat-jungkit, dan gerobak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat-alat berikut yang bekerja menggunakan prinsip tuas adalah ….
+
+[Materi #18]
+Topik (otomatis): benda, berat, tarik, menggunakan
+Inti konsep: 120N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda dengan berat 120 N di tarik dengan menggunakan sebuah katrol tetap. Besar gaya kuasa yang di perlukan untuk menarik benda adalah ….
+
+[Materi #19]
+Topik (otomatis): tuas, berlaku
+Inti konsep: F x lk = w x lb
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada tuas berlaku rumus ….
+
+[Materi #20]
+Topik (otomatis): tujuan, orang, menggunakan, katrol
+Inti konsep: mengubah energi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tujuan orang menggunakan katrol tetap adalah ….
+
+[Materi #21]
+Topik (otomatis): keuntungan, mekanis, katrol, bergerak
+Inti konsep: 2 kali
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keuntungan mekanis suatu katrol bergerak adalah sebesar ….
+
+[Materi #22]
+Topik (otomatis): lengan, pengungkit, mempunyai, panjang
+Inti konsep: 10 kali
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah pengungkit mempunyai panjang lengan kuasa 3 m dan lengan beban 0,3 m, maka keuntungan mekanisnya adalah ….
+
+[Materi #23]
+Topik (otomatis): zat, dapat, mengalir, sebut
+Inti konsep: fluida
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Zat yang dapat mengalir  di sebut ….
+
+[Materi #24]
+Topik (otomatis): zat, cair, gaya, bekerja
+Inti konsep: Hukum Pascal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gaya yang bekerja pada suatu zat cair dalam ruang tertutup, tekanannya di teruskan oleh zat cair itu kesegala arah sama besar, pernyataan tersebut termasuk ….
+
+[Materi #25]
+Topik (otomatis): benda, zat, cair, celupkan
+Inti konsep: Hukum Archimedes
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu benda yang di celupkan kedalam zat cair sebagian atau seluruhnya, akan mendapatkan gaya tekan keatas yang besarnya sama dengan berat zat cair yang di pindahkan oleh benda tersebut, pernyataan tersebut termasuk ….
+
+[Materi #26]
+Topik (otomatis): satuan, tekanan, zat, cair
+Inti konsep: N/m^2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Satuan tekanan dalam zat cair adalah ….
+
+[Materi #27]
+Topik (otomatis): massa, benda, kecil, air
+Inti konsep: mengapung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika massa jenis benda lebih kecil dari pada massa jenis air, benda tersebut akan ….
+
+[Materi #28]
+Topik (otomatis): massa, benda, sama, air
+Inti konsep: melayang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika massa jenis benda sama dengan massa jenis air, benda tersebut akan ….
+
+[Materi #29]
+Topik (otomatis): massa, benda, besar, air
+Inti konsep: tenggelam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika massa jenis benda lebih besar dari pada massa jenis air, benda tersebut akan ….
+
+[Materi #30]
+Topik (otomatis): alat, bekerja, berdasarkan, prinsip
+Inti konsep: kapal laut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat yang bekerja berdasarkan prinsip hukum Archimedes adalah ….
+
+[Materi #31]
+Topik (otomatis): alat, mengukur, tekanan, gas
+Inti konsep: manometer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat untuk mengukur tekanan gas pada ruang tertutup adalah ….
+
+[Materi #32]
+Topik (otomatis): perubahan, tekanan, udara, dapat
+Inti konsep: memperkirakan cuaca
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perubahan tekanan udara dapat di gunakan untuk ….
+
+[Materi #33]
+Topik (otomatis): alat, mengukur, tekanan, atmosfer
+Inti konsep: barometer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat untuk mengukur tekanan atmosfer ….
+
+[Materi #34]
+Topik (otomatis): drum, air, dasar, berisi
+Inti konsep: 4000 N/m^2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah drum berisi air setinggi 0,4 m dari dasar drum, massa jenis air 1000 kg/m3 dan percepatan gravitasi g=10 m/s2. Jadi tekanan air pada dasar drum tersebut adalah ….
+
+[Materi #35]
+Topik (otomatis): penyemprot, nyamuk, ahonk, ketahui
+Inti konsep: 20 N/m^2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada penyemprot nyamuk di ketahui memiliki luas penampang A= 0,5 m2 , penyemprot nyamuk di gunakan untuk membasmi nyamuk di rumah ahonk, agar penyemprot tersebut bekerja ahonk memberikan gaya sebesar 10 N , jadi tekanan yang di hasilkan penyemprot tersbut adalah ….
+
+[Materi #36]
+Topik (otomatis): besaran, dikelompokkan
+Inti konsep: Besaran pokok dan besaran turunan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran dikelompokkan menjadi dua, yaitu ....
+
+[Materi #37]
+Topik (otomatis): dahulu, orang, sering, menggunakan
+Inti konsep: Meter, Kilogram, Liter
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dahulu orang sering menggunakan anggota tubuh sebagai satuan pengukuran, misalnya seperti dibawah ini, kecuali ....
+
+[Materi #38]
+Topik (otomatis): besaran, dapat, diukur, memiliki
+Inti konsep: Fisika
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran yang dapat diukur dan memiliki satuan disebut besaran ...
+
+[Materi #39]
+Topik (otomatis): besaran, dijabarkan, besaran-besaran, pokok
+Inti konsep: Turunan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran yang merupakan besaran yang dijabarkan dari besaran-besaran pokok dinamakan besaran .....
+
+[Materi #40]
+Topik (otomatis): besaran, panjang, memiliki, satuan
+Inti konsep: Meter
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran panjang memiliki satuan SI berupa...
+
+[Materi #41]
+Topik (otomatis): ampere, satuan, besaran, pkok
+Inti konsep: Kuat arus listrik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ampere adalah satuan SI dari besaran pkok ....
+
+[Materi #42]
+Topik (otomatis): satuan, besaran, waktu
+Inti konsep: Detik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Satuan SI dari besaran waktu adalah ....
+
+[Materi #43]
+Topik (otomatis): berikut, termasuk, besaran, pokok
+Inti konsep: Waktu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk besaran pokok adalah ....
+
+[Materi #44]
+Topik (otomatis): kecepatan, salah, besaran, turunan
+Inti konsep: m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kecepatan merupakan salah satu besaran turunan yang mempunyai satuan ....
+
+[Materi #45]
+Topik (otomatis): besaran, massa, dapat, dijabarkan
+Inti konsep: Massa : Volume
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran massa jenis dapat dijabarkan dari besaran ....
+
+[Materi #46]
+Topik (otomatis): satuan, watt, besaran
+Inti konsep: Daya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Satuan Watt merupakan satuan dari besaran ....
+
+[Materi #47]
+Topik (otomatis): satuan, sistem, internasional, digunakan
+Inti konsep: Seluruh dunia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Satuan Sistem Internasional (SI) digunakan di ....
+
+[Materi #48]
+Topik (otomatis): berikut, satuan, panjang
+Inti konsep: Kiloliter
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan merupakan satuan panjang adalah ....
+
+[Materi #49]
+Topik (otomatis): massa, standar, kilogram, didefinisikan
+Inti konsep: 4⁰C
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Massa standar satu kilogram didefinisikan sebagai massa satu liter air murni pada suhu ...
+
+[Materi #50]
+Topik (otomatis): berikut, tidak, termasuk, satuan
+Inti konsep: Yard
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk Satuan Internasional adalah ....
+
+[Materi #51]
+Topik (otomatis): jarak, dinyatakan, satuan
+Inti konsep: 200.000 cm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jarak 2.000 m jika dinyatakan dalam satuan cm adalah ....
+
+[Materi #52]
+Topik (otomatis): massa, dinyatakan, satuan
+Inti konsep: 20.000.000 mg
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Massa 20 Kg jika dinyatakan dalam satuan mg adalah ....
+
+[Materi #53]
+Topik (otomatis): jarak, pundak, ujung, jari
+Inti konsep: 1 yard
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jarak pundak sampai ujung jari tangan orang dewasa dinamakan ....
+
+[Materi #54]
+Topik (otomatis): inci, sama
+Inti konsep: 2,54 cm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: 1 inci sama dengan ....
+
+[Materi #55]
+Topik (otomatis): kecepatan, mobil, melaju, jam
+Inti konsep: 10
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil melaju dengan kecepatan 36 km/jam. Kecepatan tersebut sama dengan .... m/s
+
+[Materi #56]
+Inti konsep: 1.000
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: 1 g/cm = .... kg/m
+
+[Materi #57]
+Topik (otomatis): satuan, jengkal, tidak, baku
+Inti konsep: Ukuran jengkal orang Indonesia dengan orang Amerika panjangnya berbeda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Satuan jengkal merupakan satuan yang tidak baku dipakai di berbagai negera. Karena contohnya adalah....
+
+[Materi #58]
+Topik (otomatis): mistar, alat, digunakan, mengukur
+Inti konsep: Panjang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mistar adalah alat yang digunakan untuk mengukur ....
+
+[Materi #59]
+Topik (otomatis): mistar, memiliki, ketelitian
+Inti konsep: 1 mm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mistar memiliki ketelitian ....
+
+[Materi #60]
+Topik (otomatis): alat, ukut, memiliki, ketelitian
+Inti konsep: Mikrometer Sekrup
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat ukut yang memiliki ketelitian 0,01 mm adalah ....
+
+[Materi #61]
+Topik (otomatis): berikut, alat-alat, mengukur, waktu
+Inti konsep: Neraca dua lengan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah alat-alat untuk mengukur waktu, kecuali ....
+
+[Materi #62]
+Topik (otomatis): benda, mempunyai, massa, bergerak
+Inti konsep: Kinetik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Setiap benda yang mempunyai massa bergerak dengan kecepatan tertentu sehingga memiliki energi ....
+
+[Materi #63]
+Topik (otomatis): ukuran, derajat, panas, dingin
+Inti konsep: Suhu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ukuran derajat panas dan dingin suatu benda tersebut dinyatakan dengan besaran .....
+
+[Materi #64]
+Topik (otomatis): sistem, internasional, terdapat, besaran
+Inti konsep: Panjang, Massa, Waktu, Kuat arus listrik, Suhu, Jumlah zat dan Intensitas cahaya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam Sistem Internasional (SI) terdapat 7 besaran pokok yaitu ....
+
+[Materi #65]
+Topik (otomatis): satuan, apabila, digunakan, pun
+Inti konsep: Baku
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Satuan yang apabila digunakan oleh siapa pun akan menghasilkan hasil pengukuran yang
+sama dinamakan satuan ....
+
+[Materi #66]
+Topik (otomatis): alat, mengukur, suhu
+Inti konsep: Termometer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat untuk mengukur suhu adalah ....
+
+[Materi #67]
+Topik (otomatis): besaran, satuan, fisika, kilogram
+Inti konsep: Newton
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di dalam fisika besaran dengan satuan kilogram (kg) adalah besaran massa. Sedangkan berat (w) mempunyai satuan ....
+
+[Materi #68]
+Topik (otomatis): satuan, tidak, baku
+Inti konsep: Jengkal, kaki, depa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh satuan tidak baku adalah ....
+
+[Materi #69]
+Topik (otomatis): titik, tetap, diberi, angka
+Inti konsep: 212
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Termometer Fahrenheit Titik tetap bawah diberi angka 32 dan titik tetap atas diberi angka ....
+
+[Materi #70]
+Topik (otomatis): termometer, umum, digunakan, zat
+Inti konsep: Raksa atau alkohol
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Termometer yang umum digunakan adalah termometer zat cair dengan pengisi pipa kapilernya adalah ....
+
+[Materi #71]
+Topik (otomatis): satuan, diantara, syarat, bisa
+Inti konsep: Bersifat tetap dan berlaku dimana saja
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Diantara syarat sebuah satuan bisa menjadi satuan Internasional adalah ....
+
+[Materi #72]
+Topik (otomatis): diukur, suhu, benda, saat
+Inti konsep: 50°F
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suhu suatu benda saat diukur dengan termometr Celcius adalah 10°C. Maka jika diukur dengan termometer Fahrenheit adalah menjadi ....
+
+[Materi #73]
+Topik (otomatis): besaran, volume, turunan, disusun
+Inti konsep: Panjang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Volume merupakan besaran turunan, yang disusun oleh besaran pokok ....
+
+[Materi #74]
+Topik (otomatis): suhu, benda, menggunakan, termometer
+Inti konsep: 64°R
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Doni mengukur suhu suatu benda menggunakan termometer Celcius sebesar 80°C. Suhu benda itu jika diukur menggunakan termometer Reaumur  adalah ....
+
+[Materi #75]
+Topik (otomatis): termometer, perbandingan, skala, temometer
+Inti konsep: 5 : 4 : 9
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perbandingan skala antara temometer Celcius, termometer Reaumur, dan termometer Fahrenheit adalah ....
+
+[Materi #76]
+Topik (otomatis): kawat, arus, amp, mengaliri
+Inti konsep: 240 C.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika arus 4 amp dalam kawat yang mengaliri tepinya memiliki potensial beda 12 volt, sama dengan muatan menit yang mengalir melalui kawat…
+
+[Materi #77]
+Topik (otomatis): listrik, mengalir, konduktor, muatan
+Inti konsep: 2 mA
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika muatan listrik 6 x 10-2 C mengalir dalam konduktor selama 30 detik, arus listrik kuat yang mengalir dalam konduktor ini adalah ..
+
+[Materi #78]
+Topik (otomatis): kawat, sepotong, pemandu, memiliki
+Inti konsep: 4 x 10 – 4 ohm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sepotong kawat pemandu memiliki panjang 50 cm, luas penampang 2 mm 2 dan hambatan listrik 100 ohm. Dengan demikian, resistansi jenis kawat adalah sama
+
+[Materi #79]
+Topik (otomatis): ohm, dihubungkan, resistor, secara
+Inti konsep: 7,61 volt
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tiga resistor 3 ohm, 4 ohm dan 6 ohm dihubungkan secara paralel, kemudian kedua ujungnya dihubungkan ke baterai dengan EMF 8 volt dan resistansi internal 2/3 ohm. Tegangan pemerasan dari rangkaian adalah. . . .
+
+[Materi #80]
+Topik (otomatis): perlawanan, konduktor, dapat, ditingkatkan
+Inti konsep: meningkatkan perbedaan potensial
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perlawanan konduktor dapat ditingkatkan dalam satu cara . . .
+
+[Materi #81]
+Topik (otomatis): kawat, faktor-faktor, menentukan, ketahanan
+Inti konsep: semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor-faktor yang juga menentukan ketahanan kawat logam adalah
+(1) kawat panjang
+(2) kawat suhu
+(3) area kawat penampang
+(4) Jenis bahan kawat
+Susunan yang benar adalah. . . .
+
+[Materi #82]
+Topik (otomatis): terhubung, baterai, listrik, kabel
+Inti konsep: 6 amp
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kabel koneksi yang terhubung ke baterai 6 volt menghantarkan arus listrik 0,5 ampere. Ketika kawat dipotong menjadi dua panjang yang sama dan terhubung secara paralel ke baterai, listrik sekarang mengalir. . .
+
+[Materi #83]
+Topik (otomatis): lampu, listrik, diberi, label
+Inti konsep: 110 volt
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah lampu listrik diberi label dengan 100 W / 220 V sehingga lampu menyala dengan daya 25 watt, maka lampu tersebut harus terhubung ke tegangan suplai. . . .
+
+[Materi #84]
+Topik (otomatis): pemanas, listrik, memiliki, resistansi
+Inti konsep: 1 dan 2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pemanas listrik memiliki resistansi 25 ohm, terhubung ke sumber tegangan 250 volt dan bekerja selama 24 jam. maka:
+(1) Arus yang mengalir dalam pemanas adalah 10 amp
+(2) kekuatan pemanasan 2,5 kWatt
+(3) Ketika tarif listrik RP. 50,00 / kWh, saat ini harganya Rp 300,00
+
+Pernyataan yang benar adalah …
+
+[Materi #85]
+Topik (otomatis): -ohm, rintangan, dipasang, secara
+Inti konsep: 2: 3: 1
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tiga rintangan 6-ohm, 4-ohm dan 12-ohm dipasang secara paralel dan terhubung ke tegangan listrik. Perbandingan arus yang mengalir pada setiap resistor adalah …
+
+[Materi #86]
+Topik (otomatis): komponen, diisi, negatif
+Inti konsep: elektron
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Komponen yang diisi negatif adalah …
+
+[Materi #87]
+Topik (otomatis): komponen, diisi, positif
+Inti konsep: proton
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Komponen yang diisi Positif adalah …
+
+[Materi #88]
+Topik (otomatis): atom, terdiri
+Inti konsep: Elektron dan nuklei, keduanya saling mengelilingi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah atom terdiri dari …
+
+[Materi #89]
+Topik (otomatis): berikut, meliputi, partikel-partikel, membentuk
+Inti konsep: Proton dan neutron
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yang berikut, yang meliputi partikel-partikel yang membentuk inti, adalah …
+
+[Materi #90]
+Topik (otomatis): netral, benda, atom, tersusun
+Inti konsep: Proton sama dengan elektron
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda netral adalah benda yang tersusun dari atom netral. Atom dikatakan netral jika jumlahnya ....
+
+[Materi #91]
+Topik (otomatis): jumlah, muatan, listrik, benda
+Inti konsep: Perbedaan proton dan elektron
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jumlah muatan listrik pada suatu benda tergantung pada …
+
+[Materi #92]
+Topik (otomatis): batang, kaca, digosok, kain
+Inti konsep: Elektron dari batang kaca bermigrasi ke syal sutra
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batang kaca digosok dengan kain sutra bermuatan positif karena …
+
+[Materi #93]
+Topik (otomatis): pernyataan, menempel, perhatikan, berikut
+Inti konsep: 1.3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut
+(1). Keripik kertas menempel pada penggaris yang telah digosokkan ke kain
+(2). Balon yang melambung menempel di dinding
+(3). Munculnya petir saat akan turun hujan
+(4). Air naik di kapiler
+Yang merupakan tanda dari listrik statis dalam pernyataan di atas …
+
+[Materi #94]
+Topik (otomatis): objek, ditolak
+Inti konsep: dua objek dengan muatan yang sama
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua objek ditolak jika …
+
+[Materi #95]
+Topik (otomatis): atom, model, diajukan, memiliki
+Inti konsep: Rutherford
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu model atom yang diajukan memiliki kelemahan bahwa model atom ini belum mampu menjelaskan di mana letak elektron dan cara rotasinya terhadap inti atom. Model atom yang memiliki kelemahan tersebut diajukan oleh ….
+
+[Materi #96]
+Topik (otomatis): partikel, dapat, berpindah-pindah, disebut
+Inti konsep: Elektron
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Partikel yang dapat berpindah-pindah disebut….
+
+[Materi #97]
+Topik (otomatis): muatan, kedua, buah, partikel
+Inti konsep: 4 C dan negatif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua buah partikel bermuatan +3 C dan x mengalami gaya Coulomb sebesar 2,7 x 1010 N. Kedua muatan terpisah sejauh 2 m. Jika interaksi yang terjadi antara kedua muatan adalah tarik-menarik, maka nilai dan jenis muatan x adalah ….
+
+[Materi #98]
+Topik (otomatis): buah, hambatan, listrik, dipasang
+Inti konsep: Arus listrik yang mengalir pada ketiga hambatan sama besar.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tiga buah hambatan listrik dipasang secara berdampingan. Pernyataan yang tepat mengenai karakteristik rangkaian tersebut adalah ….
+
+[Materi #99]
+Topik (otomatis): ibu, sebesar, memasak, menggunakan
+Inti konsep: Rp 1.800,00
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ibu memasak menggunakan rice cooker berdaya 40 watt selama 1 jam setiap harinya. Jika biaya listrik per kWh sebesar Rp1.500,00, setiap bulannya ibu harus membayar sebesar …
+
+[Materi #100]
+Topik (otomatis): bunyi, tembok, pantul, kentongan
+Inti konsep: 595 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Agus memukul kentongan di antara dua tembok yang berhadapan. Bunyi pantul dari tembok pertama terdengar 1,5 sekon sesudah kentongan dipukul, disusul bunyi pantul dari dinding kedua 0,5 sekon setelah bunyi pantul pertama. Jika cepat rambat bunyi di udara 340 m/s, maka jarak di antara kedua tembok adalah….
+
+[Materi #101]
+Topik (otomatis): dapat, membaca, jelas, jarak
+Inti konsep: 1,8 dioptri
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seseorang dapat membaca dengan jelas pada jarak paling dekat 45 cm. Agar ia dapat membaca paling jelas pada jarak 25 cm, kekuatan lensa yang diperlukan adalah….
+
+[Materi #102]
+Topik (otomatis): botol, pengamatan, oli, data
+Inti konsep: 2, 4, 5, dan 6
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sekelompok siswa melakukan pengamatan terhadap oli di dalam botol. Data yang diperoleh dalam pengamatan tersebut sebagai berikut.
+
+Volume 550 mL
+Tinggi botol 25 cm
+Luas bidang tutup botol 2,50 cm2
+Suhu oli 25⁰C
+Diameter dasar botol 3 cm
+Massa botol beserta isinya 900 gram
+Berdasarkan data tersebut, yang merupakan besaran pokok adalah ….
+
+[Materi #103]
+Topik (otomatis): larutan, perhatikan, ciri-ciri, berikut
+Inti konsep: 1, 2, dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan ciri-ciri larutan berikut!
+
+Menyebabkan korosi pada logam
+Mengubah warna lakmus biru menjadi merah
+Bilangan pH nya kurang dari 7
+Dalam larutan melepaskan ion hidroksil (OH–)
+Ciri larutan asam ditunjukkan oleh nomor ….
+
+[Materi #104]
+Topik (otomatis): mudah, dapat, perhatikan, sifat-sifat
+Inti konsep: 4 dan 5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan sifat-sifat zat berikut!
+
+Mudah berkarat
+Mudah bersenyawa dengan asam
+Mudah menghantarkan arus listrik
+Tidak dapat terbakar
+Dapat melebur pada suhu tinggi
+Berdasarkan data tersebut, yang merupakan sifat fisika besi adalah ….
+
+[Materi #105]
+Topik (otomatis): benda, memiliki, energi, joule
+Inti konsep: 9,0 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua buah benda P dan Q yang massanya sama bergerak pada bidang datar. Benda P memiliki energi kinetik sebesar 4 joule dan benda Q memiliki energi 9 joule. Jika benda P memiliki kecepatan 6 m/s, maka kecepatan benda Q adalah ….
+
+[Materi #106]
+Topik (otomatis): baja, bersuhu, air, kalor
+Inti konsep: 420 gram
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sepotong baja bersuhu 28⁰C dimasukkan ke dalam 100 gram air bersuhu 38⁰C, sehingga suhu campuran menjadi 35⁰C. Jika kalor jenis air 4.200 J/kg⁰C dan kalor jenis baja X 450 J/kg⁰C, maka massa baja adalah ….
+
+[Materi #107]
+Topik (otomatis): air, memanaskan, pemanas, memiliki
+Inti konsep: 960 sekon
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pemanas air memiliki daya 600 W digunakan untuk memanaskan aor 4 kg bersuhu awal 30⁰C hingga mendidih. Jika kalor jenis air 4.200 J/kg⁰C, maka waktu yang dibutuhkan untuk memanaskan air tersebut adalah ….
+
+[Materi #108]
+Topik (otomatis): mobil, percepatan, ditambah, bermassa
+Inti konsep: 2.000 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil bermassa 800 kg mulai bergerak dengan percepatan 2 m/s2. Jika muatan mobil ditambah 400 kg, agar percepatan mobil menjadi 3 m/s2, maka gaya dorong mesin mobil harus ditambah sebesar ….
+
+[Materi #109]
+Topik (otomatis): atas, perhatikan, peristiwa, berikut
+Inti konsep: 1 dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan peristiwa berikut!
+
+Buah kelapa jatuh bebas ke bumi
+Bola menggelinding di atas lantai yang kasar
+Mengayuh sepeda pada jalan menurun
+Batu kerikil yang dilemparkan ke atas
+Contoh gerak lurus berubah beraturan dipercepat adalah ….
+
+[Materi #110]
+Topik (otomatis): benda, bermuatan, tolak, menolak
+Inti konsep: 10 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda X bermuatan listrik +3q berjarak 10 cm dari benda Y yang bermuatan +2q. Kedua benda tolak menolak dengan gaya 2 N. Jika muatan benda X diperkecil menjadi +1q dan muatan Y diperbesar menjadi +12q, sedangkan jarak X dengan Y didekatkan menjadi 5 cm. Gaya tolak menolak antara benda X dengan Y menjadi ….
+
+[Materi #111]
+Topik (otomatis): belahan, bumi, utara, selatan
+Inti konsep: revolusi bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada selang waktu tertentu, wilayah belahan bumi utara dan selatan akan mengalami musim panas, semi, gugur, dan dingin secara bergantian. Perubahan musim yang terjadi pada belahan bumi utara dan selatan disebabkan oleh ….
+
+[Materi #112]
+Topik (otomatis): partikel, gaya, sangat, susunan
+Inti konsep: (1), (2), dan (3)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan data berikut!
+1) Letak partikel berdekatan
+2) Gaya tarik partikel sangat kuat
+3) Susunan partikel teratur
+4) Susunan partikel tidak teratur
+5) Gaya partikel sangat lemah
+Sifat partikel zat padat ditunjukkan oleh nomor….
+
+[Materi #113]
+Topik (otomatis): mobil, menempuh, waktu, menit
+Inti konsep: 40 km/jam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil menempuh 20 km dalam waktu 30 menit. Dapat dipastikan bahwa mobil tersebut bergerak dengan kecepatan ....
+
+[Materi #114]
+Topik (otomatis): anak, seorang, berlari, kecepatan
+Inti konsep: 200 meter
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang anak berlari dengan kecepatan 10 m/s. Perubahan kedudukan anak tersebut selama 20 detik adalah ....
+
+[Materi #115]
+Topik (otomatis): truk, mula-mula, diam, detik
+Inti konsep: 1,2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah truk yang mula-mula diam, 5 detik kemudian kecepatannya menjadi 6 m/s. Percepatan truk tersebut adalah .... m/s2
+
+[Materi #116]
+Topik (otomatis): mobil, bergerak, kelajuan, jam
+Inti konsep: 40 km
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil bergerak dengan kelajuan 80 km/jam. Jarak yang ditempuh mobil tersebut selama 30 menit sejauh ....
+
+[Materi #117]
+Topik (otomatis): indra, toko, pukul, pergi
+Inti konsep: 1 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indra pergi ke toko buku yang berjarak 1,8 km dari rumahnya pukul 15.00. Agar Indra dapat sampai di toko pukul 15.30, ia harus mengayuh sepedanya dengan kecepatan ....
+
+[Materi #118]
+Topik (otomatis): resti, meter, berjalan, barat
+Inti konsep: 10 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Resti berjalan 6 meter ke barat, kemudian 8 meter ke selatan. Besarnya perpindahan Resti adalah ....
+
+[Materi #119]
+Topik (otomatis): eko, mengendarai, sepeda, motor
+Inti konsep: 15
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Eko mengendarai sepeda motor menempuh jarak 108 km dalam waktu 2 jam, maka kecepatannya adalah … m/s
+
+[Materi #120]
+Topik (otomatis): sekolah, budi, pergi, naik
+Inti konsep: 06.50
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Budi pergi ke sekolah naik sepeda. Jarak dari rumah ke sekolah 1,8 km dan kecepatan sepedanya konstan sebesar 3 m/s. Jika masuk sekolah jam 07.00, paling lambat Budi harus berangkat ke sekolah pukul ….
+
+[Materi #121]
+Topik (otomatis): benda, mula-mula, diam, kemudian
+Inti konsep: 15
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda mula-mula diam kemudian dipercepat 3 m/s2. Setelah 5 detik kecepatannya menjadi … m/s.
+
+[Materi #122]
+Topik (otomatis): benda, mula-mula, diam, kemudian
+Inti konsep: 5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda mula-mula diam, kemudian dipercepat 0,4 m/s2. Jarak yang ditempuh benda setelah bergerak selama 5 detik adalah... m.
+
+[Materi #123]
+Topik (otomatis): mobil, berjalan, direm, hingga
+Inti konsep: 40
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil berjalan 20 m/s direm hingga berhenti dalam waktu 4 detik. Jarak yang ditempuh selama pengereman adalah … m.
+
+[Materi #124]
+Topik (otomatis): adi, mengendarai, sepeda, motor
+Inti konsep: 750 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Adi mengendarai sepeda motor dengan kecepatan 45 km/jam. Jarak yang ditempuh Adi selama 1 menit adalah ....
+
+[Materi #125]
+Topik (otomatis): rudi, berlari, selama, menit
+Inti konsep: 2 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rudi berlari selama 10 menit dan menempuh jarak 1,2 km. Kelajuan Rudi berlari adalah ....
+
+[Materi #126]
+Topik (otomatis): barkah, sekolah, berangkat, pukul
+Inti konsep: 06.40
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Barkah berangkat ke sekolah menggunakan sepeda motor dengan kecepatan 4 m/s. Jika ia sampai ke sekolah pada pukul 07.05 dan jarak dari rumah Barkah ke sekolah 6 km, maka Barkah berangkat dari rumah pada pukul ....
+
+[Materi #127]
+Topik (otomatis): mobil, menempuh, jarak, menit
+Inti konsep: 140 km/jam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil yang sedang melaju menempuh jarak 10 km pada 5 menit pertama, 10 menit berikutnya menempuh jarak 45 km dan 15 menit selanjutnya mobil itu menempuh jarak 15 km. Kecepatan rata-rata dari mobil itu adalah ....
+
+[Materi #128]
+Topik (otomatis): sepeda, motor, jam, bergerak
+Inti konsep: -0,6
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sepeda motor bergerak dengan kecepatan 28 km/jam. Dalam waktu 6 sekon kecepatannya menjadi 16 km/jam. Percepatan rata-rata yang dialami sepeda motor adalah ....m/s2
+
+[Materi #129]
+Topik (otomatis): pengamatan, dilakukan, melakukan, observasi
+Inti konsep: Kualitatif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu pengamatan yang dilakukan dengan melakukan observasi mengenai sifat atau keadaan objek yang diamati dan tidak disajikan dalam bentuk angka merupakan jenis pengamatan….
+
+[Materi #130]
+Topik (otomatis): mengukur, neraca, perhatikan, pernyataan
+Inti konsep: i) dan iv)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut
+i) Dani mengukur berat buku dengan neraca pegas
+ii) Dina mengukur tinggi badannya dengan jangka sorong
+iii) Andi mengukur massa badan dengan neraca Ohauss
+iv) Ani mengukur waktu berlarinya menggunakan stopwatch
+
+Penggunaan alat ukur yang tepat dinyatakan oleh nomor ….
+
+[Materi #131]
+Topik (otomatis): tabung, padat, massa, benda
+Inti konsep: 800 kg/m3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda berbentuk tabung padat dengan jari-jari 3,5 cm dan tinggi 10 cm dimasukkan ke dalam gelas ukur berisi 38,5 mL air. Jika massa tabung padat tersebut 308 g, massa jenis tabung tersebut sebesar ….
+
+[Materi #132]
+Topik (otomatis): zat, memiliki, ciri-ciri, volumenya
+Inti konsep: Cair
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu zat memiliki ciri-ciri volumenya tetap, bentuknya berubah, dan gaya ikat antar partikel lemah. Wujud zat tersebut adalah….
+
+[Materi #133]
+Topik (otomatis): dina, hari, buah, membeli
+Inti konsep: Buah yang dibeli Dina mengalami perubahan kimia, yaitu membusuk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dina membeli buah yang sudah matang dan berencana untuk digunakan sampai esok hari. Ternyata secara tiba-tiba, Dina harus pergi selama empat hari, buah yang dibeli Dina hanya diletakkan di luar dan dibiarkan di udara terbuka. Empat hari kemudian ketika Dina pulang, hal yang ditemuinya adalah ….
+
+[Materi #134]
+Topik (otomatis): zat, cara, pemisahan, berdasarkan
+Inti konsep: Kromatografi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu cara pemisahan zat berdasarkan perbedaan daya serap zat pada medium stasioner disebut dengan ….
+
+[Materi #135]
+Topik (otomatis): raksa, kalor, gram, cair
+Inti konsep: 11.800 J/kg
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lima gram raksa cair akan diubah menjadi raksa dalam bentuk padat. Jika 0,059 kJ kalor dilepaskan oleh raksa pada proses perubahan wujud tersebut, maka kalor lebur raksa sebesar ….
+
+[Materi #136]
+Topik (otomatis): ukurannya, bagi, kedalam, kelompok
+Inti konsep: Jumlah utama dan jumlah turunannya.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ukurannya di bagi kedalam menjadi dua kelompok ialah?
+
+[Materi #137]
+Topik (otomatis): orang, zaman, dahulu, seringnya
+Inti konsep: Kebiasaan, depa, langkah.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada zaman dahulu, orang – orang seringnya menggunakan anggota tubuhnya untuk menjadi sebuah unit pengukuran, contohnya seperti dibawah ini yang benar, kecuali?
+
+[Materi #138]
+Topik (otomatis): ukuran, dimiliki, unit, disebut
+Inti konsep: Fisika.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ukuran yang dimiliki satu unit disebut dengan ukuran?
+
+[Materi #139]
+Topik (otomatis): kuantitas, penjumlahan, jelaskan, utama
+Inti konsep: Turunan.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kuantitas, yang menjadi penjumlahan yang di jelaskan oleh penjumlahan utama, disebutkan dengan kuantitas?
+
+[Materi #140]
+Topik (otomatis): jumlah, panjang, memiliki, satuan
+Inti konsep: Sentimeter.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jumlah panjang yang memiliki satuan SI dalam bentuk?
+
+[Materi #141]
+Topik (otomatis): ampere, unit, sistem, internasional
+Inti konsep: Arus listrik yang kuat.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ampere ialah merupakan unit sistem internasional dari set pokok?
+
+[Materi #142]
+Topik (otomatis): unit, waktu
+Inti konsep: Detik.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unit waktu SI ialah?
+
+[Materi #143]
+Topik (otomatis): dibawah, termasuk, kedalam, penjumlahan
+Inti konsep: Lebar.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dibawah ini yang termasuk kedalam penjumlahan nominal ialah?
+
+[Materi #144]
+Topik (otomatis): speed, set, turunan, unit
+Inti konsep: M / S.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Speed ​​ialah merupakan suatu set turunan yang satu unit?
+
+[Materi #145]
+Topik (otomatis): massa, dapat, konversi, ukuran
+Inti konsep: Massa : volume.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu massa jenis dapat di konversi dari ukuran?
+
+[Materi #146]
+Topik (otomatis): apabila, matamu, ditutup, kamu
+Inti konsep: Tidak ada cahaya yang masuk dari benda ke mata
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Apabila matamu ditutup, kamu tidak dapat melihat benda-benda di sekitarmu,karena ..
+
+[Materi #147]
+Topik (otomatis): kamu, dapat, melihat, siaran
+Inti konsep: Cahaya dari televisi langsung masuk ke matamu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kamu dapat melihat siaran langsung sepakbola piala eropa di televisi karena ....
+
+[Materi #148]
+Topik (otomatis): salah, sifat, bayangan, dibentuk
+Inti konsep: Maya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu sifat bayangan yang dibentuk oleh cermin datar bersifat ....
+
+[Materi #149]
+Topik (otomatis): sinar, datang, pantul, sama
+Inti konsep: 1 dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan bunyi hukum pemantulan:
+
+1. sinar datang, sinar pantul, dan garis normal terletak pada satu bidang datar;
+
+2. sinar datang dan sinar pantul memiliki arah yang sama;
+
+3. sudut sinar datang sama dengan sudut sinar pantul.
+
+Pernyataan yang benar adalah ....
+
+[Materi #150]
+Topik (otomatis): benda, diletakkan, depan, cermin
+Inti konsep: F
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda diletakkan di depan cermin cekung, tetapi tidak terlihat bayangannya di mana pun, berarti benda terletak di titik ....
+
+[Materi #151]
+Topik (otomatis): benda, terletak, cermin, datar
+Inti konsep: 11 buah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda terletak di antara dua cermin datar yang membentuk sudut 300. Jumlah bayangan benda tersebut adalah …
+
+[Materi #152]
+Topik (otomatis): benda, diletakkan, cermin, datar
+Inti konsep: 7 buah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda diletakkan di antara dua cermin datar yang dipasang berhadapan dan membentuk sudut 45 derajat. Hitunglah jumlah bayangan yang terbentuk!
+
+[Materi #153]
+Topik (otomatis): berikut, termasuk, benda, tembus
+Inti konsep: Kaca jendela
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk benda tembus cahaya adalah ....
+
+[Materi #154]
+Topik (otomatis): motor, ahmad, mengendarai, sepeda
+Inti konsep: Motor Ahmad berhenti setelah menabrak anak kecil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ahmad mengendarai sepeda motor dengan kecepatan 72 km/jam. Tiba-tiba ada anak kecil ditengah jalan pada jarak 50 m dari pengendara. Jika motor direm dengan perlambatan konstan sebesar 2 m/s2, peristiwa yang terjadi adalah....
+
+[Materi #155]
+Topik (otomatis): ember, sumur, ketinggian, meter
+Inti konsep: 750
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang kuli menarik ember berisi air sumur bermassa total 5 kg. Ember diikat tali yang kemudian ditarik dari ketinggian 5 meter sampai ketinggian 20 meter dihitung dari dasar sumur. Jika percepatan gravitasi 10 m/s2, maka besar usaha yang dilakukan adalah ... J.
+
+[Materi #156]
+Topik (otomatis): budi, motor, sepeda, kecepatan
+Inti konsep: 34 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Budi berdiri di pinggir jalan kemudian melintas sepeda motor di depannya. Sebelum melewati Budi, pengendara motor tersebut membunyikan klakson dengan frekuensi 900 Hz. Namun yang didengar oleh Budi adalah 1000 Hz. Kecepatan sepeda motor tersebut adalah .... (kecepatan bunyi di udara 340 m/s)
+
+[Materi #157]
+Topik (otomatis): air, logam, suhu, kalor
+Inti konsep: 13,65 0C
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah logam bermassa 2 kg dimasukkan ke dalam wadah berisi 4 liter air. Suhu logam dan air masing-masing adalah 800 C dan 100C. Jika kalor jenis logam 0,11 kal/g. 0C dan kalor jenis air 1 kal/g.0C, suhu keduanya setelah setimbang adalah .... (ρair = 1 g/mL)
+
+[Materi #158]
+Topik (otomatis): nobita, dapat, melihat, menderita
+Inti konsep: 0,1 dioptri
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nobita menderita miopi sehingga dia tidak dapat melihat dengan jelas benda yang berjarak lebih dari 10 meter dari matanya. Kekuatan lensa yang dibutuhkan Nobita agar dapat melihat dengan normal adalah ....
+
+[Materi #159]
+Topik (otomatis): bola, bergerak, lurus, percepatan
+Inti konsep: 36 J
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bola 2 kg bergerak lurus dengan percepatan 2 ms-2 dari keadaan diam. Usaha setelah 3 detik adalah …
+
+[Materi #160]
+Topik (otomatis): gaya, buah, saling, searah
+Inti konsep: 7 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua buah gaya saling searah ke kanan dan besarnya masing-masing 3 N dan 4 N. Besar resultan kedua gaya tersebut adalah ...
+
+[Materi #161]
+Topik (otomatis): benda, bermassa, jatuh, bebas
+Inti konsep: 50 J
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda bermassa 2,5 kg jatuh bebas dari ketinggian 2 meter. Jika percepatan gravitasi 10 m/s2 ,besar energi potensial pada benda tersebut adalah .
+
+[Materi #162]
+Topik (otomatis): yona, menyetrika, baju, setrika
+Inti konsep: Rp. 150
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yona menyetrika baju dengan setrika yang berdaya 250 Watt selama 2 jam. Berapakah biaya yang dihabiskan jika harga per kWh adalah Rp. 300 ....
+
+[Materi #163]
+Topik (otomatis): massa, rapat, mempunyai, dimensi
+Inti konsep: [M][L]-3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Massa jenis atau rapat massa mempunyai dimensi ....
+
+[Materi #164]
+Topik (otomatis): perubahan, peristiwa, terjadinya, frekuensi
+Inti konsep: Efek Dopler
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peristiwa terjadinya perubahan frekuensi yang diterima pendengar akibat adanya perubahan gerak relatif sumber suara, merupakan bunyi dari ….
+
+[Materi #165]
+Topik (otomatis): bawah, besaran-besaran, pokok, kecuali
+Inti konsep: Gaya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini merupakan besaran-besaran pokok kecuali ........
+
+[Materi #166]
+Topik (otomatis): satuan, energi
+Inti konsep: Joule
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Satuan dari energi adalah ..............
+
+[Materi #167]
+Topik (otomatis): motor, berhenti, kecepatan, mengerem
+Inti konsep: 60 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Anak mengendarai motor dengan kecepatan 60 m/s lalu tiba-tiba berhenti mendadak. Motor mengerem selama 2 detik sampai berhenti (kecepatan = 0). Hitung jarak motor mulai dari mengerem sampai berhenti !.
+
+[Materi #168]
+Topik (otomatis): benda, bermassa, didorong, orang
+Inti konsep: 0,2 m/s2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda bermassa 100 kg didorong dua orang dengan masing- masing gaya 40 N, berapakah percepatan benda?
+
+[Materi #169]
+Topik (otomatis): molekul, unsur, tersusun
+Inti konsep: Dua atau lebih atom sejenis yang berikatan secara kimia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Molekul unsur adalah molekul yang tersusun dari...
+
+[Materi #170]
+Topik (otomatis): muatan, jarak, kedua, gaya
+Inti konsep: 2 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua buah muatan Q₁ dan Q₂ berada pada jarak r, sehingga kedua muatan mengalami gaya elektrostatik 18 N. Jika jarak kedua muatan dijauhkan 3 kali semula, maka gaya elektrostatiknya menjadi ....
+
+[Materi #171]
+Topik (otomatis): benda, pernyataan, digosok, terjadi
+Inti konsep: Benda A bermutan listrik positif, benda B bermuatan listrik negatif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut!
+
+(1). Benda A digosok dengan benda X sehingga terjadi perpindahan elektron dari benda A ke benda X.
+
+(2). Benda B digosok dengan benda Y sehinga terjadi perpindahan elektron dari benda Y ke benda B
+
+
+Berdasarkan data di atas, pernyataan di bawah ini yang benar adalah....
+
+[Materi #172]
+Topik (otomatis): listrik, diam, waktu, disebut
+Inti konsep: Listrik statis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Listrik yang diam untuk sementara waktu disebut.....
+
+[Materi #173]
+Topik (otomatis): ilmuwan, melakukan, percobaan, pengaruh
+Inti konsep: Charles Augustin de Coulomb
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ilmuwan yang melakukan percobaan tentang pengaruh antara 2 buah benda bermuatan adalah.....
+
+[Materi #174]
+Topik (otomatis): partkel, terkecil, zat, disebut
+Inti konsep: atom
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah partkel terkecil dari suatu zat disebut.....
+
+[Materi #175]
+Topik (otomatis): atom, bermuatan, positif
+Inti konsep: sama dengan jumlah elektron
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah atom bermuatan positif jika......
+
+[Materi #176]
+Topik (otomatis): benda, buah, bermuatan, sama
+Inti konsep: tolak menolak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ketika dua buah benda bermuatan sama didekatkan, maka benda tersebut akan.....
+
+[Materi #177]
+Topik (otomatis): sisir, bermuatan, listrik, negatif
+Inti konsep: elektron dari rambut pindah ke sisir
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sisir akan bermuatan listrik negatif bila digosok dengan rambut karena ...
+
+[Materi #178]
+Topik (otomatis): listrik, jumlah, muatan, pernyataan
+Inti konsep: 1 dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut!
+
+Muatan listrik yang sejenis saling tolak- menolak
+Benda bermuatan listrik positif jika jumlah elektron lebih banyak daripada jumlah proton
+Muatan listrik yang tidak sejenis tarik-menarik
+Benda bermuatan listrik negatif jika jumlah proton lebih banyak daripada jumlah elektron
+Sifat-sifat dari muatan listrik yang benar sesuai pernyataan adalah nomor ..
+
+[Materi #179]
+Topik (otomatis): benda, mengetahui, muatan, listrik
+Inti konsep: 1 dan 2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Elektroskop dapat digunakan untuk :
+
+mengetahui jenis muatan listrik suatu benda
+mengetahui apakah sebuah benda bermuatan atau tidak
+mengukur banyaknya muatan listrik suatu benda
+
+
+Pernyataan yang benar adalah ..
+
+[Materi #180]
+Topik (otomatis): alat, mengetahui, muatan, listrik
+Inti konsep: elektroskop
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat untuk mengetahui muatan listrik suatu benda adalah....
+
+[Materi #181]
+Topik (otomatis): berikut, elektroskop, kecuali
+Inti konsep: muatan listrik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut merupakan bagian dari elektroskop, kecuali......
+
+[Materi #182]
+Topik (otomatis): kecepatan, jam, setara
+Inti konsep: 10 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kecepatan 36 Km/jam setara dengan ..
+
+[Materi #183]
+Topik (otomatis): kecepatan, jam, setara
+Inti konsep: 20 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kecepatan 72 Km/jam setara dengan ...
+
+[Materi #184]
+Topik (otomatis): kecepatan, jam, setara
+Inti konsep: 25 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kecepatan 90 Km/jam setara dengan ...
+
+[Materi #185]
+Topik (otomatis): kecepatan, setara, jam
+Inti konsep: 54
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kecepatan 15 m/s setara dengan ... km/jam
+
+[Materi #186]
+Topik (otomatis): kota, pak, budi, pukul
+Inti konsep: 11.30
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jarak dari kota A ke kota B adalah 125 km. Pak Budi berangkat dari kota A pukul 09.00 menuju kota B menggunakan kendaraan dengan kecepatan 50 km/jam. Pak Budi akan sampai ke kota B pada pukul ….
+
+[Materi #187]
+Topik (otomatis): kota, pak, heru, pukul
+Inti konsep: 12.00
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jarak dari kota A ke kota B adalah 120 km. Pak Heru berangkat dari kota A pukul 09.00 menuju kota B menggunakan kendaraan dengan kecepatan 40 km/jam. Pak Heru akan sampai ke kota B pada pukul …
+
+[Materi #188]
+Topik (otomatis): mobil, menempuh, jarak, kecepatan
+Inti konsep: 5 Jam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil menempuh jarak 360 km dengan kecepatan 20 m/s. Berapakah waktu yang diperlukan mobil untuk menempuh jarak tersebut?
+
+[Materi #189]
+Topik (otomatis): mobil, menempuh, jarak, mdengan
+Inti konsep: 200 sekon
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil menempuh jarak 2000 mdengan kecepatan 10 m/s. Berapakah waktu yang diperlukan mobil untuk menempuh jarak tersebut?
+
+[Materi #190]
+Topik (otomatis): mobil, menempuh, jarak, kecepatan
+Inti konsep: 300 sekon
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil menempuh jarak 6000 m dengan kecepatan 72 km/jam. Berapakah waktu yang diperlukan mobil untuk menempuh jarak tersebut?
+
+[Materi #191]
+Topik (otomatis): ciri, utama, gerak, lurus
+Inti konsep: Memiliki kecepatan gerak yang tetap
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri utama gerak lurus beraturan adalah ..
+
+[Materi #192]
+Topik (otomatis): syena, kearah, sejauh, meter
+Inti konsep: 200
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Syena berjalan kearah timur sejauh 150 meter, kemudian berbalik kearah barat sejauh 50 meter besar jarak yang ditempuh syena adalah ... m
+
+[Materi #193]
+Topik (otomatis): hardi, kearah, sejauh, meter
+Inti konsep: 100
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hardi berjalan kearah utara sejauh 150 meter, kemudian berbalik kearah selatan sejauh 50 meter besar perpindahan yang ditempuh hardi adalah ... m
+
+[Materi #194]
+Topik (otomatis): patrick, kearah, sejauh, meter
+Inti konsep: 125
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Patrick berjalan kearah timur sejauh 200 meter, kemudian berbalik kearah barat sejauh 75 meter besar perpindahan yang ditempuh patrick adalah ... m
+
+[Materi #195]
+Topik (otomatis): apakah, benda, diam, dapat
+Inti konsep: Tidak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Apakah benda yang diam dapat dikatakan bergerak lurus beraturan ?
+
+[Materi #196]
+Topik (otomatis): sepeda, melaju, kecepatan, kearah
+Inti konsep: 600 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah sepeda melaju pada dengan kecepatan 2 m/s kearah timur selama 5 menit, tentukan besar jarak yang ditempuh sepeda tersebut ...
+
+[Materi #197]
+Topik (otomatis): sepeda, melaju, kecepatan, kearah
+Inti konsep: 1500 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah sepeda melaju pada dengan kecepatan 3 m/s kearah timur selama 500 s , tentukan besar jarak yang ditempuh sepeda tersebut ...
+
+[Materi #198]
+Topik (otomatis): mobil, kecepatan, melaju, kota
+Inti konsep: B
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jarak Kota Banjarmasin ke kota banjarbaru 34,1 Km. Terdapat 4 mobil dengan kecepatan berbeda menuju banjarbaru dari banjarmasin pada waktu yang sama. Apabila mobil A melaju dengan kecepatan 72 km/jam, Mobil B melaju dengan kecepatan 90 km/jam, mobil C melaju dengan kecepatan 20 m/s dan mobil D dengan kecepatan 15 m/s. Mobil manakah yang akan sampai lebih cepat!
+
+[Materi #199]
+Topik (otomatis): berikut, besaran, pokok, kecuali
+Inti konsep: luas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan besaran pokok, kecuali ....
+
+[Materi #200]
+Topik (otomatis): peristiwa, berikut, tidak, mempunyai
+Inti konsep: Penerjun payung bergerak turun ke bawah walaupun tidak didorong dari atas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peristiwa berikut yang tidak mempunyai hukum kelembaman adalah....
+
+[Materi #201]
+Topik (otomatis): benda, gaya, sebesar, bekerja
+Inti konsep: 3,5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah gaya sebesar 70 N bekerja selama 0,05 sekon pada sebuah benda yang diam. Impuls yang diberikan pada benda tersebut adalah....Ns
+
+[Materi #202]
+Topik (otomatis): notasi, ilmiah, bilangan
+Inti konsep: 2,2157 x 10-8
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Notasi ilmiah bilangan 0,000 000 022157 adalah ....
+
+[Materi #203]
+Topik (otomatis): pekerjaan, berikut, dapat, dilakukan
+Inti konsep: Dengan jas lab
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pekerjaan berikut dapat dilakukan di laboratorium:
+
+[Materi #204]
+Topik (otomatis): jumlah, berikut, termasuk, nominal
+Inti konsep: massa, jumlah zat, arus listrik yang kuat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jumlah berikut termasuk jumlah nominal adalah …
+
+[Materi #205]
+Topik (otomatis): kelompok-kelompok, berikut, secara, eksklusif
+Inti konsep: Usaha, arus kuat, akselerasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kelompok-kelompok berikut secara eksklusif terdiri dari jumlah turunan, kecuali …
+
+[Materi #206]
+Topik (otomatis): hasil, pengukuran, saat, mengukur
+Inti konsep: Empat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Saat mengukur panjang objek, hasil pengukuran adalah 0,04070 meter. Hasil pengukuran mengandung sejumlah … nomor penting.
+
+[Materi #207]
+Topik (otomatis): hasil, pengukuran, luas, pelat
+Inti konsep: 0,187 cm²
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hasil pengukuran luas pelat tipis dengan panjang 1,25 cm dan lebar 0,15 cm sesuai aturan tokoh penting
+
+[Materi #208]
+Topik (otomatis): pembangkit, listrik, tenaga, uap
+Inti konsep: 2.06 x 108 W.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pembangkit listrik tenaga uap menggunakan bahan bakar batu bara dan dapat menghasilkan 206.000.000 watt. Kinerja dalam notasi ilmiah adalah …
+
+[Materi #209]
+Topik (otomatis): tekanan, gaya, per, satuan
+Inti konsep: [ML-1T-2]
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tekanan adalah gaya per satuan luas. Dimensi hasil cetak adalah …
+
+[Materi #210]
+Topik (otomatis): kelompok, ditetapkan, mana, ada
+Inti konsep: kecepatan, berat, percepatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di antara kelompok yang ditetapkan di mana ada kelompok set vektor adalah …
+
+[Materi #211]
+Topik (otomatis): ukuran, vektor, mengikuti, kecuali
+Inti konsep: Upaya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ukuran vektor mengikuti, kecuali …
+
+[Materi #212]
+Topik (otomatis): vektor, sumbu, gaya, membentuk
+Inti konsep: 30 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Vektor gaya F = 20√3 N membentuk sudut 600 dengan sumbu X.
+
+Ukuran komponen vektor pada sumbu Y adalah …
+
+[Materi #213]
+Topik (otomatis): vektor, ukuran, unit, diketahui
+Inti konsep: 15 unit
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Diketahui bahwa ukuran vektor A = 5 unit dan ukuran vektor B = 6 unit. Kedua vektor membentuk sudut 600. Ukuran skalar antara dua vektor adalah …
+
+[Materi #214]
+Topik (otomatis): pernyataan, shift, jarak, objek
+Inti konsep: (1), (2), (3) dan (4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut:
+(1) Shift adalah ukuran vektor
+(2) Jarak adalah kuantitas skalar
+(3) Shift adalah perubahan posisi objek
+(4) Jarak adalah panjang gerakan objek
+
+Pernyataan di atas benar …
+
+[Materi #215]
+Topik (otomatis): yanti, meter, berjalan, timur
+Inti konsep: 50 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yanti berjalan 40 meter ke timur, lalu 30 meter ke selatan. Langkah Yanti dari posisi awal adalah …
+
+[Materi #216]
+Topik (otomatis): titik, bayu, berjalan, sekitar
+Inti konsep: 0
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bayu berjalan di sekitar bidang melingkar dengan diameter 60 m. Dia meninggalkan titik A dan akhirnya berhenti di titik A setelah putaran 3,14 menit. Kecepatan rata-rata Bayuadalah …
+
+[Materi #217]
+Topik (otomatis): benda, objek, awalnya, berdiri
+Inti konsep: 5 m / s2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu objek awalnya berdiri diam dan kemudian bergerak dengan kecepatan 10 m / s pada jarak 10 meter. Akselerasi benda yang dialami benda adalah …
+
+[Materi #218]
+Topik (otomatis): lokomotif, pertama, berhenti, kemudian
+Inti konsep: 30 s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lokomotif pertama berhenti dan kemudian berjalan dengan akselerasi 2 m / s2. Waktu yang dibutuhkan lokomotif untuk melakukan perjalanan 900 m …
+
+[Materi #219]
+Topik (otomatis): benda, percepatan, jatuh, bebas
+Inti konsep: (1), (2), (3) dan (4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda jatuh bebas adalah benda dengan:
+(1) Kecepatan awal adalah nol
+(2) Percepatan = percepatan gravitasi
+(3) Gerakan lurus berubah secara tidak teratur
+(4) Arah akselerasi ke pusat bumi
+
+Pernyataan di atas benar …
+
+[Materi #220]
+Topik (otomatis): batu, jatuh, bebas, puncak
+Inti konsep: 30 ms-1
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah batu jatuh bebas dari puncak menara hingga ketinggian 45 m. Jika akselerasi karena gravitasi adalah 10 ms-2, kecepatan batu saat menyentuh tanah adalah …
+
+[Materi #221]
+Topik (otomatis): peluru, ditembakkan, kecepatan, ms-
+Inti konsep: 45 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peluru ditembakkan pada kecepatan 60 ms-1 dan sudut ketinggian 300. Tinggi maksimum yang bisa dicapai bola adalah …
+
+[Materi #222]
+Topik (otomatis): objek, bergerak, urutan, melingkar
+Inti konsep: Kecepatan konstan, perubahan kecepatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Objek yang bergerak dalam urutan melingkar memiliki …
+
+[Materi #223]
+Topik (otomatis): objek, berputar, secara, teratur
+Inti konsep: 1 / π Hz
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Objek yang berputar secara teratur dengan kecepatan linier 3 ms-1 dan radius 1,5 m. Frekuensi objek adalah ….
+
+[Materi #224]
+Topik (otomatis): mobil, mainan, bergerak, lingkaran
+Inti konsep: 3.6 ms-2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil mainan bergerak dalam lingkaran pada kecepatan linier 1,8 ms-1 dan radius 90 cm. Percepatan centripetal yang dialami oleh mobil mainan adalah …
+
+[Materi #225]
+Topik (otomatis): nilai, ulangan, siswa, rata-rata
+Inti konsep: 45
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nilai rata-rata ulangan matematika dari 39 siswa di suatu kelas adalah 65. Jika nilai seorang siswa yang mengikuti ulangan susulan digabungkan, maka nilai rata-rata ulangan matematika menjadi 64,5. Nilai siswa tersebut adalah ….
+
+[Materi #226]
+Topik (otomatis): nilai, rata-rata, kelompok, siswa
+Inti konsep: 2 : 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nilai rata-rata tes matematika dari kelompok siswa dan kelompok siswi di suatu kelas berturut-turut adalah 5 dan 7. Jika nilai rata-rata di kelas tersebut adalah 6,2, maka perbandingan banyaknya siswa dan siswi adalah ….
+
+[Materi #227]
+Topik (otomatis): data, rata-rata, jangkauan, nilai
+Inti konsep: 6
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu data mempunyai rata-rata 35 dan jangkauan 7. Jika setiap nilai dalam data dikalikan a kemudian dikurangi b, didapat data baru dengan rata-rata 42 dan jangkauan 9. Nilai 7a – b adalah ….
+
+[Materi #228]
+Topik (otomatis): nilai, siswa, rata-rata, sama
+Inti konsep: 16
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam suatu kelas terdapat 30 siswa. Rata-rata nilai mata pelajaran statistika mereka adalah 8. Rata-rata nilai tersebut tetap sama meskipun satu nilai terendah dan satu nilai tertinggi di keluarkan. Jika semua nilai tersebut berupa bilangan cacah satu angka dan tidak semua siswa memperoleh nilai yang sama, maka jumlah nilai tertinggi dan terendah adalah ….
+
+[Materi #229]
+Topik (otomatis): siswa, nilai, memperoleh, diumumkan
+Inti konsep: 99 dan 75
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebanyak sembilan siswa mengikuti tes. Guru mengumumkan bahwa jangkauan data nilai siswa tersebut adalah 25. Jika diumumkan tiga siswa memperoleh nilai 100, satu siswa memperoleh nilai 95, dua siswa memperoleh nilai 93, serta satu siswa memperoleh nilai 76, maka nilai dua siswa yang belum diumumkan tersebut yang paling mungkin adalah ….
+
+[Materi #230]
+Topik (otomatis): diketahui, data, memiliki, mean
+Inti konsep: 10
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Diketahui data : 8, 3, p, 3, 4, 10, q, 4, 12 memiliki mean (rata-rata) 6. Nilai p + q = ….
+
+[Materi #231]
+Topik (otomatis): gaya, dapat, benda, pernyataan
+Inti konsep: (ii) dan (v)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini pernyataan tentang gaya:
+
+(i) Gaya dapat mengubah arah gerak suatu benda
+(ii) Gaya dapat merubah bentuk benda
+(iii) Gaya tidak dapat mengubah ukuran suatu benda
+(iv) Gaya menyebabkan percepatan
+(v) Gaya menyebabkan kecepatan
+
+Dari pernyataan di atas, yang bukan merupakan gaya adalah…..
+
+[Materi #232]
+Topik (otomatis): hukum, gerak, newton, menjelaskan
+Inti konsep: Gerak Benda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hukum gerak Newton menjelaskan aspek tentang…..
+
+[Materi #233]
+Topik (otomatis): hukum, newton, menyatakan, gaya
+Inti konsep: percepatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hukum II Newton menyatakan bahwa gaya sama dengan massa kali…..
+
+[Materi #234]
+Topik (otomatis): kecenderungan, benda, mempertahankan, keadaan
+Inti konsep: inersia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kecenderungan suatu benda dalam mempertahankan keadaan diamnya disebut…..
+
+[Materi #235]
+Topik (otomatis): peristiwa, berhubungan, hukum, newton
+Inti konsep: Seorang pengendara motor tiba-tiba tubuhnya terdorong ke depan pada saat di rem mendadak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peristiwa yang berhubungan dengan Hukum I Newton adalah…..
+
+[Materi #236]
+Topik (otomatis): benda, tali, buah, masing-masing
+Inti konsep: 16 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua buah benda masing-masing massanya  dan  dihubungkan dengan tali dan ditarik dengan gaya tetap 24 N, Maka besar tegangan tali penghubung kedua benda adalah?
+
+[Materi #237]
+Topik (otomatis): fisika, rasa, saat, melakukan
+Inti konsep: Sikap
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Saat melakukan kegiatan ilmiah, gagasan dan pemikiran ilmuan fisika didasari dari rasa ingin tahu yang tinggi, diiringi dengan rasa percaya diri, sikap sisiplin, obyektif,
+
+jujur, dan mau mendengar pendapat orang lain. Hal tersebut merupakan ciri hakikat fisika sebagai….
+
+[Materi #238]
+Topik (otomatis): fakta, konsep, teori, prinsip
+Inti konsep: produk fisika
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fakta, konsep, teori, rumus, prinsip, hukum, dan model merupakan….
+
+[Materi #239]
+Topik (otomatis): pernyataan, menggambarkan, menjelaskan, pola
+Inti konsep: hukum
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pernyataan yang menggambarkan dan menjelaskan pola umum yang terjadi di alam semesta yang didukung oleh bukti ilmiah dan percobaan/eksperimen disebut…
+
+[Materi #240]
+Topik (otomatis): air, laut, mengandung, natrium
+Inti konsep: fakta
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Air laut mengandung natrium klorida. Pernyataan tersebut merupakan produk fisika kategori...
+
+[Materi #241]
+Topik (otomatis): resistor, tegangan, sumber, besarnya
+Inti konsep: prinsip
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hambatan listrik (resistor) ketika dirangkai seri dan dihubungkan dengan sumber tegangan, maka jumlah tegangan pada masing-masing resistor besarnya sama dengan tegangan sumber dan arus yang mengalir pada resistor besarnya sama. Pernyataan tersebut merupakan produk fisika kategori...
+
+[Materi #242]
+Topik (otomatis): data, analisis, menguji, perhatiakan
+Inti konsep: 2 – 1 – 4 – 3 – 5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatiakan langkah-langkah analisis data berikut:
+
+1. Mentabulasi data dengan mengentri kedalam tabel
+
+2. Mengelompokkan data berdasarkan variabel
+
+3. Mendeskripsikan data
+
+4. Menguji kualias data
+
+5. Menguji hipotesis
+
+Urutan langkah analisis data yang benar adalah….
+
+[Materi #243]
+Topik (otomatis): fisika, modern, ruang, lingkup
+Inti konsep: teori relativitas dan radioaktivitas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ruang lingkup fisika secara garis besar terbagi menjadi dua kelompok yaitu fisika klasik dan fisika modern. Fisika modern berkembang pada mulai abad ke-20 sejak ditemukannya
+
+[Materi #244]
+Topik (otomatis): air, garam, kadar, titik
+Inti konsep: 1), 2), dan 3)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Terdapat penilitian yang berjudul “Pengaruh Kadar Garam Terhadap Titik Didih Air”.
+
+Dari judul tesebut maka:
+
+1) Masalah: Bagaimanakah pengaruh kadar garam terhadap kenaikan titik didik air?
+
+2) Hipotesis: Kadar garam berpengaruh pada kenaikan titik didih air
+
+3) Variabel bebas: Jumlah garam; variabel terikat: suhu didih air; variabel kontrol: volume awal air dan jenis wadah untuk memanaskas air.
+
+Pernyataan yang benar adalah…
+
+[Materi #245]
+Topik (otomatis): ayunan, periode, besar, mereka
+Inti konsep: membuat hipotesis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sekelompok peserta didik mengamati permainan ayunan. Salah satu dari mereka mengajukan pertanyaan apakah massa orang yang naik ayunan mempengaruhi
+
+periode getaran dan apakah panjang tali ayunan juga mempengaruhi periode getaran. Mereka membuat dugaan bahwa semakin besar massa orang periode ayunannya makin besar dan makin panjang tali periodenya juga semakin besar. Penggalan narasi
+
+tersebut menggambarkan prosedur ilmiah hingga tahap…
+
+[Materi #246]
+Topik (otomatis): benda, buah, saat, ditimbang
+Inti konsep: 35,6 kg
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua buah benda saat ditimbang masing-masing bermassa 20,45 kg dan 15,2 kg. Jika dua benda tersebut dijadikan satu masanya adalah ….
+
+[Materi #247]
+Topik (otomatis): mengukur, volume, perhatikan, pernyataan
+Inti konsep: 3) dan 4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut!
+
+1) Mengukur tebal buku menggunakan mistar
+
+2) Mengukur volume batu dengan gelas ukur
+
+3) Mengukur volume balok dengan jangka sorong
+
+4) Mengukur kecepatan lari seseorang dengan meteran dan stopwatch
+
+Yang termasuk pengukuran tidak langsung adalah….
+
+[Materi #248]
+Topik (otomatis): pengukuran, berulang, tunggal, hasil
+Inti konsep: 1, 2, dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengukuran berulang dilakukan dengan alasan:
+
+1) Pengukuran tunggal memberikan hasil yang kurang teliti
+
+2) Hasil pengukuran berulang lebih mendekati nilai yang sebenarnya
+
+3) Ketidakpastian pengukuran berulang lebih kecil dari pengukuran tunggal
+
+Pernyataan yang benar adalah…
+
+[Materi #249]
+Topik (otomatis): kemampuan, sama, alat, ukur
+Inti konsep: ketepatan/presisi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat ukur yang baik harus memiliki kemampuan untuk memberikan hasil yang sama dari pengukuran yang dilakukan berulang-ulang dengan cara yang sama. Kemampuan itu disebut….
+
+[Materi #250]
+Topik (otomatis): panjang, lebar, persegi, hasil
+Inti konsep: (35,7 ± 0,05) cm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hasil pengukuran panjang dan lebar persegi panjang, panjang= (15,50 ± 0,05 cm) dan lebar= (2,352 ± 0,005) cm. Keliling persegi panjang tersebut adalah….
+
+[Materi #251]
+Topik (otomatis): berfikir, memecahkan, masalah, secara
+Inti konsep: metode ilmiah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses berfikir untuk memecahkan masalah secara sistematis, empiris, dan terkontrol disebut ...
+
+[Materi #252]
+Topik (otomatis): besaran-besaran, berikut, termasuk, besaran
+Inti konsep: Massa, jumlah zat, kuat arus listrik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran-besaran berikut yang termasuk besaran pokok yaitu ...
+
+[Materi #253]
+Topik (otomatis): panjang, tanah, hasil, pengukuran
+Inti konsep: 192 m2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hasil pengukuran panjang dan lebar sebidang tanah berbentuk empat persegi panjang adalah 15,35 m dan 12,5 m. Luas tanah menurut aturan angka penting adalah ...
+
+[Materi #254]
+Topik (otomatis): benda, ms-, mula-mula, bergerak
+Inti konsep: 6 detik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda mula-mula bergerak dengan kecepatan 6 ms-1 kemudian dipercepat menjadi 8 ms-1, ternyata jarak yang ditempuh sudah sejauh 42 meter. Lama percepatan benda adalah …
+
+[Materi #255]
+Topik (otomatis): gaya, besarnya, benda, massanya
+Inti konsep: 40 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada sebuah benda yang massanya 10 kg bekerja sebuah gaya F arah mendatar besarnya 20 N. bila µs = 0.4 dan µk = 0.2 maka besarnya gaya gesekan adalah ...
+
+[Materi #256]
+Topik (otomatis): juniar, lift, bermassa, berada
+Inti konsep: 420 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Juniar yang bermassa 35 kg berada di dalam lift yang sedang bergerak ke atas dengan percepatan 2 m/s2. Gaya tekanan kaki Juniar pada lantai lift adalah ...
+
+[Materi #257]
+Topik (otomatis): besaran-besaran, berikut, besaran, turunan
+Inti konsep: tekanan, gaya, dan bera
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran-besaran berikut ini yang merupakan besaran turunan adalah ....
+
+[Materi #258]
+Topik (otomatis): besaran-besaran, berikut, semuanya, besaran
+Inti konsep: kuat arus listrik, suhu, dan waktu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran-besaran berikut ini yang semuanya bukan besaran turunan adalah ....
+
+[Materi #259]
+Topik (otomatis): besaran-besaran, berikut, tidak, termasuk
+Inti konsep: jumlah zat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran-besaran berikut ini yang tidak termasuk besaran turunan adalah ....
+
+[Materi #260]
+Topik (otomatis): benda, permukan, bumi, dipindahkan
+Inti konsep: Massa benda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika sebuah benda di permukan bumi dipindahkan ke planet Mars, maka yang tidak mengalami perubahan adalah …
+
+[Materi #261]
+Topik (otomatis): balok, planet, massa, kali
+Inti konsep: 50 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah balok besi beratnya 40 N. Balok tersebut di bawa ke planet X yang mempunyai massa 5 kali massa bumi dan diameternya 2 kali diameter bumi. Berat balok di planet X adalah …
+
+[Materi #262]
+Topik (otomatis): bumi, percepatan, gravitasi, dipermukaan
+Inti konsep: ¼ g
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika percepatan gravitasi dipermukaan bumi adalah g dan jari-jari bumi R, maka percepatan gravitasi di suatu tempat sejauh R dari permukaan bumi adalah ...
+
+[Materi #263]
+Topik (otomatis): diketahui, jarak, meter, letak
+Inti konsep: 0,40 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Diketahui jarak antara m1 (4 kg) dan m2 (9 kg) adalah 1 meter. Letak titik yang kuat medan gravitasinya nol diukur dari m1 arah kekanan adalah …
+
+[Materi #264]
+Topik (otomatis): satelit, orbit, jari, masing
+Inti konsep: v/√2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua buah satelit A dan B mengorbit sebuah planet yang sama, dengan jari jari orbit masing masing berurutan R dan 2R. Bila kecepatan orbit satelit A adalah v, maka kecepatan orbit satelit B adalah …
+
+[Materi #265]
+Topik (otomatis): balok, kecepatan, energi, bergerak
+Inti konsep: 4 Ek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah balok bergerak dengan kecepatan v serta memiliki energi kinetik Ek, jika kecepatan balok dibuat menjadi 2v, maka energi kinetiknya menjadi …
+
+[Materi #266]
+Topik (otomatis): benda, tumbukan, jatuh, bebas
+Inti konsep: 8 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda jatuh bebas dari ketinggian 80 m di atas tanah. Jika terjadi tumbukan elastik sebagaian (e = 0,2), kecepatan pantul benda setelah tumbukan adalah …
+
+[Materi #267]
+Topik (otomatis): sebatang, kayu, memiliki, panjang
+Inti konsep: panjang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebatang kayu memiliki panjang 10 m. Dari pernyataan tersebut yang disebut besaran adalah ....
+
+[Materi #268]
+Topik (otomatis): benang, simpangan, ayunanya, besar
+Inti konsep: (2) dan (4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda yang diikat dengan seutas benang hanya dapat berayun dengan simpangan kecil. Supaya periode ayunanya bertambah besar, maka :
+(1)ayunanya diberi simpangan awal yang lebih besar
+(2)massa bendanya ditambah
+(3)ayunan diberi kecepatan awal
+(4)benang penggantungnya diperpanjang pilihan yang benar adalah …
+
+[Materi #269]
+Topik (otomatis): mobil, bergerak, jalan, lurus
+Inti konsep: 4 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mobil bergerak pada sebuah jalan lurus. Bila jarak yang ditempuh mobil selama 4 sekon adalah 48 m, maka kecepatan awal mobil ( vo ) adalah ...
+
+[Materi #270]
+Topik (otomatis): mobil, jam, jarak, mengalami
+Inti konsep: 56,25 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mobil mengalami perlambatan konstan, kecepatan mula-mula 90 km/jam. Setelah menempuh jarak 100 m kecepatannya menjadi 54 km/jam. Jarak yang masih harus ditempuh sampai mobil berhenti adalah ...
+
+[Materi #271]
+Topik (otomatis): termasuk, gerak, lurus, berubah
+Inti konsep: benda jatuh
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yang termasuk gerak lurus berubah beraturan adalah ....
+
+[Materi #272]
+Topik (otomatis): tali, benda, massanya, gram
+Inti konsep: 0,5 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda yang massanya 50 gram diikat dengan tali kemudian diputar sehingga benda bergerak melingkar beraturan dengan kecepatan sudut 10 rad/s. Jika panjang tali 100 cm dan tegangan pada tali diabaikan, besar gaya sentripetal yang terjadi adalah ...
+
+[Materi #273]
+Topik (otomatis): roda, kecepatan, kedua, bergerak
+Inti konsep: 1 rad/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua buah roda masing-masing memiliki jari-jari 25 cm dan 50 cm. Roda pertama bergerak dengan kecepatan sudut tetap 8 rad/s selama 1 menit. Kedua roda akan menempuh panjang lintasan yang sama bila roda kedua bergerak selama 4 menit dengan kecepatan 0,5 m/s. Kecepatan sudut roda kedua adalah ...
+
+[Materi #274]
+Topik (otomatis): sepeda, roda, gigi, pedal
+Inti konsep: 92,856 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ponigon adalah produk sepeda gunung baru yang didesain sedernikian rupa sehingga dapat melaju dengan kencang. Roda gigi pedal berdiameter 12 cm. sedangkan diameter roda gigi pada torsi belakang 7 cm. dan diameter ban sepeda belakang adalah 65 cm. Berapakah kecepatan linier sepeda jika kecepatan pada pedal adalah 36 km/jam?
+
+[Materi #275]
+Topik (otomatis): roda, kecepatan, sistem, roda-roda
+Inti konsep: 12 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sistem roda-roda menunjukkan roda B dan roda C sepusat, roda B dan roda A dihubungkan dengan tali. Roda A, B dan C memiliki jari-jari masing-masing 30 cm, 15 cm dan 40 cm. Apabila roda A diputar dengan kecepatan sudut 15 raad/s maka kecepatan linear roda C adalah ...
+
+[Materi #276]
+Topik (otomatis): pilihan, berikut, manakah, paling
+Inti konsep: Perpindahan energi akibat perbedaan suhu di dua tempat berbeda termasuk proses pengeluaran dan pemasukan.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dari pilihan berikut ini, manakah yang merupakan definisi paling tepat untuk perpindahan kalor?
+
+[Materi #277]
+Topik (otomatis): berikut, cara, perpindahan, kalor
+Inti konsep: Konduksi, konveksi, radiasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan cara perpindahan kalor yang benar adalah…
+
+[Materi #278]
+Topik (otomatis): pilihan, berikut, manakah, mengalami
+Inti konsep: Air menjadi es
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dari pilihan berikut ini, manakah yang mengalami pembekuan?
+
+[Materi #279]
+Topik (otomatis): air, suhu, kalor, diketahui
+Inti konsep: 251.160 J
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Diketahui 2 kg air memiliki suhu 400 C dan dipanaskan hingga suhu 700 C. Bila kalor jenis airnya adalah 4.186 j/kg0 C, maka berapa kalor yang diserap oleh air tersebut?
+
+[Materi #280]
+Topik (otomatis): perak, logam, kalor, diketahui
+Inti konsep: 184 KJ
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Diketahui sebuah logam perak memiliki massa 8 kg dengan suhu 200 C. Bila suhunya akan dinaikkan hingga 1200 C dan kalor jenis perak adalah 230 J/kg0 C, berapakah kalor yang dibutuhkan logam perak tersebu
+
+[Materi #281]
+Topik (otomatis): pilihan, bawah, paling, tepat
+Inti konsep: Listrik yang dapat berubah-ubah dan dapat mengalir secara terus-menerus.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dari pilihan di bawah ini, yang merupakan definisi paling tepat dari listrik dinamis adalah…
+
+[Materi #282]
+Topik (otomatis): pilihan, berikut, manakah, paling
+Inti konsep: Hasil penumpukan muatan listrik yang terjadi ketika dua benda bukan logam saling bergesekan.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dari pilihan berikut ini, manakah yang merupakan definisi paling tepat dari listrik statis?
+
+[Materi #283]
+Topik (otomatis): penghantar, listrik, diketahui, memiliki
+Inti konsep: 0,003 A
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Diketahui sebuah penghantar memiliki muatan listrik yang mengalir secara konstan sebesar 0,06 C selama 20 s. Maka besar kuat arus listrik dalam penghantar tersebut adalah…
+
+[Materi #284]
+Topik (otomatis): bola, potensial, memiliki, muatan
+Inti konsep: 9.104 volt dan 6.104 volt
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah bola memiliki muatan +6.10-6 C. Tentukanlah potensial titik A dengan jarak 0,6 m dan potensial B berjarak 0,9 dari bola!
+
+[Materi #285]
+Topik (otomatis): lampu, listrik, kuat, arus
+Inti konsep: 9000 C
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kuat arus listrik pada sebuah lampu adalah 250mA. Bila lampu tersebut menyala selama 10 jam, maka tentukanlah muatan listrik yang mengalir pada lampu tersebut!
+
+[Materi #286]
+Topik (otomatis): kawat, kedua, ujung, penghantar
+Inti konsep: 3 Ω
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kedua ujung kawat penghantar memiliki beda potensial 6 volt. Hal ini menyebabkan arus listrik sebesar 2A mengalir. Maka hambatan dalam kawat tersebut adalah…
+
+[Materi #287]
+Topik (otomatis): listrik, laju, aliran, partikel-partikel
+Inti konsep: Arus listrik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Laju aliran partikel-partikel bermuatan listrik yang mengalir melewati suatu rangkaian listrik atau titik adalah definisi dari…
+
+[Materi #288]
+Topik (otomatis): mengalir, penghantar, muatan, sebesar
+Inti konsep: 10 A
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Muatan sebesar 300 C selama 30s mengalir melalui sebuah penghantar. Berapakah kuat arus yang mengalir pada penghantar tersebut?
+
+[Materi #289]
+Topik (otomatis): solder, memiliki, beda, potensial
+Inti konsep: 5 Ω
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah solder memiliki beda potensial 10 V dan kuat arus listriknya adalah 2A. Tentukanlah berapa besar hambatan solder tersebut!
+
+[Materi #290]
+Topik (otomatis): hambatan, rangkaian, resistor, memiliki
+Inti konsep: 2 A
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: 3 resistor memiliki hambatan masing-masing 2 Ω, 4 Ω, dan 3 Ω dan disusun secara seri. Kemudian rangkaian tersebut dikoneksikan dengan ggl total 20 volt dengan hambatan 1 Ω. Berapakah kuat arus pada rangkaian tersebut?
+
+[Materi #291]
+Topik (otomatis): benda, nol, bergerak, lurus
+Inti konsep: (2), (3) dan (5)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika resultan gaya yang bekerja pada sebuah benda sama dengan nol, maka …. (1) benda akan dipercepat (2) benda selalu diam (3) perubahan kecepatan benda nol (4) benda akan bergerak lurus beraturan (5) benda akan bergerak lurus berubah beraturan. Yang benar adalah .....
+
+[Materi #292]
+Topik (otomatis): lift, sewaktu, percepatan, berada
+Inti konsep: 5,0 ms^–2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sewaktu berada di dalam lift yang diam, berat Sandi adalah 500 N. Percepatan gravitasi = 10 ms–2. Sewaktu lift dipercepat, tegangan tali menjadi 750 N. Dengan demikian percepatan lift adalah .....
+
+[Materi #293]
+Topik (otomatis): bumi, planet, jari-jari, rata-rata
+Inti konsep: 4 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Planet Q memiliki jari-jari rata-rata 4 kali jari-jari rata-rata bumi. Adapun percepatan gravitasinya 1/4 kali percepatan gravitasi bumi. Jika massa bumi sebesar m, massa planet Q sebesar ...
+
+[Materi #294]
+Topik (otomatis): ketinggian, bumi, benda, percepatan
+Inti konsep: 0.15 R
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda berada pada ketinggian tertentu diatas permukaaan bumi. Percepatan gravitasi pada ketinggian tersebut sebesar 3/4 g. Jika R adalah jari-jari bumi dan g adalah percepatan gravitasi di permukaan bumi, ketinggian benda adalah .... ( akar 3= 1,732)
+
+[Materi #295]
+Topik (otomatis): bumi, menyusut, setengah, semula
+Inti konsep: massa benda tetap
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika Bumi menyusut menjadi setengah semula, tapi massanya tetap, maka apa yang terjadi dengan massa benda-benda yang ada di permukaan bumi?
+
+[Materi #296]
+Topik (otomatis): planet, matahari, periode, mengitari
+Inti konsep: 704 hari
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jarak rata-rata planet A dan B terhadap Matahari, masing-masing berbanding 4 : 1. Jika periode revolusi planet A mengitari matahari selama 704 hari, maka lama periode planet B mengitari matahari adalah ......
+
+[Materi #297]
+Topik (otomatis): planet, jarak, rata-rata, matahari
+Inti konsep: 9 SA
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perbandingan periode planet A dan B adalah 8 : 27. Jika jarak rata-rata planet A terhadap Matahari adalah 4 satuan astronomi (SA), maka jarak rata-rata planet B terhadap Matahari adalah ......
+
+[Materi #298]
+Topik (otomatis): benda, dilemparkan, atas, kecepatan
+Inti konsep: 600 J
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda 1 kg dilemparkan ke atas dengan kecepatan awal 40 m/s. Besar energi kinetik benda pada saat mencapai ketinggian 20 m dari tanah sebesar .....
+
+[Materi #299]
+Topik (otomatis): benda, saat, energi, jatuh
+Inti konsep: 1/4 h
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda jatuh bebas dari ketinggian h dan pada suatu saat energi kinetiknya tiga kali energi potensialnya. Pada saat itu tinggi benda adalah .....
+
+[Materi #300]
+Topik (otomatis): permukaan, tanah, pegas, balok
+Inti konsep: 0,4 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah balok bermassa 400 gram dijatuhkan dari ketinggian 2 m ke permukaan tanah. Jika pada permukaan tanah terdapat pegas dengan konstanta100 N/m maka pegas akan tertekan sebesar .....
+
+[Materi #301]
+Topik (otomatis): bola, raket, seorang, anak
+Inti konsep: 20 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang anak memukul bola tenis yang massanya 100 gr dengan gaya 10 N menggunakan sebuah raket. Bola menempel pada raket selama 0,2 sekon. Kecepatan bola waktu lepas dari raket adalah .....
+
+[Materi #302]
+Topik (otomatis): lantai, sebuahbenda, jatuh, bebas
+Inti konsep: 2,5 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuahbenda jatuh bebas dari ketinggian 10 m di atas lantai. Jika koefisien restitusi antara bola dengan lantai 0,5 , maka tinggi pantulan pertama adalah .....
+
+[Materi #303]
+Topik (otomatis): bola, tembok, menumbuk, tegak
+Inti konsep: 4 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah bola menumbuk tegak lurus sebuah tembok dengan kecepatan 8 m/s. Jika koefisien tumbukan yang dialami bola dengan tembok adalah 0,5, maka kelajuan bola setelah memantul adalah .....
+
+[Materi #304]
+Topik (otomatis): skate, board, kecepatan, massa
+Inti konsep: 11 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang anak melompat lepas dari skate board yang dinaikinya dengan kecepatan 1 m/det. Bila massa anaknya 20 kg dan massa skate board 2 kg maka besar kecepatan hentakan papan adalah .....
+
+[Materi #305]
+Topik (otomatis): besaran, pokok, panjang, dapat
+Inti konsep: Luas dan tegangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran pokok panjang dapat diturunkan menjadi ....
+
+[Materi #306]
+Topik (otomatis): pengukuran, hasil, panjang, benda
+Inti konsep: Empat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada pengukuran panjang benda, diperoleh hasil pengukuran 0,07060 m. Banyaknya angka penting hasil pengukuran tersebut adalah ....
+
+[Materi #307]
+Topik (otomatis): luas, bujur, sangkar, panjang
+Inti konsep: 5,15 cm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Luas suatu bujur sangkar adalah 26,5 cm2, maka panjang salah satu sisinya adalah ....
+
+[Materi #308]
+Topik (otomatis): tanah, panjang, diketahui, berbentuk
+Inti konsep: 2 AP
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Diketahui sebuah tanah berbentuk persegi panjang dengan panjang 5,125 m dan lebar 2.8 m. Angka penting yang terdapat dalam hasil pengukuran luas tanah tersebut adalah ....
+
+[Materi #309]
+Topik (otomatis): budi, sejauh, berjalan, barat
+Inti konsep: 60 m dan 40 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Budi berjalan ke barat sejauh 50 m lalu berbalik arah ke timur sejauh 10 m. Jarak dan perpindahan yang ditempuh Budi adalah ...
+
+[Materi #310]
+Topik (otomatis): andi, sejauh, selama, sekon
+Inti konsep: 2 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Andi berlari sejauh 50 m ke barat selama 15 sekon lalu berbalik arah ke timur sejauh 10 m selama 5 sekon. Kecepatan rata-rata Andi adalah ....
+
+[Materi #311]
+Topik (otomatis): ari, sekolah, rumah, pukul
+Inti konsep: 06.51
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ari pergi ke sekolah naik sepeda. Jarak dari rumah ke sekolah 2 km dan kecepatan sepedanya konstan sebesar 4 m/s. Jika pelajaran dimulai pukul 07.00, paling lambat Ari harus berangkat dari rumah pukul ....
+
+[Materi #312]
+Topik (otomatis): waktu, rata-rata, seseorang, berjalan
+Inti konsep: 0,8 m/s dan 0,4 m/s ke timur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seseorang berjalan sejauh 60 m ke timur dalam waktu 60 s, kemudian 20 m ke barat dalam waktu 40 s. Kelajuan rata-rata dan kecepatan rata-rata orang tersebut adalah ....
+
+[Materi #313]
+Topik (otomatis): besaran, menyebabkan, benda, dapat
+Inti konsep: Momen inersia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran yang menyebabkan benda dapat melakukan gerak rotasi adalah ....
+
+[Materi #314]
+Topik (otomatis): faktor-faktor, rotasi, benda, pernyataan
+Inti konsep: 2 dan 4
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pernyataan tentang faktor-faktor gerak rotasi
+1) kecepatan sudut
+2) letak sumbu rotasi
+3) bentuk benda
+4) massa benda
+
+Faktor-faktor yang mempengaruhi besar momen inersia adalah .....
+
+[Materi #315]
+Topik (otomatis): bergerak, kedua, tiang, dapat
+Inti konsep: 2 dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Beberapa penerapan Hukum kekekalan momen tum sudut adalah sebagai berikut .....
+1) Seorang peluncur es yang sedang bergerak dan tiba-tiba berpegangan pada tiang mengakibatkan ia berotasi pada tiang menjadi lambat.
+2) Penari balet dalm berputar dapat bergerak cepat bila kedua tangan didekapkan pada kedua bahu.
+3) Peloncat indah dapat bergerak dengan putaran cepat bila kedua tangan dan kaki ditekuk
+
+Pernyataan yang benar adalah .....
+
+[Materi #316]
+Topik (otomatis): kesetimbangan, benda, mengalami, pernyataan
+Inti konsep: (1) dan (3)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikanlah penyataan – pernyataan berikut!
+(1) Benda akan mengalami kesetimbangan pada saat jumlah gaya -gaya yang bekerja sama dengan nol
+(2) Kesetimbangan terjadi pada saat tidak ada gaya yang bekerja
+(3) Benda yang bergerak lurus beraturan mengalami kesetimbangan dinamis
+(4) Benda yang bergerak tidak mungkin mengalami kesetimbangan
+
+Pernyataan yang sesuai dengan konsep kesetimbangan adalah .....
+
+[Materi #317]
+Topik (otomatis): faktor, menentukan, tekanan, zat
+Inti konsep: massa jenis dan kedalaman zat cair
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor yang menentukan tekanan zat cair adalah .....
+
+[Materi #318]
+Topik (otomatis): besarnya, gaya, bekerja, satuan
+Inti konsep: Tegangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besarnya gaya yang bekerja tiap satu satuan luas penampang disebut .....
+
+[Materi #319]
+Topik (otomatis): benda, berikut, tidak, elastis
+Inti konsep: palstisin
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda berikut yang tidak elastis adalah .....
+
+[Materi #320]
+Topik (otomatis): pernyataan, tepat, mengenai, benda
+Inti konsep: besi termasuk benda elastis karena besi akan berubah ke bentuk semula jika gaya luar dihilangkan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pernyataan yang tepat mengenai benda elastis adalah .....
+
+[Materi #321]
+Topik (otomatis): pegas, panjang, mula-mula, kemudian
+Inti konsep: 0,2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah pegas dengan panjang mula-mula 10 cm kemudian diberi beban ternyata panjangnya menjadi 12 cm. Besarnya regangan adalah .....
+
+[Materi #322]
+Topik (otomatis): benda, fluida, dimasukkan, seluruhnya
+Inti konsep: Archimedes
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika sebuah benda dimasukkan ke dalam fluida seluruhnya atau sebagian, benda tersebut akan mendapat gaya angkat ke atas sebesar berat fluida yang dipindahkan. Pernyataan ini disebut hukum .....
+
+[Materi #323]
+Topik (otomatis): gram, air, bersuhu, kalor
+Inti konsep: 72,3 ⁰C
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika 100 gram air bersuhu 80 ⁰C dicampur dengan 200 gram air bersuhu 40 ⁰C (kalor jenis air 1 kalori/gram ⁰C pada suatu wadah yang tidak menyerap kalor, maka suhu akhir campuran adalah .....
+
+[Materi #324]
+Topik (otomatis): berikut, alat, penerapan, hukum
+Inti konsep: Semprot obat nyamuk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut alat yang merupakan penerapan hukum Archimedes, kecuali .....
+
+[Materi #325]
+Topik (otomatis): apabila, fluida, zat, cair
+Inti konsep: Hukum Pascal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Apabila suatu fluida zat cair dalam ruang terisolasi diberi gaya tekan dari luar, maka tekanan tersebut akan diteruskan kesegala arah dan sama besar. Pernyataan tersebut adalah bunyi .....
+
+[Materi #326]
+Topik (otomatis): dongkrak, hidrolik, dibuat, menerapkan
+Inti konsep: Hukum Pascal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dongkrak Hidrolik dibuat dengan menerapkan .....
+
+[Materi #327]
+Topik (otomatis): massa, benda, ringan, air
+Inti konsep: Terapung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bila massa jenis benda lebih ringan dari massa jenis air, maka benda akan mengalami .....
+
+[Materi #328]
+Topik (otomatis): fluida
+Inti konsep: Zat yang mengalir
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fluida adalah .....
+
+[Materi #329]
+Topik (otomatis): ciri, fluida, ideal
+Inti konsep: Tidak kental
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri fluida ideal adalah .....
+
+[Materi #330]
+Topik (otomatis): serangga, dapat, berjalan, permukaan
+Inti konsep: adanya tegangan permukaan air
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Serangga dapat berjalan di permukaan air karena .....
+
+[Materi #331]
+Topik (otomatis): pipa, air, mengalirkan, debit
+Inti konsep: 4000 KG
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu pipa mengalirkan air dengan debit 0,2 m³/s. Massa air yang keluar dari pipa tersebut selama 20 s adalah .....
+
+[Materi #332]
+Topik (otomatis): termometer, suhu, benda, celcius
+Inti konsep: 192 ⁰X
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Termometer Celcius dan Reamur digunakan untuk mengukur suhu suatu benda ternyata jumlah skala yang ditunjukkan oleh kedua termometer = 90⁰. Berapa ⁰C dan ⁰R suhu benda tersebut?
+
+[Materi #333]
+Topik (otomatis): mengapa, rel, kereta, api
+Inti konsep: Agar tidak rusak ketika terjadi pemuaian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mengapa setiap rel kereta api dibuat rebih renggang ?
+
+[Materi #334]
+Topik (otomatis): baja, panjang, perubahan, benda
+Inti konsep: 90 cm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda yang terbuat dari baja memiliki panjang 1500 cm. Berapakah perubahan panjang baja itu jika terjadi perubahan suhu sebesar 50 ⁰C ?
+
+[Materi #335]
+Topik (otomatis): bejana, suhu, panjang, memiliki
+Inti konsep: 3,0003 Liter
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah bejana memiliki volume 3 liter pada suhu 25 ⁰C jika koefisien muai panjang sebuah bejana adalah 2 x 10⁻⁵ ⁰C. Maka panjang bejana pada suhu 75 ⁰C adalah .....
+
+[Materi #336]
+Topik (otomatis): pakaian, berwarna, hitam, cepat
+Inti konsep: Warna hitam lebih banyak menyerap panas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pakaian berwarna hitam lebih cepat kering daripada pakaian berwarna putih karena .....
+
+[Materi #337]
+Topik (otomatis): perpindahan, kalor, disertai, partikel
+Inti konsep: Konveksi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perpindahan kalor yang disertai perpindahan partikel zat disebut .....
+
+[Materi #338]
+Topik (otomatis): system, katrol, gambar, diketahui
+Inti konsep: 2,0 ms⁻²
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada system gambar diketahui mA= 8 kg, mB= 5 kg. Massa katrol = 4 kg dan g= 10 ms⁻². Katrol merupakan silinder pejal dan bergerak rotasi. Maka percepatan system adalah .....
+
+[Materi #339]
+Topik (otomatis): air, keluar, pipa, debit
+Inti konsep: 0,25 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Debit air yang keluar dari pipa yang luas penampangnya 4cm² sebesar 100 cm³/s. Kecepatan air yang keluar dari pipa tersebut adalah ....
+
+[Materi #340]
+Topik (otomatis): sesuai, hukum, archimedes, benda
+Inti konsep: berat yang sama dengan gaya ke atas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sesuai dengan hukum Archimedes, maka benda yang melayang dalam zat cair mempunyai .....
+
+[Materi #341]
+Topik (otomatis): partikel, mempunyai, massa, melakukan
+Inti konsep: 60 cm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah partikel mempunyai massa 0,25 kg, melakukan gerak orbital dan memiliki momen inersia sebesar 9,0 x 10⁻² kg.m². Jari-jari lintasan partikel adalah .....
+
+[Materi #342]
+Topik (otomatis): momen, inersia, benda, berputar
+Inti konsep: Letak sumbu putar dan massa benda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Momen inersia sebuah benda yang berputar tergantung pada .....
+
+[Materi #343]
+Topik (otomatis): gaya, archimedes, bekerja, benda
+Inti konsep: volume benda dan massa jenis benda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gaya Archimedes yang bekerja pada benda saat dimasukkan ke dalam fluida ditentukan oleh .....
+
+[Materi #344]
+Topik (otomatis): tekanan, hidrostatik, dialami, titik
+Inti konsep: Tekanan, gaya dan luas bidang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tekanan hidrostatik yang dialami suatu titik besarnya bergnatung pada .....
+
+[Materi #345]
+Topik (otomatis): kekentalan, zat, cair, dapat
+Inti konsep: Viskositas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kekentalan zat cair dapat disebut pula dengan .....
+
+[Materi #346]
+Topik (otomatis): pernyataan-pernyataan, benar, titik, berat
+Inti konsep: Selalu berada di tengah-tengah benda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pernyataan-pernyataan yang benar tentang titik berat, kecuali .....
+
+[Materi #347]
+Topik (otomatis): pegas, benda, bermassa, digantungkan
+Inti konsep: 400
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda bermassa 2 kg digantungkan pada sebuah pegas sehingga pegas tersebut betambah panjang 5 cm. Konstanta pegas tersebut adalah ..... N/m (g = 10 m/s²)
+
+[Materi #348]
+Topik (otomatis): energi, kinetik, rotasi, benda
+Inti konsep: Semua benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Energi kinetik rotasi suatu benda tegar tergantung pada .....
+
+[Materi #349]
+Topik (otomatis): roda, rad, titik, waktu
+Inti konsep: 0,9
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam waktu 2 sekon sebuah sebuah roda yang berotasi murni,mengalami perubahan kecepatan dari 4 rad/s menjadi 10 rad/ s secara berurutan. Sebuah titik terletak 30 cm dari poros roda. Besar percepatan tangensial yang dialami titik tersebut adalah ..... m/s²
+
+[Materi #350]
+Topik (otomatis): gas, ideal, mengalami, isokhorik
+Inti konsep: gas tidak melakukan usaha.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah gas ideal mengalami proses isokhorik seingga ....
+
+[Materi #351]
+Topik (otomatis): sistem, joule, kalor, sebanyak
+Inti konsep: 500 J
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika kalor sebanyak 4500 joule ditambahkan pada sistem dan sistem melakukan usaha sebesar 4000 joule pasda lingkungan, maka hitunglah perubahan energi dalam sistem ....
+
+[Materi #352]
+Topik (otomatis): mesin, reservoir, suhu, tinggi
+Inti konsep: 1050 K
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mesin carnot mempunyai efisiensi 30% dengan tempratur reservoir suhu tinggi sebesar 750 K. Jika diinginkan efesiensi mesin naik menjadi 50% maka temperatur reservoir suhu tinggi harus dinaikan menjadi?
+
+[Materi #353]
+Topik (otomatis): gelombang, gabus, kedua, puncak
+Inti konsep: 5 m/s dan 1,5 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua buah gabus terapung di permukaan air laut dan berjarak 1,5 m satu sama lain. Kedua gabus berada di puncak gelombang dan diantara kedua gabus terdapat dua puncak gelombang. Jika frekuensi gelombang adalah 10 Hz, kecepatan dan panjang gelombang berturut-turut adlah.....
+
+[Materi #354]
+Topik (otomatis): ujung, simpul, seutas, tali
+Inti konsep: 4,0 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seutas tali yang panjangnya 7 m diikat salah satu ujungnya pada suatu dinding dan ujung lainnya digetarkan secara teratur sehingga terbentuk 8 simpul gelombang staioner. Letak simpul ke-5 dari ujung pantul adalah.....
+
+[Materi #355]
+Topik (otomatis): seutas, tali, panjangnya, salah
+Inti konsep: 2,0 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seutas tali yang panjangnya 3 m, salah satu ujungnya dibiarkan bebas pada suatu tiang dan ujung lainnya digetarkan secara teratur sehingga terbentuk 8 perut gelombang stasioner. Letak simpul ketiga dari sumber getar adalah.....
+
+[Materi #356]
+Topik (otomatis): sifat, gelombang, mengalami, dapat
+Inti konsep: (1), (2), dan (4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sifat umum dari gelombang antara lain :
+
+(1) mengalami difraksi
+
+(2) tidak dapat merambat dalam ruang hampa
+
+(3) bergerak lurus jika melewati dua medium yang berbeda
+
+(4) megalami refleksi
+
+(5) dapat mengalami polarisasi
+
+Dari pernyataan di atas, sifat yang sesuai dengan ciri-ciri gelombang bunyi adalah ....
+
+[Materi #357]
+Topik (otomatis): seutas, dawai, panjangnya, massanya
+Inti konsep: 200 Hz
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seutas dawai panjangnya 80 cm, massanya 0,016 kg, dan teganganya 800 N. Frekuensi nada dasar yang dihasilkan adalah ....
+
+[Materi #358]
+Topik (otomatis): pipa, organa, terbuka, nada
+Inti konsep: 1 : 6
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah pipa organa terbuka memiliki frakuensi nada atas ketiga sama dengan frkuensi nada dasar sebuah pipa organa tertutup bila ditutup pada suhu yang sama. Perbandingan panjang pipa organa terbuka dan tertutup itu adalah ....
+
+[Materi #359]
+Topik (otomatis): intesitas, titik, ledakan, detektor
+Inti konsep: 9 : 7
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Titik P dan Q berjarak masing-masing 10 m daan 100 m dari sumber ledakan. Detektor dipasang pada kedua titik tersebut. Daerah P menerima ledakan deengan intesitas 10-3 watt/m2. Jika intesitas ambang pendengaran 10-12 watt/m2, maka perbandingan taraf intesitas yang ditunjukan kedua detektor tersebut adalah ....
+
+[Materi #360]
+Topik (otomatis): sepeda, motor, kecepatan, jam
+Inti konsep: 1775 Hz
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seseorang mengendarai sepeda motor dengan kecepatan 54 km/jam. Sebuah mobil abulan sambil membunyikan sirine 1800 Hz melaju dengan kecepatan 72 km/jam di depan pengendara sepeda motor dengan arah yang sama. Jika cepat rambat bunyi di udara 340 m/s, maka frekuensi bunyi sirine yang didengar oleh pengendara sepeda motor adalah ....
+
+[Materi #361]
+Topik (otomatis): seberapa, besar, gaya, diberikan
+Inti konsep: momen gaya (torsi)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seberapa besar gaya yang diberikan untuk memutar suatu benda terhadap suatu poros tertentu disebut
+...
+
+[Materi #362]
+Topik (otomatis): penyebab, gerak, rotasi
+Inti konsep: Momen Gaya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penyebab dari gerak rotasi adalah …..
+
+[Materi #363]
+Topik (otomatis): ukuran, besarnya, kecendrungan, berotasi
+Inti konsep: Momen Inersia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ukuran besarnya kecendrungan berotasi yang ditentukan oleh keadaan benda atau partikel penyusunnya adalah ...
+
+[Materi #364]
+Topik (otomatis): titik, berat, segitiga, sama
+Inti konsep: 1/3 tinggi dari alas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Titik berat sebuah segitiga sama kaki adalah ...
+
+[Materi #365]
+Topik (otomatis): titik, berat, bidang, setengah
+Inti konsep: 4R/3π
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Titik berat bidang setengah lingkaran adalah ...
+
+[Materi #366]
+Topik (otomatis): berikut, aplikasi, torsi, kehidupan
+Inti konsep: Membuka baut dengan kunci inggris
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini contoh aplikasi torsi dalam kehidupan sehari-hari, kecuali..
+
+[Materi #367]
+Topik (otomatis): momentum
+Inti konsep: Ukuran kesukaran benda untuk berhenti
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Apa definisi dari momentum?
+
+[Materi #368]
+Topik (otomatis): bola, pemukul, bermassa, dipukul
+Inti konsep: 25 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah bola bermassa 0,1 kg dipukul dari keadaan diam hingga meluncur dengan kecepatan 50 m/s. Jika waktu kontak antara pemukul dan bola adalah 0,2 s, besarnya gaya yang dikerjakan pemukul tersebut adalah...
+
+[Materi #369]
+Topik (otomatis): satuan, momen, gaya
+Inti konsep: Nm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Satuan dari momen gaya adalah ....
+
+[Materi #370]
+Topik (otomatis): benda, papan, meluncur, atas
+Inti konsep: -840 J
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda meluncur di atas papan kasar sejauh 7 m. Jika benda mendapatkan gesekan dengan papan sebesar 120 N, tentukan besarnya usaha yang dilakukan gaya gesek tersebut!
+
+[Materi #371]
+Topik (otomatis): air, energi, terjun, setinggi
+Inti konsep: 500 J
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Air terjun setinggi 20 m dengan debit 50 m3/s dimanfaatkan untuk menggerakkan turbin PLTA. Jika 25% energi air dapat diubah menjadi energi listrik dan massa jenis air 1.000 kg/m3, tentukan daya keluaran generatornya!
+
+[Materi #372]
+Topik (otomatis): mangga, tangkainya, massanya, menggantung
+Inti konsep: 200 J
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah mangga yang massanya 0.5 kg menggantung pada tangkainya dan berada 40 m dari pemukaan tanah. Hitung usaha yang dilakukan mangga jika mangga jatuh bebas dari tangkainya !
+
+[Materi #373]
+Topik (otomatis): biaya, listrik, dinyalakan, rata-rata
+Inti konsep: Rp9.900,00
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah TV dinyalakan rata-rata 6 jam dalam sehari, TV tersebut dihubungkan pada tegangan 220 V dan menarik arus 2,5 A. Jika biaya listrik per kWh sebesar Rp100,00, maka biaya tagihan listrik untuk pemakaian TV selama 30 hari adalah ….
+
+[Materi #374]
+Topik (otomatis): pernyataan, tidak, tepat, mengenai
+Inti konsep: beda potensial antara terminal baterai selalu berbeda dengan nilai GGL baterai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pernyataan yang tidak tepat mengenai listrik arus searah di bawah ini adalah ….
+
+[Materi #375]
+Topik (otomatis): partikel, medan, magnet, bermuatan
+Inti konsep: 0,12 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah partikel bermuatan positif q = 2C bergerak dalam medan magnet homogen B = 20T dengan kecepatan v = 3000 m/s dengan arah yang tegak lurus dengan medan magnet. Gaya Lorentz yang dialami partikel ini sebesar ….
+
+[Materi #376]
+Topik (otomatis): sumber, tegangan, kuat, arus
+Inti konsep: 12 A
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah rangkaian listrik dengan sumber tegangan V memiliki kuat arus 6 A. Jika hambatan dibuat tetap, sedangkan sumber tegangan dinaikkan menjadi 2V, maka kuat arus akan menjadi…
+
+[Materi #377]
+Topik (otomatis): lampu, rangkaian, menyala, salah
+Inti konsep: 1 dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut!
+
+Menyala lebih terang
+Menyala lebih redup
+Jika salah satu lampu dicabut, lampu lain tetap menyala
+Jika salah satu lampu dicabut, lampu lainnya mati
+Terdapat dua buah rangkaian berbeda yang dihubungkan ke sebuah baterai dengan nilai tegangan yang sama. Pada rangkaian pertama, lampu A-B-C dipasang secara paralel sedangkan pada rangkaian kedua lampu D-E-F dipasang secara seri. Sifat di atas yang merupakan sifat rangkaian lampu A-B-C jika dibandingkan dengan lampu D-E-F adalah…
+
+[Materi #378]
+Topik (otomatis): lampu, memiliki, spesifikasi, dipasang
+Inti konsep: 18 kJ
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah lampu memiliki spesifikasi 20 W, 220 V. Jika lampu dipasang pada tegangan 110 V, maka energi listrik yang terpakai dalam 1 jam adalah…
+
+[Materi #379]
+Topik (otomatis): muatan, kedua, terdapat, buah
+Inti konsep: 90 N dan tarik menarik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Terdapat dua buah muatan dengan muatan masing-masing +3 µC dan -3 µC. Kedua muatan terpisah sejauh 3 cm. Besar dan jenis gaya Coulomb antara kedua muatan tersebut adalah…
+
+[Materi #380]
+Topik (otomatis): muatan, memiliki, jarak, gaya
+Inti konsep: F/4
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua buah muatan yang memiliki jarak R memiliki gaya Coulomb sebesar F. Jika jarak kedua muatan diubah menjadi 2R, gaya Coulomb antara kedua muatan tersebut menjadi…
+
+[Materi #381]
+Topik (otomatis): rangkaian, kapasitor, terdapat, buah
+Inti konsep: 96.8 mJ
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Terdapat rangkaian dengan dua buah kapasitor yang disusun seri. Jika kapasitansi kapasitor masing-masing adalah 6 μF dan 12 μF dan beda potensial rangkaian adalah 220 V, energi yang tersimpan adalah…
+
+[Materi #382]
+Topik (otomatis): pernyataan, bawah, sifat, gelombang
+Inti konsep: Merupakan gelombang longitudinal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pernyataan di bawah ini yang bukan sifat gelombang elektromagnetik adalah … .
+
+[Materi #383]
+Topik (otomatis): sifat, gelombang, elektromagnetik
+Inti konsep: Memerlukan medium
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yang bukan merupakan sifat gelombang elektromagnetik adalah … .
+
+[Materi #384]
+Topik (otomatis): urutan, gelombang, elektromagnetik, frekuensi
+Inti konsep: Sinar gamma, ultraviolet, inframerah, gelombang mikro
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Urutan jenis gelombang elektromagnetik dari frekuensi besar ke kecil adalah … .
+
+[Materi #385]
+Topik (otomatis): gelombang, elektromagnetik, periode, sekon
+Inti konsep: Sinar ultraviolet
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gelombang elektromagnetik dengan periode 10^-15 sekon (cepat rambat dalam ruang hampa 3 x 10^8 m/s) merupakan … .
+
+[Materi #386]
+Topik (otomatis): gelombang, elektromagnetik, mempunyai, daerah
+Inti konsep: Gelombang radio
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gelombang elektromagnetik yang mempunyai daerah frekuensi 10^4 Hz sampai 10^7 Hz adalah … .
+
+[Materi #387]
+Topik (otomatis): gelombang, elektromagnetik, merambat, ruang
+Inti konsep: 15 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gelombang elektromagnetik merambat dalam ruang hampa dengan kecepatan 3 x 10^8 m/s. Apabila frekuensi gelombang tersebut 20 MHz, maka panjang gelombangnya adalah … .
+
+[Materi #388]
+Topik (otomatis): gelombang, spektrum, seorang, siswa
+Inti konsep: 3,1,4,2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang siswa menyusun spektrum gelombang elektromagnetik dari panjang gelombang terbesar sebagai berikut:
+1. Inframerah
+2. Ultraviolet
+3. Gelombang televisi
+4. Cahaya tampak
+
+Urutan spektrum yang benar seharusnya … .
+
+[Materi #389]
+Topik (otomatis): kegunaan, sinar, inframerah, kehidupan
+Inti konsep: Remote control
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegunaan sinar inframerah dalam kehidupan sehari-hari adalah … .
+
+[Materi #390]
+Topik (otomatis): kegunaan, sinar, ultraviolet, kehidupan
+Inti konsep: Fotosintesis pada tanaman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegunaan sinar ultraviolet dalam kehidupan sehari-hari adalah … .
+
+[Materi #391]
+Topik (otomatis): pesawat, radar, selang, waktu
+Inti konsep: 6 x 10^7 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Selang waktu yang digunakan pesawat radar untuk menangkap sinyal adalah 0,4 sekon. jarak antara pesawat radar dan sasaran yang dituju oleh pesawat tersebut adalah … .
+
+[Materi #392]
+Topik (otomatis): radar, gelombang, elektromagnetik, bermanfaat
+Inti konsep: Mendeteksi posisi keberadaan pesawat terbang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Radar adalah gelombang elektromagnetik yang bermanfaat untuk … .
+
+[Materi #393]
+Topik (otomatis): kegunaan, sinar, kehidupan, manusia
+Inti konsep: Menganalisis struktur kristal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegunaan sinar x dalam kehidupan manusia adalah … .
+
+[Materi #394]
+Topik (otomatis): gelombang, elektromagnetik, dapat, merusak
+Inti konsep: Sinar gamma
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pemanfaatan gelombang elektromagnetik dalam pengobatan memiliki efek menyembuhkan dan dapat merusak. Jenis gelombang elektromagnetik yang energinya paling besar sehingga dapat merusak jaringan sel manusia adalah … .
+
+[Materi #395]
+Topik (otomatis): sinar, gamma, gelombang, elektromagnetik
+Inti konsep: Kanker dan mandul
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sinar gamma merupakan gelombang elektromagnetik yang sangat berbahaya pada makhluk hidup, karena sinar gamma dapat menyebabkan … .
+
+[Materi #396]
+Topik (otomatis): gelombang, elektromagnetik, dapat, menyebabkan
+Inti konsep: Ultraviolet
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis gelombang elektromagnetik yang dapat menyebabkan terjadinya kanker kulit adalah … .
+
+[Materi #397]
+Topik (otomatis): jembatan, panjangnya, meter, berapakah
+Inti konsep: 80 meter
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah jembatan panjangnya 100 meter, berapakah panjang jembatan jika diamati oleh orang yang berada dalam pesawat yang bergerak dengan kecepatan 0,6 c ?
+
+[Materi #398]
+Topik (otomatis): pesawat, stasiun, seorang, pengamat
+Inti konsep: 24/25 c
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang pengamat di stasiun ruang angkasa mengamati adanya dua pesawat antariksa A dan B yang datang menuju stasiun tersebut dari arah yang berlawanan dengan laju vA = vB = ¾ c (c adalah cepat rambat cahaya). Kelajuan pesawat A menurut pilot pesawat B adalah…
+
+[Materi #399]
+Topik (otomatis): pesawat, laju, robot, bergerak
+Inti konsep: 0,98 c
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah pesawat antariksa bergerak menjauhi bumi dengan laju 0,9 c sambil menembakkan robot searah dengan arah gerak pesawat. Robot bergerak dengan laju 0,7 c realtif terhadap pesawat. Berapakah laju relatif robot terhadap bumi …
+
+[Materi #400]
+Topik (otomatis): besaran-besaran, bawah, nilainya, sama
+Inti konsep: laju cahaya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dari besaran-besaran di bawah ini, yang nilainya selalu sama untuk kerangka acuan pengamatan adalah … .
+
+[Materi #401]
+Topik (otomatis): roket, bumi, panjang, bergerak
+Inti konsep: 60 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah roket waktu diam di bumi mempunyai panjang 100 m. Roket tersebut bergerak dengan kecepatan 0,8 c (c = kecepatan cahaya dalam vakum). Menurut orang di bumi, panjang roket tersebut selama bergerak adalah (dibulatkan)…
+
+[Materi #402]
+Topik (otomatis): benda, diukur, panjang, saat
+Inti konsep: 0,6 c
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Panjang benda diukur saat bergerak menyusut 20 cm dari panjangnya saat diukur dalam keadaan diam. Bila panjang benda diukur dalam keadaan diam panjangnya 1 m dan c = kecepatan cahaya, maka kecepatan gerak benda tersebut adalah…
+
+[Materi #403]
+Topik (otomatis): pesawat, bumi, menurut, panjang
+Inti konsep: 0,8 L
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah pesawat antariksa melewati bumi dengan kelajuan 0,6 c. Menurut penumpang pesawat panjang pesawat L, maka menurut orang di bumi panjang pesawat adalah …
+
+[Materi #404]
+Topik (otomatis): astronot, saudara, angkasa, umur
+Inti konsep: 39,2 tahun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang astronot yang memiliki saudara kembar pergi ke ruang angkasa pada umur 32 tahun menggunakan pesawat luar angkasa yang melaju dengan kecepatan hingga mencapai 80% kecepatan cahaya. Astronot tersebut kembali ke bumi dan pada saat itu saudara kembarnya sudah berumur 44 tahun. Berapakah umur saudara kembarnya menurut astronot yang baru kembali ke bumi … .
+
+[Materi #405]
+Topik (otomatis): peristiwa, terjadi, menurut, pengamat
+Inti konsep: 1,8 s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu peristiwa terjadi selama 3 s menurut pengamat yang bergerak menjauhi peristiwa itu dengan kecepatan 0,8 c (c = kecepatan cahaya). Menurut pengamat yang diam, peristiwa itu terjadi dalam selang waktu…
+
+[Materi #406]
+Topik (otomatis): massa, benda, diam, bergeraknya
+Inti konsep: mo = 0,8 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Massa diam suatu benda mo dan massa bergeraknya m. Apabila benda itu bergerak dengan kecepatan 0,6 c dimana c = laju cahaya dalam ruang hampa, maka hubungan mo dan m yang benar adalah …
+
+[Materi #407]
+Topik (otomatis): kecepatan, cahaya, diperlukan, benda
+Inti konsep: 0,6 c
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bila c = kecepatan cahaya, maka kecepatan yang diperlukan oleh suatu benda supaya massanya bertambah 25 % adalah…
+
+[Materi #408]
+Topik (otomatis): elektron, energi, diam, mev
+Inti konsep: 0,853 MeV
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah elektron dengan energi diam 0,511 MeV bergerak dengan laju v = 0,8 c. Berapakah energi total yang dialami oleh elektron tersebut … .
+
+[Materi #409]
+Topik (otomatis): benda, hitam, sebesar, memancarkan
+Inti konsep: 0.045
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda hitam memancarkan Radiasi sebesar 32 W/m^2, benda tersebut memiliki suhu sebesar 127 derajat celcius, jika diketahui emivisitas benda 0,5 dan σ = 5,6 ×10^-8 Wm^-2. Tentukan luas benda hitam tersebut...
+
+[Materi #410]
+Topik (otomatis): derajat, celcius, besarnya, perbandingan
+Inti konsep: 1 : 16
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besarnya perbandingan energi radiasi yang dipancarkan oleh benda yang sama pada suhu 127 derajat celcius dan 527 derajat celcius adalah … .
+
+[Materi #411]
+Topik (otomatis): konstanta, besarnya, tergantung, sifat
+Inti konsep: Emisivitas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Konstanta yang merupakan besarnya tergantung pada sifat permukaan benda yang nilainya berlangsung antara 0 sampai dengan 1 adalah…
+
+[Materi #412]
+Topik (otomatis): benda, memiliki, luas, suhunya
+Inti konsep: 29.2034 W/m2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda yang memiliki luas 400 cm2 dan suhunya 127 derajat celcius. Jika diketahui emivisitas 0.5. berapa energi radiasi yang dipancarkan oleh benda tersebut … . (Jika Tetapan boltzman = 5.67 x 10^-8 W/m^2)
+
+[Materi #413]
+Topik (otomatis): energi, benda, menyerap, semua
+Inti konsep: Benda hitam.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda yang menyerap semua energi yang datang dan memancarkan energi dengan baik adalah…
+
+[Materi #414]
+Topik (otomatis): intensitas, radiasi, benda, hitam
+Inti konsep: Hukum pergeseran Wein
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Radiasi benda hitam selalu terdapat panjang gelombang yang membawa intensitas maksimum selalu bergeser ke intensitas lebih kecil ketika suhu tersebut bertambah hal ini disebut… .
+
+[Materi #415]
+Topik (otomatis): benda, panjang, gelombang, radiasi
+Inti konsep: 4.000 A
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Panjang gelombang radiasi maksimum suatu benda pada suhu T kelvin adalah 6.000 A. Jika suhu benda naik hingga menjadi 3/2 T kelvin, panjang gelombang radiasi maksimum benda adalah … .
+
+[Materi #416]
+Topik (otomatis): kuanta, energi, terkandung, sinar
+Inti konsep: 6 x 10^-19
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kuanta energi yang terkandung di dalam sinar ultraungu dengan panjang gelombangnya 3300 A, konstanta Planck 6,6 x 10^-34 Js dan kecepatan cahaya 3 x 10^8 m/s sebesar …..
+
+[Materi #417]
+Topik (otomatis): datang, perhatikan, faktor-faktor, berikut
+Inti konsep: 1) dan 2)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan faktor-faktor berikut:
+1) frekuensi foton yang datang
+2) fungsi kerja logam
+3) intensitas cahaya yang datang
+4) tetapan stefan-boltzma
+Faktor yang mempengaruhi besarnya energi kinetik maksimum pada efek fotolistrik ditunjukkan oleh nomor..
+
+[Materi #418]
+Topik (otomatis): bahan, energi, ikat, minimum
+Inti konsep: efek fotolistrik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Energi ikat minimum elektron pada permukaan bahan bergantung pada jenis bahan. Pernyataan tersebut sesuai dengan salah satu peristiwa fisika yaitu … .
+
+[Materi #419]
+Topik (otomatis): energi, foton, cahaya, biru
+Inti konsep: 2, 06 eV
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Energi foton cahaya biru dengan frekuensi 5 x 10^14 Hz adalah … . ( Jika h = 6,6 x 10^-34 Js, 1 eV = 1,6 x 10^-19 J)
+
+[Materi #420]
+Topik (otomatis): foton, frekuensi, menabrak, elektron
+Inti konsep: 1,86 x 10^-11 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah foton dengan frekuensi 2 x 10^19 Hz menabrak sebuah elektron yang diam dan memantul kembali dengan sudut 120 derajat ke arah asalnya. Berapakah panjang gelombang dari foton setelah terjadi tumbukan … .
+
+[Materi #421]
+Topik (otomatis): eksperimen, dianggap, membuktikan, cahaya
+Inti konsep: efek Compton
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Eksperimen yang dianggap membuktikan bahwa cahaya memiliki momentum adalah eksperimen … .
+
+[Materi #422]
+Topik (otomatis): arah, sejauh, pesawat, terbang
+Inti konsep: 26 km
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah pesawat terbang bergerak ke arah Utara sejauh 13 km kemudianberbelok ke arah Timur sejauh 24 km dan berbelok lagi ke arah Selatan sejauh 3 km. Tentukan perpindahan yang dialami pesawat terbang!
+
+[Materi #423]
+Topik (otomatis): kecepatan, pernyataan, sentripetalnya, benda
+Inti konsep: 1), 2), dan 3)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda bermassa 2 kg bergerak secara beraturan dalam lintasan melingkar berjari-jari 0,5 m dengan kecepatan 4 m/s. Perhatikan pernyataan berikut.
+
+1) Gaya sentripetalnya 64 N
+2) Percepatan sentripetalnya 32 m/s2
+3) Kecepatan sudutnya 8 rad/s
+Pernyataan yang benar terkait kasus diatas adalah....
+
+[Materi #424]
+Topik (otomatis): benda, ketinggian, meter, jatuh
+Inti konsep: 2√70 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah benda jatuh bebas dari ketinggian 20 meter, benda tersebut memiliki energi kinetik awal sebesar 40 joule. Berapakah kecepatan benda pada ketinggian 10 meter jika massa benda tersebut 1 kg? (g = 10 m/s2)
+
+[Materi #425]
+Topik (otomatis): bola, pingpong, menumbuk, lantai
+Inti konsep: 0,05
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bola pingpong bermassa 5 gram jatuh bebas dari ketinggian tertentu (g = 10 m/s2). Ketika menumbuk lantai kecepatan bola 6 m/s dan sesaat setelah menumbuk lantai, bola terpantul ke atas dengan kecepatan 4 m/s. Besar impuls yang bekerja pada bola pingpong adalah ... Ns
+
+[Materi #426]
+Topik (otomatis): bola, kecepatan, bergerak, kanan
+Inti konsep: 9
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bola A bergerak ke arah kanan, kemudian bertumbukan dengan bola B yang bergerak ke kiri dengan kecepatan 2 m/s. Kedua benda saling menempel satu sama lain dan memiliki nilai kecepatan setelah tumbukan sebesar 3 m/s ke kanan. Jika massa bola A 25 gram dan massa bola B 30 gram, maka kecepatan bola A sebelum tumbukan adalah ... m/s.
+
+[Materi #427]
+Topik (otomatis): gas, ideal, ruang, tertutup
+Inti konsep: Temperaturnya menjadi empat kali
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu gas ideal pada ruang tertutup memiliki temperatur T, tekanan P, dan volume V. Jika tekanannya dijadikan 4 kali semula dan gas mengalami proses isokhorik, maka pernyataan yang benar adalah….
+
+[Materi #428]
+Topik (otomatis): air, kalor, kal, batu
+Inti konsep: 43,4 oC
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Es batu bermassa 100 gram dicelupkan ke dalam 500 ml air. Es batu dan air masing-masing bersuhu -5oC dan 50oC. Jika kalor jenis air adalah 1 kal/gr oC, kalor jenis es adalah 0,5 kal/gr oC dan kalor lebur es 80 kal/gr, maka berapakah suhu akhir campuran?
+
+[Materi #429]
+Topik (otomatis): sistem, mengalami, isobarik, pernyataan
+Inti konsep: Sistem memiliki tekanan yang konstan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu sistem mengalami proses isobarik. Maka pernyataan berikut yang sesuai dengan sistem tersebut adalah....
+
+[Materi #430]
+Topik (otomatis): celah, berjarak, gelap, terang
+Inti konsep: 2,25 mm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah cahaya monokromatik dengan panjang gelombang 450 nm melalui celah ganda yang berjarak 1 mm. Kemudian terbentuk pola gelap terang pada layar yang berjarak 2 meter dari celah. Tentukan jarak terang ke-2 dengan gelap ke-5!
+
+[Materi #431]
+Topik (otomatis): kawat, sama, buah, sejajar
+Inti konsep: Gaya tarik menarik per satuan panjang sebesar 8 x 10-7 N/m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua buah kawat sejajar yang berjarak 0,5 m satu sama lain dialiri listrik masing-masing 2 A dengan arah yang sama. Di antara kedua kawat akan terjadi ....
+
+[Materi #432]
+Topik (otomatis): atom, elektron, energi, muatan
+Inti konsep: (3)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: 1.Atom adalah bagian terkecil dari suatu zat.
+2.Elektron bergerak mengelilingi inti atom dengan meradiasikan energi.
+3.Elektron akan berpindah ke kulit yang lebih luar saat menyerap energi.
+4.Muatan positif tersebar merata pada atom dan dikelilingi elektron sebagai muatan negatif.
+Berdasarkan pernyataan di atas yang merupakan teori atom menurut Bohr adalah….
+
+[Materi #433]
+Topik (otomatis): datang, perhatikan, faktor-faktor, berikut
+Inti konsep: 1) dan 2)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan faktor-faktor sebagai berikut:
+
+1.Frekuensi foton yang datang
+2.Fungsi kerja logam
+3.Intensitas cahaya yang datang
+4.Tetapan Stefan-Boltzmann
+Yang mempengaruhi besarnya energi kinetik maksimum pada efek fotolistrik....
+
+[Materi #434]
+Topik (otomatis): urutan, gelombang, elektromagnetik, frekuensi
+Inti konsep: Sinar gamma, ultraviolet, inframerah, gelombang mikro
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Urutan jenis gelombang elektromagnetik dari frekuensi besar ke kecil adalah … .
+
+[Materi #435]
+Topik (otomatis): pernyataan, bawah, sifat, gelombang
+Inti konsep: Merupakan gelombang longitudinal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pernyataan di bawah ini yang bukan sifat gelombang elektromagnetik adalah …
+
+[Materi #436]
+Topik (otomatis): gelombang, elektromagnetik, periode, sekon
+Inti konsep: Sinar ultraviolet
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gelombang elektromagnetik dengan periode 10^-15 sekon (cepat rambat dalam ruang hampa 3 x 10^8 m/s) merupakan …
+
+[Materi #437]
+Topik (otomatis): sifat, gelombang, elektromagnetik
+Inti konsep: Memerlukan medium
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yang bukan merupakan sifat gelombang elektromagnetik adalah … .
+
+[Materi #438]
+Topik (otomatis): gelombang, spektrum, seorang, siswa
+Inti konsep: 3,1,4,2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang siswa menyusun spektrum gelombang elektromagnetik dari panjang gelombang terbesar sebagai berikut:
+1. Inframerah
+2. Ultraviolet
+3. Gelombang televisi
+4. Cahaya tampak
+Urutan spektrum yang benar seharusnya … .
+
+[Materi #439]
+Topik (otomatis): gelombang, elektromagnetik, mempunyai, daerah
+Inti konsep: Gelombang radio
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gelombang elektromagnetik yang mempunyai daerah frekuensi 10^4 Hz sampai 10^7 Hz adalah …
+
+[Materi #440]
+Topik (otomatis): kegunaan, sinar, inframerah, kehidupan
+Inti konsep: Remote control
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegunaan sinar inframerah dalam kehidupan sehari-hari adalah … .
+
+[Materi #441]
+Topik (otomatis): pesawat, radar, selang, waktu
+Inti konsep: 6 x 10^7 m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Selang waktu yang digunakan pesawat radar untuk menangkap sinyal adalah 0,4 sekon. jarak antara pesawat radar dan sasaran yang dituju oleh pesawat tersebut adalah … .
+
+[Materi #442]
+Topik (otomatis): kegunaan, sinar, kehidupan, manusia
+Inti konsep: Menganalisis struktur kristal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegunaan sinar x dalam kehidupan manusia adalah … .
+
+[Materi #443]
+Topik (otomatis): radar, gelombang, elektromagnetik, bermanfaat
+Inti konsep: Mendeteksi posisi keberadaan pesawat terbang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Radar adalah gelombang elektromagnetik yang bermanfaat untuk … .
+
+[Materi #444]
+Topik (otomatis): senar, besaran-besaran, bunyi, berikut
+Inti konsep: (2), (3), dan (4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini besaran-besaran fisis bunyi:
+1) Kecepatan bunyi di udara
+2) Panjang senar
+3) Massa jenis senar
+4) Tegangan senar
+Besaran-besaran yang mempengaruhi frekuensi nada senar adalah ....
+
+[Materi #445]
+Topik (otomatis): amplitudo, gelombang, bunyi, menentukan
+Inti konsep: Kuat lemah bunyi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Amplitudo gelombang bunyi menentukan.....
+
+[Materi #446]
+Topik (otomatis): percobaan, digunakan, benang, gram
+Inti konsep: 15 m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada percobaan Melde digunakan seutas benang yang panjangnya 2 m dan massanya 10 gram. Jika beban yang digunakan pada percobaan itu 200 gram ( g = 10 m/s2). Kecepatan gelombang tranversal pada benang adalah....
+
+[Materi #447]
+Topik (otomatis): tali, perhatikan, besaran-besaran, berikut
+Inti konsep: 4,5 cm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan besaran-besaran berikut :
+1) Gaya tegangan tali
+2) Volume pada tali
+3) Massa tiap satuan panjang tali
+4) Warna tali
+Faktor-faktor yang mempengaruhi cepat rambat gelombang pada tali adalah …
+
+[Materi #448]
+Topik (otomatis): gelombang, bunyi, tergolong
+Inti konsep: Gelombang longitudinal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gelombang bunyi tergolong gelombang . . .
+
+[Materi #449]
+Topik (otomatis): gelombang, bunyi, tidak, dapat
+Inti konsep: Longitudinal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gelombang bunyi tidak dapat mengalami peristiwa . . .
+
+[Materi #450]
+Topik (otomatis): pelayangan, terjadi, adanya, interferensi
+Inti konsep: Dua gelombang yang beda frekuensinya kecil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pelayangan terjadi karena adanya interferensi. . .
+
+[Materi #451]
+Topik (otomatis): warna, bunyi, dihasilkan, sumber
+Inti konsep: Frekuensi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Warna bunyi yang dihasilkan oleh sumber ditentukan oleh . . .
+
+[Materi #452]
+Topik (otomatis): astronot, berkomunikasi, seorang, menggunakan
+Inti konsep: Bulan tidak ada udara (hampa udara)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang astronot menggunakan gelombang radio untuk berkomunikasi di Bulan. Astronot tidak bisa berkomunikasi secara langsung karena . . .
+
+[Materi #453]
+Topik (otomatis): bunyi, terdengar, keras
+Inti konsep: Amplitudonya besar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bunyi akan terdengar keras, jika . . .
+
+[Materi #454]
+Topik (otomatis): tinggi, rendahnya, suara, bergantung
+Inti konsep: Frekuensi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tinggi rendahnya suara bergantung pada . . .
+
+[Materi #455]
+Topik (otomatis): kawat, faktor-faktor, memperbesar, perhatikan
+Inti konsep: 1, 2, dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan faktor-faktor berikut!
+
+   1) Memperkecil massa jenis kawat
+   2) Memperpanjang kawat
+   3) Memperbesar tegangan kawat
+   4) Memperbesar ukuran kawat
+
+Faktor-faktor yang dapat mempercepat perambatan gelombang pada kawat adalah . .
+
+[Materi #456]
+Topik (otomatis): cepat, rambat, teori, menyatakan
+Inti konsep: Maxwell
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teori yang menyatakan bahwa cepat rambat gelombang elektromagnetik sama dengan cepat rambat cahaya ditemukan oleh . . .
+
+[Materi #457]
+Topik (otomatis): cahaya, dapat, pernyataan, medan
+Inti konsep: 1, 2, dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut!
+
+   1) Kecepatan cahaya adalah 3 x 108 m/s
+   2) Dualisme cahaya dapat terjadi pada saat bersamaan
+   3) Cahaya dapat melentur (difraksi) dan bergabung (inteferensi)
+   4) Berkas cahaya dapat dipengaruhi oleh medan magnet dan medan listrik yang kuat
+
+Pernyataan yang benar mengenai teori tentang cahaya ditunjukkan oleh nomor . . .
+
+[Materi #458]
+Topik (otomatis): cahaya, putih, melewati, prisma
+Inti konsep: Dispersi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cahaya putih yang melewati prisma akan terurai menjadi cahaya berwarna-warni (pelangi). Peristiwa ini disebut . . .
+
+[Materi #459]
+Topik (otomatis): penyebab, cahaya, tidak, dapat
+Inti konsep: Difraksi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penyebab cahaya tidak dapat terpolarisasi adalah . . .
+
+[Materi #460]
+Topik (otomatis): berikut, urutan, gelombang, elektromagnetik
+Inti konsep: Sinar tampak, sinar UV, sinar gamma
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut urutan gelombang elektromagnetik berikut dari frekuensi rendah ke tinggi adalah . . .
+
+[Materi #461]
+Topik (otomatis): berikut, urutan, gelombang, elektromagnetik
+Inti konsep: Sinar gamma, sinar x, cahaya biru, cahaya hijau
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut urutan gelombang elektromagnetik yang benar dari periode kecil ke besar adalah . . .
+
+[Materi #462]
+Topik (otomatis): sama, memiliki, gelombang, cahaya
+Inti konsep: 2 dan 4
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gelombang cahaya dapat saling berinterferensi satu sama lain dengan syarat:
+
+   1) Memiliki fase yang sama
+   2) Memiliki frekuensi yang sama
+   3) Memiliki amplitudo yang sama
+   4) Dua sinar koheren
+
+Pernyataan yang benar ditunjukkan oleh nomor . . .
+
+[Materi #463]
+Topik (otomatis): percobaan, interferensi, celah, ganda
+Inti konsep: Garis merah dan gelap saling berselang-seling dengan garis yang di tengah merah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Percobaan interferensi celah ganda digunakan sinar merah monokromatis. Pada layar akan terlihat . . .
+
+[Materi #464]
+Topik (otomatis): jarak, faktor-faktor, celah, terang
+Inti konsep: 1, 2, dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan faktor-faktor berikut!
+   1) Jarak celah ke layar (l)
+   2) Panjang gelombang (λ)
+   3) Jarak antara dua celah (d)
+   4) Selang waktu penyinaran (t)
+
+Faktor-faktor yang mempengaruhi jarak antara terang pusat dengan terang ke-n pada percobaan Young ditunjukkan nomor . . .
+
+[Materi #465]
+Topik (otomatis): jarak, terang, celah, interferensi
+Inti konsep: 3300 nm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Interferensi percobaan Young memiliki jarak pisah antara terang ke-1 dan terang pusat sebesar 5 mm. Jarak celah ke layarnya adalah 3 m dan kedua celah terpisah sejauh 2 mm. Panjang gelombang cahaya yang digunakan adalah . . .
+
+[Materi #466]
+Topik (otomatis): benda, tidak, dapat, kembali
+Inti konsep: Inelastis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda yang tidak dapat kembali ke bentuk awal setelah gaya dihilangkan disebut . . .
+
+[Materi #467]
+Topik (otomatis): berikut, benda, inelastic
+Inti konsep: Tidak ada jawaban yang benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini contoh benda inelastic adalah . . .
+
+[Materi #468]
+Topik (otomatis): pegas, luas, penampang, dikenai
+Inti konsep: 5 N/m2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pegas dengan luas penampang 1 m2 dikenai gaya sebesar 5 N. Besar tegangan yang dialami pegas tersebut adalah . . .
+
+[Materi #469]
+Topik (otomatis): pegas, diberi, gaya, memanjang
+Inti konsep: 6 cm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah pegas memanjang 5 cm saat diberi gaya 10 N. Jika diberi gaya sebesar 12 N, maka pegas akan mengalami pertambahan panjang pegas . . .
+
+[Materi #470]
+Topik (otomatis): tegangan, dimiliki, pegas
+Inti konsep: 10000 N/m2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tegangan yang dimiliki pegas adalah . . .
+
+[Materi #471]
+Topik (otomatis): regangan, pegas
+Inti konsep: 1/7
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Regangan pegas adalah . . .
+
+[Materi #472]
+Topik (otomatis): modulus, young, pegas
+Inti konsep: 7 x 104 Pa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Modulus young pada pegas adalah . . .
+
+[Materi #473]
+Topik (otomatis): panjang, sebesar, pegas, ketapel
+Inti konsep: 0,4 N
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ketapel dengan luas penampang 0,1 m2 memiliki panjang awal sebesar 50 cm. Jika modulus elastisitas pegas 40 N/m2, maka besarnya gaya yang dibutuhkan agar pegas bertambah panjang sebesar 5 cm adalah . . .
+
+[Materi #474]
+Topik (otomatis): nilon, panjang, tali, berdiameter
+Inti konsep: 0,4 cm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tali nilon berdiameter 0,7 cm dan panjang 1 m memiliki modulus elastisitas (7/22) x 109 N/m2. Jika ditarik dengan gaya sebsar 49 N, maka nilon akan bertambah panjang sebesar. .
+
+[Materi #475]
+Topik (otomatis): lift, kabel, maksimal, memiliki
+Inti konsep: 2,5 m/s2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kabel lift yang memiliki luas penampang 5 cm2 digunakan untuk menahan lift dengan berat 20.000 N. Jika tegangan maksimal kabel tersebut adalah 5000 N/cm2, maka percepatan maksimal lift adalah . . .
+
+[Materi #476]
+Topik (otomatis): salah, dioda, kecuali
+Inti konsep: Pengontrol besarnya arus listrik yang melaluinya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu fungsi dari dioda, kecuali . . .
+
+[Materi #477]
+Topik (otomatis): komponen, elektronika, terbuat, bahan
+Inti konsep: Transistor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Komponen elektronika yang terbuat dari bahan semikonduktor dan mempunyai tiga elektroda (triode), yaitu dasar (basis), pengumpulan (kolektor), dan pemancar (emitor) adalah . . .
+
+[Materi #478]
+Topik (otomatis): pernyataan, transistor, bawah, fet
+Inti konsep: 1 dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini merupakan pernyataan tentang transistor FET
+
+   1) Lebih stabil terhadap suhu
+   2) Mampu menangani daya besar
+   3) Memiliki densitas yang sangat tinggi
+   4) Kecepatan switching-nya lebih cepat dibandingkan transistor bipolar
+
+Pernyataan yang benar ditunjukkan nomor . . .
+
+[Materi #479]
+Topik (otomatis): transistor, bjt, digunakan, penguat
+Inti konsep: Perubahan arus listrik dalam jumlah kecil pada terminal basis dapat menghasilkan perubahan perubahan arus listrik dalam jumlah besar pada terminal kolektor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Transistor BJT digunakan sebagai penguat elektronik karena . . .
+
+[Materi #480]
+Topik (otomatis): berikut, termasuk, gerbang, logika
+Inti konsep: X – NAND
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan termasuk gerbang logika adalah . . .
+
+[Materi #481]
+Topik (otomatis): urutan, daya, tembus, sinar-sinar
+Inti konsep: Gamma, beta, dan alfa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Urutan daya tembus sinar-sinar radioaktif dimulai dari yang paling kuat adalah . . .
+
+[Materi #482]
+Topik (otomatis): atom, nomor, perak, mempunyai
+Inti konsep: Elektron 47, proton 47, dan neutron 60
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Atom perak mempunyai nomor atom 47 dan nomor massa 107. Jumlah elektron, proton, dan neutron yang terdapat dalam atom adalah . . .
+
+[Materi #483]
+Topik (otomatis): energi, ikat, inti
+Inti konsep: Energi yang diperlukan untuk memutuskan inti atom menjadi proton-proton dan neutron-neutron
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Energi ikat inti adalah . . .
+
+[Materi #484]
+Topik (otomatis): massa, inti, azx, proton
+Inti konsep: (Zp + An – Zn – m)c2 Joule
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika massa inti AZX, massa proton, massa neutron, dan laju cahaya di ruang hampa berturut-turut adalah m kg, p kg, n kg dan c m/s, maka energi ikat inti tersebut adalah . . .
+
+[Materi #485]
+Topik (otomatis): sma, massa, inti, atom
+Inti konsep: ((Y + Z) – X)931 MeV
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Massa satuan inti atom adalah X sma (sma = satuan massa atom). Jika massa seluruh proton dan seluruh neutron penyusun inti adalah Y sma dan Z sma, maka besar energi ikat inti atom itu adalah . . .
+
+[Materi #486]
+Topik (otomatis): massa, sma, inti, karbon
+Inti konsep: 0,1002 sma
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Massa inti karbon 6C12 adalah 12,000 sma, sedangkan massa proton dan neutron masing-masing 1,0078 sma dan 1,0089 sma. Besar  defek massa dalam pembentukan inti karbon adalah . . .
+
+[Materi #487]
+Topik (otomatis): sma, massa, inti, proton
+Inti konsep: 38,92 MeV
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Massa inti 3Li7 adalah 7,0160 sma. Jika massa proton 1,0078 sma, massa neutron 1,0086 sma dan 1 sma setara 931 MeV, maka energi ikat 3Li7 adalah . . .
+
+[Materi #488]
+Topik (otomatis): sma, partikel, alfa, massa
+Inti konsep: 26,068 MeV
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Massa neutron, proton, dan partikel alfa masing-masing 1,008 sma, 1,007 sma, dan 4,002 sma. Jika 1 sma setara dengan 931 MeV, maka energi ikat partikel alfa adalah . . .
+
+[Materi #489]
+Topik (otomatis): radiasi, bahan, memiliki, hvl
+Inti konsep: 6,0 mm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu bahan memiliki HVL 2 mm untuk radiasi sinar gamma. Intensitas radiasi berkurang 87,5% dari semula, maka ketebalan bahannya adalah . . .
+
+[Materi #490]
+Topik (otomatis): gaya, berlawanan, arah, gerak
+Inti konsep: Gaya pemulih
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gaya yang berlawanan dengan arah gerak dan menuju ke titik setimbang disebut . . .
+
+[Materi #491]
+Topik (otomatis): sebesar, pegas, beban, perpanjangan
+Inti konsep: 2x
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pegas saat diberi beban m, pegas mengalami perpanjangan sebesar x. Jika beban yang digantungkan sebesar 2m, maka perpanjangan sebesar . . .
+
+[Materi #492]
+Topik (otomatis): bandul, sebesar, bergerak, harmonis
+Inti konsep: 5 rad/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bandul bergerak harmonis dengan simpangan terjauhnya sebesar2,4 m. Jika kecepatan maksimumnya sebesar 12 m/s, maka frekuensi sudut bandul tersebut adalah . . .
+
+[Materi #493]
+Topik (otomatis): gerak, harmonik, memiliki, persamaan
+Inti konsep: 0,4π m/s
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gerak harmonik memiliki persamaan y = 0,2 sin 2πt meter. Kecepatan bandul saat t = 1 s adalah . . .
+
+[Materi #494]
+Topik (otomatis): berikut, pernyataan, benar, terkait
+Inti konsep: percepatan pada gerak parabola hanya percepatan gravitasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini pernyataan yang benar terkait gerak parabola adalah . . .
+
+[Materi #495]
+Topik (otomatis): besaran, konstan, gerak, parabola
+Inti konsep: percepatan pada sumbu y
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besaran yang selalu konstan dalam gerak parabola adalah . . .

@@ -1,0 +1,3703 @@
+=== MATERI IPS ===
+
+[Materi #1]
+Topik (otomatis): orang, pasti, memiliki
+Inti konsep: nama
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tiap orang pasti memiliki ....
+
+[Materi #2]
+Topik (otomatis): orang, tuaku
+Inti konsep: ayah dan ibu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang tuaku adalah ....
+
+[Materi #3]
+Topik (otomatis): ibu, ayah, kita, panggil
+Inti konsep: nenek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ibu dari ayah kita panggil ....
+
+[Materi #4]
+Topik (otomatis): alamat, disebut
+Inti konsep: tempat tinggal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alamat disebut juga ....
+
+[Materi #5]
+Topik (otomatis): deni, temanku, bernama, irawan
+Inti konsep: panggilan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Temanku bernama Deni Irawan. Aku memanggilnya Deni. Deni merupakan nama ....
+
+[Materi #6]
+Topik (otomatis): saudara, sepupu, anak
+Inti konsep: pamanku
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Saudara sepupu adalah anak dari ....
+
+[Materi #7]
+Topik (otomatis): orang, melahirkan, bibi
+Inti konsep: nenek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang melahirkan bibi adalah ....
+
+[Materi #8]
+Topik (otomatis): anak, pertama, disebut
+Inti konsep: sulung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Anak pertama disebut juga anak ....
+
+[Materi #9]
+Topik (otomatis): peristiwa, pernah, terjadi, disebut
+Inti konsep: pengalaman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peristiwa yang pernah terjadi disebut ....
+
+[Materi #10]
+Topik (otomatis): orang, punya, pengalaman
+Inti konsep: berbeda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Setiap orang punya pengalaman yang ....
+
+[Materi #11]
+Topik (otomatis): pengalaman, perlu, ditiru
+Inti konsep: belajar melukis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh pengalaman yang perlu ditiru adalah ....
+
+[Materi #12]
+Topik (otomatis): pengalaman, bisa, didapat, bersama
+Inti konsep: membuat kue
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengalaman yang bisa didapat bersama ibu adalah ....
+
+[Materi #13]
+Topik (otomatis): pengalaman, menyenangkan, tidak
+Inti konsep: dilupakan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengalaman yang menyenangkan tidak akan ....
+
+[Materi #14]
+Topik (otomatis): menyayangi, perbuatan
+Inti konsep: terpuji
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menyayangi adalah perbuatan ....
+
+[Materi #15]
+Topik (otomatis): kedudukan, ayah, keluarga
+Inti konsep: kepala keluarga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kedudukan ayah dalam keluarga adalah ....
+
+[Materi #16]
+Topik (otomatis): kasih, sayang, orang, tua
+Inti konsep: tak terhingga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kasih sayang orang tua ....
+
+[Materi #17]
+Topik (otomatis): kerukunan, bisa, diterapkan
+Inti konsep: mana saja
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerukunan bisa diterapkan di ....
+
+[Materi #18]
+Topik (otomatis): kerukunan, kehidupan, sehari-hari
+Inti konsep: mengganggu teman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh kerukunan dalam kehidupan sehari-hari adalah ....
+
+[Materi #19]
+Topik (otomatis): ada, masalah, hendaknya, bersama
+Inti konsep: dibicarakan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bila ada masalah hendaknya .... bersama.
+
+[Materi #20]
+Topik (otomatis): kerukunan, menciptakan, kehidupan
+Inti konsep: tenang dan damai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerukunan akan menciptakan kehidupan yang ....
+
+[Materi #21]
+Topik (otomatis): persatuan, kesatuan, tetap, terjaga
+Inti konsep: rukun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Persatuan dan kesatuan akan tetap terjaga apabila kita .... dengan teman.
+
+[Materi #22]
+Topik (otomatis): hidup, rukun, sekolah
+Inti konsep: bersama-sama melaksanakan piket kelas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh hidup rukun di sekolah adalah ....
+
+[Materi #23]
+Topik (otomatis): bercita-cita, penari, kita, harus
+Inti konsep: berlatih
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika bercita-cita menjadi penari maka kita harus ……
+
+[Materi #24]
+Topik (otomatis): nenek, membuat, lemper, cara
+Inti konsep: Dikukus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nenek membuat lemper dengan cara ……
+
+[Materi #25]
+Topik (otomatis): kita, saat, mendapat, hadiah
+Inti konsep: Terima kasih
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Saat kita mendapat hadiah dari Ibu guru maka kita harus mengucapkan ...
+
+[Materi #26]
+Topik (otomatis): kita, saat, ada, teman
+Inti konsep: Menjenguknya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Saat ada teman kita yang sakit maka kita harus ...
+
+[Materi #27]
+Topik (otomatis): rumah, selatan, sela, berada
+Inti konsep: Arah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rumah Sela berada di sebelah selatan rumah Wanda.   Selatan menunjukkan ...
+
+[Materi #28]
+Topik (otomatis): rumah, ratna, berada, timur
+Inti konsep: Masjid
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rumah Ratna berada di timur masjid. Yang menunjukkan tempat umum adalah ...
+
+[Materi #29]
+Topik (otomatis): tempat, tidak, termasuk, umum
+Inti konsep: Rumah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tempat yang tidak termasuk tempat umum adalah ...
+
+[Materi #30]
+Topik (otomatis): berikut, tidak, termasuk, arah
+Inti konsep: Depan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut yang tidak termasuk arah adalah ....
+
+[Materi #31]
+Topik (otomatis): bersama, merayakan, pesta, ulang
+Inti konsep: Keluarga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Merayakan pesta ulang tahun bersama dengan orang tua dan saudara laki-laki maupun perempuan merupakan pengalaman bersama ….
+
+[Materi #32]
+Topik (otomatis): pergi, liburan, bersama, orang-orang
+Inti konsep: Menyenangkan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pergi liburan bersama dengan orang-orang tersayang merupakan pengalaman yang paling ….
+
+[Materi #33]
+Topik (otomatis): jatuh, saat, berlari, pengalaman
+Inti konsep: Menyedihkan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jatuh saat berlari merupakan pengalaman yang ….
+
+[Materi #34]
+Topik (otomatis): hendak, pergi, sekolah, keluar
+Inti konsep: Berpamitan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ketika hendak pergi ke sekolah atau keluar rumah, kita diwajibkan untuk ….
+
+[Materi #35]
+Topik (otomatis): ayah, ibu, kita, harus
+Inti konsep: Menyayangi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dengan ayah dan juga ibu kita harus selalu ….
+
+[Materi #36]
+Topik (otomatis): seseorang, sudah, merawat, kita
+Inti konsep: Ibu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seseorang yang sudah merawat kita sampai saat ini adalah ….
+
+[Materi #37]
+Topik (otomatis): keluarga, ayah, bertugas, mencari
+Inti konsep: Nafkah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam keluarga ayah bertugas mencari …. untuk memenuhi kebutuhan dari keluarganya.
+
+[Materi #38]
+Topik (otomatis): rumah, sehat
+Inti konsep: Bersih
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rumah yang sehat merupakan rumah yang ….
+
+[Materi #39]
+Topik (otomatis): bertengkar, kakak, perbuatan
+Inti konsep: buruk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: bertengkar dengan kakak adalah perbuatan yang …
+
+[Materi #40]
+Topik (otomatis): kakak, adik, punya, mainan
+Inti konsep: baik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: adik punya mainan baru kakak lalu merebutnya sikap kakak itu tidak …
+
+[Materi #41]
+Topik (otomatis): adik, berbuat, salah, kita
+Inti konsep: memaafkannya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: jika adik berbuat salah maka kita harus mau …
+
+[Materi #42]
+Topik (otomatis): rani, pintar, membaca, tetapi
+Inti konsep: menghina budi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: rani pintar membaca tetapi budi belum bisa baca maka sikap rani tidak boleh …
+
+[Materi #43]
+Topik (otomatis): keluarga, rukun, membuat, kita
+Inti konsep: tinggal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: keluarga yang rukun membuat kita menjadi nyaman … di rumah
+
+[Materi #44]
+Topik (otomatis): kamu, punya, mainan, baru
+Inti konsep: meminjami
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: kamu punya mainan baru dan  adik ingin meminjamnya
+maka kamu harus …
+
+[Materi #45]
+Topik (otomatis): suka, rudi, main, bola
+Inti konsep: berbeda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: rudi suka main bola dan dani suka berenenang
+mereka punya hobi yang …
+
+[Materi #46]
+Topik (otomatis): saat, bermain, bola, teman
+Inti konsep: curang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: saat bermain bola dengan teman kita tidak boleh …
+
+[Materi #47]
+Topik (otomatis): teman, bertengkar, harus
+Inti konsep: dilerai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: teman yang bertengkar harus …
+
+[Materi #48]
+Topik (otomatis): ayah, deni, rina, dokter
+Inti konsep: pekerjaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: ayah deni dokter dan ayah rina guru. ayah deni dan rina berbeda ….
+
+[Materi #49]
+Topik (otomatis): umurnya, tahun, aldo, bagas
+Inti konsep: usia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: aldo umurnya 10 tahun dan bagas umurnya 12 tahun
+mereka berbeda …
+
+[Materi #50]
+Topik (otomatis): seorang, rani, perempuan, ahmad
+Inti konsep: kelaminnya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: rani seorang perempuan dan ahmad seorang laki-laki
+mereka berdua berbeda jenis …
+
+[Materi #51]
+Topik (otomatis): hidup, tidak, rukun, adik
+Inti konsep: berebut mainan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: contoh hidup tidak rukun adalah … dengan adik.
+
+[Materi #52]
+Topik (otomatis): tempat, menyimpan, foto, keluarga
+Inti konsep: album
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tempat untuk menyimpan foto keluarga adalah ....
+
+[Materi #53]
+Topik (otomatis): dokumen, diperoleh, setelah, lulus
+Inti konsep: Ijazah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dokumen yang diperoleh setelah lulus sekolah adalah .....
+
+[Materi #54]
+Topik (otomatis): kita, bisa, mengingat, masa
+Inti konsep: Foto
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kita bisa mengingat masa kecil dengan melihat.....
+
+[Materi #55]
+Topik (otomatis): termasuk, koleksi, barang, berharga
+Inti konsep: Piala
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yang termasuk koleksi barang berharga adalah .....
+
+[Materi #56]
+Topik (otomatis): penduduk, bergotong, royong, membangun
+Inti konsep: jembatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Para penduduk bergotong royong membangun .....
+
+[Materi #57]
+Topik (otomatis): ktp, dibuat, anggota, keluarga
+Inti konsep: 17 tahun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: KTP dibuat untuk anggota keluarga yang berusia  ....
+
+[Materi #58]
+Topik (otomatis): dokumen, diatur, rapi, mencarinya
+Inti konsep: Mudah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dokumen diatur rapi agar  ..............  mencarinya.
+
+[Materi #59]
+Topik (otomatis): hal, dilakukan, bayi, lapar
+Inti konsep: menangis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hal yang dilakukan bayi bila lapar dan haus adalah  ........
+
+[Materi #60]
+Topik (otomatis): kelengkapan, dokumen, bagi, pengendara
+Inti konsep: SIM
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kelengkapan dokumen bagi pengendara kendaraan bermotor adalah  .....
+
+[Materi #61]
+Topik (otomatis): kewajiban, seorang, siswa
+Inti konsep: belajar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kewajiban sebagai seorang siswa adalah  .....
+
+[Materi #62]
+Topik (otomatis): orang, menikah, harus, mendaftarkan
+Inti konsep: KUA
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang akan menikah harus mendaftarkan diri ke ........
+
+[Materi #63]
+Topik (otomatis): ktp, dokumen, resmi, dibuat
+Inti konsep: Pemerintah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: KTP dan KK adalah dokumen resmi yang dibuat oleh ...
+
+[Materi #64]
+Topik (otomatis): sim, singkatan
+Inti konsep: Surat izin mengemudi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: SIM adalah singkatan dari ...
+
+[Materi #65]
+Topik (otomatis): hewan, dapat, memakan, dokumen
+Inti konsep: Rayap dan tikus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh hewan yang dapat memakan dokumen kita menjadi rusak adalah ...
+
+[Materi #66]
+Topik (otomatis): koleksi, barang, berharga, dapat
+Inti konsep: Dirawat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Koleksi barang berharga dapat tetap awet dan tahan laman jika selalu ...
+
+[Materi #67]
+Topik (otomatis): orang, mengoreksi, benda, berharga
+Inti konsep: Kolektor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang mengoreksi benda berharga dinamakan ...
+
+[Materi #68]
+Topik (otomatis): foto, keluarga, harus, disimpan
+Inti konsep: Rapi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Foto keluarga harus disimpan dengan ...
+
+[Materi #69]
+Topik (otomatis): foto, diri, dokumen
+Inti konsep: Pribadi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Foto diri adalah contoh dokumen ...
+
+[Materi #70]
+Topik (otomatis): seorang, lahir, dibuatkan
+Inti konsep: Akta kelahiran
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ketika seorang telah lahir maka akan dibuatkan ...
+
+[Materi #71]
+Topik (otomatis): lembaran, ditulisi, hasil, nilai
+Inti konsep: Rapor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lembaran yang ditulisi hasil nilai dari nilai-nilai ulangan sekolah dinamakan ...
+
+[Materi #72]
+Topik (otomatis): rika, hari, melahirkan, anak
+Inti konsep: Bahagia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hari ini Bu Rika melahirkan anak pertama, maka suami Bu Rika merasa ...
+
+[Materi #73]
+Topik (otomatis): saat, adik, sedang, sakit
+Inti konsep: Khawatir
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Saat adik sedang sakit maka ayah dan ibu terlihat merasa sangat ...
+
+[Materi #74]
+Topik (otomatis): peristiwa, penting, keluarga, contohnya
+Inti konsep: Kelahiran adik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peristiwa penting dalam keluarga contohnya ...
+
+[Materi #75]
+Topik (otomatis): pengalaman, menyenangkan, contohnya
+Inti konsep: Menjadi juara kelas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengalaman yang menyenangkan contohnya adalah ...
+
+[Materi #76]
+Topik (otomatis): kapur, barus, diletakkan, dekat
+Inti konsep: Tidak didekati kecoa yang mendekat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kapur barus diletakkan di dekat benda-benda berharga bertujuan agar ...
+
+[Materi #77]
+Topik (otomatis): foto, dapat, benda, berharga
+Inti konsep: Menceritakan kenangan masa lalu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Foto dapat menjadi benda berharga karena bisa untuk ...
+
+[Materi #78]
+Topik (otomatis): peristiwa, penting, mudah, sekali
+Inti konsep: Diingat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peristiwa yang penting mudah sekali untuk ...
+
+[Materi #79]
+Topik (otomatis): ada, pengalaman, kita, lalui
+Inti konsep: Menyedihkan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengalaman yang kita lalui ada yang menyenangkan dan juga ada yang ...
+
+[Materi #80]
+Topik (otomatis): saat, orang, bersedih, biasanya
+Inti konsep: Menangis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Saat orang bersedih biasanya ia akan ...
+
+[Materi #81]
+Topik (otomatis): alia, tidak, dapat, merayakan
+Inti konsep: Bersyukur punya keluarga yang sayang kepadanya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alia tidak dapat merayakan ulang tahunnya. Ayah, ibu dan keluarganya hanya bisa mendoakannya. namun Bagas tetap merasa bahagia karena ia ...
+
+[Materi #82]
+Topik (otomatis): dika, asyik, menonton, televisi
+Inti konsep: Segera belajar dan mematikan televisi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dika asyik menonton televisi maka ia pun dimarahin ayah karena tidak mau belajar. Dika sebaiknya ...
+
+[Materi #83]
+Topik (otomatis): perbuatan, buruk, sebaiknya, kita
+Inti konsep: Tinggalkan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perbuatan yang buruk sebaiknya kita ...
+
+[Materi #84]
+Topik (otomatis): hari, harus, baik
+Inti konsep: Kemarin
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hari ini harus lebih baik dari ...
+
+[Materi #85]
+Topik (otomatis): kewajiban, anak, anggota, keluarga
+Inti konsep: menghormati orang tua
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kewajiban anak sebagai anggota keluarga adalah ....
+
+[Materi #86]
+Topik (otomatis): asal, usul, keluarga, dikenal
+Inti konsep: silsilah keluarga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Asal usul keluarga dikenal dengan istilah ....
+
+[Materi #87]
+Topik (otomatis): anak, adik, laki-laki, ayah
+Inti konsep: sepupu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Anak dari adik laki-laki ayah disebut saudara ....
+
+[Materi #88]
+Topik (otomatis): kegiatan, anak, dilakukan, pagi
+Inti konsep: merapikan tempat tidur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh kegiatan anak yang dilakukan tiap pagi adalah ....
+
+[Materi #89]
+Topik (otomatis): hak, ayah, ibu, orang
+Inti konsep: dihormati anak-anaknya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hak ayah dan ibu sebagai orang tua adalah ....
+
+[Materi #90]
+Topik (otomatis): kewajiban, orang, tua
+Inti konsep: mendidik anak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kewajiban orang tua adalah ....
+
+[Materi #91]
+Topik (otomatis): yudi, anak, terakhir, tidak
+Inti konsep: bungsu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yudi adalah anak terakhir. Ia tidak memiliki adik. Yudi disebut anak ....
+
+[Materi #92]
+Topik (otomatis): adik, perempuan, ayah, ibu
+Inti konsep: bibi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Adik perempuan dari ayah atau ibu disebut ....
+
+[Materi #93]
+Topik (otomatis): peran, ibu, keluarga
+Inti konsep: menghormati dan menyayangi anak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peran ibu dalam keluarga adalah ....
+
+[Materi #94]
+Topik (otomatis): keluarga, pak, adi, sangat
+Inti konsep: saling menghormati
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keluarga Pak Adi sangat rukun karena ....
+
+[Materi #95]
+Topik (otomatis): bubur, adik, tumpah, lantai
+Inti konsep: membantu ibu membersihkan lantai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bubur adik tumpah ke lantai. Ibu segera membersihkannya. Sikap kamu sebaiknya ....
+
+[Materi #96]
+Topik (otomatis): kita, wajib, membantu, orang
+Inti konsep: kemampuan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kita wajib membantu orang tua sesuai dengan ....
+
+[Materi #97]
+Topik (otomatis): adik, menangis, aku, harus
+Inti konsep: menghiburnya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika adik menangis maka aku harus ....
+
+[Materi #98]
+Topik (otomatis): perbuatan, tidak, boleh, dilakukan
+Inti konsep: mengulangi kesalahan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perbuatan yang tidak boleh dilakukan setelah berbuat kesalahan adalah ....
+
+[Materi #99]
+Topik (otomatis): orang, harus, menaati, peraturan
+Inti konsep: semua anggota keluarga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang harus menaati peraturan dalam keluarga adalah ....
+
+[Materi #100]
+Topik (otomatis): mencuci, pakaian, sendiri, usaha
+Inti konsep: mandiri
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mencuci pakaian sendiri adalah usaha belajar hidup ....
+
+[Materi #101]
+Topik (otomatis): kakek, nenek, termasuk, keluarga
+Inti konsep: tambahan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kakek dan nenek termasuk keluarga ....
+
+[Materi #102]
+Topik (otomatis): memenuhi, kebutuhan, hidupnya, orang
+Inti konsep: bekerja
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk memenuhi kebutuhan hidupnya orang harus ....
+
+[Materi #103]
+Topik (otomatis): berikut, termasuk, keluarga, inti
+Inti konsep: ibu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk keluarga inti adalah ....
+
+[Materi #104]
+Topik (otomatis): hak, anak, orang, tua
+Inti konsep: mendapatkan kasih sayang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh hak anak dari orang tua adalah ....
+
+[Materi #105]
+Topik (otomatis): mengatur, keuangan, keluarga, tugas
+Inti konsep: ibu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mengatur keuangan keluarga merupakan tugas ....
+
+[Materi #106]
+Topik (otomatis): anak, memiliki, hak
+Inti konsep: mendapatkan pendidikan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Setiap anak memiliki hak untuk ....
+
+[Materi #107]
+Topik (otomatis): membantu, pekerjaan, orang, tua
+Inti konsep: mulia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Membantu pekerjaan orang tua adalah perbuatan ....
+
+[Materi #108]
+Topik (otomatis): orang, suka, menunda-nunda, pekerjaan
+Inti konsep: malas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang suka menunda-nunda pekerjaan termasuk orang yang ....
+
+[Materi #109]
+Topik (otomatis): saudara, kandung
+Inti konsep: saudara satu ayah satu ibu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Saudara kandung adalah ....
+
+[Materi #110]
+Topik (otomatis): akibat, suka, berkata, bohong
+Inti konsep: tidak dipercaya teman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Akibat dari suka berkata bohong adalah ....
+
+[Materi #111]
+Topik (otomatis): pekerjaan, terasa, ringan, dikerjakan
+Inti konsep: bersama-sama
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pekerjaan akan terasa ringan jika dikerjakan ....
+
+[Materi #112]
+Topik (otomatis): penebangan, liar, hutan, dapat
+Inti konsep: Banjir dan tanah longsor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penebangan liar di hutan dapat mengakibatkan ...
+
+[Materi #113]
+Topik (otomatis): salah, alat, dapat, membantu
+Inti konsep: Kompas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu alat yang dapat membantu menunjukkan arah adalah ...
+
+[Materi #114]
+Topik (otomatis): mencegah, erosi, tanah-tanah, lahan
+Inti konsep: Terasering
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk mencegah erosi, tanah-tanah di lahan perbukitan dibuat ...
+
+[Materi #115]
+Topik (otomatis): utara, gambar, arah, mata
+Inti konsep: Atas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Utara pada gambar arah mata angin ditunjukkan ke bagian ...
+
+[Materi #116]
+Topik (otomatis): berikut, tempat-tempat, umum, ada
+Inti konsep: Rumah kepala desa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah tempat-tempat umum yang ada di desa, kecuali ...
+
+[Materi #117]
+Topik (otomatis): kenampakan, lingkungan, alam, ciptaan
+Inti konsep: Tuhan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kenampakan lingkungan alam merupakan ciptaan ...
+
+[Materi #118]
+Topik (otomatis): lingkungan, sudah, ada, sendirinya
+Inti konsep: Alam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lingkungan yang sudah ada dengan sendirinya tanpa dibuat oleh manusia dinamakan lingkungan ...
+
+[Materi #119]
+Topik (otomatis): genangan, air, luas, dikelilingi
+Inti konsep: Danau
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Genangan air yang luas yang dikelilingi daratan dinamakan ...
+
+[Materi #120]
+Topik (otomatis): berikut, termasuk, lingkungan, buatan
+Inti konsep: Kebun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk lingkungan buatan adalah ...
+
+[Materi #121]
+Topik (otomatis): kerjasama, dapat, membuat, diri
+Inti konsep: Banyak teman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerjasama dapat membuat diri kita mempunyai ...
+
+[Materi #122]
+Topik (otomatis): berikut, manfaat, kerjasama
+Inti konsep: Pekerjaan menjadi semakin lama
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut yang bukan manfaat kerjasama adalah ...
+
+[Materi #123]
+Topik (otomatis): kerjasama, dapat, membuat, pekerjaan
+Inti konsep: Ringan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerjasama dapat membuat pekerjaan yang berat menjadi terasa lebih ...
+
+[Materi #124]
+Topik (otomatis): orang, tidak, suka, kerjasama
+Inti konsep: Dibenci masyarakat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang tidak suka kerjasama di lingkungan masyarakat maka akan ...
+
+[Materi #125]
+Topik (otomatis): kerjasama, lingkungan, sekolah, perlu
+Inti konsep: Menyapu halaman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh kerjasama di lingkungan sekolah yang perlu dipertahankan adalah ...
+
+[Materi #126]
+Topik (otomatis): arah, mata, angin, pokok
+Inti konsep: 4
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Arah mata angin yang pokok ada ...
+
+[Materi #127]
+Topik (otomatis): tiang, bendera, merah, putih
+Inti konsep: Halaman utama sekolah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tiang bendera Merah Putih sekolah biasanya diletakkan di ...
+
+[Materi #128]
+Topik (otomatis): denah, ruangan, kelas, menunjukkan
+Inti konsep: Tempat duduk siswa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Denah ruangan kelas menunjukkan ...
+
+[Materi #129]
+Topik (otomatis): kerjasama, rumah
+Inti konsep: Membersihkan halaman rumah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh kerjasama di rumah adalah ...
+
+[Materi #130]
+Topik (otomatis): kerjasama, lingkungan, sekolah, dilakukan
+Inti konsep: Kepala desa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerjasama di lingkungan sekolah dilakukan oleh orang-orang berikut, kecuali ...
+
+[Materi #131]
+Topik (otomatis): menjaga, kebersihan, lingkungan, sekolah
+Inti konsep: Seluruh warga sekolah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menjaga kebersihan di lingkungan sekolah merupakan tanggung jawab dari ...
+
+[Materi #132]
+Topik (otomatis): kerjasama, harus, dibiasakan, mulai
+Inti konsep: Keluarga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerjasama harus dibiasakan mulai dari lingkungan ...
+
+[Materi #133]
+Topik (otomatis): tujuan, kerjasama, membersihkan, sungai
+Inti konsep: Mencegah terjadinya banjir
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tujuan dari kerjasama membersihkan sungai salah satunya adalah untuk ...
+
+[Materi #134]
+Topik (otomatis): kerjasama, dapat, berjalan, baik
+Inti konsep: Saling bantu membantu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerjasama dapat berjalan dengan baik jika semua warga ...
+
+[Materi #135]
+Topik (otomatis): lingkungan, ciptaan, tuhan
+Inti konsep: lingkungan alam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lingkungan yang merupakan ciptaan Tuhan adalah ....
+
+[Materi #136]
+Topik (otomatis): lingkungan, alam, mengalami, perubahan
+Inti konsep: proses alamiah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lingkungan alam mengalami perubahan yang disebut ....
+
+[Materi #137]
+Topik (otomatis): tanah, sekitar, gunung, berapi
+Inti konsep: mengandung abu vulkanik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tanah sekitar Gunung berapi sangat subur karena ....
+
+[Materi #138]
+Topik (otomatis): sikap, memelihara, lingkungan, sekitar
+Inti konsep: biasakan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sikap memelihara lingkungan sekitar harus kita ....
+
+[Materi #139]
+Topik (otomatis): faktor, alami, menyebabkan, kerusakan
+Inti konsep: gempa bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh faktor alami yang menyebabkan kerusakan alam
+misalnya ....
+
+[Materi #140]
+Topik (otomatis): reboisasi
+Inti konsep: usaha untuk menanami kembali hutan yang gundul
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Reboisasi adalah ....
+
+[Materi #141]
+Topik (otomatis): manakah, tindakan, salah, lingkungan
+Inti konsep: membuang sampah ke sungai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manakah tindakan yang salah terhadap lingkungan?
+
+[Materi #142]
+Topik (otomatis): lingkungan, bisa, rusak, faktor
+Inti konsep: faktor manusia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lingkungan bisa rusak karena faktor alami dan ....
+
+[Materi #143]
+Topik (otomatis): manakah, denah, sekolah
+Inti konsep: letak dapur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manakah yang bukan bagian dari denah sekolah?
+
+[Materi #144]
+Topik (otomatis): peta, gambaran, dibuat, bidang
+Inti konsep: permukaan bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peta adalah gambaran tentang ....yang dibuat dalam bidang datar.
+
+[Materi #145]
+Topik (otomatis): manakah, peta, wilayah, kota
+Inti konsep: peta bogor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manakah yang merupakan peta wilayah kota?
+
+[Materi #146]
+Topik (otomatis): gotong, royong, sesuai, pancasila
+Inti konsep: tiga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gotong royong sesuai dengan Pancasila sila yang ke ....
+
+[Materi #147]
+Topik (otomatis): salah, manfaat, kerjasama
+Inti konsep: mempererat persatuan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu manfaat kerjasama adalah ....
+
+[Materi #148]
+Topik (otomatis): bawah, termasuk, lingkungan, buatan
+Inti konsep: waduk, jalan, dan gedung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang termasuk lingkungan buatan adalah ....
+
+[Materi #149]
+Topik (otomatis): lingkungan, alam, dimanfaatkan, olah
+Inti konsep: laut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lingkungan alam yang dimanfaatkan untuk olah raga selancar adalah ....
+
+[Materi #150]
+Topik (otomatis): berikut, lingkungan, alam, dimanfaatkan
+Inti konsep: danau
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan lingkungan alam yang dimanfaatkan untuk PLTA adalah ....
+
+[Materi #151]
+Topik (otomatis): taman, laut, raja, ampat
+Inti konsep: Papua Barat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Taman Laut Raja Ampat terdapat di Provinsi ....
+
+[Materi #152]
+Topik (otomatis): sungai, transportasi, utama, pulau
+Inti konsep: Kalimantan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sungai menjadi transportasi utama di Pulau ....
+
+[Materi #153]
+Topik (otomatis): sungai, terdapat, pulau, sumatera
+Inti konsep: Kampar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sungai yang terdapat di Pulau Sumatera adalah Sungai ....
+
+[Materi #154]
+Topik (otomatis): lingkungan, buatan, digunakan, sarana
+Inti konsep: stadion
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lingkungan buatan yang digunakan untuk sarana olah raga adalah ....
+
+[Materi #155]
+Topik (otomatis): lautan, menjorok, daratan, disebut
+Inti konsep: teluk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lautan yang menjorok ke daratan disebut ....
+
+[Materi #156]
+Topik (otomatis): taman, laut, sulawesi, utara
+Inti konsep: Taman Laut Bunaken
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Taman Laut di Sulawesi Utara adalah ....
+
+[Materi #157]
+Topik (otomatis): ngarai, sianok, terdapat, daerah
+Inti konsep: Bukit Tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ngarai Sianok terdapat di daerah ....
+
+[Materi #158]
+Topik (otomatis): berikut, kerusakan, lingkungan, disebabkan
+Inti konsep: kebakaran hutan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan kerusakan lingkungan yang disebabkan oleh peristiwa alam kecuali ....
+
+[Materi #159]
+Topik (otomatis): sampah, berasal, plastik, kertas
+Inti konsep: didaur ulang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sampah yang berasal dari plastik, kertas, dan kaleng sebaiknya ....
+
+[Materi #160]
+Topik (otomatis): banjir, hutan, gundul, dapat
+Inti konsep: tanah longsor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Selain banjir, hutan yang gundul juga dapat menyebabkan ....
+
+[Materi #161]
+Topik (otomatis): penghargaan, orang, berjasa, bidang
+Inti konsep: Kalpataru
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penghargaan untuk orang yang berjasa di bidang lingkungan hidup adalah ....
+
+[Materi #162]
+Topik (otomatis): gambar, menunjukkan, letak, tempat
+Inti konsep: denah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar yang menunjukkan letak suatu tempat disebut ....
+
+[Materi #163]
+Topik (otomatis): kumpulan, gambar, peta, disebut
+Inti konsep: atlas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kumpulan gambar peta disebut ....
+
+[Materi #164]
+Topik (otomatis): arah, digunakan, mengetahui, mata
+Inti konsep: kompas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Arah yang digunakan untuk mengetahui arah mata angin disebut ....
+
+[Materi #165]
+Topik (otomatis): arah, matahari, kita, dapat
+Inti konsep: timur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Matahari dapat digunakan sebagai petunjuk arah. Apabila kita menghadap ke arah matahari terbit, berarti di depan kita adalah arah ....
+
+[Materi #166]
+Topik (otomatis): arti, simbol, peta, dapat
+Inti konsep: legenda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Arti simbol peta dapat diketahui melalui ....
+
+[Materi #167]
+Topik (otomatis): berikut, tidak, termasuk, komponen
+Inti konsep: denah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk komponen peta adalah ....
+
+[Materi #168]
+Topik (otomatis): jarum, kompas, menunjuk, arah
+Inti konsep: utara-selatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jarum kompas selalu menunjuk arah ....
+
+[Materi #169]
+Topik (otomatis): kita, berdiri, menghadap, barat
+Inti konsep: utara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika kita berdiri menghadap ke barat, maka di sebelah kanan kita adalah arah ....
+
+[Materi #170]
+Topik (otomatis): jarak, perbandingan, peta, sebenarnya
+Inti konsep: skala
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perbandingan jarak dalam peta dengan jarak sebenarnya disebut ....
+
+[Materi #171]
+Topik (otomatis): penunjuk, arah, malam, hari
+Inti konsep: rasi bintang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebagai penunjuk arah pada malam hari, para nelayan menggunakan bantuan ....
+
+[Materi #172]
+Topik (otomatis): bekerja, sama, sifat, manusia
+Inti konsep: sosial
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bekerja sama merupakan sifat manusia sebagai makhluk ....
+
+[Materi #173]
+Topik (otomatis): kegiatan, berikut, tidak, boleh
+Inti konsep: mengerjakan ulangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan berikut ini yang tidak boleh dilakukan dengan cara kerja sama adalah ....
+
+[Materi #174]
+Topik (otomatis): permainan, memerlukan, kerja, sama
+Inti konsep: sepak bola
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh permainan yang memerlukan kerja sama adalah ....
+
+[Materi #175]
+Topik (otomatis): gotong-royong, banyak, dilakukan, daerah
+Inti konsep: pedesaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gotong-royong banyak dilakukan di daerah ....
+
+[Materi #176]
+Topik (otomatis): bentuk, kerja, sama, bangsa-bangsa
+Inti konsep: ASEAN
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk kerja sama antara bangsa-bangsa di Asia Tenggara adalah ....
+
+[Materi #177]
+Topik (otomatis): nelayan, pekerjaan, menghasilkan
+Inti konsep: Barang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nelayan adalah pekerjaan yang menghasilkan...
+
+[Materi #178]
+Topik (otomatis): tujuan, manusia, bekerja
+Inti konsep: memenuhi kebutuhan hidup
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tujuan manusia bekerja adalah untuk...
+
+[Materi #179]
+Topik (otomatis): indonesia, sebagian, besar, penduduk
+Inti konsep: Agraris
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebagian besar penduduk Indonesia hidup bercocok tanam, sehingga Indonesia disebut negara...
+
+[Materi #180]
+Topik (otomatis): pedagang, memperoleh, pendapatan, apabila
+Inti konsep: Dagangannya laku
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pedagang akan memperoleh pendapatan apabila...
+
+[Materi #181]
+Topik (otomatis): pak, ali, tidak, bekerja
+Inti konsep: Wirausaha
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pak Ali tidak bekerja di perusahaan, tetapi ia membuka lapangan pekerjaan sendiri. Pak Ali adalah seorang...
+
+[Materi #182]
+Topik (otomatis): berikut, termasuk, kebutuhan, primer
+Inti konsep: Rumah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk kebutuhan primer adalah...
+
+[Materi #183]
+Topik (otomatis): bawah, tidak, termasuk, ciri-ciri
+Inti konsep: Memiliki banyak uang dan boros
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang tidak termasuk ciri-ciri orang yang memiliki semangat kerja adalah...
+
+[Materi #184]
+Topik (otomatis): arsitek, bekerja, banyak, menggunakan
+Inti konsep: Otak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Arsitek dalam bekerja lebih banyak menggunakan...
+
+[Materi #185]
+Topik (otomatis): pasukan, kuning, bekerja, memberi
+Inti konsep: Kebersihan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pasukan kuning bekerja untuk memberi pelayanan di bidang...
+
+[Materi #186]
+Topik (otomatis): tuna, wisma, dapat, diartikan
+Inti konsep: Gelandangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tuna wisma dapat diartikan sebagai...
+
+[Materi #187]
+Topik (otomatis): segitiga, merah, gambar, peta
+Inti konsep: gunung berapi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Segitiga merah pada gambar dalam peta merupakan simbol . . . .
+
+[Materi #188]
+Topik (otomatis): gambar, lautan, peta, dilukiskan
+Inti konsep: biru
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar lautan pada peta akan dilukiskan dengan warna . . . .
+
+[Materi #189]
+Topik (otomatis): peta, tertulis, jarak
+Inti konsep: 350 km
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika dalam peta tertulis 1 : 350.000 maka setiap 1 cm pada jarak adalah. . . .
+
+[Materi #190]
+Topik (otomatis): memperbesar, memperkecil, gambar, peta
+Inti konsep: koordinat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk memperbesar atau memperkecil gambar peta digunakan bantuan garis ...
+
+[Materi #191]
+Topik (otomatis): pengaruh, lingkungan, sosial, tidak
+Inti konsep: tawuran pelajar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengaruh lingkungan sosial yang tidak baik contohnya . . . .
+
+[Materi #192]
+Topik (otomatis): manusia, dapat, menciptakan, kebudayaan
+Inti konsep: perasaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manusia dapat menciptakan kebudayaan karena oleh Tuhan dianugerahi . . . .
+
+[Materi #193]
+Topik (otomatis): bawah, pemamfaatan, lahan, ada
+Inti konsep: Kawasan industri
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini adalah pemamfaatan lahan yang ada di dataran rendah, kecuali . .
+
+[Materi #194]
+Topik (otomatis): tanaman, ada, daerah, pantai
+Inti konsep: bakau
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis tanaman yang ada di daerah pantai yang sangat berguna untuk mencegah abrasi gelombang laut adalah  . . . .
+
+[Materi #195]
+Topik (otomatis): gempa, bumi, disebabkan, letusan
+Inti konsep: mekanik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gempa bumi yang disebabkan oleh letusan gunung merapi  disebut gempa ....
+
+[Materi #196]
+Topik (otomatis): pulau, bawah, banyak, terdapat
+Inti konsep: Kalimatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini adalah pulau – pulau yang banyak terdapat gunung berapi  yang masih aktif, kecuali  . . .
+
+[Materi #197]
+Topik (otomatis): gambar, seluruh, sebagian, permukaan
+Inti konsep: peta
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar seluruh atau sebagian permukaan bumi yang dilukis ke suatu bidang datar dengan skala tertentu disebut.. . . .
+
+[Materi #198]
+Topik (otomatis): masyarakat, tinggal, sekitar, daerah
+Inti konsep: nelayan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Masyarakat yang tinggal di sekitar daerah pantai umumnya bekerja sebagai. . . .
+
+[Materi #199]
+Topik (otomatis): air, dapat, termasuk, sumber
+Inti konsep: siklus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Air termasuk sumber daya alam yang dapat diperbarui, karena air dapat mengalami . . . .
+
+[Materi #200]
+Topik (otomatis): sungai
+Inti konsep: saluran buatan alam yang dialiri oleh air tawar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sungai adalah ....
+
+[Materi #201]
+Topik (otomatis): semboyan, negara, kita
+Inti konsep: Bhinneka Tunggal Ika
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Semboyan negara kita adalah....
+
+[Materi #202]
+Topik (otomatis): alat, musik, angklung, berasal
+Inti konsep: Jawa Barat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik angklung berasal dari .. . .
+
+[Materi #203]
+Topik (otomatis): supaya, kapas, dapat, benang
+Inti konsep: pemintalan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Supaya kapas dapat menjadi benang perlu dilakukan . . .
+
+[Materi #204]
+Topik (otomatis): bangunan, menyimpan, berbagai, peninggalan
+Inti konsep: museum
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bangunan untuk menyimpan berbagai peninggalan sejarah disebut . . . .
+
+[Materi #205]
+Topik (otomatis): benda, barang, segala, sesuatu
+Inti konsep: peninggalan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda, barang atau segala sesuatu yang kita wariskan dari mereka yang sudah meninggal  di sebut ....
+
+[Materi #206]
+Topik (otomatis): bentuk, bangunan, didirikan, memperingati
+Inti konsep: tugu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu bentuk bangunan yang didirikan untuk memperingati suatu peristiwa tertentu yang bernilai sejarah  disebut . . . .
+
+[Materi #207]
+Topik (otomatis): bawang, cerita, putih, merah
+Inti konsep: dongeng
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cerita Bawang Putih Bawang Merah dalam masyarakat Betawi (Jakarta) termasuk sumber sejarah jenis ....
+
+[Materi #208]
+Topik (otomatis): memiliki, indonesia, kebudayaan, beragam
+Inti konsep: Ribuan suku
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia memiliki kebudayaan yang beragam karena memiliki ....
+
+[Materi #209]
+Topik (otomatis): keragaman, suku, bangsa, agama
+Inti konsep: Kekayaan Bangsa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keragaman suku bangsa dan agama di Indonesia tidak perlu dijadikan masalah, justru menjadi salah satu ....
+
+[Materi #210]
+Topik (otomatis): salah, penyebab, banyaknya, suku
+Inti konsep: Indonesia memiliki ribuan pulau
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu penyebab banyaknya suku bangsa yang ada di Indonesia adalah ....
+
+[Materi #211]
+Topik (otomatis): keragaman, suku, bangsa, indonesia
+Inti konsep: Kondisi negara kepulauan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keragaman suku bangsa di Indonesia disebabkan oleh faktor ....
+
+[Materi #212]
+Topik (otomatis): bahan, tambang, berikut, dimanfaatkan
+Inti konsep: timah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan tambang berikut ini yang dimanfaatkan untuk pelapis besi agar tidak berkarat adalah ..
+
+[Materi #213]
+Topik (otomatis): tumbuhan, hewan, tanah, udara
+Inti konsep: terbarukan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tumbuhan, hewan, tanah, udara, matahari, air merupakan contoh sumber daya alam yang ....
+
+[Materi #214]
+Topik (otomatis): pusat, penyebaran, agama, hindu
+Inti konsep: Majapahit
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pusat penyebaran agama Hindu adalah kerajaan ...
+
+[Materi #215]
+Topik (otomatis): dewa, ajaran, hindu, disebut
+Inti konsep: Trimurti
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tiga dewa dalam ajaran Hindu disebut ...
+
+[Materi #216]
+Topik (otomatis): kemunduran, kerajaaan, majapahit, disebabkan
+Inti konsep: Paregrek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kemunduran kerajaaan Majapahit disebabkan karena perang ...
+
+[Materi #217]
+Topik (otomatis): raja, terkenal, kerajaan, singasari
+Inti konsep: Ken Arok
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Raja yang terkenal dari kerajaan Singasari adalah ...
+
+[Materi #218]
+Topik (otomatis): kerajaan, mataram, terletak
+Inti konsep: Yogyakarta
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerajaan Mataram terletak di ...
+
+[Materi #219]
+Topik (otomatis): kerajaan, kutai, terdapat, provinsi
+Inti konsep: Kalimantan Timur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerajaan Kutai terdapat di Provinsi ...
+
+[Materi #220]
+Topik (otomatis): raja, diceritakan, prasasti, ciaruteun
+Inti konsep: Purnawarman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Raja yang diceritakan dalam Prasasti Ciaruteun adalah
+
+[Materi #221]
+Topik (otomatis): kitab, negarakertagama, ditulis
+Inti konsep: Empu Prapanca
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kitab Negarakertagama ditulis oleh ...
+
+[Materi #222]
+Topik (otomatis): sastrawan, hidup, masa, sultan
+Inti konsep: Hamzah Fansuri
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sastrawan yang hidup pada masa Sultan Iskandar Muda adalah ...
+
+[Materi #223]
+Topik (otomatis): raja, terkenal, kerajaan, gowa-tallo
+Inti konsep: Sultan Hasanuddin
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Raja yang terkenal dari Kerajaan Gowa-Tallo adalah ...
+
+[Materi #224]
+Topik (otomatis): nama, lain, sunan, gunung
+Inti konsep: Syarif Hidayatullah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nama lain dari Sunan Gunung Jati adalah ...
+
+[Materi #225]
+Topik (otomatis): indonesia, terletak, diantara, benua
+Inti konsep: Asia dan Australia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia terletak diantara dua benua, yaitu ...
+
+[Materi #226]
+Topik (otomatis): garis, bujur, terletak, kota
+Inti konsep: Greenwich
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Garis bujur 0° terletak di kota ...
+
+[Materi #227]
+Topik (otomatis): sungai, terpanjang, indonesia
+Inti konsep: Kapuas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sungai terpanjang di Indonesia adalah Sungai ...
+
+[Materi #228]
+Topik (otomatis): pegunungan, bukit, barisan, terdapat
+Inti konsep: Sumatra
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pegunungan Bukit Barisan terdapat di Pulau ...
+
+[Materi #229]
+Topik (otomatis): selat, menghubungkan, pulau, jawa
+Inti konsep: Sunda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Selat yang menghubungkan Pulau Jawa dan Sumatra adalah selat ...
+
+[Materi #230]
+Topik (otomatis): laut, bawah, tidak, termasuk
+Inti konsep: Karimata
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang tidak termasuk laut adalah Laut ...
+
+[Materi #231]
+Topik (otomatis): danau, terbentuk, letusan, gunung
+Inti konsep: danau vulkanik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Danau yang terbentuk karena letusan gunung berapi disebut ...
+
+[Materi #232]
+Topik (otomatis): perhatikan, data-data, berikut, kelapa
+Inti konsep: (1), (2), dan (3)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan data-data berikut ini !
+(1) Kelapa sawit
+(2) Rafflesia
+(3) Pinus
+(4) Lada
+(5) Cengkih
+(6) Bakau
+Dari data di atas yang termasuk flora Indonesia bagian barat adalah ...
+
+[Materi #233]
+Topik (otomatis): berikut, termasuk, fauna, tipe
+Inti konsep: macan tutul
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk fauna tipe asiatis adalah ...
+
+[Materi #234]
+Topik (otomatis): hutan, musim, banyak, terdapat
+Inti konsep: Jawa Timur, Nusa Tenggara, dan Sulawesi Selatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hutan musim banyak terdapat di daerah ...
+
+[Materi #235]
+Topik (otomatis): dataran, tinggi, berada, sumatra
+Inti konsep: Kerinci
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dataran tinggi yang berada di Sumatra Barat adalah Dataran Tinggi ...
+
+[Materi #236]
+Topik (otomatis): rumah, adat, sulawesi, utara
+Inti konsep: Tongkonan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rumah adat dari Sulawesi Utara adalah Rumah ...
+
+[Materi #237]
+Topik (otomatis): suku, dani, banyak, mendiami
+Inti konsep: Papua
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suku Dani banyak mendiami daerah ...
+
+[Materi #238]
+Topik (otomatis): adanya, pembagian, waktu, indonesia
+Inti konsep: letak astronomis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Adanya pembagian waktu di Indonesia yang berbeda-beda disebabkan oleh ...
+
+[Materi #239]
+Topik (otomatis): kolintang, alat, musik, daerah
+Inti konsep: Minahasa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kolintang adalah jenis alat musik dari daerah ...
+
+[Materi #240]
+Topik (otomatis): kegiatan, ekonomi, bertujuan, menghasilkan
+Inti konsep: produksi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan ekonomi yang bertujuan menghasilkan barang dan jasa untuk memenuhi kebutuhan hidup manusia disebut kegiatan ...
+
+[Materi #241]
+Topik (otomatis): kegiatan, menyalurkan, barang-barang, kebutuhan
+Inti konsep: distribusi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan menyalurkan barang-barang kebutuhan dari produsen kepada konsumen dinamakan kegiatan ...
+
+[Materi #242]
+Topik (otomatis): perikanan, dibedakan
+Inti konsep: darat dan laut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perikanan dibedakan menjadi dua, yaitu perikanan ...
+
+[Materi #243]
+Topik (otomatis): batu, bara, gas, minyak
+Inti konsep: sumber energi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batu bara, gas, dan minyak bumi merupakan barang tambang ...
+
+[Materi #244]
+Topik (otomatis): perusahaan, memiliki, badan, hukum
+Inti konsep: PT
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perusahaan yang memiliki badan hukum resmi adalah ...
+
+[Materi #245]
+Topik (otomatis): keuntungan, diperoleh, pemilik, saham
+Inti konsep: deviden
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keuntungan yang diperoleh pemilik saham dalam PT disebut ...
+
+[Materi #246]
+Topik (otomatis): bawah, tidak, termasuk, bumn
+Inti konsep: KUD
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang tidak termasuk BUMN adalah ...
+
+[Materi #247]
+Topik (otomatis): bapak, koperasi, indonesia
+Inti konsep: Moh. Hatta
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bapak Koperasi Indonesia adalah ...
+
+[Materi #248]
+Topik (otomatis): berikut, tidak, termasuk, ciri-ciri
+Inti konsep: swadana
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk ciri-ciri koperasi adalah ...
+
+[Materi #249]
+Topik (otomatis): indonesia, terletak, diantara, benua
+Inti konsep: Nusantara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia terletak diantara dua benua dan dua samudra sehingga mendapat sebutan ....
+
+[Materi #250]
+Topik (otomatis): mengatur, jalannya, pemerintahan, wilayah
+Inti konsep: provinsi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk mengatur jalannya pemerintahan wilayah NKRI dibagi atas beberapa ....
+
+[Materi #251]
+Topik (otomatis): sikap, waspada, masalah, sosial
+Inti konsep: menjaga keharmonisan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh sikap waspada terhadap masalah sosial  di Indonesia adalah ....
+
+[Materi #252]
+Topik (otomatis): masalah, sosial, indonesia, maupun
+Inti konsep: kemiskinan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh masalah sosial di Indonesia maupun negara tetangga adalah ....
+
+[Materi #253]
+Topik (otomatis): secara, astronomis, wilayah, indonesia
+Inti konsep: 60 LU – 110 LS dan 950 BT – 1410 BT
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Secara astronomis wilayah Indonesia terletak antara ....
+
+[Materi #254]
+Topik (otomatis): provinsi, timor, timur, berdiri
+Inti konsep: 1999
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Provinsi Timor Timur berdiri sebagai negara baru pada tahun ….
+
+[Materi #255]
+Topik (otomatis): masa, awal, kemerdekaan, kepulauan
+Inti konsep: Sunda Kecil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada masa awal kemerdekaan Kepulauan Nusa Tenggara disebut Provinsi….
+
+[Materi #256]
+Topik (otomatis): provinsi, bangka, belitung, pemekaran
+Inti konsep: Sumatera Selatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Provinsi Bangka Belitung merupakan pemekaran dari provinsi ....
+
+[Materi #257]
+Topik (otomatis): benua, letak, indonesia, secara
+Inti konsep: Asia dan Australia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Letak Indonesia secara geografis sangat strategis karena berada di persilangan dua benua yaitu Benua ....
+
+[Materi #258]
+Topik (otomatis): tanjung, pinang, ibu, kota
+Inti konsep: Kepulauan Riau
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tanjung Pinang ibu kota Provinsi ….
+
+[Materi #259]
+Topik (otomatis): negara, asia, tenggara, tidak
+Inti konsep: Laos
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara di Asia Tenggara yang tidak mempunyai laut adalah ….
+
+[Materi #260]
+Topik (otomatis): kuala, lumpur, ibu, kota
+Inti konsep: Malaysia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kuala Lumpur adalah ibu kota negara ....
+
+[Materi #261]
+Topik (otomatis): asia, tenggara, termasuk, negara
+Inti konsep: Indonesia dan Filipina
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di Asia Tenggara yang termasuk negara kepulauan adalah ....
+
+[Materi #262]
+Topik (otomatis): wilayah, berbatasan, langsung, indonesia
+Inti konsep: Papua Nugini dan Malaysia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Wilayah yang berbatasan langsung dengan Indonesia adalah ….
+
+[Materi #263]
+Topik (otomatis): gunung, fan, pan, terletak
+Inti konsep: Vietnam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gunung Fan Si Pan terletak di Negara ….
+
+[Materi #264]
+Topik (otomatis): negara, asia, tenggara, tujuan
+Inti konsep: Singapura
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara di Asia Tenggara yang merupakan tujuan wisata yang paling populer adalah ….
+
+[Materi #265]
+Topik (otomatis): negara, mendapat, sebutan, macan
+Inti konsep: Malaysia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara ini mendapat sebutan “Macan Asia” kecuali ….
+
+[Materi #266]
+Topik (otomatis): gunung, fuji, dianggap, kramat
+Inti konsep: Jepang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gunung Fuji dianggap kramat oleh penduduk ….
+
+[Materi #267]
+Topik (otomatis): penduduk, asli, australia
+Inti konsep: Aborigin
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penduduk asli Australia adalah ….
+
+[Materi #268]
+Topik (otomatis): benua, asia, afrika, dibatasi
+Inti konsep: Terusan Suez
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Antara Benua Asia dan Benua Afrika dibatasi oleh ….
+
+[Materi #269]
+Topik (otomatis): negara, berada, wilayah, asia
+Inti konsep: Jepang dan RRC
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara yang berada di wilayah Asia Timur adalah ….
+
+[Materi #270]
+Topik (otomatis): australia, mendapat, sebutan, negara
+Inti konsep: Kanguru
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Australia mendapat sebutan negara ….
+
+[Materi #271]
+Topik (otomatis): sungai, terpanjang, dunia
+Inti konsep: Nil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sungai terpanjang di dunia adalah Sungai ….
+
+[Materi #272]
+Topik (otomatis): kenampakan, alam, buatan, sangat
+Inti konsep: Istana Taj Mahal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kenampakan alam buatan yang sangat terkenal di India dalah ....
+
+[Materi #273]
+Topik (otomatis): benua, amerika, dikelompokkan, kawasan
+Inti konsep: Amerika Timur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benua Amerika dikelompokkan menjadi 3 kawasan, kecuali ….
+
+[Materi #274]
+Topik (otomatis): provinsi, pertama, indonesia, terbentuk
+Inti konsep: PPKI
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Provinsi pertama di Indonesia terbentuk berdasarkan hasil sidang...
+
+[Materi #275]
+Topik (otomatis): deklarasi, juanda, dicetuskan, tanggal
+Inti konsep: 13 Desember 1957
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Deklarasi Juanda dicetuskan tanggal...
+
+[Materi #276]
+Topik (otomatis): laut, garis, wilayah, lautan
+Inti konsep: lautan teritorial
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Wilayah lautan selebar 12 mil laut yang diukur berdasarkan garis lurus yang ditarik dari garis dasr ke arah laut bebas pada saat air surut disebut...
+
+[Materi #277]
+Topik (otomatis): batas, wilayah, zona, ekonomi
+Inti konsep: 200
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batas wilayah Zona Ekonomi Eksklusif adalah...mil
+
+[Materi #278]
+Topik (otomatis): provinsi, gorontalo, pemekaran, wilayah
+Inti konsep: Sulawesi Utara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Provinsi Gorontalo merupakan pemekaran dari wilayah Provinsi...
+
+[Materi #279]
+Topik (otomatis): tahun, provinsi, sumatra, selatan
+Inti konsep: Sumatra Selatan dan Bengkulu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada tahun 1967, Provinsi Sumatra Selatan dimekarkan menjadi...
+
+[Materi #280]
+Topik (otomatis): sungai, chao, phraya, bentang
+Inti konsep: Thailand
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sungai Chao Phraya merupakan bentang alam yang terdapat di negara...
+
+[Materi #281]
+Topik (otomatis): bangunan, candi, kuil, angkor
+Inti konsep: Kamboja
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bangunan Candi atau Kuil Angkor Wat terdapat di negara...
+
+[Materi #282]
+Topik (otomatis): batas, sebelah, selatan, benua
+Inti konsep: Samudra Hindia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batas sebelah selatan Benua Asia adalah...
+
+[Materi #283]
+Topik (otomatis): benua, paling, kecil
+Inti konsep: Australia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benua yang paling kecil adalah benua...
+
+[Materi #284]
+Topik (otomatis): gunung, tertinggi, benua, afrika
+Inti konsep: Kilimanjaro
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gunung tertinggi di Benua Afrika adalah gunung...
+
+[Materi #285]
+Topik (otomatis): timur, tengah, sebutan, kawasan
+Inti konsep: Asia Barat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Timur Tengah adalah sebutan untuk kawasan...
+
+[Materi #286]
+Topik (otomatis): negara, bawah, terletak, amerika
+Inti konsep: Kanada
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara di bawah ini yang terletak di Amerika Utara adalah...
+
+[Materi #287]
+Topik (otomatis): sungai, besar, utara, amerika
+Inti konsep: Amazon
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sungai besar di bagian utara Amerika Selatan adalah Sungai...
+
+[Materi #288]
+Topik (otomatis): gurun, sahara, terletak, benua
+Inti konsep: utara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gurun Sahara terletak di Benua Afrika bagian...
+
+[Materi #289]
+Topik (otomatis): hasil, bumi, terbesar, brasil
+Inti konsep: kopi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hasil bumi terbesar Brasil adalah...
+
+[Materi #290]
+Topik (otomatis): negara, benua, eropa, menempati
+Inti konsep: Belanda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara di Benua Eropa yang menempati wilayah paling rendah adalah...
+
+[Materi #291]
+Topik (otomatis): sungai, terpanjang, dunia
+Inti konsep: Nil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sungai terpanjang di dunia adalah sungai...
+
+[Materi #292]
+Topik (otomatis): benua, eropa, asia, dipisahkan
+Inti konsep: Ural
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Antara Benua Eropa dan Asia dipisahkan oleh pegunungan...
+
+[Materi #293]
+Topik (otomatis): negara, berikut, tidak, terletak
+Inti konsep: Paraguay
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara berikut ini yang tidak terletak di wilayah Amerika Utara adalah...
+
+[Materi #294]
+Topik (otomatis): mesir, negara, benua, afrika
+Inti konsep: Afrika Utara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mesir merupakan negara di Benua Afrika yang terletak di kawasan...
+
+[Materi #295]
+Topik (otomatis): sungai, amazon, terbesar, dunia
+Inti konsep: Brasil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sungai Amazon adalah sungai yang terbesar di dunia yang terdapat di negara...
+
+[Materi #296]
+Topik (otomatis): prancis, negara, terletak, kawasan
+Inti konsep: Barat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Prancis adalah negara yang terletak di kawasan Eropa...
+
+[Materi #297]
+Topik (otomatis): sungai, australia, bermuara, danau
+Inti konsep: Diamantina
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sungai di Australia yang bermuara di Danau Eyre adalah Sungai...
+
+[Materi #298]
+Topik (otomatis): terusan, suez, terdapat, negara
+Inti konsep: Mesir
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Terusan suez terdapat di negara...
+
+[Materi #299]
+Topik (otomatis): penduduk, asli, amerika, suku
+Inti konsep: Indian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penduduk asli Amerika adalah suku...
+
+[Materi #300]
+Topik (otomatis): kota, inggris, batas, pergantian
+Inti konsep: Greenwich
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kota di Inggris yang menjadi batas pergantian tanggal internasional adalah...
+
+[Materi #301]
+Topik (otomatis): ekspor, kegiatan, menjual, produk
+Inti konsep: Pemberian subsidi untuk eksportir
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ekspor merupakan kegiatan yang menjual produk berupa barang atau jasa ke luar negeri. Salah satu hal yang melatarbelakangi ekspor ini adalah sumber daya alam yang melimpah di suatu negara. Untuk meningkatkan ekspor, pemerintah bisa melakukan …
+
+[Materi #302]
+Topik (otomatis): ilmu, ekonomi, membahas
+Inti konsep: perilaku manusia dalam memenuhi kebutuhannya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ilmu ekonomi adalah ilmu yang membahas ......
+
+[Materi #303]
+Topik (otomatis): sosialisasi, primer, seseorang, pertama
+Inti konsep: di lingkungan keluarga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses sosialisasi primer seseorang pertama kali terjadi di........
+
+[Materi #304]
+Topik (otomatis): rumah, tangga, tenaga, kerja
+Inti konsep: Upah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah pabrik tekstil membutuhkan banyak tenaga kerja untuk menjahit produk mereka, maka, rumah tangga perusahaan menggunakan faktor produksi berupa tenaga kerja yang ditawarkan oleh rumah tangga keluarga/ konsumen. Sebagai balas jasa atas faktor produksi ini, rumah tangga produsen memberikan balas jasa berupa …..
+
+[Materi #305]
+Topik (otomatis): seseorang, perlu, mempelajari, ilmu
+Inti konsep: ingin mencapai kemakmuran
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seseorang perlu mempelajari ilmu ekonomi karena ......
+
+[Materi #306]
+Topik (otomatis): latar, belakang, munculnya, masalah
+Inti konsep: kebutuhan manusia tidak terbatas dan alat pemenuhan kebutuhan terbatas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: .Latar belakang munculnya masalah ekonomi adalah...
+
+[Materi #307]
+Topik (otomatis): tidak, tersedia, negeri, mencukupi
+Inti konsep: Impor beras dari negara lain yang juga penghasil beras
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Adanya perdagangan internasional dikarenakan produk atau barang yang dibutuhkan tidak tersedia di dalam negeri. Atau bias juga tersedia namun tidak mencukupi. Ketika pasokan beras dalam negeri kurang mencukupi, maka pemerintah bisa melakukan …..
+
+[Materi #308]
+Topik (otomatis): agama, hindu, campuran, cari
+Inti konsep: Arya dan Brahmana
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Agama Hindu adalah campuran cari kepercayaan suku...
+
+[Materi #309]
+Topik (otomatis): agama, dianut, mayoritas, penduduk
+Inti konsep: Budha
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Agama yang dianut oleh mayoritas penduduk Thailand adalah ....
+
+[Materi #310]
+Topik (otomatis): tenaga, akibat, pkemajuan, teknologi
+Inti konsep: mekanisasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Akibat pkemajuan teknologi sering terjadi perubahan pada pekerjaan; yang mula-mula dikerjakan dengan tenaga manusia diganti dengan tenaga mesin. Pergantian sistem ini disebut.......
+
+[Materi #311]
+Topik (otomatis): alasan, dasar, masyarakat, hidup
+Inti konsep: Dekat dengan mata pencaharian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alasan dasar masyarakat hidup berkelompok di pinggir pantai adalah..
+
+[Materi #312]
+Topik (otomatis): permukaan, bumi, menjulang, atas
+Inti konsep: gunung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bagian permukaan bumi yang menjulang ke atas dan lebih tinggi dari daerah sekitarnya disebut......
+
+[Materi #313]
+Topik (otomatis): permukaan, bumi, tanahnya, relatif
+Inti konsep: dataran tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bagian permukaan bumi yang tanahnya relatif datar dan letaknya tinggi lebih dari 200m dpl disebut ...........
+
+[Materi #314]
+Topik (otomatis): candi, hindu, bangunan, masjid
+Inti konsep: akulturasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bangunan Masjid Demak yang merupakan tempat ibadah umat Islam memiliki corak candi Hindu dengan atap bertingkat seperti layaknya candi Hindu merupakan bentuk percampuran budaya yaitu….
+
+[Materi #315]
+Topik (otomatis): bangunan, disusun, secara, bertingkat
+Inti konsep: Punden Berundak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bangunan yang disusun secara bertingkat untuk pemujaan terhadap roh nenek moyang disebut…..
+
+[Materi #316]
+Topik (otomatis): barang, dapat, menghasilkan, lain
+Inti konsep: Meja
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Barang yang dapat menghasilkan barang lain disebut sebagai barang produksi (modal) dengan contoh berikut, kecuali…
+
+[Materi #317]
+Topik (otomatis): bentuk, karakteristik, budaya, diakibatkan
+Inti konsep: cara berpakaian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk karakteristik budaya yang diakibatkan perbedaan iklim kawasan negara-negara ASEAN yaitu...
+
+[Materi #318]
+Topik (otomatis): bentuk, kerja, sama, penggabungan
+Inti konsep: Koalisi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk kerja sama yang merupakan penggabungan antara organisasi dua atau lebih yang berusaha dalam mencapai tujuan bersama yang telah disepakati disebut…..
+
+[Materi #319]
+Topik (otomatis): manusia, berbagai, hasil, bentukan
+Inti konsep: Sumber daya alam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berbagai hasil dari bentukan alam yang berguna bagi manusia untuk memenuhi kebutuhan manusia adalah …..
+
+[Materi #320]
+Topik (otomatis): negara, berdasarkan, gambar, berikut
+Inti konsep: Produsen
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan gambar berikut, Perusahan Listrik Negara (PLN) merupakan salah satu bentuk Badan Usaha Milik Negara (BUMN) sebagai pelaku ekonomi yang berperan sebagai …..
+
+[Materi #321]
+Topik (otomatis): kebutuhan, dipenuhi, berdasarkan, intensitas
+Inti konsep: Primer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan intensitas atau tingkatannya, kebutuhan yang harus dipenuhi dan jika tidak dipenuhi akan berpengaruh terhadap kelangsungan hidup manusia disebut dengan kebutuhan…
+
+[Materi #322]
+Topik (otomatis): berdasarkan, keputusan, mahkamah, internasional
+Inti konsep: Singapura
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan keputusan Mahkamah Internasional, Pulau Ligitan dan Sipadan diberikan kepada negara...
+
+[Materi #323]
+Topik (otomatis): berdasarkan, letak, astronomisnya, wilayah
+Inti konsep: 11˚ LS - 28˚ LU
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan letak astronomisnya, wilayah Asia Tenggaraterletak pada garis lintang...
+
+[Materi #324]
+Topik (otomatis): berikut, faktor-, faktor, penyebab
+Inti konsep: perbedaan geografis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah faktor- faktor penyebab konflik, kecuali ....
+
+[Materi #325]
+Topik (otomatis): berikut, negara-, negara, pendiri
+Inti konsep: Brunei Darussalam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah negara- negara pendiri ASEAN kecuali ....
+
+[Materi #326]
+Topik (otomatis): berikut, tempat, suci, agama
+Inti konsep: Lembah Gangga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah tempat suci agama Buddha, kecuali...
+
+[Materi #327]
+Topik (otomatis): berikut, usaha, meningkatkan, ekonomi
+Inti konsep: memberikan keleluasaan asing untuk menangkap ikan di perairan Indonesia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah usaha untuk meningkatkan ekonomi maritim di Indonesia, kecuali ....
+
+[Materi #328]
+Topik (otomatis): berikut, faktor, memengaruhi, ekspor
+Inti konsep: Keuletan importir untuk memenangi pangsa pasar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang BUKAN faktor yang memengaruhi ekspor baik dari dalam ataupun luar negeri adalah …..
+
+[Materi #329]
+Topik (otomatis): berikut, faktor, pendorong, mobilitas
+Inti konsep: diskriminasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan merupakan faktor pendorong mobilitas sosial adalah ....
+
+[Materi #330]
+Topik (otomatis): negara, paling, berikut, termasuk
+Inti konsep: Singapura memiliki sumber daya alam yang melimpah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan termasuk faktor pendorong bagi perkembangan negara Singapura menjadi negara paling maju dan paling modern di Asia Tenggara adalah...
+
+[Materi #331]
+Topik (otomatis): berikut, upaya, meningkatkan, ekonomi
+Inti konsep: Memberikan kebebasan kepada kapal asing
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan upaya meningkatkan ekonomi maritime indonesia adalah …..
+
+[Materi #332]
+Topik (otomatis): mengajukan, gagasan, mampu, pendapat
+Inti konsep: benar semua
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang merupakan ciri-ciri manusia kreatif adalah…
+
+1. Bersifat ingin tahu
+2. Sering mengajukan pertanyaan yang baik
+3. Banyak gagasan dan asal usul terhadap suatu masalah
+4. Mampu menyatakan pendapat secara spontan
+5. Tidak mudah terpengaruh pendapat orang lain
+6. Mampu mengajukan gagasan yang berbeda dengan orang lain
+7. Berpikir kedepan
+
+[Materi #333]
+Topik (otomatis): berikut, perusahaan, bumn
+Inti konsep: Bank Indonesia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang merupakan perusahaan BUMN adalah..
+
+[Materi #334]
+Topik (otomatis): berikut, termasuk, kebutuhan, rohani
+Inti konsep: Olahraga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk kebutuhan rohani kecuali…
+
+[Materi #335]
+Topik (otomatis): berikut, termasuk, relief, permukaan
+Inti konsep: depresi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk relief permukaan bumi di daratan adalah .............
+
+[Materi #336]
+Topik (otomatis): berikut, termasuk, tenaga, eksogen
+Inti konsep: pelapukan, erosi, abrasi, sedimentasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk tenaga eksogen adalah .............
+
+[Materi #337]
+Topik (otomatis): berikut, termasuk, tenaga, endogen
+Inti konsep: gempa bumi, gempa tektonik, gempa vulkanik, gunung meletus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk tenaga endogen adalah .............
+
+[Materi #338]
+Topik (otomatis): berikut, tidak, termasuk, faktor-faktor
+Inti konsep: antipati
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk faktor-faktor yang mendasari terbentuknya interaksi sosial:
+
+[Materi #339]
+Topik (otomatis): berikut, tidak, termasuk, relief
+Inti konsep: ngarai, dataran rendah, dataran tinggi, palung laut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk relief permukaan bumi di daratan adalah .............
+
+[Materi #340]
+Topik (otomatis): besar, kecilnya, pendapatan, seseorang
+Inti konsep: semakin besar pendapatan maka semakin besar pengeluaran
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besar kecilnya pendapatan seseorang mempengaruhi besarnya kebutuhan orang tersebut, maka .........
+
+[Materi #341]
+Topik (otomatis): mengadakan, seseorang, pertemuan, secara
+Inti konsep: Kontak primer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bila seseorang telah mengadakan pertemuan secara langsung seperti tatap muka, maka orang tersebut telah mengadakan...
+
+[Materi #342]
+Topik (otomatis): candi, borobudur, mendut, peninggalan
+Inti konsep: Mataram Kuno
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Candi Borobudur dan Candi Mendut merupakan peninggalan kerajaan…
+
+[Materi #343]
+Topik (otomatis): barang, termasuk, substitusi
+Inti konsep: Gula merah dengan gula putih
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh barang yang termasuk barang substitusi adalah…
+
+[Materi #344]
+Topik (otomatis): hasil, kebudayaan, manusia, purba
+Inti konsep: Zaman besi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh hasil kebudayaan manusia purba yaitu kapak, sabit, pisau berada di zaman….
+
+[Materi #345]
+Topik (otomatis): peninggalan, masa, pra, aksara
+Inti konsep: Gong
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh peninggalan masa pra aksara berikut benar, kecuali…
+
+[Materi #346]
+Topik (otomatis): daerah, cekung, seperti, cawan
+Inti konsep: depresi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Daerah cekung seperti cawan yang mengalami pemerosotan, atau daratan yang mempunyai ketinggian lebih rendah dari permukaan air laut disebut ...........
+
+[Materi #347]
+Topik (otomatis): daerah, kabupaten, wonosobo, jawa
+Inti konsep: Perbedaan hasil produksi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Daerah Kabupaten Wonosobo, Jawa Tengah, dengan tanah yang subur lebih mungkin memproduksi sayur mayur lebih banyak dan menjualnya sampai ke luar daerah dibandingkan misalnya daerah Gunung Kidul, Yogyakarta. Ini menunjukkan bahwa salah satu faktor pendorong terjadinya perdagangan antar daerah/pulau adalah …..
+
+[Materi #348]
+Topik (otomatis): secara, komunikasi, verbal, kita
+Inti konsep: a,b,c benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam komunikasi secara verbal kita dapat memahami secara langsung lawan bicara dari …..
+
+[Materi #349]
+Topik (otomatis): dampak, alih, lahan, pertanian
+Inti konsep: turun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dampak alih fungsi lahan pertanian menjadi pemukiman, yaitu produktivitas pangan akan menjadi...
+
+[Materi #350]
+Topik (otomatis): dampak, pencemaran, air, tanah
+Inti konsep: keseimbangan ekosistem terganggu dan mempengaruhi kehidupan manusia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dampak pencemaran air, tanah, dan udara membuat ….
+
+[Materi #351]
+Topik (otomatis): daratan, hampir, rata, akibat
+Inti konsep: peneplain
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: daratan yang hampir rata akibat pengaruh tenaga dari luar bumi (eksogen) berupa pengikisan
+
+[Materi #352]
+Topik (otomatis): daratan, ketinggiannya, dpl, biasanya
+Inti konsep: dataran rendah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Daratan yang ketinggiannya antara  0 - 200 m dpl dan biasanya berada di dekat pantai disebut .....
+
+[Materi #353]
+Topik (otomatis): asean, indonesia, pelabuhan, connectivity
+Inti konsep: Pelayaran
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dari 47 pelabuhan yang akan dikembangkan di ASEAN, 14 di antaranya ada di Indonesia. Targetya lima pelabuhan besar tersebut siap untuk ASEAN Connectivity, dan Indonesia sebenarnya berkepentingan untuk proyek-proyek sea transportation ini.
+
+Investasi pihak swasta dibutuhkan dalam proyek-proyek ASEAN Connectivity ini, khususnya pada infrastruktur transportasi. dari informasi tersebut maka Indonesia perlu memaksimalkan sektor …..
+
+[Materi #354]
+Topik (otomatis): gambar, dapat, diketahui, lahan
+Inti konsep: Alam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dari gambar tersebut dapat diketahui bahwa lahan pertanian berupa sayur merupakan faktor produksi …..
+
+[Materi #355]
+Topik (otomatis): meningkatkanya, pertumbuhan, penduduk, negara
+Inti konsep: lahan akan semakin dibutuhkan untuk manusia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dengan meningkatkanya pertumbuhan penduduk suatu negara, konversi lahan tidak akan dapat dihindari lagi sebab ....
+
+[Materi #356]
+Topik (otomatis): pura, khusus, sistem, dewi
+Inti konsep: Subak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di Bali terdapat suatu organisasi kemasyarakatan yang khusus mengatur sistem pengairan sawah yang digunakan dalam bercocok tanam padi. Pada umumnya memiliki pura yang dinamakan pura uluncarik atau pura bedugul, yang khusus dibangun oleh para pemilik lahan dan petani.
+
+Pura tersebut diperuntukkan bagi dewi sri, yaitu dewi kemakmuran dan kesuburan menurut kepercayaan masyarakat setempat. Sistem irigasi yang diatur oleh seorang pemuka adat (pekaseh) ini disebut dengan …..
+
+[Materi #357]
+Topik (otomatis): bawah, usaha, tidak, menghasilkan
+Inti konsep: toko swalayan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini adalah contoh usaha yang tidak menghasilkan jasa
+
+[Materi #358]
+Topik (otomatis): bawah, dampak, negatif, terjadinya
+Inti konsep: memperjelas aspek- aspek kehidupan yang masih belum tuntas ditelaah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini adalah dampak negatif terjadinya konfflik, kecuali ....
+
+[Materi #359]
+Topik (otomatis): bawah, faktor, pernghambat, kerjasama
+Inti konsep: perbedaan bentang alam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini adalah faktor pernghambat kerjasama di kawasa ASEAN, kecuali ....
+
+[Materi #360]
+Topik (otomatis): bawah, kontibusi, sektor, pertanian
+Inti konsep: mengurangi tenaga kerja
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini adalah kontibusi sektor pertanian bagi perekonomian di Indonesia kecuali ....
+
+[Materi #361]
+Topik (otomatis): bawah, kegiatan, termasuk, ekonomi
+Inti konsep: budidaya kerang mutiara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini merupakan contoh kegiatan yang termasuk dalam ekonomi kelautan adalah ....
+
+[Materi #362]
+Topik (otomatis): bawah, dampak, perdagangan, bebas
+Inti konsep: munculnya sifat konsumerisme
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang bukan merupakan dampak perdagangan bebas negara kawasan ASEAN (AFTA) bagi Indonesia adalah ....
+
+[Materi #363]
+Topik (otomatis): efek, rumah, kaca, membuat
+Inti konsep: kenaikan suhu di permukaan bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Efek rumah kaca membuat perubahan …..
+
+[Materi #364]
+Topik (otomatis): faktor, lingkungan, dapat, mempengaruhi
+Inti konsep: orang yang hidup di kota lebih boros dibanding dengan orang yang hidup di desa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor lingkungan juga dapat mempengaruhi keinginan manusia dalam memenuhi kebutuhan, yaitu .....
+
+[Materi #365]
+Topik (otomatis): faktor, pendorong, kerja, sama
+Inti konsep: jawaban A, B, dan C benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor pendorong kerja sama antarnegara ASEAN yaitu...
+
+[Materi #366]
+Topik (otomatis): faktor, memengaruhi, kebutuhan, bawah
+Inti konsep: Keinginan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor yang memengaruhi kebutuhan di bawah ini tepat, kecuali…
+
+[Materi #367]
+Topik (otomatis): menolong, harefa, kucing, terjebak
+Inti konsep: Keluarga, melalui penanaman nilai kebaikan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Harefa menolong kucing yang terjebak dalam saluran air karena diajarkan orang tuanya untuk tolong menolong dengan makhluk hidup lainnya merupakan pengaruh dari agen sosialisasi ....
+
+[Materi #368]
+Topik (otomatis): harga, pasar, terbentuk, setelah
+Inti konsep: Kesepakatan antara penjual dan pembeli
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Harga pasar terbentuk setelah adanya…
+
+[Materi #369]
+Topik (otomatis): hari, raya, umat, buddha
+Inti konsep: Waisak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hari raya umat Buddha adalah hari raya...
+
+[Materi #370]
+Topik (otomatis): homo, wajakensis, manusia, praaksara
+Inti konsep: Jawa Timur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Homo wajakensis adalah manusia praaksara yang ditemukan di provinsi….
+
+[Materi #371]
+Topik (otomatis): individu, hubungan, manusia, dinamis
+Inti konsep: interaksi sosial
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hubungan manusia yang dinamis, saling mempengaruhi antar individu dengan individu atau kelompok disebut .......
+
+[Materi #372]
+Topik (otomatis): hubungan, pengaruh, mempengaruhi, antar
+Inti konsep: Komunikasi dan interaksi sosial
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hubungan pengaruh – mempengaruhi antar manusia dan masyarakat dapat terjadi setelah memenuhi syarat yaitu adanya...
+
+[Materi #373]
+Topik (otomatis): indonesia, berpeluang, negara, berpotensi
+Inti konsep: wilayah perairan Indonesia yang sangat luas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia berpeluang menjadi negara yang berpotensi besar dalam sektor perikanan. Alasan utama yang mendasari hal tersebut adalah ....
+
+[Materi #374]
+Topik (otomatis): dunia, indonesia, dapat, kekuatan
+Inti konsep: Indonesia dekat dengan negara- negara yang kuat kemaritimannya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia dapat menjadi kekuatan penting dalam mengembangkan dunia kemaritiman dan kelautan di dunia. Di bawah ini yang bukan termasuk alasan yang mendasari hal tersebut adalah ....
+
+[Materi #375]
+Topik (otomatis): indonesia, disebut, negara, agraris
+Inti konsep: pertanian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia disebut negara agraris karena sebagian besar penduduknya bekerja di sektor ....
+
+[Materi #376]
+Topik (otomatis): laut, indonesia, negara, kekayaan
+Inti konsep: Memberikan pelatihan kepada masyarakat tentang cara-cara memanfaatkan sumber daya laut dengan cara yang bijaksana
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia merupakan negara dengan kekayaan laut yang begitu besar. Pemaksimalan potensi laut dapat dilakukan dengan …..
+
+[Materi #377]
+Topik (otomatis): indonesia, memiliki, pertanian, penyediaan
+Inti konsep: Penggunaan teknologi tingkat tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia sebagai salah satu negara yang termasuk dalam wilayah tropis memiliki potensi pertanian yang sangat baik. Sektor pertanian juga menjadi kontributor besar dalam pendapatan nasional, penyerapan tenaga kerja, penyediaan pangan dan penyediaan bahan baku industri. Namun pengembangan agrikultur di Indonesia ini memiliki hambatan berikut, kecuali …..
+
+[Materi #378]
+Topik (otomatis): bertambah, pendapatan, seseorang, jumlah
+Inti konsep: tak terbatas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika pendapatan seseorang bertambah maka jumlah kebituhan ikut bertambah. Hal ini membuktikan bahwa kebutuhan manusia itu bersifat..........
+
+[Materi #379]
+Topik (otomatis): kawasan, asia, tenggara, sirkum
+Inti konsep: sering terjadi bencana alam tektonisme dan vulkanisme
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kawasan Asia Tenggara merupakan pertemuan jalur pegunungan muda Sirkum Pasifik dan Sirkum Mediterania. Hal tersebut menyebabkan kawasan Asia Tenggara...
+
+[Materi #380]
+Topik (otomatis): kebutuhan, manusia, tidak, tampak
+Inti konsep: jasa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kebutuhan manusia terhadap suatu yang tidak tampak disebut kebutuhan..........
+
+[Materi #381]
+Topik (otomatis): kegiatan, ekonomi, negara, brunei
+Inti konsep: pertambangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan ekonomi negara Brunei Darussalam bertumpu pada sektor ....
+
+[Materi #382]
+Topik (otomatis): kegiatan, ekonomi, dilakukan, diwilayah
+Inti konsep: ekonomi kelautan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan ekonomi yang dilakukan diwilayah pesisir pantai, dan lautan serta darat yang menggunakan sumber daya alam (SDA) dan jasa-jasa lingkungan kelautan untuk menghasilkan barang atau jasa disebut ....
+
+[Materi #383]
+Topik (otomatis): industri, kegiatan, ekonomi, mencakup
+Inti konsep: ekonomi maritim
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan ekonomi yang mencakup transportasi laut, industri galangan kapal dan perawatannya, pembangunan dan pengoperasian pelabuhan beserta industri dan jasa terkait disebut ...
+
+[Materi #384]
+Topik (otomatis): kegiatan, indonesia, mengekspor, australia
+Inti konsep: Perbedaan sumber daya manusia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan ekspor merupakan kegiatan menjual barang ke luar negeri. Indonesia mengekspor karet ke australia, sedangkan australia mengekspor gandum ke indonesia. Perdagangan kedua negara terjadi karena adanya…
+
+[Materi #385]
+Topik (otomatis): ekspor, negara, keuntungan, kegiatan
+Inti konsep: Memperluas lapangan kerja
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan ekspor yang dilakukan suatu negara dapat mendatangkan keuntungan. Dari segi ekonomi, negara yang melakukan ekspor memperoleh keuntungan seperti …..
+
+[Materi #386]
+Topik (otomatis): sumber, bahan, kegiatan, pemanfaatan
+Inti konsep: Agrikultur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan pemanfaatan sumber daya hayati yang dilakukan manusia untuk menghasilkan bahan pangan, bahan baku industri, sumber energi, atau untuk mengelola lingkungan hidupnya adalah pengertian dari …..
+
+[Materi #387]
+Topik (otomatis): kegiatan, termasuk, bidang, pertanian
+Inti konsep: Membawa hasil panen ke pasar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan yang bukan termasuk bidang pertanian adalah...
+
+[Materi #388]
+Topik (otomatis): kekayaan, laut, dapat, memberikan
+Inti konsep: memanfaatkan secara bijak dengan tetap menjaga kelestarian lingkungannya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kekayaan laut dapat memberikan kontribusi yang sangat penting bagi perekonomian nasional. Dalam hal ini peran masyarakat untuk menjaga dan mengembangkan potensi tersebut adalah....
+
+[Materi #389]
+Topik (otomatis): kelompok, buruh, melakukan, demonstrasi
+Inti konsep: perasaan senasib
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kelompok buruh melakukan demonstrasi UU Cipta kerja di depan gedung DPR untuk menyuarakan pendapat mereka mengenai UU tersebut. Pada situasi tersebut, kelompok buruh termasuk pada kelompok sosial yang melalui hasil pengalaman ....
+
+[Materi #390]
+Topik (otomatis): raja, ampat, indonesia, dunia
+Inti konsep: Pariwisata bahari
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kepulauan Raja Ampat dari Indonesia timur. Keindahan tempat ini tidak perlu diragukan lagi, bahkan sudah diakui dunia. Buktinya, banyak media asing menjuluki raja ampat sebagai the last paradise on earth atau surga terakhir dunia.
+
+Berdasarkan informasi tersebut maka Raja Ampat dapat dikategorikan ke dalam potensi maritime Indonesia pada sektor …..
+
+[Materi #391]
+Topik (otomatis): kerajaan, pusat, ilmiah, pelajaran
+Inti konsep: Sriwijaya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerajaan yang menjadi pusat ilmiah pelajaran agama Budha adalah…
+
+[Materi #392]
+Topik (otomatis): kerja, sama, diadakan, menteri
+Inti konsep: politik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerja sama yang diadakan para menteri pada pertemuan Defence Ministers Meeting (ADMM) membahas bidang...
+
+[Materi #393]
+Topik (otomatis): kesultanan, islam, indonesia, didirikan
+Inti konsep: Demak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kesultanan Islam di Indonesia yang didirikan oleh Raden Patah adalah…
+
+[Materi #394]
+Topik (otomatis): kesultanan, islam, masa, kejayaannya
+Inti konsep: Banten
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kesultanan Islam yang masa kejayaannya dipimpin oleh Sultan Ageng Tirtayasa adalah…
+
+[Materi #395]
+Topik (otomatis): keterbatasan, alat, pemenuhan, kebutuhan
+Inti konsep: kelangkaan alat pemenuhan kebutuhan manusia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keterbatasan alat pemenuhan kebutuhan manusia mengakibatkan...
+
+[Materi #396]
+Topik (otomatis): keterlibatan, seseorang, individu, lain
+Inti konsep: kontak sosial
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keterlibatan antara seseorang dan individu lain, atau antarkelompok baik secara fisik maupun verbal disebut…..
+
+[Materi #397]
+Topik (otomatis): konsumen, barang, jasa, rumah
+Inti konsep: Bea cukai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ketika konsumen membeli barang dan jasa dari produsen, konsumen berkewajiban membayar barang dan jasa yang diterima. Oleh karena itu, rumah tangga keluarga/konsumen harus memiliki pendapatan. Pendapatan rumah tangga keluarga diperoleh dari beberapa hal berikut, kecuali …..
+
+[Materi #398]
+Topik (otomatis): aktivitas, kota-kota, mempunyai, pencemaran
+Inti konsep: kota-kota metropolitan mempunyai sumbangan yang besar terhadap pencemaran udara dibandingkan kota-kota kecil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kota-kota metropolitan seperti Jakarta, Surabaya, dan Bandung mempunyai pencemaran udara yang cukup tinggi karena aktivitas penduduknya yang cukup banyak menggunakan kendaraan bermotor. Sebaliknya di kota-kota yang pencemaran udaranya rendah mempunyai
+aktivitas penduduk yang cenderung sedikit menggunakan kendaraan bermotor dalam aktivitas sehari-harinya. Maka dapat disimpulkan bahwa ….
+
+[Materi #399]
+Topik (otomatis): lembah, dinding, curam, dalamnya
+Inti konsep: ngarai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lembah yang dalam dengan dinding yang curam dan di dalamnya mengalir sungai disebut ...........
+
+[Materi #400]
+Topik (otomatis): manakah, negara-negara, asean, berikut
+Inti konsep: Myanmar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manakah dari negara-negara ASEAN berikut yang memiliki iklim subtropis?
+
+[Materi #401]
+Topik (otomatis): manusia, masa, memenuhi, kebutuhan
+Inti konsep: nomaden
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manusia pada masa ini memenuhi kebutuhan makannya dengan cara berburu dan berpindah tempat tergantung ketersediaan makanan. Hidup berpindah-pindah disebut….
+
+[Materi #402]
+Topik (otomatis): manusia, sering, disebut, homo
+Inti konsep: manusia adalah makhlik ekonomi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manusia sering disebut sebagai “Homo Economicus” artinya .......
+
+[Materi #403]
+Topik (otomatis): mardi, seorang, karyawan, swasta
+Inti konsep: vertikal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mardi adalah seorang karyawan swasta yang bekerja di salah satu perusahaan. Dikarenakan prestasinya dan etos kerjanya yang baik, dalam jangka waktu yang singkat dia dipromosikan menjadi kepala bagian. Apa yang dialami oleh Mardi merupakan suatu bentuk mobilitas ....
+
+[Materi #404]
+Topik (otomatis): masa, manusia, belum, mengenal
+Inti konsep: masa praaksara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Masa dimana manusia belum mengenal aksara atau tulisan disebut….
+
+[Materi #405]
+Topik (otomatis): masa, manusia, sudah, memiliki
+Inti konsep: Zaman perundagian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Masa dimana manusia sudah memiliki keterampilan dan keahlian dalam melakukan pekerjaan tertentu terjadi di zaman…
+
+[Materi #406]
+Topik (otomatis): sekitar, pegunungan, kendeng, lingkungan
+Inti konsep: konflik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Masyarakat di sekitar Pegunungan Kendeng dan aktivis peduli lingkungan menentang perusahaan pabrik semen karena dikhawatirkan dapat merusak ekosistem di Pegunungan Kendeng yang berdampak kepada lingkungan sekitar. Hal tersebut dapat disimpulkan merupakan bentuk interaksi sosial yaitu….
+
+[Materi #407]
+Topik (otomatis): kebijakan, kur, umkm, pinjaman
+Inti konsep: Wirusaha
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Melalui kebijakan KUR, UMKM akan terhindar dari kendala aturan-aturan perbankan yang menyulitkan mereka untuk mendapatkan pinjaman modal dari lembaga keuangan formal (LKF) karena dalam program KUR pemerintah telah menitipkan uang (yang berasal dari APBN) sebesar Rp1,4 triliun pada lembaga penjaminan. Harapannya, bank-bank nasional yang dilibatkan dalam program tersebut akan mampu memberikan pinjaman kepada UMKM. Kebijakan ini menjadi angin segar bagi pelaku ekonomi khususnya sektor …..
+
+[Materi #408]
+Topik (otomatis): orang, lain, mempengaruhi, membuat
+Inti konsep: sugesti
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mempengaruhi orang lain atau membuat orang lain tidak sadar sehingga mau menuruti apa saja yang diperintahkan disebut........
+
+[Materi #409]
+Topik (otomatis): kehidupan, menurut, tingkat, sosial
+Inti konsep: Masa mencari pasangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menurut tingkat kehidupan sosial ekonomi, kehidupan manusia praaksara dikelompokkan menjadi 3, kecuali…
+
+[Materi #410]
+Topik (otomatis): kebutuhan, datang, menurut, waktu
+Inti konsep: Tabungan biaya pendidikan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menurut waktu pemenuhannya, kebutuhan dibedakan menjadi sekarang dan yang akan datang. Berikut ini yang merupakan kebutuhan yang akan datang adalah…
+
+[Materi #411]
+Topik (otomatis): perusahaan, kegiatan, konsumsi, meskipun
+Inti konsep: Menggunakan faktor-faktor produksi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Meskipun perusahaan merupakan penghasil barang atau jasa, namun perusahaan juga tetap melakukan kegiatan konsumsi. Salah satu kegiatan konsumsi yang dilakukan perusahaan yakni …..
+
+[Materi #412]
+Topik (otomatis): mobil, listrik, mengalami, kenaikan
+Inti konsep: terbatas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mobil listrik mengalami kenaikan pembelian pada masa sekarang ini. Peminat dari mobil listrik meningkat dan pengembangan mobil listrik oleh perusahaan-perusahan dan bahkan negara seperti Indonesia terus dikembangkan. Fenomena mobil listrik merupakan respon
+terhadap sumber daya alam yang….
+
+[Materi #413]
+Topik (otomatis): negara, anggota, asean, kegiatan
+Inti konsep: Singapura
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara anggota ASEAN yang kegiatan perekonomiannya tidak didukung oleh pertanian yaitu...
+
+[Materi #414]
+Topik (otomatis): negara, berbentuk, geografis, protruded
+Inti konsep: Myanmar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara yang berbentuk geografis protruded dan penduduknya mayoritasras mongol yaitu...
+
+[Materi #415]
+Topik (otomatis): ikan, nelayan, skala, besar
+Inti konsep: faktor teknologi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nelayan ikan dengan skala besar yang beroperasi di kawasan Asia Tenggara memanfaatkan data cuaca, suhu, arah angin untuk mencari ikan di lautan. Fenomena ini berkaitan dengan faktor yang mempengaruhi interaksi antarruang, yaitu...
+
+[Materi #416]
+Topik (otomatis): nilai, positif, kasus, pengungsi
+Inti konsep: diskriminasi sosial pengungsi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nilai positif dari kasus pengungsi manusia perahu dari Myanmar yang menimbulkan interaksi antar negara ASEAN antara lain...
+
+[Materi #417]
+Topik (otomatis): orangtua, rajin, membelikan, sepeda
+Inti konsep: motivasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orangtua akan membelikan sepeda motor untuk anaknya, bilan anak tersebut rajin beribadah dan rajin belajar. Tindakan orangtua tersebut termasuk memberikan............
+
+[Materi #418]
+Topik (otomatis): masa, pembabakan, zaman, praaksara
+Inti konsep: Arkaikum
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada masa pembabakan zaman praaksara kehidupan manusia pada masa 60 juta tahun lalu sampai kini disebut….
+
+[Materi #419]
+Topik (otomatis): peralihan, masa, mesolitikum, menuju
+Inti konsep: memproduksi makanan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada masa peralihan mesolitikum menuju neolitikum terjadi revolusi kebudayaan manusia. Proses peralihan tersebut adalah….
+
+[Materi #420]
+Topik (otomatis): zaman, manusia, perunggu, menemukan
+Inti konsep: nekara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada zaman perunggu manusia menemukan logam campuran antara tembaga dan timah. Penemuan benda di zaman ini dipercaya bahwa manusia telah memiliki kepercayaan. Genderang dalam ukuran besar dengan bentuk menyempit di bagian pinggang disebut….
+
+[Materi #421]
+Topik (otomatis): pakaian, perbedaan, nelayan, tipis
+Inti konsep: lingkungan tempat tinggal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pakaian nelayan lebih tipis dibandingkan pakaian orang gunung. Perbedaan jenis pakaian ini menunjukkan bahwa kebutuhan manusia berbeda karena adanya perbedaan faktor...
+
+[Materi #422]
+Topik (otomatis): manusia, fosil, arkeolog, menemukan
+Inti konsep: perbedaan bentuk tengkorak dan volume otak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Para arkeolog telah menemukan fosil tengkorak manusia serta peralatannya. Fosil manusia menunjukan adanya perbedaan bentuk tubuh manusia saat itu dengan masa sekarang. Perbedaannya yang paling menonjol adalah….
+
+[Materi #423]
+Topik (otomatis): pariwisata, bahari, ditingkatkan, memiliki
+Inti konsep: perubahan pola hidup masyarakat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pariwisata bahari yang ditingkatkan akan memiliki dampak yang sangat penting bagi perekonomian, kecuali dalam hal ....
+
+[Materi #424]
+Topik (otomatis): pelaku, ekonomi, pemerintah, individu
+Inti konsep: Menyediakan barang dan jasa publik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pelaku ekonomi adalah individu, kelompok, atau lembaga yang melakukan kegiatan perekonomian baik produksi, distribusi, dan konsumsi. Umumnya, pelaku ekonomi terdiri dari rumah tangga keluarga, masyarakat, perusahaan, pemerintah dan negara. Salah satu tugas pemerintah sebagai pelaku ekonomi adalah …..
+
+[Materi #425]
+Topik (otomatis): pelaku, ekonomi, perekonomian, terdiri
+Inti konsep: Rumah tangga keluarga, rumah tangga perusahaan, rumah tangga pemerintah, dan rumah tangga luar negeri
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pelaku ekonomi dalam suatu perekonomian terdiri atas …..
+
+[Materi #426]
+Topik (otomatis): pemanfaatan, sumber, daya, hayati
+Inti konsep: bahan habis pakai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pemanfaatan sumber daya hayati dalam agrikultur dilakukan untuk menghasilkan hal- hal berikut ini, kecuali ....
+
+[Materi #427]
+Topik (otomatis): pembangunan, ekonomi, membawa, kemaritiman
+Inti konsep: Pertumbuhan ekonomi rendah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pembangunan ekonomi maritime akan membawa industri pada kebutuhan akan sumber daya manusia kemaritiman dan inovasi teknologi yang berbasis pada pendidikan kemaritiman yang unggul dan modern. Jika proses ini dapat berlangsung maka pembangunan ekonomi maritim bisa dipastikan akan membawa masyarakat lebih makmur. Pembangunan di bidang kelautan ini diarahkan untuk mencapai tujuan berikut ini, kecuali …..
+
+[Materi #428]
+Topik (otomatis): pembangunan, mal, harus, memperhatikan
+Inti konsep: Adanya mal tidak mengganggu lingkungan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pembangunan mal harus memperhatikan...
+
+[Materi #429]
+Topik (otomatis): kebutuhan, pendidikan, manusia, digolongkan
+Inti konsep: sepanjang waktu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pendidikan merupakan kebutuhan manusia. Kebutuhan tersebut digolongkan sebagai kebutuhan…..
+
+[Materi #430]
+Topik (otomatis): masyarakat, kelompok, dilakukan, pendistribusian
+Inti konsep: Redistribusi pendapatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pendistribusian kembali pendapatan masyarakat kelompok kaya kepada masyarakat kelompok miskin baik berasal dari pajak ataupun pungutan-pungutan lain dan dilakukan sebagai salah satu bentuk jaminan sosial yang dilakukan negara kepada masyarakat bisa juga disebut dengan …..
+
+[Materi #431]
+Topik (otomatis): negara, penerimaan, sumber, berasal
+Inti konsep: Pajak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penerimaan negara merupakan pemasukan yang diperoleh negara untuk membiayai dan menjalankan setiap program pemerintahan, sedangkan sumber penerimaan negara berasal dari berbagai sektor. Salah satu sumber pendapatan negara berasal dari …..
+
+[Materi #432]
+Topik (otomatis): pengembangan, agrikultur, indonesia, hambatan
+Inti konsep: situasi pasar yang seimbang yaitu porsi yang sama dikuasai oleh para pedagang besar dan kecil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengembangan agrikultur di Indonesia memiliki beberapa hambatan. Di bawah ini yang bukan termasuk hambatan pengembangan agrikultur di Indonesia adalah ....
+
+[Materi #433]
+Topik (otomatis): kerajaan, peninggalan, kutai, membuktikan
+Inti konsep: Yupa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peninggalan Kerajaan Kutai yang membuktikan kerajaan tersebut bercorak Hindu adalah...
+
+[Materi #434]
+Topik (otomatis): peninggalan, sejarah, islam, indonesia
+Inti konsep: Keraton
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peninggalan sejarah Islam di Indonesia yang digunakan sebagai istana raja atau sultan adalah…
+
+[Materi #435]
+Topik (otomatis): peningkatan, sistem, budidaya, sektor
+Inti konsep: Ekofarming
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peningkatan sistem budidaya di sektor pertanian yang ramah lingkungan dan terintegrasi dengan kearifan lokal di setiap daerah di indonesia dinamakan dengan strategi …..
+
+[Materi #436]
+Topik (otomatis): indonesia, penyebaran, kebudayaan, hindu-buddha
+Inti konsep: Arus balik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penyebaran kebudayaan Hindu-Buddha di Indonesia dilakukan orang Indonesia sendiri yang datang ke India. Pernyataan ini termasuk dari inti teori...
+
+[Materi #437]
+Topik (otomatis): perdagangan, internasional, kegiatan, pertukaran
+Inti konsep: Perbedaan jenis barang dan jasa yang diproduksi masing-masing negara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perdagangan internasional merupakan kegiatan pertukaran jasa, barang, maupun modal yang dilakukan oleh penduduk berbagai negara atas kesepakatan bersama. Faktor yang dapat mendorong timbulnya perdagangan internasional, yaitu …..
+
+[Materi #438]
+Topik (otomatis): perdagangan, negara, faktor, luar
+Inti konsep: Sistem ekonomi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perdagangan luar negeri memungkinkan suatu negara untuk mempelajari teknik produksi yang lebih efisien dan cara manajemen yang lebih modern. Banyak faktor yang mendorong suatu negara melakukan perdagangan antarnegara. Berikut ini yang bukan merupakan faktor pendorong terjadinya perdagangan antar negara adalah …..
+
+[Materi #439]
+Topik (otomatis): penduduk, lembaga, daerah, pulau
+Inti konsep: Perdagangan antar daerah/pulau
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perdagangan yang dilakukan oleh penduduk/lembaga suatu daerah atau pulau dengan penduduk/lembaga suatu daerah atau pulau lain dalam satu batas wilayah negara atas dasar kesepakatan bersama merupakan pengertian dari …..
+
+[Materi #440]
+Topik (otomatis): perekonomian, sehingga, pemerintah, harus
+Inti konsep: Regulator
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perekonomian harus diatur sehingga perekonomian dapat menyejahterakan masyarakat secara adil dan merata. Regulasi dan aturan yang dibuat oleh pemerintah antara lain berupa pemberian subsidi pada perusahaan dalam negeri sehingga mampu bersaing dengan produk dari luar. Hal ini menunjukkan peran pemerintah sebagai …..
+
+[Materi #441]
+Topik (otomatis): perhatikan, berikut, obat-, obatan
+Inti konsep: (3) dan (4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan contoh berikut ini,,
+
+(1) obat- obatan
+(2) serat
+(3) karet
+(4) kelapa sawit
+(5) tinta percetakan
+
+ Hasil agrikultur ditunjukkan oleh nomor ....
+
+[Materi #442]
+Topik (otomatis): bawah, penggunaan, transportasi, perhatikan
+Inti konsep: 2, 3, dan 5.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan contoh di bawah ini.
+
+1) Penggunaan monorel kereta jurusan Bandung-Jakarta.
+2) Kemacetan yang panjang di Johor, Malaysia.
+3) Penggunaan hutan sebagai jalur Jalan Lintas Selatan (JJLS) di Jawa.
+4) Pembangunan transportasi bawah tanah di Thailand.
+5) Alih fungsi lahan dari pemukiman menjadi kawasan bandar udara.
+
+Manakah pernyataan yang menunjukkan dampak negatif dari interaksi antarnegara-negara ASEAN yang menimbulkan perubahan di bidang transportasi?
+
+[Materi #443]
+Topik (otomatis): pernyataan, secara, sumber, daya
+Inti konsep: (1) dan (2)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut ini,
+
+(1) Pertumbuhan ekonomi yang tinggi secara berkelanjutan
+(2) Peningkatan kesejahteraan seluruh pelaku usaha
+(3) Pemanfaatan sumber daya alam secara besar- besaran
+(4) Terpeliharanya kelestarian lingkungan dan sumber daya kelautan
+
+Tujuan kelautan negara Indonesia ditunjukkan oleh pernyataan nomor ....
+
+[Materi #444]
+Topik (otomatis): perhimpunan, negara-negara, kawasan, asia
+Inti konsep: Deklarasi Bangkok
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhimpunan negara-negara di kawasan Asia Tenggara dibentuk berdasarkan...
+
+[Materi #445]
+Topik (otomatis): perilaku, meniru, gaya, hidup
+Inti konsep: imitasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perilaku meniru gaya hidup orang lain disebut........
+
+[Materi #446]
+Topik (otomatis): perkembangan, ilmu, pengetahuan, teknologi
+Inti konsep: jumlah produksi barang-barang meningkat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perkembangan ilmu pengetahuan dan teknologi mengakibatkan......
+
+[Materi #447]
+Topik (otomatis): perkembangan, islam, indonesia, dilakukan
+Inti konsep: Pertempuran
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perkembangan Islam di Indonesia dilakukan melalui kegiatan berikut, kecuali…
+
+[Materi #448]
+Topik (otomatis): perpindahan, penduduk, daerah, relokasi
+Inti konsep: horizontal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perpindahan penduduk ke daerah relokasi baru sebab kawasan yang didiami terkena bencana merupakan salah satu contoh bentuk mobilitas ....
+
+[Materi #449]
+Topik (otomatis): tim, pertandingan, persahabatan, sriwijaya
+Inti konsep: kelompok dengan kelompok
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pertandingan persahabatan antara Tim Sriwijaya Fc melawan Tim Persija berakhir dengan scor 2-1. Hal ini termasuk contoh dari interaksi sosial..........
+
+[Materi #450]
+Topik (otomatis): pertukaran, pelajar, mahasiswa, kawasan
+Inti konsep: Pendidikan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pertukaran pelajar dan mahasiswa di kawasan negara ASEAN merupakan bentuk kerjasama di bidang ....
+
+[Materi #451]
+Topik (otomatis): lahan, perubahan, sebagian, seluruh
+Inti konsep: konversi lahan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perubahan sebagian atau seluruh fungsi lahan dari fungsi semula menjadi fungsi yang lain dan memengaruhi lingkungan dan potensi lahan itu sendiri disebut...
+
+[Materi #452]
+Topik (otomatis): potensi, ekonomi, maritime, indonesia
+Inti konsep: Sektor pertanian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Potensi ekonomi maritime Indonesia dapat dilihat dari berbagai sektor berikut, kecuali …..
+
+[Materi #453]
+Topik (otomatis): presiden, sby, berpidato, depan
+Inti konsep: kontak sosial langsung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Presiden SBY berpidato di depan anggota DPR RI. Hal ini termasuk contoh dari..........
+
+[Materi #454]
+Topik (otomatis): bongkar, muat, barang, perdagangan
+Inti konsep: Memperoleh keuntungan dan memperluas pasar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses bongkar muat barang pada perdagangan antar pulau tersebut dilakukan karena untuk mencapai tujuan tertentu yaitu …..
+
+[Materi #455]
+Topik (otomatis): indonesia, diaspora, bangsa, menyebabkan
+Inti konsep: Dayak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses diaspora Bangsa Indonesia menyebabkan penduduk Madagaskar terindikasi memiliki percampuran darah dari Indonesia yaitu suku….
+
+[Materi #456]
+Topik (otomatis): imitasi, seseorang, pertama, kali
+Inti konsep: di lingkungan keluarga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses imitasi seseorang pertama kali terjadi di........
+
+[Materi #457]
+Topik (otomatis): raja, mulawarman, memerintah, kerajaan
+Inti konsep: Kutai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Raja Mulawarman memerintah kerajaan…
+
+[Materi #458]
+Topik (otomatis): raja, terkenal, tarumanegara
+Inti konsep: Purnawarman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Raja yang terkenal di Tarumanegara adalah…
+
+[Materi #459]
+Topik (otomatis): redistribusi, pendapatan, dapat, dilakukan
+Inti konsep: Jaminan sosial yang dilakukan negara kepada masyarakat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Redistribusi pendapatan dapat dilakukan dalam bentuk …..
+
+[Materi #460]
+Topik (otomatis): rumah, tangga, konsumen, konsumsi
+Inti konsep: Pajak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rumah tangga konsumen biasa disebut sebagai konsumen, merupakan pihak yang melakukan kegiatan konsumsi barang dan jasa yang dihasilkan produsen. Berikut ini tidak termasuk imbalan jasa yang diterima rumah tangga konsumsi dari rumah tangga produksi adalah …..
+
+[Materi #461]
+Topik (otomatis): berupa, rumah, tangga, konsumen
+Inti konsep: Gaji
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rumah tangga konsumen yang menyerahkan factor produksi berupa kompetensi kewirausahaan kepada pihak produsen akan memperoleh imbalan berupa …..
+
+[Materi #462]
+Topik (otomatis): rumi, memanfaatkan, waktu, luang
+Inti konsep: Ekonomi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rumi memanfaatkan waktu luang untuk membuat pesanan tas rajut.
+Pernyataan tersebut mencerminkan tindakan manusia sebagai makhluk ....
+
+[Materi #463]
+Topik (otomatis): menhir, salah, bangunan, budaya
+Inti konsep: tugu batu yang ditegakkan dan ditempatkan di suatu tempat untuk memperingati orang yang sudah meninggal.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu bangunan yang merupakan budaya zaman Megalitikum adalah Menhir. Bentuk Menhir adalah sebagai berikut….
+
+[Materi #464]
+Topik (otomatis): salah, bentuk, kerja, sama
+Inti konsep: menanggulangi penyalahgunaan narkotika
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu bentuk kerja sama di bidang politik antarnegara-negara ASEANadalah...
+
+[Materi #465]
+Topik (otomatis): salah, bentuk, kerjasama, indonesia
+Inti konsep: ekspor Indonesia berupa minyak mentah ke Singapura
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu bentuk kerjasama Indonesia di bidang ekonomi dengan negara- negara di kawasan ASEAN adalah ....
+
+[Materi #466]
+Topik (otomatis): orang, bentuk, konflik, kulit
+Inti konsep: rasial
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu bentuk konflik yang pernah terjadi di Amerika antara orang - orang kulit putih dengan orang kulit hitam  merupakan contoh bentuk konflik ....
+
+[Materi #467]
+Topik (otomatis): salah, cara, menjaga, kerukunan
+Inti konsep: toleransi antar umat beragama
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu cara untuk menjaga kerukunan dalam masyarakat yang majemuk adalah ....
+
+[Materi #468]
+Topik (otomatis): salah, bentuk, mobilitas, intergenerasi
+Inti konsep: ayahnya seorang kepala sekolah sedangkan anaknya hanyalah seorang guru
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu contoh bentuk mobilitas intergenerasi adalah ....
+
+[Materi #469]
+Topik (otomatis): salah, pemanfaatan, peta, menggunakan
+Inti konsep: perusahaan jasa ekspedisi.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu contoh pemanfaatan peta dengan menggunakan teknologi  adalah perkembangan perekonomian yaitu kemudahan menghitung biaya jarak yang harus ditempuh untuk pembelian secara online. Perusahaan yang bergerak dalam pengiriman barang disebut…..
+
+[Materi #470]
+Topik (otomatis): salah, dampak, positif, mobilitas
+Inti konsep: memotivasi seseorang agar lebih maju
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu dampak positif mobilitas sosial bagi kehidupan masyarakat adalah ....
+
+[Materi #471]
+Topik (otomatis): salah, faktor, menyebabkan, keberagaman
+Inti konsep: kepercayaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu faktor yang menyebabkan keberagaman di Indonesia adalah ....
+
+[Materi #472]
+Topik (otomatis): salah, hasil, tambang, terbesar
+Inti konsep: timah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu hasil tambang terbesar Malaysia adalah ....
+
+[Materi #473]
+Topik (otomatis): salah, kerja, sama, antarnegara
+Inti konsep: proyek tambang ASEAN Copper Fabrication Project di Filipina dengan Singapura
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu kerja sama antarnegara ASEAN di bidang industri berikut ini adalah...
+
+[Materi #474]
+Topik (otomatis): salah, tujuan, dibentuknya, asean
+Inti konsep: menciptakan kawasan asia tenggara sebagai kawasan yang samai, aman, stabil dan sejahtera
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu tujuan dibentuknya ASEAN adalah ....
+
+[Materi #475]
+Topik (otomatis): negara, salah, tujuan, bekerja
+Inti konsep: mengisi kekurangan di bidang ekonomi bagi masing- masing negara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu tujuan suatu negara bekerja sama dengan negara lain adalah ....
+
+[Materi #476]
+Topik (otomatis): rumah, tangga, konsumsi, mengonsumsi
+Inti konsep: Memenuhi kebutuhan hidupnya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebagai konsumen, rumah tangga konsumsi berperan dalam mengonsumsi barang dan jasa yang dihasilkan oleh rumah tangga produksi. Rumah tangga konsumsi mengonsumsi barang dan jasa bertujuan untuk …..
+
+[Materi #477]
+Topik (otomatis): bentang, pulau, darat, serangkaian
+Inti konsep: Thailand
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Secara garis besar bentang alam terdiri dari bentang darat dan bentang perairan.Bentang darat yang berupa pulau atau serangkaian pulau, negara yang bukan merupakan bentang pulau atau serangkaian pulau adalah...
+
+[Materi #478]
+Topik (otomatis): rumah, tangga, kegiatan, ekonomi
+Inti konsep: Menawarkan faktor-faktor produksi di pasar faktor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Secara garis besar dapat dikatakan bahwa rumah tangga berperan melakukan kegiatan konsumsi. Kegiatan ekonomi yang dilakukan dalam rumah tangga adalah mengonsumsi barang dan jasa dengan tujuan untuk memenuhi kebutuhan hidup. Karena termasuk pelaku ekonomi maka rumah tangga harus bertindak rasional dalam arti …..
+
+[Materi #479]
+Topik (otomatis): secara, geologis, sejarah, perkembangan
+Inti konsep: zaman mekonoikum (60 juta tahun lalu)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Secara geologis, sejarah perkembangan bumi dibagi 4 periode, kecuali…
+
+[Materi #480]
+Topik (otomatis): seorang, guru, mengajar, siswa-siswanya
+Inti konsep: individu dengan kelompok
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang guru mengajar siswa-siswanya di dalam kelas. Hal ini termasuk contoh dari interaksi sosial..........
+
+[Materi #481]
+Topik (otomatis): seseorang, bertemu, teman, lama
+Inti konsep: individu dengan individu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seseorang bertemu dengan teman lama lalu berjabat tangan dan ngobrol bersama. Hal ini termasuk contoh dari interaksi sosial..........
+
+[Materi #482]
+Topik (otomatis): seseorang, dapat, dikatakan, hidup
+Inti konsep: semua kebutuhan sudah dipenuhi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seseorang dapat dikatakan  hidup makmur apabila ...........
+
+[Materi #483]
+Topik (otomatis): strategi, ekofarming, pengembangan, agrikultur
+Inti konsep: menciptakan keharmonisan lingkungan yang bersifat ekologis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Strategi ekofarming dalam pengembangan agrikultur di Indonesia bertujuan untuk ....
+
+[Materi #484]
+Topik (otomatis): pihak, bentuk, penyelesaian, masalah
+Inti konsep: arbitration
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu bentuk penyelesaian masalah melalui pihak ketiga, apabila masing-masing
+pihak yang bertentangan tidak mampu menyelesaikan sendiri disebut….
+
+[Materi #485]
+Topik (otomatis): daerah, lahan, memiliki, ciri-ciri
+Inti konsep: Sawah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu daerah memiliki ciri-ciri:
+1. Curah hujan
+
+2. Lahan tanah yang miring
+
+3. Mudah erosi
+
+Penggunaan lahan yang cocok untuk daerah itu adalah..
+
+[Materi #486]
+Topik (otomatis): keluarga, giat, menabung, memenuhi
+Inti konsep: masa datang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu keluarga giat menabung untuk memenuhi kebutuhan..........
+
+[Materi #487]
+Topik (otomatis): tindakan, sosial, berorientasi, sistem
+Inti konsep: tradisional
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu tindakan sosial yang berorientasi kepada suatu sistem nilai tertentu disebut tindakan sosial yang bersifat........
+
+[Materi #488]
+Topik (otomatis): alam, sumber, daya, indonesia
+Inti konsep: Memenuhi kebutuhan hidup manusia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sumber daya alam di Indonesia tidak terbatas pada kekayaan hayati saja. Berbagai daerah di Indonesia dikenal sebagai penghasil berbagai jenis bahan tambang seperti timah, nikel, tembaga, bauksit, timah, batu bara, emas dan perak. Sumber daya alam adalah suatu kekayaan alam yang berasal dari bumi dan dimanfaatkan untuk …..
+
+[Materi #489]
+Topik (otomatis): sumber, utama, penghasilan, devisa
+Inti konsep: pertanian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sumber utama penghasilan devisa negara Thailand adalah dalam bidang ....
+
+[Materi #490]
+Topik (otomatis): kudus, sunan, menyebarkan, agama
+Inti konsep: akulturasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sunan Kudus menyebarkan agama Islam dengan cara mendekati masyarakat dengan memanfaatkan simbol-simbol Hindu dan Budha. Hal tersebut bisa dilihat pada arsitektur Masjid Kudus yang memiliki keunikan tersendiri. Proses ini merupakan salah satu contoh bentuk proses ....
+
+[Materi #491]
+Topik (otomatis): teori, menjelaskan, masuknya, kebudayaan
+Inti konsep: Waisya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teori yang menjelaskan bahwa proses masuknya kebudayaan Hindu-Budha dibawa oleh pedagang India adalah teori…
+
+[Materi #492]
+Topik (otomatis): konflik, sosial, terjadinya, masyarakat
+Inti konsep: masyarakat memiliki rasa toleransi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Terjadinya konflik sosial di masyarakat merupakan salah satu masalah yang terjadi dalam kehidupan bermasyarakat. Konflik sosial dapat diatasi apabila….
+
+[Materi #493]
+Topik (otomatis): peran, penting, rumah, tangga
+Inti konsep: Regulator, konsumen, dan produsen
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tiga peran penting rumah tangga pemerintah adalah sebagai …..
+
+[Materi #494]
+Topik (otomatis): tradisi, lisan, sulit, dianalisis
+Inti konsep: perlu menangkap kenyataan di belakang ceritanya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tradisi lisan lebih sulit untuk dianalisis karena ....
+
+[Materi #495]
+Topik (otomatis): orang, bentuk, warga, masyarakat
+Inti konsep: Vertikal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Transfer uang dari orang kaya ke orang miskin dengan jaminan sosial sebagai bentuk dukungan warga masyarakat yang kuat kepada warga masyarakat yang lemah secara ekonomi merupakan bentuk redistribusi pendapatan secara …..
+
+[Materi #496]
+Topik (otomatis): tugu, batu, berfungsi, peringatan
+Inti konsep: Yupa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tugu batu yang berfungsi sebagai tugu peringatan di zaman kerajaan Kutai adalah…
+
+[Materi #497]
+Topik (otomatis): tulisan, indah, bahasa, arab
+Inti konsep: Kaligrafi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tulisan indah dalam bahasa Arab yang merupakan peninggalan sejarah Islam di Indonesia disebut dengan…
+
+[Materi #498]
+Topik (otomatis): usaha, peningkatan, perekonomian, memberdayakan
+Inti konsep: ekonomi pertanian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Usaha peningkatan perekonomian dengan memberdayakan sektor pertanian disebut ....
+
+[Materi #499]
+Topik (otomatis): bentuk, saluran, mobilitas, sosial
+Inti konsep: perusahaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yang bukan merupakan bentuk saluran mobilitas sosial dalam kehidupan masyarakat adalah ....
+
+[Materi #500]
+Topik (otomatis): kegiatan, aktivitas, pertukaran, barang
+Inti konsep: Perdagangan Internasional
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan atau aktivitas dalam proses pertukaran barang dan jasa antar negara disebut …
+
+[Materi #501]
+Topik (otomatis): berikut, faktor, mendorong, perdagangan
+Inti konsep: perbedaan jumlah penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah faktor yang mendorong perdagangan internasional, kecuali ...........
+
+[Materi #502]
+Topik (otomatis): berikut, hambatan, perdagangan, internasional
+Inti konsep: Adanya harga lebih mahal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut hambatan perdagangan internasional, kecuali …
+
+[Materi #503]
+Topik (otomatis): indonesia, thailand, barang, pakaian
+Inti konsep: Keuanggulan komparatif Indonesia adalah tas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia dengan Thailand memproduksi dua jenis barang yaitu pakaian dan tas dengan asumsi masing-masing negara tersebut menggunakan tenaga dan waktu yang digunakan sama. Ternyata Indonesia mampu menghasilkan barang pakaian lebih banyak, sedangkan Thailand menghasilkan tas lebih banyak.
+Berdasarkan deskripsi di atas maka manakah diantara pernyataan di bawah ini yang paling tepat!
+
+[Materi #504]
+Topik (otomatis): berikut, ciri-ciri, perdagangan, negeri
+Inti konsep: Dilakukan dalam wilayah antarnegara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ciri-ciri perdagangan dalam negeri, kecuali …
+
+[Materi #505]
+Topik (otomatis): startup, muda, anak, beberapa
+Inti konsep: membangun koneksi yang lebih luas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sejak kehadirannya beberapa tahun belakangan ini, istilah startup menjadi sangat tren khususnya di kalangan anak muda. Kepopulerannya kian melejit semenjak beberapa startup Indonesia berhasil menyabet gelar unicorn dengan rata-rata usia CEO yang masih terbilang masih muda. Pesatnya pertumbuhan teknologi serta informasi tentunya menjadi salah satu faktor pendorong banyak anak muda Indonesia yang tertarik untuk mendirikan startup.
+
+Berikut ini faktor lain yang mendorong anak muda mengembangkan bisnis startup adalah……..
+
+[Materi #506]
+Topik (otomatis): berikut, beberapa, faktor, pendorong
+Inti konsep: Adanya persamaan sumber daya alam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut beberapa faktor pendorong yang menjadi penyebab terjadinya perdagangan internasional, kecuali …
+
+[Materi #507]
+Topik (otomatis): benua, terletak, timur, bumi
+Inti konsep: benua asia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benua yang terletak di bagian timur bumi adalah ....
+
+[Materi #508]
+Topik (otomatis): secara, geografis, benua, asia
+Inti konsep: benua eropa dan australia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Secara geografis, benua asia terletak diantara ....
+
+[Materi #509]
+Topik (otomatis): salah, negara, asia, jumlah
+Inti konsep: China
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu negara di Asia yang jumlah penduduknya terbanyak adalah ....
+
+[Materi #510]
+Topik (otomatis): dataran, tertinggi, terluas, asia
+Inti konsep: Tibet
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dataran tertinggi dan terluas di Asia adalah dataran tinggi ....
+
+[Materi #511]
+Topik (otomatis): benua, bawah, ciri, khas
+Inti konsep: benua terluas nomor dua setelah Amerika
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini adalah ciri khas yang membedakan benua asia dengan benua lainnya, kecuali ....
+
+[Materi #512]
+Topik (otomatis): batas, posisi, geografis, benua
+Inti konsep: Laut Tengah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batas posisi geografis benua Afrika sebelah utara berbatasan dengan ....
+
+[Materi #513]
+Topik (otomatis): sungai, terpanjang, afrika
+Inti konsep: Nil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sungai terpanjang di Afrika adalah sungai ....
+
+[Materi #514]
+Topik (otomatis): gurun, salah, terkenal, afrika
+Inti konsep: Sahara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu gurun terkenal di Afrika yang juga merupakan gurun terluas adalah ....
+
+[Materi #515]
+Topik (otomatis): sebagian, besar, penduduk, afrika
+Inti konsep: pertanian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebagian besar penduduk Afrika menggantungkan hidup dari sektor ....
+
+[Materi #516]
+Topik (otomatis): tokoh, christoporus, colombus, salah
+Inti konsep: Italia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Christoporus Colombus adalah salah satu tokoh yang berperan dalam penemuan benua baru yaitu Amerika. Tokoh tersebut merupakan penjelajah yang berasal dari ...
+
+[Materi #517]
+Topik (otomatis): penduduk, amerika, asli, berdasarkan
+Inti konsep: orang Indian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan sifat aslinya penduduk Amerika terbagi menjadi dua yaitu penduduk asli dan penduduk imigran. Penduduk asli Amerika adalah ....
+
+[Materi #518]
+Topik (otomatis): berikut, hewan, wilayah, benua
+Inti konsep: rusa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini jenis hewan wilayah benua Amerika yang tinggal di daerah iklim kutub, kecuali ....
+
+[Materi #519]
+Topik (otomatis): batas, benua, eropa, asia
+Inti konsep: Pegunungan Ural
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batas benua Eropa dan Asia adalah ....
+
+[Materi #520]
+Topik (otomatis): gunung, tertinggi, eropa, elbrus
+Inti konsep: Rusia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gunung tertinggi di Eropa adalah gunung Elbrus yang terdapat di negara ....
+
+[Materi #521]
+Topik (otomatis): bawah, hewan, khas, benua
+Inti konsep: rusa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang bukan merupakan hewan khas benua Australia adalah ....
+
+[Materi #522]
+Topik (otomatis): berikut, unsur-, unsur, sosial
+Inti konsep: keyakinan masyarakat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah unsur- unsur sosial dalam masyarakat yang mengalami perubahan, kecuali ....
+
+[Materi #523]
+Topik (otomatis): faktor, internal, penyebab, perubahan
+Inti konsep: bertambahnya atau berkurangnya penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor penyebab perubahan sosial budaya dapat dikelompokkan menjadi dua yaitu faktor internal dan faktor eksternal. Yang termasuk faktor internal adalah ....
+
+[Materi #524]
+Topik (otomatis): pernyataan, benar, berkaitan, faktor
+Inti konsep: Adanya kontak dengan budaya lain dapat mendorong perubahan sosial budaya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pernyataan yang benar berkaitan dengan faktor pendorong perubahan sosial budaya adalah ....
+
+[Materi #525]
+Topik (otomatis): perubahan, sosial, budaya, evolusi
+Inti konsep: evolusi cenderung lambat perubahannya, terjadi dengan sendirinya tanpa suatu rencana atau kehendak apapun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan kecepatan perubahan, bentuk perubahan sosial budaya dibedakan menjadi dua yaitu evolusi dan revolusi. Berikut pernyataan yang benar mengenai evolusi dan revolusi dalam perubahan sosial budaya adalah ....
+
+[Materi #526]
+Topik (otomatis): penyesuaian, cara, kebudayaan, menyikapi
+Inti konsep: asimilasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam menyikapi perubahan, penyesuaian dilakukan agar ketertiban dan keteraturan dalam masyarakat tetap terjaga. Salah satu cara penyesuaian dimana unsur- unsur dari luar diterima dan disesuaikan dengan kebudayaan lokal sehingga membentuk kebudayaan yang berbeda merupakan cara ....
+
+[Materi #527]
+Topik (otomatis): disintegrasi, pecahnya, kesatuan, bagian-
+Inti konsep: globalisasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Disintegrasi merupakan proses pecahnya suatu kesatuan menjadi bagian- bagian kecil yang terpisah satu sama lain. Berikut ini adalah contoh perilaku masyarakat terhadap perubahan yang mampu menimbulkan disintegrasi, kecuali ....
+
+[Materi #528]
+Topik (otomatis): salah, sikap, tepat, dilakukan
+Inti konsep: meningkatkan kemampuan dalam bersaing secara sehat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu contoh sikap yang tepat untuk dilakukan dalam menghadapi globalisasi adalah ....
+
+[Materi #529]
+Topik (otomatis): tanda-, tanda, lunturnya, nilai-
+Inti konsep: gaya konsumerisme yang tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh tanda- tanda lunturnya nilai- nilai sosial karena globalisasi adalah ....
+
+[Materi #530]
+Topik (otomatis): hal, harus, dilakukan, kita
+Inti konsep: menumbuhkan rasa bangga akan hasil budaya sendiri
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hal yang harus dilakukan agar kita siap menghadapi globalisasi adalah ....
+
+[Materi #531]
+Topik (otomatis): dampak, positif, globalisasi, secara
+Inti konsep: kemudahan akses informasi dan komunikasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dampak positif globalisasi yang secara langsung dapat dinikmati oleh masyarakat adalah ....
+
+[Materi #532]
+Topik (otomatis): salah, karakteristik, benua, asia
+Inti konsep: Merupakan Benua terluas di dunia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu Karakteristik Benua Asia adalah...
+
+[Materi #533]
+Topik (otomatis): benua, asia, samudera, pegunungan
+Inti konsep: 1), 2) dan 3)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batas-batas Benua Asia :
+
+1) Samudera Pasifik
+2) Pegunungan Ural
+3) Laut Merah
+4) Samudera Artika
+5) Pegunungan Himalaya
+
+Pernyataan di atas yang merupakan batas Benua Asia disebelah Timur dan Barat adalah yang bernomor...
+
+[Materi #534]
+Topik (otomatis): luas, benua, amerika, afrika
+Inti konsep: 2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Luas Benua Afrika 30.290.000 km2, luas Benua Eropa 10.355.000 km2, luas Benua Asia 44.000.000 km2, luas Benua Australia 8.945.000 km2, luas Benua Amerika 42.057.100 km2.Dari data luas benua-benua di dunia tersebut, Benua Amerika menduduki peringkat ke...
+
+[Materi #535]
+Topik (otomatis): samudera, membatasi, benua, amerika
+Inti konsep: Pasifik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Samudera yang membatasi Benua Amerika disebelah Barat adalah...
+
+[Materi #536]
+Topik (otomatis): benua, eropa, memiliki, iklim
+Inti konsep: 35 derajat LU – 34 derajat LS
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benua Eropa adalah benua yang memiliki iklim subtropis dan sedang. Hal ini dikarenakan Benua Eropa berada pada posisi...
+
+[Materi #537]
+Topik (otomatis): negara-negara, afrika, perhatikan, benua
+Inti konsep: 2), 3), dan 4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan negara-negara di Benua Afrika berikut.
+
+1) Kenya
+2) Sudan
+3) Afrika Selatan
+4) Somalia
+5) Tanzania
+
+Negara-negara yang dilalui Sungai Nil ditunjukkan oleh nomor...
+
+[Materi #538]
+Topik (otomatis): rangkaian, pegunungan, melalui, benua
+Inti konsep: Pegunungan Himalaya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rangkaian pegunungan yang melalui Benua Afrika adalah...
+
+[Materi #539]
+Topik (otomatis): berdasarkan, kondisi, fisik, iklim
+Inti konsep: stepa dan kaktus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan kondisi fisik dan iklim, maka jenis flora yang berkembang di benua Afrika dibagian utara adalah...
+
+[Materi #540]
+Topik (otomatis): bentang, alam, nama-nama, gunung
+Inti konsep: 1), 3), 4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nama-nama bentang alam :
+
+1). Gunung Kilimanjaro
+2). Pegunungan Himalaya
+3). Gurun Sahara
+4). Sungai Nil
+5). Plato Kimberly
+
+Berdasarkan pernyataan diatas yang merupakan bentang alam di Benua Afrika ditunjukkan nomor...
+
+[Materi #541]
+Topik (otomatis): zona, australia, benua, letaknya
+Inti konsep: Gurun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Australia adalah benua yang letaknya berada pada zona turunnya massa udara ( Zona Subsidensi) sehingga sebagian besar bentang alamnya (70%) berupa...
+
+[Materi #542]
+Topik (otomatis): jepang, alam, api, arus
+Inti konsep: 1) dan 4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fenomena alam Jepang :
+
+1) Jepang merupakan bagian dari cincin api ( Ring of Fire )
+2) menjadi tempat pertemuan arus kuroshio dan arus oyashio
+3) Jepang merupakan negara dengan banyak pulau (archipelago)
+4) terletak pada perbatasan lempeng Benua Asia dan lempeng Samudra Pasifik
+
+Faktor yang mengakibatkan Jepang dikenal sebagai negara yang sering mengalami bencana alam berupa gempa bumi dan gunung api meletus adalah yang bernoror...
+
+[Materi #543]
+Topik (otomatis): penduduk, asli, terdapat, negara
+Inti konsep: Indian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penduduk asli yang terdapat di Negara Amerika Serikat adalah...
+
+[Materi #544]
+Topik (otomatis): bangunan, bersejarah, terdapat, negara
+Inti konsep: Piramida
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bangunan bersejarah yang terdapat di Negara Mesir adalah...
+
+[Materi #545]
+Topik (otomatis): asia, ras, penduduk, benua
+Inti konsep: Mongoloid
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penduduk di Benua Asia terdiri atas tiga ras utama namun ras tersebut telah bercampur sehingga mengalami proses asimilasi antara satu dan lainnya. Ras yang mendominasi kawasan Asia Timur dan Asia Tenggara adalah...
+
+[Materi #546]
+Topik (otomatis): penduduk, berdasarkan, world, population
+Inti konsep: 15 – 65 Tahun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan World Population Data Sheet (WDPS, 2015) penduduk usia produktif adalah penduduk yang berusia antara...
+
+[Materi #547]
+Topik (otomatis): tahun, mencapai, penduduk, jiwa
+Inti konsep: 9.900.000 jiwa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada tahun 2005 penduduk Benua Amerika diperkirakan mencapai 888.000.000 jiwa, kemudian pada tahun 2015 telah mencapai 987.000.000 jiwa. Hal ini berarti rata-rata pertambahan penduduk dalam satu tahun mencapai...
+
+[Materi #548]
+Topik (otomatis): penduduknya, kondisi, penduduk, jumlah
+Inti konsep: Asia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kondisi penduduk :
+
+1) jumlah penduduknya terbanyak di dunia
+2) sebagian besar penduduknya tergolong usia produktif
+3) mata pencaharian mayoritas penduduknya masih mengandalkan sektor pertanian
+
+Pernyataan di atas menggambarkan kondisi penduduk di benua...
+
+[Materi #549]
+Topik (otomatis): kemampuan, seseorang, melahirkan, sesuatu
+Inti konsep: kreativitas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kemampuan seseorang untuk melahirkan sesuatu yang baru, baik itu berupa gagasan maupun karya nyata yang relatif berbeda dengan yang ada sebelumnya disebut ....
+
+[Materi #550]
+Topik (otomatis): mengambil, orang-orang, mempunyai, kemampuan
+Inti konsep: wirausahawan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang-orang yang mempunyai kemampuan melihat dan menangkap peluang bisnis, mengumpulkan sumber daya yang dibutuhkan guna mengambil keuntungan dan mengambil tindakan yang tepat, serta memastikan keberhasilan disebut ....
+
+[Materi #551]
+Topik (otomatis): ekonomi, aset, utama, era
+Inti konsep: sumber daya manusia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Aset utama era ekonomi baru dalam menciptakan nilai tambah ekonomi lebih mengandalkan pada ....
+
+[Materi #552]
+Topik (otomatis): berikut, modal, mengembangkan, ekonomi
+Inti konsep: keadaan geografis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah modal dalam mengembangkan ekonomi kreatif, kecuali ....
+
+[Materi #553]
+Topik (otomatis): salah, produk, pemanfaatan, kekayaan
+Inti konsep: kerajinan tangan dari berbagai daerah di Indonesia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu contoh produk pemanfaatan kekayaan potensi seni budaya daerah dalam ekonomi kreatif adalah ....
+
+[Materi #554]
+Topik (otomatis): bawah, lingkup, industri, kreatif
+Inti konsep: pertanian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang bukan merupakan lingkup industri kreatif yang dicanangkan pemerintah, adalah ....
+
+[Materi #555]
+Topik (otomatis): perdagangan, barang-, barang, asli
+Inti konsep: pasar barang seni
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perdagangan barang- barang asli, unik dan langka serta memiliki nilai estetika seni dan sejarah yang tinggi melalui lelang, galeri, toko, pasar swalayan dan internet, meliputi barang-barang musik, percetakan, kerajinan, automobile, dan film merupakan contoh salah satu lingkup industri kreatif yaitu ....
+
+[Materi #556]
+Topik (otomatis): salah, lingkup, ekonomi, kreatif
+Inti konsep: desain bangunan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu lingkup ekonomi kreatif adalah arsitektur. Kegiatan ini berkaitan dengan ....
+
+[Materi #557]
+Topik (otomatis): baru, teknologi, ilmu, usaha
+Inti konsep: riset dan pengembangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Usaha inovatif yang menawarkan penemuan ilmu dan teknologi serta mengambil manfaat terapan dari ilmu dan teknologi gtersebut guna perbaikan produk dan kreasi baru, proses baru, material baru, alat baru, metode baru dan teknologi baru yang dapat memenuhi kebutuhan pasar termasuk dalam lingkup ....
+
+[Materi #558]
+Topik (otomatis): ekonomi, salah, tujuan, kreatif
+Inti konsep: mendongkrak hasil kegiatan menembus pasar internasional
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu tujuan ekonomi kreatif bagi kegiatan ekonomi lokal adalah ....
+
+[Materi #559]
+Topik (otomatis): kegiatan, kreatif, rutin, dilselenggarakan
+Inti konsep: Bandung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh kegiatan kreatif yang rutin dilselenggarakan adalah Braga Festival di kota ....
+
+[Materi #560]
+Topik (otomatis): jember, fashion, carnival, jfc
+Inti konsep: menumbuhkan potensi kreatif daerah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jember Fashion Carnival (JFC) merupakan acara seni budaya tahunan yang diselenggarakan pemerintah Kabupaten Jember, Jawa Timur dengan tujuan  ....
+
+[Materi #561]
+Topik (otomatis): berikut, peran, pemerintah, kegiatan
+Inti konsep: aktif dalam kegiatan ekonomi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah peran pemerintah dalam kegiatan ekonomi berdasarkan UUD 1945 kecuali....
+
+[Materi #562]
+Topik (otomatis): sistem, ekonomi, indonesia, diatur
+Inti konsep: 33
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sistem ekonomi di Indonesia diatur dalam UUD 1945 pasal ....
+
+[Materi #563]
+Topik (otomatis): berdasarkan, uud, perekonomian, negara
+Inti konsep: kekeluargaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan UUD 1945, Perekonomian di negara Indonesia merupakan usaha bersama berdasar atas asas ....
+
+[Materi #564]
+Topik (otomatis): berikut, termasuk, strategi, pemerintah
+Inti konsep: membuat aturan yang mengikat dan tegas bagi pelaku industri kreatif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan termasuk strategi pemerintah dalam mengembangkan ekonomi kreatif adalah ....
+
+[Materi #565]
+Topik (otomatis): kreatif, indonesia, informasi, diperlukan
+Inti konsep: teknologi informasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Updating dan pengembangan database dan portal Indonesia Kreatif serta informasi yang diperlukan berkenaan dengan perkembangan ekonomi kreatif Indonesia diperlukan untuk pemetaan dan penyajian semua informasi yang terkait dengan pelaku usaha ekonomi kreatif. Hal ini adalah salah satu strategi pemerintah melalui kementrian perdagangan dalam bidang ....
+
+[Materi #566]
+Topik (otomatis): berikut, subsektor, ekonomi, kreatif
+Inti konsep: craft
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan merupakan bagian subsektor ekonomi kreatif dalam produk abstrak adalah ….
+
+[Materi #567]
+Topik (otomatis): peningkatan, penggunaan, teknologi, melalui
+Inti konsep: meningkatkan kemampuan dan keahlian pelaku ekspor atau calon pelaku ekspor ekonomi kreatif dalam menciptakan produk yang berdaya saing tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peningkatan penggunaan teknologi melalui program kemitraan bertujuan untuk ....
+
+[Materi #568]
+Topik (otomatis): salah, tujuan, wahana, kreatif
+Inti konsep: sebagai sarana mempromosikan dan memperkenalkan produk kreatif Indonesia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu tujuan wahana kreatif yang dipajang di berbagai tempat wisata dan bandara internasional adalah ....
+
+[Materi #569]
+Topik (otomatis): pertukaran, barang, jasa, negara
+Inti konsep: perdagangan internasional
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses pertukaran barang dan jasa antara dua negara atau lebih dengan tujuan mendapatkan keuntungan/laba disebut ....
+
+[Materi #570]
+Topik (otomatis): negara, apabila, dapat, menghasilkan
+Inti konsep: keunggulan mutlak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Apabila suatu Negara dapat menghasilkan komoditi-komoditi tertentu dengan lebih efisien dibandingkan dengan negara lain maka terjadi ....
+
+[Materi #571]
+Topik (otomatis): negara, keuntungan, mampu, memproduksi
+Inti konsep: keuntungan mutlak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bila suatu negara mampu memproduksi barang dengan biaya murah dibandingkan dengan negara lain sehingga terdapat suatu laba atau keuntungan maka keuntungan itu disebut .....
+
+[Materi #572]
+Topik (otomatis): berikut, komoditas, unggulan, indonesia
+Inti konsep: minyak sawit, karet, beras
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah komoditas unggulan Indonesia dalam kontribusi pasaran dunia, kecuali ....
+
+[Materi #573]
+Topik (otomatis): bawah, termasuk, tantangan, dihadapi
+Inti konsep: perubahan teknologi yang semakin maju
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang bukan termasuk tantangan yang dihadapi dalam perdagangan internasional adalah ....
+
+[Materi #574]
+Topik (otomatis): cara, menanggulangi, perubahan, identitas
+Inti konsep: menyaring budaya barat yang baik tanpa meninggalkan budaya sendiri
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cara menanggulangi perubahan identitas seiring masuknya kebudayaan barat masuk ke Indonesia adalah ....
+
+[Materi #575]
+Topik (otomatis): langkah, nyata, dapat, dilakukan
+Inti konsep: meningkatkan kualitas produk dalam negeri agar mampu bersaing dengan produk luar negeri
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Langkah nyata yang dapat dilakukan dalam menghadapi era perdagangan bebas adalah ....
+
+[Materi #576]
+Topik (otomatis): freeport, salah, perusahaan, bergerak
+Inti konsep: pertambangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: PT Freeport adalah salah satu perusahaan yang bergerak dalam bidang ....
+
+[Materi #577]
+Topik (otomatis): minyak, salah, kilang, pengolah
+Inti konsep: Cepu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu kilang minyak pengolah minyak mentah terbesar yang terdapat di ndonesia adalah ....
+
+[Materi #578]
+Topik (otomatis): penguasaan, atas, bumi, air
+Inti konsep: 33
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penguasaan atas bumi, air, dan seluruh kekayaan alam yang terkandung di dalamnya untuk sebesar-besar kemakmuran rakyat. Hal ini seperti diatur dalam UUD 1945 pasal ....
+
+[Materi #579]
+Topik (otomatis): minyak, indonesia, unit, pengolahan
+Inti konsep: Pangkalan Brandan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unit pengolahan minyak di Indonesia yang menjadi pelopor dimulainya eksplorasi minyak di Indonesia adalah ....
+
+[Materi #580]
+Topik (otomatis): batik, indonesia, salah, keunggulan
+Inti konsep: Wonosobo
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batik merupakan salah satu dari keunggulan ekonomi yang dimiliki oleh Indonesia dapat menembus Pasar Internasional dengan ciri khas tertentu. Berikut ini adalah daerah penghasil batik terkenal di Indonesia, kecuali ....
+
+[Materi #581]
+Topik (otomatis): batik, menggunakan, pembuatan, relatif
+Inti konsep: (1), (3) dan (4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan ciri- ciri berikut ini,
+
+(1) kain dihias dengan tekstur corak batik yang menggunakan tangan
+(2) dibutuhkan cap yang terbuat dari tembaga
+(3) pembuatan relatif lama yaitu sekitar 2-3 bulan
+(4) harga relatif mahal
+(5) pewarnaan menggunakan serat- serat alami
+
+Teknik pembuatan batik tulis ditunjukkan oleh nomor ....
+
+[Materi #582]
+Topik (otomatis): tempat, perpindahan, penduduk, lainnya
+Inti konsep: mobilitas penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perpindahan penduduk dari satu tempat ke tempat lainnya disebut ....
+
+[Materi #583]
+Topik (otomatis): mobilitas, penduduk, sifatnya, menetap
+Inti konsep: migrasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mobilitas penduduk yang sifatnya menetap dan permanen dalam suatu daerah disebut ....
+
+[Materi #584]
+Topik (otomatis): kota, perpindahan, penduduk, desa
+Inti konsep: urbanisasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perpindahan penduduk dari desa ke kota atau kota kecil ke kota besar disebut ....
+
+[Materi #585]
+Topik (otomatis): perpindahan, penduduk, sifatnya, hari
+Inti konsep: komutasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perpindahan penduduk yang sifatnya sementara pada hari yang sama disebut ....
+
+[Materi #586]
+Topik (otomatis): menetap, bentuk, perpindahan, penduduk
+Inti konsep: sirkulasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk perpindahan penduduk tidak menetap, tetapi ada juga yang menetap atau tinggal untuk sementara waktu di daerah tujuan disebut ....
+
+[Materi #587]
+Topik (otomatis): seorang, karyawan, berdomisili, semarang
+Inti konsep: sirkulasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang karyawan yang berdomisili di Semarang bekerja di Yogakarta dan menginap di perumahan perusahaan, dengan pulang tiap seminggu kali. hal ini merupakan bentuk ....
+
+[Materi #588]
+Topik (otomatis): impor, kebijakan, pemerintah, tidak
+Inti konsep: pasar bebas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kebijakan dimana  pemerintah  tidak  melakukan  diskriminasi  terhadap  impor  atau impor disebut ....
+
+[Materi #589]
+Topik (otomatis): bawah, hal-, hal, ddipromosikan
+Inti konsep: Akses informasi pasar yang diatur.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang bukan merupakan hal- hal yang ddipromosikan dalam kebijakan perdagangan bebas adalah ....
+
+[Materi #590]
+Topik (otomatis): asean, bentuk, integrasi, ekonomi
+Inti konsep: MEA
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk integrasi ekonomi ASEAN dengan anggota negara-negara yang berada dikawasan Asia Tenggara (ASEAN) dala hal perdagangan bebas dikenal dengan istilah ....
+
+[Materi #591]
+Topik (otomatis): asean, kawasan, wujud, kesepakatan
+Inti konsep: AFTA
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Wujud dari kesepakatan dari negara-negara ASEAN untuk membentuk suatu kawasan bebas perdagangan dalam rangka meningkatkan daya saing ekonomi kawasan regional ASEAN dengan menjadikan ASEAN sebagai basis produksi dunia adalah ....
+
+[Materi #592]
+Topik (otomatis): tujuan, utama, mea, masyarakat
+Inti konsep: menghilangkan secara signifikan hambatan-hambatan kegiatan ekonomi lintas kawasan ASEAN
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tujuan utama dari MEA (Masyarakat ekonomi ASEAN) adalah ....
+
+[Materi #593]
+Topik (otomatis): mea, dibentuk, kawasan, ekonomi
+Inti konsep: safe policy
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: MEA akan dibentuk sebagai kawasan ekonomi dengan tingkat  kompetisi yang tinggi. Beberapa kebijakan di bawah ini diambil untuk mewujudkan hal tersebut, kecuali ....
+
+[Materi #594]
+Topik (otomatis): berikut, tujuan, afta
+Inti konsep: menjadikan negara- negara ASEAN sebagai penguasa perdagangan di dunia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan merupakan tujuan AFTA adalah ....
+
+[Materi #595]
+Topik (otomatis): organisasi, apec, betujuan, meningkatkan
+Inti konsep: Asia Pasifik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Organisasi APEC merupakan organisasi yang betujuan untuk meningkatkan kesejahteraan dan pertumbuhan ekonomi di kawasan ....
+
+[Materi #596]
+Topik (otomatis): pemrakarsa, organisasi, apec
+Inti konsep: Perdana Menteri Australia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pemrakarsa organisasi APEC adalah ....
+
+[Materi #597]
+Topik (otomatis): dibawah, tujuan, dibentuknya, mee
+Inti konsep: mengatasi persaingan dengan negara- negara berkembang di Asia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dibawah ini adalah tujuan dibentuknya MEE (Masyarakat Ekonomi Eropa), kecuali ....
+
+[Materi #598]
+Topik (otomatis): perdagangan, organisasi, dunia, satu-satunya
+Inti konsep: WTO
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Organisasi perdagangan dunia merupakan satu-satunya badan internasional yang mengatur masalah perdagangan antarnegara adalah ....
+
+[Materi #599]
+Topik (otomatis): tanggal, mpr, mengadakan, sidang
+Inti konsep: 10-13 November 1998
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada Tanggal berapa MPR mengadakan Sidang Istimewa untuk menentapkan langkah pemerintah dalam melaksanakan reformasi di segala bidang…

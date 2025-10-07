@@ -1,0 +1,3833 @@
+=== MATERI KESENIAN ===
+
+[Materi #1]
+Topik (otomatis): alat, musik, kategori, perkusi
+Inti konsep: Drum
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis alat musik kategori perkusi adalah ...
+
+[Materi #2]
+Topik (otomatis): karya, seni, tari, berasal
+Inti konsep: Kedua tangan melambai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karya seni tari yang berasal dari alam menggambarkan daun tertiup angin yaitu dengan ...
+
+[Materi #3]
+Topik (otomatis): nama, alat, musik, berdawai
+Inti konsep: Biola
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nama jenis alat musik berdawai adalah ...
+
+[Materi #4]
+Topik (otomatis): nama, pola, alat, musik
+Inti konsep: Terompet
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nama pola jenis alat musik tiup adalah ...
+
+[Materi #5]
+Topik (otomatis): gerakan, kita, menari, memakai
+Inti konsep: Serempak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gerakan kita ketika menari memakai ketukan/hitungan semoga tarian menjadi ...
+
+[Materi #6]
+Topik (otomatis): salah, nama, zat, menciptakan
+Inti konsep: Kimia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu nama zat untuk menciptakan pewarna buatan adalah ...
+
+[Materi #7]
+Topik (otomatis): bahan, pewarna, buatan, banyak
+Inti konsep: Tekstil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan pewarna buatan banyak dipakai untuk ...
+
+[Materi #8]
+Topik (otomatis): unsur, seni, tari, menonjolkan
+Inti konsep: Gerakan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unsur pada seni tari menonjolkan keindahan ...
+
+[Materi #9]
+Topik (otomatis): unsur, seni, musik, menonjolkan
+Inti konsep: Suara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unsur pada seni musik menonjolkan keindahan ...
+
+[Materi #10]
+Topik (otomatis): unsur, seni, lukis, menonjolkan
+Inti konsep: Gambar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada unsur seni lukis menonjolkan keindahan ...
+
+[Materi #11]
+Topik (otomatis): alat, terbuat, besi
+Inti konsep: Gunting
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh jenis alat yang terbuat dari besi adalah ...
+
+[Materi #12]
+Topik (otomatis): tanaman, dapat, dipakai, menciptakan
+Inti konsep: Daun suji
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh tanaman yang dapat dipakai untuk menciptakan pewarna buatan adalah ...
+
+[Materi #13]
+Topik (otomatis): gerakan, seni, tari, cocok
+Inti konsep: Tangan mengayung dari atas ke bawah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh gerakan seni tari yang cocok menggambarkan jeram yaitu dengan ...
+
+[Materi #14]
+Topik (otomatis): cetakan, bentuknya, tidak, berubah
+Inti konsep: Daun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh jenis cetakan yang bentuknya tidak berubah terbuat dari ...
+
+[Materi #15]
+Topik (otomatis): warna, merah, melambangkan
+Inti konsep: Keberanian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Warna merah melambangkan ...
+
+[Materi #16]
+Topik (otomatis): tempat, asal, bunyi, disebut
+Inti konsep: Sumber bunyi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tempat asal bunyi disebut ...
+
+[Materi #17]
+Topik (otomatis): gerakan, tubuh, manusia, indah
+Inti konsep: Tari
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gerakan tubuh manusia yang indah disebut ...
+
+[Materi #18]
+Topik (otomatis): gerakan, sesuai, saat, mendengar
+Inti konsep: Gerakan seolah mencangkul
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gerakan yang sesuai saat mendengar lagu menanam jagung adalah ...
+
+[Materi #19]
+Topik (otomatis): daun, suji, digunakan, mewarnai
+Inti konsep: Hijau
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Daun suji digunakan dalam mewarnai untuk menghasilkan warna ...
+
+[Materi #20]
+Topik (otomatis): pelepah, pisang, belimbing, termasuk
+Inti konsep: Bahan alami
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pelepah pisang dan belimbing termasuk bahan cetak tunggal dari ...
+
+[Materi #21]
+Topik (otomatis): cit, bunyi, suara
+Inti konsep: Anak ayam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cit....cit....cit adalah bunyi suara ...
+
+[Materi #22]
+Topik (otomatis): saat, matahari, terbenam, terlihat
+Inti konsep: Merah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada saat matahari terbenam akan terlihat berwarna ...
+
+[Materi #23]
+Topik (otomatis): warna, lukisan, laut, biasa
+Inti konsep: Biru
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada lukisan laut biasa warna air diberikan dengan warna ...
+
+[Materi #24]
+Topik (otomatis): ciri, khas, alat, musik
+Inti konsep: Ditiup
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri khas dari alat musik prekuensi adalah ...
+
+[Materi #25]
+Topik (otomatis): berikut, objek, lukisan, cocok
+Inti konsep: Batang pohon
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini jenis objek lukisan yang cocok diberi warna coklat adalah ...
+
+[Materi #26]
+Topik (otomatis): peralatan, melukis, diantaranya
+Inti konsep: Pensil dan kuas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peralatan untuk melukis diantaranya adalah ...
+
+[Materi #27]
+Topik (otomatis): orang, sering, membawakan, lagu
+Inti konsep: Penyanyi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang sering membawakan lagu dan di iringi dengan musik disebut seorang ...
+
+[Materi #28]
+Topik (otomatis): alat, musik, dimainkan, cara
+Inti konsep: Terompet
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis pada alat musik yang dimainkan dengan cara ditiup adalah ...
+
+[Materi #29]
+Topik (otomatis): alat, musik, piano, dimainkan
+Inti konsep: Ditekan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik Piano dimainkan dengan cara ...
+
+[Materi #30]
+Topik (otomatis): bahan, baku, membuat, meja
+Inti konsep: Kayu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan baku untuk membuat meja, kursi dan lemari adalah ...
+
+[Materi #31]
+Topik (otomatis): bahan, baku, membuat, gentong
+Inti konsep: Tanah liat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan baku untuk membuat Gentong dan Genting ...
+
+[Materi #32]
+Topik (otomatis): kesenian, tari, kuda, lumping
+Inti konsep: Jawa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis kesenian tari Kuda Lumping adalah kebudayaan ciri khas dari pulau ...
+
+[Materi #33]
+Topik (otomatis): kesenian, reog, ciri, khas
+Inti konsep: Ponorogo
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis Kesenian Reog adalah kesenian ciri khas dari kota ...
+
+[Materi #34]
+Topik (otomatis): salah, kelebihan, menggunakan, cap
+Inti konsep: Dapat dipakai berulang-ulang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu kelebihan jika menggunakan cap adalah ...
+
+[Materi #35]
+Topik (otomatis): benda, dimensi, memiliki, ukuran
+Inti konsep: Lebar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada benda 2 dimensi memiliki 2 ukuran terkecuali adalah ...
+
+[Materi #36]
+Topik (otomatis): sering, cap, digunakan, dinamakan
+Inti konsep: Stempel
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cap sering yang sering digunakan dinamakan ...
+
+[Materi #37]
+Topik (otomatis): menggambar, rumah, tangga, metode
+Inti konsep: Meniru
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam menggambar rumah tangga, metode yang digunakan pelukis adalah ...
+
+[Materi #38]
+Topik (otomatis): manfaat, didapatkan, mempelajari, menggambar
+Inti konsep: Semua Benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manfaat yang didapatkan dari mempelajari menggambar rumah tangga adalah ...
+
+[Materi #39]
+Topik (otomatis): berikut, limbah, plastik, bisa
+Inti konsep: Kaca
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini contoh limbah plastik yang bisa digunakan untuk membuat karya seni kriya,
+kecuali ...
+
+[Materi #40]
+Topik (otomatis): bahan, plastik, sedotan, simak
+Inti konsep: Membuat Seni Kriya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Simak keterangan berikut ini:
+1. Mengumpulkan bahan sedotan plastik
+2. Membersihkan bahan sedotan plastik
+3. Menggambar model bunga plastik
+4. Memotong bahan sedotan plastik
+5. Menyusun potongan bahan plastik
+6. Memilih bahan sesuai ukuran dan warna
+7. Finishing
+
+Data tersebut merupakan penjelasan dari ...
+
+[Materi #41]
+Topik (otomatis): permukaan, benda, dapat, diketahui
+Inti konsep: Tekstur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah permukaan dari setiap benda yang dapat diketahui coraknya dengan cara diraba
+disebut ...
+
+[Materi #42]
+Topik (otomatis): warna, cara, menguaskan, cat
+Inti konsep: Grattage
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cara menguaskan cat minyak warna gelap lalu ditimpa dengan warna terang dan digores-
+gores merupakan pengertian teknik tekstur yang bernama ...
+
+[Materi #43]
+Topik (otomatis): objek, visual, seni, rupa
+Inti konsep: Warna
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Agar objek visual seni rupa bisa tampil menarik, tata letak yang dilakukan harus
+memuat berbagai hal berikut kecuali ...
+
+[Materi #44]
+Topik (otomatis): berikut, termasuk, warna, tersier
+Inti konsep: Jingga Kekuningan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk warna tersier adalah ...
+
+[Materi #45]
+Topik (otomatis): gambar, corak, dekor, dekoratif
+Inti konsep: Langit
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar dekoratif adalah gambar dengan corak dekor atau hias. Yang bukan corak dekor
+adalah ...
+
+[Materi #46]
+Topik (otomatis): ciri-ciri, seni, dekoratif
+Inti konsep: Semua benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri-ciri seni dekoratif adalah ...
+
+[Materi #47]
+Topik (otomatis): secara, etimologis, seni, grafis
+Inti konsep: Graphein
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Secara etimologis Seni Grafis berasal dari bahasa Yunani yaitu ...
+
+[Materi #48]
+Topik (otomatis): seni, grafis, terpampang, nyata
+Inti konsep: Cap tangan di gua-gua prasejarah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seni Grafis yang terpampang nyata karyanya di Indonesia yang tertua adalah ...
+
+[Materi #49]
+Topik (otomatis): bagaimanakah, cara, bermain, alat
+Inti konsep: Dipukul
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bagaimanakah cara bermain alat musik marimba?
+
+[Materi #50]
+Topik (otomatis): manakah, alat, musik, bawah
+Inti konsep: Cello
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manakah alat musik di bawah ini yang cara memainkannya dengan di gesek?
+
+[Materi #51]
+Topik (otomatis): apakah, arti, tanda, partitur
+Inti konsep: Tanda ulang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Apakah arti dari tanda ini :|| dalam sebuah partitur lagu?
+
+[Materi #52]
+Topik (otomatis): apakah, arti, tanda, notasi
+Inti konsep: Tanda istirahat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Apakah arti tanda 0 dalam notasi angka?
+
+[Materi #53]
+Topik (otomatis): berapakah, nilai, ketukan, not
+Inti konsep: 1
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berapakah nilai ketukan dalam not seperempat?
+
+[Materi #54]
+Topik (otomatis): nada, sajakah, terkandung, akor
+Inti konsep: Do-mi-sol
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nada apa sajakah yang terkandung dalam akor C Mayor?
+
+[Materi #55]
+Topik (otomatis): nada, berapakah, interval
+Inti konsep: Enam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berapakah interval dari nada do ke nada "la"?
+
+[Materi #56]
+Topik (otomatis): manakah, bawah, memiliki, interval
+Inti konsep: Do - fa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manakah di bawah ini yang memiliki interval 4 di antara nada-nadanya?
+
+[Materi #57]
+Topik (otomatis): berikut, elemen, komposisi, tari
+Inti konsep: Desain Properti
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan elemen komposisi tari adalah ...
+
+[Materi #58]
+Topik (otomatis): berbagai, kategori, gerak, terdapat
+Inti konsep: Semua benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berbagai kategori gerak yang terdapat pada tarian yaitu ...
+
+[Materi #59]
+Topik (otomatis): latihan, mengucapkan, vokal, kata
+Inti konsep: Olah suara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Latihan mengucapkan vokal, kata, maupun dialog dalam suatu pementasan agar bisa terdengar jelas disebut ...
+
+[Materi #60]
+Topik (otomatis): pantomim, pertunjukan, teater, dimainkan
+Inti konsep: Cuaca
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pantomim adalah pertunjukan teater yang dimainkan dengan gerak dan ekspresi wajah tanpa kata-kata. Salah satu contoh pantomim biografi binatang biasanya menggambarkan hal berikut ini kecuali  ...
+
+[Materi #61]
+Topik (otomatis): gambar, mempunyai, panjang, lebar
+Inti konsep: Dua dimensi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar yang hanya mempunyai panjang dan lebar dinamakan gambar ...
+
+[Materi #62]
+Topik (otomatis): lagu, lahir, tradisi, rakyat
+Inti konsep: Lagu daerah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu yang lahir dari tradisi rakyat/ budaya daerah tertentu dinamakan ...
+
+[Materi #63]
+Topik (otomatis): alat, musik, tak, bernada
+Inti konsep: Alat musik ritmis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik tak bernada dinamakan ...
+
+[Materi #64]
+Topik (otomatis): berikut, tidak, termasuk, alat
+Inti konsep: Gerakan penonton
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk fungsi alat musik ritmis dalam suatu pertunjukkan yaitu ...
+
+[Materi #65]
+Topik (otomatis): lagu, kebangsaan, indonesia
+Inti konsep: Indonesia Raya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu kebangsaan Indonesia yaitu ...
+
+[Materi #66]
+Topik (otomatis): berikut, termasuk, salah, lagu
+Inti konsep: Anging mamiri
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk salah satu lagu daerah yang berasal dari Sulawesi selatan
+yaitu ...
+
+[Materi #67]
+Topik (otomatis): rebana, termasuk, alat, musik
+Inti konsep: Dipukul
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rebana termasuk alat musik yang dimainkan dengan cara ...
+
+[Materi #68]
+Topik (otomatis): lagu, lahir, diciptakan, masa
+Inti konsep: Lagu wajib
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu yang lahir dan diciptakan ketika masa perjuangan kemerdekaan dinamakan ...
+
+[Materi #69]
+Topik (otomatis): gambar, ilustrasi, mempunyai
+Inti konsep: Memperjelas isi bacaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: . Gambar ilustrasi mempunyai fungsi untuk ...
+
+[Materi #70]
+Topik (otomatis): gambar, mempunyai, menceritakan, menjelaskan
+Inti konsep: Gambar ilustrasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis gambar yang mempunyai fungsi untuk menceritakan atau menjelaskan suatu kejadian/ peristiwa dinamakan ...
+
+[Materi #71]
+Topik (otomatis): lagu, halo-halo, bandung, ciptaan
+Inti konsep: Ismail Marzuki
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu “Halo-halo Bandung” adalah ciptaan dari ...
+
+[Materi #72]
+Topik (otomatis): lagu, apuse, berasal, daerah
+Inti konsep: Irian jaya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu Apuse berasal dari daerah ...
+
+[Materi #73]
+Topik (otomatis): gambar, kehidupan, desa, memperlihatkan
+Inti konsep: Damai dan tentram
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar kehidupan di desa memperlihatkan suasana ...
+
+[Materi #74]
+Topik (otomatis): karya, seni, rupa, bisa
+Inti konsep: Seni rupa terapan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karya seni rupa yang yang bisa digunakan sebagai benda pakai dinamakan ...
+
+[Materi #75]
+Topik (otomatis): gambar, buah, apel, sebaiknya
+Inti konsep: Merah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar buah Apel sebaiknya diberi warna ...
+
+[Materi #76]
+Topik (otomatis): gambar, orang-orang, berada, pasar
+Inti konsep: Jual beli
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar orang-orang yang berada di pasar menunjukkan suasana ...
+
+[Materi #77]
+Topik (otomatis): karya, seni, rupa, dapat
+Inti konsep: 2 fungsi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fungsi karya seni rupa dapat dibedakan menjadi ...
+
+[Materi #78]
+Topik (otomatis): berikut, hasil, karya, seni
+Inti konsep: Lukisan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan merupakan hasil karya seni rupa yang berfungsi estetis yaitu ...
+
+[Materi #79]
+Topik (otomatis): rak, hias, vas, bunga
+Inti konsep: Estetis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rak hias dan vas bunga merupakan hasil karya seni rupa dari fungsi ...
+
+[Materi #80]
+Topik (otomatis): berikut, termasuk, praktis
+Inti konsep: Asbak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk contoh dari fungsi praktis yaitu ...
+
+[Materi #81]
+Topik (otomatis): tusuk, hasil, tusukannya, seperti
+Inti konsep: Tusuk rantai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tusuk yang hasil tusukannya seperti rantai disebut ...
+
+[Materi #82]
+Topik (otomatis): bahan, bekas, sabun, mandi
+Inti konsep: Kardus sabun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan bekas dari sabun mandi, yang dapat digunakan sebagai bahan konstruksinya adalah ...
+
+[Materi #83]
+Topik (otomatis): pameran, kain, direntangkan, nama
+Inti konsep: Spanduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kain yang direntangkan dengan nama pameran, tempat, dan waktu pameran disebut ...
+
+[Materi #84]
+Topik (otomatis): hasil, kerajinan, patung, didapatkan
+Inti konsep: Menatah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hasil kerajinan patung didapatkan dari teknik ...
+
+[Materi #85]
+Topik (otomatis): bahan, konstruksi, memiliki, kasar
+Inti konsep: Tekstur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: . Bahan konstruksi ini memiliki ... Kasar
+
+[Materi #86]
+Topik (otomatis): karya, musik, terdiri, berbagai
+Inti konsep: Lagu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karya musik terdiri dari berbagai macam. Karya musik yang terdiri dari syair dan melodi disebut ...
+
+[Materi #87]
+Topik (otomatis): motif, poleng, banyak, dijumpai
+Inti konsep: Bali
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Motif poleng banyak dijumpai di daerah ...
+
+[Materi #88]
+Topik (otomatis): lagu, lir, ilir, daerah
+Inti konsep: Yogyakarta
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu lir ilir adalah lagu daerah yang berasal dari ...
+
+[Materi #89]
+Topik (otomatis): ingin, menggambar, tumbuh-tumbuhan, sebaiknya
+Inti konsep: Pepohonan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika ingin menggambar tumbuh-tumbuhan sebaiknya mengamati ...
+
+[Materi #90]
+Topik (otomatis): suasana, hutan, terbentuk
+Inti konsep: Pohon, binatang, dan tumbuhan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suasana hutan terbentuk dari ...
+
+[Materi #91]
+Topik (otomatis): rumah, gadang, adat, daerah
+Inti konsep: Sumatera barat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rumah gadang adalah rumah adat dari daerah ...
+
+[Materi #92]
+Topik (otomatis): salah, properti, tari, tani
+Inti konsep: Cangkul
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu properti tari tani adalah ...
+
+[Materi #93]
+Topik (otomatis): tari, putri, bekhusek, tarian
+Inti konsep: Seorang puteri yang sedang bermain
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari putri bekhusek adalah tarian yang menceritakan tentang ...
+
+[Materi #94]
+Topik (otomatis): pohon, bentuk, menguncup, seperti
+Inti konsep: Cemara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk pohon yang menguncup seperti pohon natal adalah pohon ...
+
+[Materi #95]
+Topik (otomatis): benda, memiliki, berwarna, hitam
+Inti konsep: Ragam hias
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Benda ini memiliki ... Berwarna hitam dan putih.
+
+[Materi #96]
+Topik (otomatis): ketipung, dipukul
+Inti konsep: Tangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ketipung dipukul dengan ...
+
+[Materi #97]
+Topik (otomatis): penyebaran, informasi, pameran, efektif
+Inti konsep: Bisik-bisik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penyebaran informasi pameran yang kurang efektif adalah melalui ...
+
+[Materi #98]
+Topik (otomatis): tari, gabor, tarian, berasal
+Inti konsep: Bali
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari gabor adalah tarian yang berasal dari ...
+
+[Materi #99]
+Topik (otomatis): membuat, kancing, baju, menggunakan
+Inti konsep: Feston
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Membuat kancing baju menggunakan tusuk ...
+
+[Materi #100]
+Topik (otomatis): tifa, alat, musik, ritmis
+Inti konsep: Dipukul
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tifa adalah alat musik ritmis yang dibunyikan dengan cara ...
+
+[Materi #101]
+Topik (otomatis): pendukung, penampilan, wajah, dipelajari
+Inti konsep: Busana tari
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pendukung penampilan wajah dipelajari dalam
+
+[Materi #102]
+Topik (otomatis): alat, musik, ritmis, dimainkan
+Inti konsep: Tamborin
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik ritmis yang dimainkan dengan cara dipukul adalah ...
+
+[Materi #103]
+Topik (otomatis): lagu, gembira, dinyanyikan, wajah
+Inti konsep: Gembira
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu gembira dinyanyikan dengan wajah ...
+
+[Materi #104]
+Topik (otomatis): berikut, bahan, utama, membuat
+Inti konsep: Tali tambang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang merupakan bahan utama untuk membuat makrame yang cukup kuat dan tahan lama yaitu ...
+
+[Materi #105]
+Topik (otomatis): bahan, dapat, teknik, membuat
+Inti konsep: Meronce
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik membuat benda pakai/ hias dari bahan manik-manik, biji-bijian, atau bahan lain yang dapat dilubangi dengan alat tusuk sehingga dapat dipakai adalah pengertian dari ...
+
+[Materi #106]
+Topik (otomatis): tali, salah, ciri, cocok
+Inti konsep: Mulur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu ciri tali yang cocok untuk membuat benda pakai dengan teknik makrame yaitu tali yang mempunyai sifat ...
+
+[Materi #107]
+Topik (otomatis): seni, tari
+Inti konsep: Ungkapan rasa keindahan melalui gerakan tubuh
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengertian seni tari yaitu ...
+
+[Materi #108]
+Topik (otomatis): salah, ciri, biji-bijian, baik
+Inti konsep: Mengkilap dan tua
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu ciri biji-bijian yang baik untuk dironce yaitu ...
+
+[Materi #109]
+Topik (otomatis): kipas, bakul, tikar, tas
+Inti konsep: Anyaman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kipas, bakul, tikar, tas, banyak dibuat dengan teknik ..
+
+[Materi #110]
+Topik (otomatis): alat, khusus, digunakan, membatik
+Inti konsep: Canting
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat khusus yang digunakan untuk membatik yaitu ...
+
+[Materi #111]
+Topik (otomatis): ragam, hias, terkenal, berasal
+Inti konsep: Kain songket
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: . Ragam hias yang terkenal dan berasal dari sumatra yaitu ...
+
+[Materi #112]
+Topik (otomatis): menunjukkan, karakter, tari, wajah
+Inti konsep: Tata rias
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk menunjukkan karakter tari pada wajah dibutuhkan ...
+
+[Materi #113]
+Topik (otomatis): beberapa, bentuk, motif, hias
+Inti konsep: Hewan, daun, benda alam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Beberapa jenis bentuk motif hias diantaranya ...
+
+[Materi #114]
+Topik (otomatis): motif, hias, etnik, batak
+Inti konsep: Putih, merah, dan sedikit hitam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Motif hias etnik batak toba mendominasi warna ...
+
+[Materi #115]
+Topik (otomatis): tali, ciri, dapat, digunakan
+Inti konsep: Lentur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri tali yang dapat digunakan untuk membuat benda pakai dengan teknik makrame yaitu tali yang mempunyai sifat ...
+
+[Materi #116]
+Topik (otomatis): bahan, dapat, teknik, digunakan
+Inti konsep: Meronce
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik yang digunakan untuk membuat benda pakai/ hias dari bahan biji-bijian, manik-manik, atau bahan lain yang dapat dilubangi dengan alat tusuk sehingga dapat dipakai merupakan pengertian dari ...
+
+[Materi #117]
+Topik (otomatis): bahan, utama, membuat, makrame
+Inti konsep: Tali tambang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan utama untuk membuat makrame yang cukup kuat dan tahan lama yaitu ...
+
+[Materi #118]
+Topik (otomatis): perhiasan, tiang, rumah, dibuat
+Inti konsep: Suku toraja
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhiasan tiang rumah yang dibuat dari kayu berbahan dari ...
+
+[Materi #119]
+Topik (otomatis): bentuk, dasar, bidang, ruang
+Inti konsep: Motif hias
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk dasar pada suatu bidang atau ruang yang membentuk sesuatu yang indah dinamakan ...
+
+[Materi #120]
+Topik (otomatis): alat, khusus, digunakan, membatik
+Inti konsep: Canting
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat khusus yang digunakan untuk membatik yaitu ...
+
+[Materi #121]
+Topik (otomatis): ragam, hias, terkenal, berasal
+Inti konsep: Kain songket
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ragam hias yang terkenal dan berasal dari pulau sumatra yaitu ...
+
+[Materi #122]
+Topik (otomatis): musik, nusantara, kebudayaan, lahir
+Inti konsep: Masyarakat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik nusantara merupakan kebudayaan yang lahir dari budaya ...
+
+[Materi #123]
+Topik (otomatis): pulau, jawa, daerah, penghasil
+Inti konsep: Pekalongan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di pulau jawa, daerah penghasil batik yang terkenal yaitu ...
+
+[Materi #124]
+Topik (otomatis): wayang, hasil, motif, hias
+Inti konsep: Dua dimensi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Wayang adalah hasil motif hias seni rupa ...
+
+[Materi #125]
+Topik (otomatis): gabungan, alat, musik, ritmis
+Inti konsep: Ansambel gabungan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gabungan alat musik ritmis dan melodis yang dimainkan secara bersamaan dinamakan ...
+
+[Materi #126]
+Topik (otomatis): lagu, wajib, dinyanyikan, dapat
+Inti konsep: Patriot
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu wajib yang dinyanyikan dapat menanamkan sikap ...
+
+[Materi #127]
+Topik (otomatis): musik, bermain, melodis, cara
+Inti konsep: Musik ansambel
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bermain musik melodis dengan cara berkelompok baik dengan satu jenis alat musik atau lebih dinamakan ...
+
+[Materi #128]
+Topik (otomatis): memainkan, musik, bentuk, ansambel
+Inti konsep: Merdu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Memainkan musik bentuk ansambel gabungan diperlukan suatu kekompakan dan kebersamaan agar suara terdengar ...
+
+[Materi #129]
+Topik (otomatis): salah, lagu, daerah, betawi
+Inti konsep: Kicir-kicir
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu contoh lagu daerah betawi yaitu ...
+
+[Materi #130]
+Topik (otomatis): bahan, pembuatan, angklung, calung
+Inti konsep: Bambu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan pembuatan angklung dan calung yaitu terbuat dari ...
+
+[Materi #131]
+Topik (otomatis): digunakan, alat, musik, gamelan
+Inti konsep: Adat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik gamelan selain digunakan mengiringi tarian dan pertunjukan wayang, juga digunakan untuk upacara ...
+
+[Materi #132]
+Topik (otomatis): jawa, salah, musik, khas
+Inti konsep: Gamelan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu jenis musik khas Jawa Timur dan Jawa Tengah yaitu ...
+
+[Materi #133]
+Topik (otomatis): angklung, calung, musik, berasal
+Inti konsep: Jawa barat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Angklung dan calung merupakan musik yang berasal dari daerah ...
+
+[Materi #134]
+Topik (otomatis): berikut, salah, lagu, daerah
+Inti konsep: Es Lilin
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang merupakan salah satu contoh lagu Daerah Sunda yaitu ...
+
+[Materi #135]
+Topik (otomatis): tokoh, pencipta, lagu, halo-halo
+Inti konsep: Ismail Marzuki
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tokoh pencipta lagu Halo-Halo Bandung yaitu ...
+
+[Materi #136]
+Topik (otomatis): alat, musik, kolintang, berasal
+Inti konsep: Sulawesi Utara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik Kolintang berasal dari daerah ...
+
+[Materi #137]
+Topik (otomatis): berikut, salah, lagu, daerah
+Inti konsep: Suwe Ora Jamu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang merupakan salah satu contoh lagu daerah Jawa Tengah yaitu ...
+
+[Materi #138]
+Topik (otomatis): berikut, termasuk, lagu, daerah
+Inti konsep: Tapay Bendebesa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk lagu daerah Bondowoso yaitu ...
+
+[Materi #139]
+Topik (otomatis): tari, saman, aceh, mempunyai
+Inti konsep: Garis lurus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari saman dari Aceh mempunyai pola lantai berbentuk ...
+
+[Materi #140]
+Topik (otomatis): tari, kecak, mempunyai, pola
+Inti konsep: Melingkar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari kecak mempunyai pola lantai berbentuk ...
+
+[Materi #141]
+Topik (otomatis): penari, garis-garis, lantai, tari
+Inti konsep: Pola lantai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Garis-garis di lantai tari yang dilalui oleh seorang penari sebagai garis acuan bagi penari dinamakan ...
+
+[Materi #142]
+Topik (otomatis): berikut, daerah, tidak, terdapat
+Inti konsep: Papua
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang merupakan daerah yang yang tidak terdapat gamelan yaitu ...
+
+[Materi #143]
+Topik (otomatis): macam, berikut, tidak, termasuk
+Inti konsep: Triplek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk macam – macam bahan anyaman yaitu ...
+
+[Materi #144]
+Topik (otomatis): bahan, kerajinan, anyaman, paling
+Inti konsep: Rotan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan kerajinan anyaman yang paling kuat dan awet yaitu ...
+
+[Materi #145]
+Topik (otomatis): berikut, tidak, termasuk, pola
+Inti konsep: Melingkar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk pola lantai berbentuk garis lurus yaitu ...
+
+[Materi #146]
+Topik (otomatis): tari, nusantara, pola, lantainya
+Inti konsep: Tari tortor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari nusantara yang pola lantainya segi empat di antaranya yaitu ...
+
+[Materi #147]
+Topik (otomatis): alat, musik, berasal, cina
+Inti konsep: Tehyan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh alat musik yang berasal dari Cina yaitu ...
+
+[Materi #148]
+Topik (otomatis): harmonika, alat, musik, dimainkan
+Inti konsep: Ditiup
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Harmonika adalah jenis alat musik yang dimainkan dengan cara ...
+
+[Materi #149]
+Topik (otomatis): musik, daerah, berasal, perpaduan
+Inti konsep: Gambang kromong
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik daerah yang berasal dari perpaduan antara musik daerah betawi dan cina yaitu ...
+
+[Materi #150]
+Topik (otomatis): lagu, ina, keke, berasal
+Inti konsep: Sulawesi utara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu “o ina ni keke” adalah lagu yang berasal dari daerah ...
+
+[Materi #151]
+Topik (otomatis): jumlah, nada, dipakai, melodi
+Inti konsep: 10
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jumlah nada yang dipakai dalam melodi lagu anak-anak tidak boleh lebih dari ...
+
+[Materi #152]
+Topik (otomatis): cara, sebagian, besar, memainkan
+Inti konsep: Dipukul
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebagian besar cara memainkan alat musik ritmis dengan cara ...
+
+[Materi #153]
+Topik (otomatis): alat, musik, tiup, maluku
+Inti konsep: Fu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik tiup dari maluku yang terbuat dari cangkang kerang laut yaitu ...
+
+[Materi #154]
+Topik (otomatis): tari, kecak, tarian, nusantara
+Inti konsep: Bali
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari kecak merupakan tarian nusantara yang berasal dari daerah ...
+
+[Materi #155]
+Topik (otomatis): teknik, membatik, bisa, dilakukan
+Inti konsep: Tulis dan cetak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik membatik bisa dilakukan dengan 2 cara, yaitu ...
+
+[Materi #156]
+Topik (otomatis): lagu, perhatikan, daftar, judul
+Inti konsep: 1 dan 4
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan daftar judul lagu berikut ini!
+1) Pelangi
+2) Syukur
+3) Lir Ilir
+4) Naik Kereta Api
+Lagu anak- anak ditunjukkan oleh nomor ...
+
+[Materi #157]
+Topik (otomatis): tari, saman, aceh, mempunyai
+Inti konsep: Garis lurus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari saman dari aceh mempunyai pola lantai yang berbentuk ...
+
+[Materi #158]
+Topik (otomatis): salah, tujuan, pembuatan, reklame
+Inti konsep: Memberikan informasi kepada masyarakat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu tujuan pembuatan reklame adalah ...
+
+[Materi #159]
+Topik (otomatis): reklame, berupa, selembaran, kertas
+Inti konsep: Poster
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis reklame yang berupa selembaran kertas yang berisi gambar dan tulisan yang dibuat semenarik mungkin dan ditempatkan dengan cara ditempel di tempat-tempat umum yang strategis dinamakan ...
+
+[Materi #160]
+Topik (otomatis): reklame, dibuat, selembar, kertas
+Inti konsep: Brosur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis reklame yang dibuat pada selembar kertas dengan isi informasi yang lebih rinci dan jelas, disampaikan dengan cara disebarluaskan secara langsung agar dibaca dan dipahami konsumen atau target dinamakan ...
+
+[Materi #161]
+Topik (otomatis): berikut, ciri-ciri, reklame
+Inti konsep: Berisi hadiah yang menarik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan merupakan ciri-ciri reklame adalah ...
+
+[Materi #162]
+Topik (otomatis): produk, reklame, ditempatkan, langsung
+Inti konsep: Embalase
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis reklame yang ditempatkan langsung pada kemasan produk, berfungsi sebagai daya tarik, pemberitahuan, informasi tentang produk disebut ...
+
+[Materi #163]
+Topik (otomatis): reklame, adit, melihat, menawarkan
+Inti konsep: Komersial
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Adit melihat sebuah reklame yang menawarkan barang dagangan. Reklame tersebut bersifat ...
+
+[Materi #164]
+Topik (otomatis): mengutamakan, unsur, kata-kata, gambar
+Inti konsep: 1, 4, dan 5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut ini!
+(1)	Bersifat persuasi,
+(2)	Mengutamakan unsur kata-kata,
+(3)	Memadukan unsur gambar dengan kata, gerak, dan suara,
+(4)	Mengutamakan kekuatan gambar dan kata-kata,
+(5)	Dipajang di tempat umum,
+(6)	Disampaikan melalui media massa.
+
+Berdasarkan data di atas, unsur-unsur sebuah poster adalah ...
+
+[Materi #165]
+Topik (otomatis): iklan, terdapat, televisi, youtube
+Inti konsep: Audio visual
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Iklan yang terdapat di televisi atau youtube termasuk pada reklame bentuk ...
+
+[Materi #166]
+Topik (otomatis): nada, jarak, antar, lain
+Inti konsep: Interval nada
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jarak antar nada satu dengan nada lain disebut ...
+
+[Materi #167]
+Topik (otomatis): nada, ciri-ciri, tangga, bersifat
+Inti konsep: (1), (2), (5)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan ciri-ciri tangga nada berikut !
+(1)	Bersemangat
+(2)	Bersifat sedih
+(3)	Bersifat riang gembira
+(4)	Melodi lagu selalu diawali dan diakhiri nada do
+(5)	Melodi lagu selalu diawali dan diakhiri nada la
+
+Ciri-ciri tangga nada diatonis mayor ditunjukkan oleh angka
+
+[Materi #168]
+Topik (otomatis): nama, interval, tinggi, disebut
+Inti konsep: Sekon
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nama interval dari do ke do tinggi disebut ...
+
+[Materi #169]
+Topik (otomatis): lagu, bawah, biasanya, dinyanyikan
+Inti konsep: Maju Tak Gentar dan Indonesia Raya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu di bawah ini yang biasanya dinyanyikan dengan nada diatonis mayor adalah ...
+
+[Materi #170]
+Topik (otomatis): tanda, kromatik, digunakan, menaikkan
+Inti konsep: Tanda kres (#)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tanda kromatik yang digunakan untuk menaikkan nada yang sudah dinaikkan disebut ...
+
+[Materi #171]
+Topik (otomatis): berikut, tidak, termasuk, karakteristik
+Inti konsep: Memiliki melodi yang rumit
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk karakteristik lagu anak, adalah ...
+
+[Materi #172]
+Topik (otomatis): lagu, ambilkan, bulan, salah
+Inti konsep: A.T Mahmud
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu "Ambilkan Bulan, Bu" adalah salah satu lagu anak yang diciptakan oleh ...
+
+[Materi #173]
+Topik (otomatis): berikut, urutan, nama, interval
+Inti konsep: Prime, sekonde, tert; kuart, kuint, sekts, septime, dan oktaf
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah urutan nama interval yang tepat adalah ...
+
+[Materi #174]
+Topik (otomatis): nada, dasar, lagu, aku
+Inti konsep: C = do
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nada dasar lagu “Aku Cinta Lingkungan” adalah ...
+
+[Materi #175]
+Topik (otomatis): pola, denah, dilakukan, seorang
+Inti konsep: Pola lantai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pola denah yang dilakukan oleh seorang penari dengan perpindahan, pergerakan, dan pergeseran posisi dalam sebuah ruang (space) untuk menari disebut ...
+
+[Materi #176]
+Topik (otomatis): penari, perhatikan, unsur, berikut
+Inti konsep: (2) dan (4)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan unsur berikut ini!
+(1) kesabaran
+(2) jumlah penari.
+(3) nama penari.
+(4) besar kecilnya tempat pertunjukan.
+
+Hal-hal yang harus diperhatikan dalam menyusun pola lantai ditunjukkan oleh nomor
+
+[Materi #177]
+Topik (otomatis): macam, pola, lantai, tari
+Inti konsep: Lurus dan lengkung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dua macam pola lantai tari adalah ...
+
+[Materi #178]
+Topik (otomatis): tari, kecak, dilakukan, secara
+Inti konsep: Berkelompok
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari kecak dilakukan secara ...
+
+[Materi #179]
+Topik (otomatis): dki, jakarta, ibukota, negara
+Inti konsep: Tari gambyong
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: DKI Jakarta selain merupakan ibukota negara, tetap mempertahankan nilai-nilai tradisi. Berikut ini yang bukan tarian terkenal di DKI Jakarta adalah
+
+[Materi #180]
+Topik (otomatis): unsur, keindahan, tari
+Inti konsep: Wiraga, wirama, wirasa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unsur keindahan tari adalah ...
+
+[Materi #181]
+Topik (otomatis): tarian, berikut, menceritakan, adegan
+Inti konsep: Bambangan-cakil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tarian berikut yang menceritakan adegan perang seorang ksatria melawan raksasa, yaitu ...
+
+[Materi #182]
+Topik (otomatis): berikut, tarian, tari, berpasangan
+Inti konsep: Tari saman dari Aceh
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan merupakan contoh tarian dengan jenis tari berpasangan, adalah ...
+
+[Materi #183]
+Topik (otomatis): dimaksud, tari, kreasi
+Inti konsep: Tarian modern dengan gerakan tarian tardisional
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yang dimaksud dengan tari kreasi adalah ...
+
+[Materi #184]
+Topik (otomatis): berikut, cara, melestarikan, tari
+Inti konsep: Menampilkan seni tari daerah dalam acara-acara tertentu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini cara melestarikan tari kreasi daerah adalah ...
+
+[Materi #185]
+Topik (otomatis): tekhnik, membuat, patung, tanah
+Inti konsep: Membutsir
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tekhnik membuat patung dari tanah liat dengan cara ...
+
+[Materi #186]
+Topik (otomatis): patung, berbahan, empuk, mudah
+Inti konsep: Lunak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Patung yang berbahan empuk dan mudah dibentuk terbuat dari bahan ...
+
+[Materi #187]
+Topik (otomatis): patung, digunakan, mengenang, jasa
+Inti konsep: Monumen
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fungsi patung yang digunakan untuk mengenang jasa pahlawan adalah fungsi ...
+
+[Materi #188]
+Topik (otomatis): lagu, syukur, memiliki, tangga
+Inti konsep: Diatonis minor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu “syukur” memiliki tangga nada ...
+
+[Materi #189]
+Topik (otomatis): bahan, cocok, dibuat, kerajinan
+Inti konsep: Sabun batangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan yang cocok dibuat kerajinan dengan tekhnik mencungkil adalah ...
+
+[Materi #190]
+Topik (otomatis): teknik, membuat, patung, cara
+Inti konsep: Membutsir
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik membuat patung dengan cara memijat, menambah atau mengurangi bahan yang dibentuk disebut ...
+
+[Materi #191]
+Topik (otomatis): tanah, liat, patung, perhatikan
+Inti konsep: b - d - e - a – c
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan di bawah ini,
+a.	Gunakan pisau kecil atau alat butsir untuk penyelesian lebih lanjut
+b.	Siapkan tanah liat secukupnya
+c.	Setelah terbentuk, keringkan patung di tempat yang teduh
+d.	Tekan-tekan (banting-banting) agar gelembung-gelembung udara di dalamnya keluar dan tanah liat menjadi padat
+e.	Bentuklah sesuai keinginan dengan cara memijat atau menekannya
+
+Urutan yang benar tentang langkah-langkah membuat patung adalah ...
+
+[Materi #192]
+Topik (otomatis): bahan, digunakan, membuat, boneka
+Inti konsep: Besi, plastik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan yang digunakan untuk membuat boneka dibawah ini , kecuali ...
+
+[Materi #193]
+Topik (otomatis): batik, bermotif, kaligrafi, terpengaruhi
+Inti konsep: Arab
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batik bermotif kaligrafi merupakan batik yang terpengaruhi budaya dari ...
+
+[Materi #194]
+Topik (otomatis): batik, jambi, motifnya, lekat
+Inti konsep: Bahari
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batik dari Jambi, motifnya lekat dengan kehidupan ...
+
+[Materi #195]
+Topik (otomatis): batik, warna, dasarnya, putih
+Inti konsep: Yogya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batik yang warna dasarnya putih dan batiknya berwarna coklat adalah cirri khusus batikan dari ...
+
+[Materi #196]
+Topik (otomatis): nama, latin, batik, jumputan
+Inti konsep: Ikat celup
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nama latin batik jumputan adalah ...
+
+[Materi #197]
+Topik (otomatis): seni, batik, masih, memiliki
+Inti konsep: Batik tulis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seni batik yang masih memiliki nilai seni dan harga jual yang tinggi ...
+
+[Materi #198]
+Topik (otomatis): menurut, sejarahnya, warna-warnanya, digunakan
+Inti konsep: Tanam-tanaman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menurut sejarahnya warna-warnanya yang digunakan dalam membatik berasal dari ...
+
+[Materi #199]
+Topik (otomatis): music, keroncong, dibawa, bangsa
+Inti konsep: Portugis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Music keroncong adalah music yang dibawa oleh bangsa……. Ke Indonesia
+
+[Materi #200]
+Topik (otomatis): biola, gitar, banso, bas
+Inti konsep: Keroncong
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Biola, gitar, banso, bas, mandolin adalah alat-alat music yang dipergunakan dalam musik ...
+
+[Materi #201]
+Topik (otomatis): komposisi, menggambar, diantaranya, asimetris
+Inti konsep: Menunjukkan bahwa objek di bagian kanan tidak sama atau tidak mirip dengan objek di kiri bidang gambar tetapi terkesan menunjukkan keseimbangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Komposisi dalam menggambar diantaranya adalah komposisi asimetris yang artinya adalah ...
+
+[Materi #202]
+Topik (otomatis): pensil, salah, alat, menggambar
+Inti konsep: Pensil H
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu alat dalam menggambar adalah pensil, dan pensil dibedakan dalam beberapa jenis. Jenis pensil apakah yang memilik sifat keras dan cocok digunakan untuk membuat garis yang tipis ...
+
+[Materi #203]
+Topik (otomatis): prinsip, komposisi, proporsi, garis
+Inti konsep: 1, 2, 5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: 1. Komposisi
+2. Proporsi
+3. Garis
+4. Tekstur
+5. Keseimbangan
+Dari data diatas manakah yang merupakan prinsip – prinsip menggambar model ...
+
+[Materi #204]
+Topik (otomatis): macam, dibawah, manakah, gambar
+Inti konsep: Grafis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dibawah ini manakah yang bukan merupakan macam – macam gambar ilustrasi ...
+
+[Materi #205]
+Topik (otomatis): mengutamakan, unsur, kata-kata, gambar
+Inti konsep: 1, 4, 5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan data-data berikut ini
+1. Bersifat persuasif.
+2. Mengutamakan unsur kata-kata
+3. Memadukan unsur gambar dengan kata, gerak, dan suara.
+4. Mengutamakan kekuatan gambar dan kata-kata.
+5. Dipajang di tempat umum.
+6. Disampaikan melalui media massa.
+Berdasarkan data di atas, yang merupakan unsur-unsur sebuah poster adalah ...
+
+[Materi #206]
+Topik (otomatis): menggambar, komik, beberapa, kemampuan
+Inti konsep: Menentukan topik dan tujuan, membuat kalimat singkat dan mudah diingat, menggunakan gambar, menggunakan media yang tepat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk menggambar komik dibutuhkan beberapa syarat antara lain kemampuan dalam menggambar dan menyusun kata-kata. Selain kemampuan tersebut, ada beberapa langkah yang harus dilalui dalam menggambar komik, urutan langkahnya adalah ...
+
+[Materi #207]
+Topik (otomatis): salah, tema, melukis, manusia
+Inti konsep: Sungai, candi, pohon kelapa, burung bangau
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu tema dalam melukis adalah manusia dengan alam sekitar, obyek yang biasanya digunakan yaitu ...
+
+[Materi #208]
+Topik (otomatis): alam, ciri, penggambarannya, alami
+Inti konsep: Aliran naturalisme
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: 1. Penggambarannya alami atau sesuai dengan keadaan alam
+2. Melukiskan segala sesuatu dengan alam nyata
+3. Perbandingan perspektif, tekstur ataupun warna serta gelap terang dengan seteliti mungkin
+
+Dari data diatas merupakan ciri – ciri dari ...
+
+[Materi #209]
+Topik (otomatis): disebut, pembuatan, patung, teknik
+Inti konsep: Teknik Butsir
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam pembuatan patung disebut teknik apakah yang dalam pembuatannya membentuk benda dengan mengurangi dan menambah bahan, dengan menggunakan alat yang disebut sudip ...
+
+[Materi #210]
+Topik (otomatis): tinta, kerangka, screen, bingkai
+Inti konsep: Cetak saring
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: 1. Kerangka screen, bingkai yang terbuat dari kayu atau alumunium
+2. Meja cetak
+3. Pelapis, untuk menyerap tinta yang berlebihan
+4. Rakel
+5. Rak jemuran
+6. Emulsi
+    7. Tinta (pewarna)
+
+Dari data diatas merupakan alat dan bahan dalam pembuatan
+
+[Materi #211]
+Topik (otomatis): kegiatan, pameran, disebut, apakah
+Inti konsep: Sketsel
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam kegiatan pameran disebut apakah tempat untuk memajang karya seni dua dimensi ...
+
+[Materi #212]
+Topik (otomatis): tahapan, pameran, pelaksanaan, setelah
+Inti konsep: Mempersiapkan, mengolah, melaksanakan, mengevaluasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tahapan – tahapan dalam pelaksanaan pameran setelah merencanakan kegiatan pameran adalah ...
+
+[Materi #213]
+Topik (otomatis): menyanyi, unisono, teknik, dapat
+Inti konsep: Menyanyi secara bersama- sama dalam satu suara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk dapat menyanyi Unisono dengan baik diperlukan beberapa teknik, seperti teknik pernafasan, phrasering, intonasi dan artikulasi serta sikap badan yang mendukung terhadap produksi suara yang dihasilkan. Unisono adalah kegiatan menyanyi yang maknanya adalah ...
+
+[Materi #214]
+Topik (otomatis): kejelasan, kata-kata, diucapkan, bernyanyi
+Inti konsep: Artikulasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kejelasan kata-kata yang diucapkan dalam bernyanyi menjadi satu hal yang sangat penting agar pesan dan isi dari nyanyian bisa sampai kepada pendengarnya. Latihan pengucapan kata yang jelas dalam menyanyi berhubungan dengan ...
+
+[Materi #215]
+Topik (otomatis): musik, alat, permainan, ansambel
+Inti konsep: Rekorder 1, rekorder 2, dan rekorder 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bermain musik secara bersama-sama dengan menggunakan alat musik yang tidak berbeda merupakan contoh dari permainan musik ansambel sejenis. Di bawah ini adalah contoh alat musik untuk permainan ansambel sejenis, yaitu ...
+
+[Materi #216]
+Topik (otomatis): kelompok, group, dibawah, macam-macam
+Inti konsep: 1 dan 3
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dibawah ini adalah macam-macam kelompok bermain musik:
+1. Orkes simponi
+2. Kelompok gitar akustik
+3. Group band
+4. Kelompok suling rekorder
+
+Group atau kelompok yang merupakan bagian dari ansambel campuran  adalah ...
+
+[Materi #217]
+Topik (otomatis): tangga, nada, menyanyi, bisa
+Inti konsep: Intonasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Agar menyanyi bisa dilihat lebih menarik perlu dilakukan latihan membaca tangga nada. Berlatih tangga nada akan sangat bermanfaat dan erat kaitannya dengan kemampuan seseorang dalam hal ...
+
+[Materi #218]
+Topik (otomatis): suara, paduan, diwakili, lengkap
+Inti konsep: Sopran, tenor, dan bariton
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Paduan suara yang lengkap ( untuk suara 1, 2, 3, dan 4 ) selalu didalamnya diwakili oleh masing-masing suara laki-laki dan perempuan agar terdengar lebih indah. Sementara paduan suara sejenis dibawah ini diwakili oleh suara ...
+
+[Materi #219]
+Topik (otomatis): alat, musik, indonesia, gesek
+Inti konsep: Rebab dan Tarawangsa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia memiliki kekayaan alat musik tradisional yang sangat bervariasi, seperti alat musik petik, alat musik pukul, alat musik gesek dan lain-lain. Alat musik gesek yang asli berasal dari Indonesia adalah ...
+
+[Materi #220]
+Topik (otomatis): musik, irama, mengiringi, bali
+Inti konsep: Sarana upacara adat dan keagamaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di Bali, musik gamelan dipakai sebagai sarana berdoa, bunyi irama bedug yang mengiringi irama takbir sangat akrab dalam menyambut hari raya islam hingga sekarang, angklung digunakan untuk mengiringi tradisi seren taun, hal tersebut berhubungan dengan fungsi musik daerah sebagai ...
+
+[Materi #221]
+Topik (otomatis): suara, laki-laki, paduan, lengkap
+Inti konsep: Tenor, bariton, bas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Paduan suara yang lengkap didalamnya terdapat kolaborasi antara suara laki-laki dan perempuan yang meliputi suara sopran, tenor, alto, dan bas. Urutan suara laki-laki yang benar dari suara yang paling tinggi ke rendah adalah ...
+
+[Materi #222]
+Topik (otomatis): pernafasan, ideal, dianjurkan, bernyanyi
+Inti konsep: Banyak dilakukan penyanyi untuk menghasilkan kualitas suara yang baik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pernafasan ideal yang dianjurkan dalam bernyanyi adalah pernafasan diafragma, karena ...
+
+[Materi #223]
+Topik (otomatis): getaran, mempertahankan, nada, panjang
+Inti konsep: Vibrato
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk mempertahankan nada panjang yang dinyanyikan supaya nadanya tidak mengalami penurunan, dilakukan dengan cara mengatur getaran atau gelombang vokal lembut yang mendalam dan selain itu juga untuk memperindah suara agar enak didengar, getaran tersebut dinamakan ...
+
+[Materi #224]
+Topik (otomatis): tanda, penutup, lagu, coda
+Inti konsep: Penutup lagu yang diakhiri dengan suara musik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam penutup atau akhir dari sebuah lagu terdapat dua macam simbol atau tanda, yaitu tanda Coda dan tanda Outro. Coda adalah penutup lagu yang diakhiri dengan suara vokal, sedangkan Outro adalah ...
+
+[Materi #225]
+Topik (otomatis): pernyataan, mudah, gerak, gaya
+Inti konsep: Musik Populer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan di bawah ini.
+Melodinya mudah dinyanyikan, gerak melodi mudah dipadukan dengan gaya irama lain, gerak harmoninya tidak terlalu sulit, liriknya bertema gaya hidup sehari-hari yang sedang populer di masyarakat, dan digemari oleh banyak orang, pernyataan tersebut merupakan ciri-ciri dari ...
+
+[Materi #226]
+Topik (otomatis): genre, musik, populer, blues
+Inti konsep: Rap
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Genre musik populer bermacam-macam jenis, diantaranya jaz, blues, rhythm and blues, punk, rock, metal, ska, reggae, dan lain-lain. Genre musik populer dengan gaya bernyanyi seperti orang sedang berbicara secara cepat dinamakan ...
+
+[Materi #227]
+Topik (otomatis): pertunjukan, tempat, ruangan, penonton
+Inti konsep: 2, 4, 6, 8
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan dibawah ini.
+1. Tempat pertunjukan Indoor (dalam ruangan)
+2. Tempat pertunjukan Outdoor (di dalam ruangan)
+3. Penonton terbatas
+4. Penonton bebas
+5.  Panggung kecil
+6. Panggung besar
+7. Tata suara lembut
+8. Tata suara keras
+
+Biasanya pertunjukan musik populer lebih dinamis dan atraktif daripada pertunjukan musik klasik sehingga musiknya lebih digemari banyak orang, hal tersebut tidak terlepas dari dukungan teknis yang sesuai dengan nomor
+
+[Materi #228]
+Topik (otomatis): musik, dinamakan, menyanyi, diiringi
+Inti konsep: Instrumentalia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menyanyi tanpa diiringi musik dinamakan acapella, sedangkan bermain musik tanpa vokal atau tanpa nyanyian dinamakan ...
+
+[Materi #229]
+Topik (otomatis): lagu, bisa, dinyanyikan, secara
+Inti konsep: Lagu daerah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis lagu yang bisa dinyanyikan secara unisono adalah ...
+
+[Materi #230]
+Topik (otomatis): lagu, nasional, mudah, dinyanyikan
+Inti konsep: Indonesia Raya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis lagu nasional yang mudah dinyanyikan dengan latihan lagu dua adalah ...
+
+[Materi #231]
+Topik (otomatis): koor, istilah, menyanyi, secara
+Inti konsep: Paduan suara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Koor merupakan istilah menyanyi secara ..
+
+[Materi #232]
+Topik (otomatis): musik, alat, perhatikan, pernyataan
+Inti konsep: 1.2.4
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut !
+1) Alat musik melayu
+2) Alat musik melodis
+3) Alat musik ritmis
+4) Alat musik harmonis
+
+Alat musik yang digunakan dalam sajian musik ansambel adalah ...
+
+[Materi #233]
+Topik (otomatis): bentuk, dasar, hiasan, umumnya
+Inti konsep: Ragam Hias
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu bentuk dasar dari hiasan yang pada umumnya dijadikan pola secara berulang-ulang pada suatu hasil karya seni atau kerajinan disebut ...
+
+[Materi #234]
+Topik (otomatis): salah, motif, ragam, hias
+Inti konsep: Gearland
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu motif ragam hias yang berbentuk seperti gir sepeda disebut ...
+
+[Materi #235]
+Topik (otomatis): unsur, paling, utama, tarian
+Inti konsep: Gerak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unsur paling utama dari sebuah tarian adalah ...
+
+[Materi #236]
+Topik (otomatis): gerak, peragaan, menggunakan, sarana
+Inti konsep: Tenaga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peragaan gerak dengan menggunakan …. Sebagai sarana mewujudkan sebuah tarian yang memiliki karakter gerak yang berbeda sesuai dengan tipe tari.
+
+[Materi #237]
+Topik (otomatis): berikut, tidak, termasuk, ketiga
+Inti konsep: Irama
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk ketiga unsur dalam memperagakan gerak tari adalah ...
+
+[Materi #238]
+Topik (otomatis): tari, saat, berpindah, tempat
+Inti konsep: Formasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Saat berpindah tempat , penari memperagakan gerak tari berikutnya dengan iringan untuk membuat….tari.
+
+[Materi #239]
+Topik (otomatis): drama, pendek, cuplikan, diambil
+Inti konsep: Fragmen
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Drama pendek atau cuplikan yang diambil dari cerita ataupun lakon yang berisi pendidikan, moral, dan agama disebut ...
+
+[Materi #240]
+Topik (otomatis): seorang, aktor, mendalami, salah
+Inti konsep: Observasi atau Pengamatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu cara seorang aktor mendalami perannya yang akan dimainkan dengan tujuan menambah kemampuan seorang aktor untuk mendalami peran adalah ...
+
+[Materi #241]
+Topik (otomatis): lagu, daerah, sumatra, barat
+Inti konsep: kampung nah jauh di mat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu daerah Sumatra Barat yang menceritakan kerinduan seorang perantau akan kampung halaman adalah ...
+
+[Materi #242]
+Topik (otomatis): alat, musik, dimainkan, cara
+Inti konsep: Aerophone
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik yang dimainkan dengan cara ditiup disebut ...
+
+[Materi #243]
+Topik (otomatis): alat, musik, cara, memainkannya
+Inti konsep: Kolintang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik yang cara memainkannya dengan cara dipikul mnggunakan stick khusus disebut alat musik ...
+
+[Materi #244]
+Topik (otomatis): unsur, paling, kecil, seni
+Inti konsep: Titik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unsur yang paling kecil dalam seni menggambar adalah ...
+
+[Materi #245]
+Topik (otomatis): unsur, gelap, terang, seni
+Inti konsep: Pancaran Cahaya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unsur gelap terang dalam seni rupa sangat berhubungan dengan ...
+
+[Materi #246]
+Topik (otomatis): alat, pewarna, cocok, digunakan
+Inti konsep: Tinta Bak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat pewarna yang cocok digunakan untuk membuat gambar model dengan teknik siluet adalah ...
+
+[Materi #247]
+Topik (otomatis): tarian, ditarikan, banyak, orang
+Inti konsep: Berkelompok
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis tarian yang ditarikan oleh banyak orang adalah tarian ...
+
+[Materi #248]
+Topik (otomatis): iringan, musik, tari, keras
+Inti konsep: Bersemangat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Iringan musik tari yang keras dan menghentak cocok digunakan untuk gerakan yang ...
+
+[Materi #249]
+Topik (otomatis): gerak, memperagakan, rangkaian, tari
+Inti konsep: Bervariasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Memperagakan rangkaian gerak tari untuk menghindari kemonotonan penampilan gerak, pinata, atau penyusun gerak harus menggunakan level gerak yang ...
+
+[Materi #250]
+Topik (otomatis): pertunjukan, tidak, menggunakan, bahasa
+Inti konsep: Pantonim
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: pertunjukan yang tidak menggunakan bahasa verbal melainkan ekspresi gerak-gerik tubuh untuk menunjukkan emosi yang dialami pemain disebut ...
+
+[Materi #251]
+Topik (otomatis): sangat, musik, melodinya, mudah
+Inti konsep: Pop
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Melodinya sangat mudah diterapkan dengan berbagai karakter lirik, sangat fleksibel untuk dipadukan dengan gaya musik lain, harmoni tidak terlalu rumit, dan tempo bervariasi, merupakan ciri khas dari jenis musik ...
+
+[Materi #252]
+Topik (otomatis): musik, melayu, berkembang, pengaruh
+Inti konsep: Musik dangdut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik melayu yang berkembang dengan pengaruh gaya musik India adalah ...
+
+[Materi #253]
+Topik (otomatis): musik, dangdut, pendengarnya, berasal
+Inti konsep: Semua jawaban benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik dangdut merupakan musik yang pendengarnya berasal dari semua kalangan masyarakat Indonesia. Musik ini memiliki ciri khas ...
+
+[Materi #254]
+Topik (otomatis): musik, genre, populer, blues
+Inti konsep: Rap
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Terdapat genre musik populer, diantaranya jazz, blues, rhyhm and blues, punk, rock, metal, musik elektronik, ska, reggae, dub, hip hop/rap, balada, country, dan pop. Genre musik populer yang gaya menyanyinya seperti orang berbicara secara cepat disebut ...
+
+[Materi #255]
+Topik (otomatis): menggunakan, pensil, gambar, memberi
+Inti konsep: Pointilis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menggunakan pensil gambar dengan memberi titik-titik dalam menentukan gelap terang dinamakan ...
+
+[Materi #256]
+Topik (otomatis): bahan, membuat, patung, sedang
+Inti konsep: Kayu waru, sengon, randu, dan mahoni
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat untuk membuat patung adalah butsir, meja putar, pahat, palu, dan tang. Sedangkan bahan yang digunakan untuk membuat patung dapat dibedakan menjadi empat bagian yaitu bahan lunak, bahan sedang, bahan keras dan bahan cor atau cetak. Bahan sedang terdiri dari ...
+
+[Materi #257]
+Topik (otomatis): pameran, kepanitiaan, bertugas, menyediakan
+Inti konsep: Seksi publikasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kepanitiaan pameran yang bertugas menyediakan surat izin pameran dan mengusahakan tempat pelaksanaan kegiatan pameran adalah ...
+
+[Materi #258]
+Topik (otomatis): tari, mendukung, tema, isi
+Inti konsep: Kostum
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mendukung tema atau isi tari, dan memperjelas peranan-peranan dalam suatu sajian tari merupakan fungsi dari ...
+
+[Materi #259]
+Topik (otomatis): tari, kreasi, berpasangan, dilakukan
+Inti konsep: Tari payung, yosim dan janger
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari kreasi berpasangan dilakukan dan dimainkan oleh sepasang laki-laki dan perempuan atau dua orang. Contoh dari tari kreasi berpasangan adalah ...
+
+[Materi #260]
+Topik (otomatis): pola, lantai, bermacam-macam, bentuk
+Inti konsep: Penari berbaris membentuk garis lurus ke samping
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dengan adanya bermacam-macam bentuk karya seni tari maka bentuk pola lantainya pun bermacam-macam. Ada beberapa macam pola lantai pada tarian diantaranya pola lantai vertikal, horizontal, diagonal dan melengkung. Yang masuk kriteria pada pola lantai horizontal adalah ...
+
+[Materi #261]
+Topik (otomatis): plot, salah, langkah-langkah, menyusun
+Inti konsep: Rangkaian peristiwa yang memiliki hubungan sebab-akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu Langkah-langkah menyusun naskah drama musikal atau operet adalah menentukan plot. Pengertian dari plot adalah ...
+
+[Materi #262]
+Topik (otomatis): seorang, pemain, teater, memiliki
+Inti konsep: Fisiologis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang pemain teater memiliki kelenturan tubuh dan kemampuan vokal yang baik dalam berkata. Intonasi, artikulasi, dan diksi yang diucapkan juga jelas. Hal ini menandakan bahwa seorang pemain teater harus memiliki karakter ...
+
+[Materi #263]
+Topik (otomatis): bayangan, cahaya, arah, berdasarkan
+Inti konsep: Lebih gelap dari bendanya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan yang terkena cahaya akan membentuk bayangan. Arah bayangan benda akan mengikuti arah sumber cahaya, sedangkan bentuk bayangan akan ...
+
+[Materi #264]
+Topik (otomatis): ragam, hias, dibuat, menggabung
+Inti konsep: Ragam hias geometris
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ragam hias yang dibuat dengan menggabung bentuk-bentuk geometris kedalam satu motif ragam hias disebut ...
+
+[Materi #265]
+Topik (otomatis): dimaksud, teknik, aquarel
+Inti konsep: Teknik melukis dengan menggunakan cat air dengan sapuan warna yang tipis sehingga hasilnya tampak transparan atau tembus pandang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Apa yang dimaksud dengan teknik aquarel ...
+
+[Materi #266]
+Topik (otomatis): pameran, hasil, acara, siswa
+Inti konsep: Seni rupa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada akhir tahun pelajaran di sekolah swasta Raudatul Jannah akan mengadakan acara pameran. Guru kesenian menugaskan siswa kelas 7, 8 dan 9 untuk mengumpulkan hasil karyanya berupa semua jenis lukisan dan jenis patung. Seluruh tugas yang dikumpulkan akan ditampilkan saat acara pameran berlangsung. Dari hasil karya yang dikumpulkan untuk pameran maka siswa dapat menyimpulkan tema yang sesuai dengan hasil karya tersebut adalah ...
+
+[Materi #267]
+Topik (otomatis): pelaksanaan, pameran, menampilkan, karya-karya
+Inti konsep: Pameran Kelompak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pelaksanaan pameran dengan menampilkan karya-karya dari beberapa orang (seniman) dalam satu tempat disebut ...
+
+[Materi #268]
+Topik (otomatis): pameran, seniman, karya, berisi
+Inti konsep: Katalog
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam sebuah pameran yang berisi identitas seniman dan karya serta kuratorial (penyelenggara pameran) berfungsi sebagai penjelasan mengenai hal ilhwal seniman dan karya seni dipamerkan disebut ...
+
+[Materi #269]
+Topik (otomatis): memperagakan, tari, berpedoman, seterusnya
+Inti konsep: Hitungan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Memperagakan tari dengan berpedoman 1,2,3,4 dan seterusnya disebut menari berdasarkan ...
+
+[Materi #270]
+Topik (otomatis): orang, memperagakan, cerita, disebut
+Inti konsep: Pemain
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang memperagakan cerita disebut ...
+
+[Materi #271]
+Topik (otomatis): tata, pentas, disebut, pemandangan
+Inti konsep: Scenery
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tata pentas disebut juga dengan …. Atau pemandangan latar belakang.
+
+[Materi #272]
+Topik (otomatis): rekorder, termasuk, alat, musik
+Inti konsep: Melodis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rekorder termasuk alat musik ...
+
+[Materi #273]
+Topik (otomatis): cabang, seni, bentuknya, terdiri
+Inti konsep: Seni rupa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cabang seni yang bentuknya terdiri atas unsur-unsur rupa, yaitu garis, bidang, bentuk, tekstur, ruang, dan warna disebut ...
+
+[Materi #274]
+Topik (otomatis): berdasarkan, fungsinya, karya, seni
+Inti konsep: Seni murni dan seni terapan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan fungsinya karya seni rupa dibagi 2, yaitu ...
+
+[Materi #275]
+Topik (otomatis): berikut, unsur-unsur, seni, rupa
+Inti konsep: Model
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut yang bukan bagian dari unsur-unsur seni rupa adalah ...
+
+[Materi #276]
+Topik (otomatis): karya, seni, rupa, mengutamakan
+Inti konsep: Seni terapan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karya seni rupa yang mengutamakan fungsi pakai dan dinikmati mutu seninya disebut ...
+
+[Materi #277]
+Topik (otomatis): berdasarkan, matra, dimensinya, karya
+Inti konsep: 2 dimensi dan 3 dimensi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan jenis matra/dimensinya karya seni rupa dibagi 2, yaitu ...
+
+[Materi #278]
+Topik (otomatis): paling, sederhana, unsur-unsur, seni
+Inti konsep: Titik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yang paling sederhana dari unsur-unsur seni rupa adalah ...
+
+[Materi #279]
+Topik (otomatis): berikut, tahap-tahap, menggambar
+Inti konsep: Merekam dan meniru
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut bukan merupakan tahap-tahap dalam menggambar yaitu ...
+
+[Materi #280]
+Topik (otomatis): warna, berikut, manakah, kelompok
+Inti konsep: Merah, kuning, dan biru
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini manakah kelompok warna yang termasuk warna primer ...
+
+[Materi #281]
+Topik (otomatis): aktivitas, membuat, goresan, membentuk
+Inti konsep: Menggambar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Aktivitas membuat goresan yang membentuk suatu objek tertentu disebut aktivitas ...
+
+[Materi #282]
+Topik (otomatis): dibawah, termasuk, karya, seni
+Inti konsep: Lukisan dan gambar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dibawah ini  yang termasuk karya seni rupa dwimatra adalah ...
+
+[Materi #283]
+Topik (otomatis): gambar, mengambil, objek, benda-benda
+Inti konsep: Benda alam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar yang mengambil objek benda-benda mati disebut gambar bentuk ...
+
+[Materi #284]
+Topik (otomatis): spanduk, baliho, pamflet, benner
+Inti konsep: Grafis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Spanduk, baliho, pamflet, benner  dan iklan merupakan contoh seni rupa jenis ...
+
+[Materi #285]
+Topik (otomatis): berikut, tidak, termasuk, karya
+Inti konsep: Lukisan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk karya seni terapan yaitu ...
+
+[Materi #286]
+Topik (otomatis): musik, diturunkan, secara, turun
+Inti konsep: Musik rakyat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik yang diturunkan secara turun temurun dan diakui oleh daerah disebut ...
+
+[Materi #287]
+Topik (otomatis): bernyanyi, banyak, orang, suara
+Inti konsep: Unisolo
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bernyanyi oleh banyak orang dengan satu suara disebut ...
+
+[Materi #288]
+Topik (otomatis): suara, rendah, laki-laki
+Inti konsep: Bass
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis suara rendah laki-laki yaitu ...
+
+[Materi #289]
+Topik (otomatis): nada, not, angka, dibawah
+Inti konsep: 4
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nada ‘fa pada not angka dibawah ini adalah ...
+
+[Materi #290]
+Topik (otomatis): cara, pengucapan, kata, baik
+Inti konsep: Artikulasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cara pengucapan kata yang baik dan jelas dalam bernyanyi disebut ...
+
+[Materi #291]
+Topik (otomatis): pernafasan, baik, bernyanyi
+Inti konsep: Diagfragma
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis pernafasan yang baik untuk bernyanyi yaitu pernafasan ...
+
+[Materi #292]
+Topik (otomatis): lagu, sang, bumi, ruwa
+Inti konsep: Syaiful Anwar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu sang bumi ruwa jurai berasal dari daerah lampung diciptakan oleh ...
+
+[Materi #293]
+Topik (otomatis): dibawah, lagu, berasal, daerah
+Inti konsep: Tanoh lado
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dibawah ini contoh lagu yang berasal dari daerah lampung yaitu ...
+
+[Materi #294]
+Topik (otomatis): berikut, nama, pencipta, lagu
+Inti konsep: W.R Supratman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut adalah nama pencipta lagu Indonesia Raya ...
+
+[Materi #295]
+Topik (otomatis): dibawah, manakah, termasuk, alat
+Inti konsep: Recorder
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dibawah ini manakah yang termasuk alat musik tiup ...
+
+[Materi #296]
+Topik (otomatis): angklung, alat, musik, berbentuk
+Inti konsep: Tabung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Angklung adalah alat musik yang berbentuk ...
+
+[Materi #297]
+Topik (otomatis): alat, musik, bawah, berasal
+Inti konsep: Saluang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik di bawah ini berasal dari sumatra barat dan dibunyikan dengan cara ditiup yaitu ...
+
+[Materi #298]
+Topik (otomatis): gerak, ritmis, tari, menurut
+Inti konsep: Curt Sachs
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gerak ritmis adalah pengertian tari menurut ...
+
+[Materi #299]
+Topik (otomatis): tarian, tidak, terikat, aturan-aturan
+Inti konsep: Tari kreasi baru
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis tarian yang tidak terikat oleh aturan-aturan tradisi ataupun daerah tertentu. Tarian ini diciptakan
+dengan ide dan konsep yang baru yaitu ...
+
+[Materi #300]
+Topik (otomatis): berikut, unsur-unsur, tidak, terlibat
+Inti konsep: Penari
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut unsur-unsur yang tidak terlibat atau mendukung di dalam tari, yaitu ...
+
+[Materi #301]
+Topik (otomatis): berapakah, jumlah, penari, tari
+Inti konsep: 5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berapakah jumlah penari dalam tari sigeh pengunten ...
+
+[Materi #302]
+Topik (otomatis): berikut, tari, sembah, sigeh
+Inti konsep: Penyambutan tamu kehormatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut adalah fungsi tari sembah sigeh pangunten dalam adat istiadat lampung ...
+
+[Materi #303]
+Topik (otomatis): bawah, bentuk, drama, ada
+Inti konsep: Balet
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang bukan merupakan bentuk drama yang ada di masyarakat, yaitu ...
+
+[Materi #304]
+Topik (otomatis): dibawah, teater, komedi, acara
+Inti konsep: Ganteng-ganteng Serigala
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dibawah ini merupakan contoh teater komedi di acara televisi ...
+
+[Materi #305]
+Topik (otomatis): bentuk, teater, berasal, betawi
+Inti konsep: Lenong
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk teater yang berasal dari betawi adalah ...
+
+[Materi #306]
+Topik (otomatis): peran, pertunjukan, teater, ada
+Inti konsep: Antagonis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam suatu pertunjukan teater ada peran yang bersifat pemarah, bengis dan kejam. Peran tersebut adalah jenis peran ...
+
+[Materi #307]
+Topik (otomatis): manakah, berikut, dasar-dasar, teknik
+Inti konsep: Olah tubuh, vokal dan rasa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manakah berikut ini yang merupakan dasar-dasar teknik teater ...
+
+[Materi #308]
+Topik (otomatis): olah, rasa, bermain, teater
+Inti konsep: Konsentrasi, imajinasi dan ingatan emosi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam bermain teater dibutuhkan olah rasa yang baik, manakah berikut ini bagian olah rasa yang benar ...
+
+[Materi #309]
+Topik (otomatis): harus, seorang, pemain, teater
+Inti konsep: Olah tubuh
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang pemain teater harus kuat, lentur, dan menarik. Hal tersebut harus dilatih melalui teknik ...
+
+[Materi #310]
+Topik (otomatis): bawah, tidak, digunakan, teknik
+Inti konsep: Mengucapkan kalimat secara datar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang tidak digunakan dalam teknik pengembangan olah suara, yaitu ...
+
+[Materi #311]
+Topik (otomatis): dilihat, fungsinya, seni, rupa
+Inti konsep: Seni rupa murni dan seni rupa terapan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dilihat dari fungsinya Seni Rupa dikelompokkan menjadi dua, yaitu ...
+
+[Materi #312]
+Topik (otomatis): kegiatan, seni, rupa, melibatkan
+Inti konsep: Menggambar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan Seni Rupa yang melibatkan gagasan imajinasi media dua dan tiga dimensi dengan  memperhatikan proporsi, komposisi, keseimbangan dan gelap terang disebut ...
+
+[Materi #313]
+Topik (otomatis): gambar, hasil, karya, seni
+Inti konsep: Dua dimensi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar merupakan hasil karya seni rupa murni berwujud ...
+
+[Materi #314]
+Topik (otomatis): menggambar, flora, fauna, benda
+Inti konsep: Tumbuhan, binatang dan benda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menggambar flora, fauna  dan benda alam sama halnya dengan menggambar ...
+
+[Materi #315]
+Topik (otomatis): objek, dibagian, bidang, gambar
+Inti konsep: Komposisi asimetris
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam menggambar, jika objek dibagian kanan bidang gambar tidak sama atau tidak mirip dengan objek dibagian kiri bidang gambar tetapi terkesan menunjukkan keseimbangan dinamakan ...
+
+[Materi #316]
+Topik (otomatis): gambar, mengetahui, objek, baik
+Inti konsep: 3 - 1 – 5 – 2 – 4
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut:
+1.	Mengetahui bagian-bagian dari objek gambar
+2.	Memberikan dimensi gelap terang baik hitam putih atau berwarna
+3.	Mengetahui bentuk dasar dari objek yang akan di gambar
+4.	Memberi kesan untuk latar belakang
+5.	Menyusun atau menyambung bagian perbagian menjadi gambar yang utuh
+
+Tahapan yang baik yang harus dilakukan pada saat menggambar adalah
+
+[Materi #317]
+Topik (otomatis): alat, menggambar, media, sangatlah
+Inti konsep: Pensil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat dan Media dalam menggambar sangatlah penting, di bawah ini manakah yang merupakan alat untuk menggambar ...
+
+[Materi #318]
+Topik (otomatis): media, menggambar, sangat, beraneka
+Inti konsep: Crayon
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Media dalam menggambar sangat beraneka ragam, manakah yang bukan termasuk media dalam menggambar ...
+
+[Materi #319]
+Topik (otomatis): pensil, memiliki, sifat, keras
+Inti konsep: Pensil H
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis pensil yang memiliki sifat keras dan cocok untuk menggambar garis adalah ...
+
+[Materi #320]
+Topik (otomatis): gambar, sudah, dikembangkan, mengalami
+Inti konsep: Stilasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar yang sudah dikembangkan dan mengalami penggayaan bentuk disebut dengan gambar ...
+
+[Materi #321]
+Topik (otomatis): ragam, hias, manakah, termasuk
+Inti konsep: Gambar bunga pada ukiran kursi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ragam hias manakah yang termasuk ke dalam ragam hias flora ...
+
+[Materi #322]
+Topik (otomatis): motif, hias, karya, manusia
+Inti konsep: Motif hias figuratif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Motif hias manusia yang digunakan pada karya tekstil maupun karya kayu merupakan motif hias ...
+
+[Materi #323]
+Topik (otomatis): motif, hias, pilin, memiliki
+Inti konsep: S
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Motif hias pilin memiliki bentuk dasar menyerupai huruf ...
+
+[Materi #324]
+Topik (otomatis): motif, batik, bokong, semar
+Inti konsep: Indramayu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Motif batik bokong semar, merupakan contoh dari motif ragam hias yang berasal dari ...
+
+[Materi #325]
+Topik (otomatis): nama, daerah, sentra, batik
+Inti konsep: Paoman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nama daerah sentra batik Kabupaten Indramayu adalah ...
+
+[Materi #326]
+Topik (otomatis): motif, batik, mega, mendung
+Inti konsep: Cirebon
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Motif batik Mega Mendung merupakan ciri dari motif batik dari kota ...
+
+[Materi #327]
+Topik (otomatis): seni, rupa, bidang, kita
+Inti konsep: Pure Art
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam bidang Seni Rupa, kita mengenal istilah-istilah dalam Seni Rupa, manakah yang termasuk dalam istilah Seni Rupa Murni  ...
+
+[Materi #328]
+Topik (otomatis): bernyanyi, suara
+Inti konsep: Unisono
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bernyanyi  dengan satu suara merupakan pengertian dari ...
+
+[Materi #329]
+Topik (otomatis): teknik, pernapasan, bernyanyi, dibagi
+Inti konsep: Pernapasan Tenggorokan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik pernapasan dalam bernyanyi dibagi menjadi 3, dibawah ini manakah yang bukan termasuk teknik pernapasan ...
+
+[Materi #330]
+Topik (otomatis): penggalan, kata, kalimat, tepat
+Inti konsep: Phrasering
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penggalan kata dalam kalimat yang tepat dalam bernyanyi adalah ...
+
+[Materi #331]
+Topik (otomatis): intonasi, bernyanyi, ada, disebut
+Inti konsep: Tinggi rendahnya nada yang tepat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam bernyanyi ada yang disebut dengan istilah intonasi. Intonasi adalah ...
+
+[Materi #332]
+Topik (otomatis): kemampuan, mengungkapkan, nilai, rasa
+Inti konsep: Ketepatan penjiwaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kemampuan mengungkapkan nilai rasa (seperti yang diharapkan pencipta lagu) saat bernyanyi disebut ...
+
+[Materi #333]
+Topik (otomatis): lagu, yamkorambeyamko, berasal, daerah
+Inti konsep: Papua
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu YamkoRambeYamko berasal dari daerah ...
+
+[Materi #334]
+Topik (otomatis): mempengaruhi, suara, bernyanyi, aspek
+Inti konsep: Rokok dan narkoba
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Aspek Kesehatan sangat mempengaruhi mutu suara  dalam bernyanyi, berikut adalah hal yang dapat mempengaruhi kualitas suara menjadi kurang baik pada saat  bernyanyi ...
+
+[Materi #335]
+Topik (otomatis): bawah, manakah, termasuk, musik
+Inti konsep: Di aransemen
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini manakah yang bukan termasuk ke dalam fungsi musik adalah ...
+
+[Materi #336]
+Topik (otomatis): bawah, musik, media, bermain
+Inti konsep: Lagu Apuse
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini merupakan contoh dari fungsi musik sebagai media bermain, kecuali ...
+
+[Materi #337]
+Topik (otomatis): alat, musik, berfungsi, memberikan
+Inti konsep: Alat musik ritmis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik yang berfungsi untuk memberikan irama disebut ...
+
+[Materi #338]
+Topik (otomatis): gendang, triangle, bedug, ketipung
+Inti konsep: Alat ritmis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gendang, Triangle, bedug dan ketipung adalah contoh dari ...
+
+[Materi #339]
+Topik (otomatis): alat, musik, angklung, berasal
+Inti konsep: Jawa Barat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik Angklung berasal dari daerah ...
+
+[Materi #340]
+Topik (otomatis): bawah, alat, musik, terbuat
+Inti konsep: Gong
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini adalah alat musik yang terbuat dari tembaga dan perunggu ...
+
+[Materi #341]
+Topik (otomatis): alat, musik, rebab, dimaikan
+Inti konsep: Digesek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik Rebab dimaikan dengan cara ...
+
+[Materi #342]
+Topik (otomatis): dibawah, nama, komponis, besar
+Inti konsep: Ismail Marzuki
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dibawah ini adalah nama komponis besar yang menciptakan lagu Indonesia Pusaka adalah ...
+
+[Materi #343]
+Topik (otomatis): musik, disajikan, permainan, orang
+Inti konsep: Ansambel campuran
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Disajikan permainan musik oleh 15 orang yang memainkan alat musik ritmis, melodis dan harmonis. Sajian musik tersebut dinamakan ...
+
+[Materi #344]
+Topik (otomatis): alat, musik, dimainkan, cara
+Inti konsep: Calung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik yang dimainkan dengan cara dipukul adalah ...
+
+[Materi #345]
+Topik (otomatis): air, cara, menggambar, model
+Inti konsep: Aquarel
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cara menggambar model dengan menggunakan bahan cat air yang sudah diolah dengan pengencer air dinamakan teknik ...
+
+[Materi #346]
+Topik (otomatis): bahan-bahan, lengkap, menggambar, model
+Inti konsep: Pensil, kertas gambar, pewarna
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan-bahan yang lengkap untuk menggambar model adalah ...
+
+[Materi #347]
+Topik (otomatis): pensil, lunak, biasa, digunakan
+Inti konsep: B
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis pensil yang lunak dan biasa digunakan untuk menggambar mempunyai kode ...
+
+[Materi #348]
+Topik (otomatis): kata, lain, sama, flora
+Inti konsep: Tumbuhan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kata lain yang sama dengan flora adalah ...
+
+[Materi #349]
+Topik (otomatis): menggambar, melihat, benda, digunakan
+Inti konsep: Menggambar Model
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menggambar dengan melihat  benda yang digunakan sebagai contoh disebut ...
+
+[Materi #350]
+Topik (otomatis): garis, teknik, menggambar, model
+Inti konsep: Linear
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menggambar model menggunakan garis sebagai pembentuk gambar. Garis yang digunakan adalah garis lurus, lengkung, garis patah-patah atau garis lainnya dalam satu kesatuan. Teknik tersebut dinamakan teknik ...
+
+[Materi #351]
+Topik (otomatis): proporsi, manusia, panjang, kepala
+Inti konsep: Perbandingan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proporsi manusia adalah . . . panjang kepala dengan tubuh
+
+[Materi #352]
+Topik (otomatis): langkah, pertama, diperlukan, menggambar
+Inti konsep: Pengamatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Langkah pertama yang diperlukan dalam menggambar model adalah ...
+
+[Materi #353]
+Topik (otomatis): manusia, proporsi, perbandingan, panjang
+Inti konsep: 1 : 5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proporsi manusia merupakan perbandingan panjang kepala dan tinggi tubuh manusia. Untuk menggambar manusia Indonesia diperlukan proporsi / perbandingan ...
+
+[Materi #354]
+Topik (otomatis): gaya, ilustrasi, perwujudan, gambarnya
+Inti konsep: Representatif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gaya ilustrasi yang perwujudan gambarnya menyerupai keadaan nyata disebut ...
+
+[Materi #355]
+Topik (otomatis): langkah, pertama, menggambar, ilustrasi
+Inti konsep: Menentukan gagasan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Langkah pertama dalam menggambar ilustrasi adalah ...
+
+[Materi #356]
+Topik (otomatis): alat, gambar, menyerupai, pensil
+Inti konsep: Konte
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat gambar ini menyerupai pensil tetapi lebih lunak dan tanpa kayu pembungkus, alat tersebut dinamakan ...
+
+[Materi #357]
+Topik (otomatis): pensil, umumnya, digunakan, menggambar
+Inti konsep: Warna
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Umumnya jenis pensil yang digunakan untuk menggambar ilustrasi adalah pensil hitam dan pensil ...
+
+[Materi #358]
+Topik (otomatis): siswa, mengerti, anatomi, tubuh
+Inti konsep: Imajinasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Agar siswa mengerti tentang anatomi tubuh manusia maka diperlukan gambar ...
+
+[Materi #359]
+Topik (otomatis): ilustrasi, berasal, bahasa, latin
+Inti konsep: Menggambar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ilustrasi berasal dari bahasa latin yang berarti ...
+
+[Materi #360]
+Topik (otomatis): gambar, ilustrasi, dapat, dibedakan
+Inti konsep: Tiga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar ilustrasi dapat dibedakan menjadi . . . macam.
+
+[Materi #361]
+Topik (otomatis): perangkat, lunak, komputer, digunakan
+Inti konsep: Software
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perangkat lunak pada komputer yang digunakan untuk menggambar disebut ...
+
+[Materi #362]
+Topik (otomatis): gambar, kartun, biasanya, berisi
+Inti konsep: Nyata
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar kartun biasanya berisi tentang cerita ...
+
+[Materi #363]
+Topik (otomatis): kebiasaan, sehari-hari, lagu, tradisional
+Inti konsep: Pentatonis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam kebiasaan sehari-hari lagu tradisional dari Jawa selalu menggunakan nada ...
+
+[Materi #364]
+Topik (otomatis): musik, jalan, keluar, memperbaiki
+Inti konsep: Hiburan/rekreasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik juga menjadi jalan keluar untuk memperbaiki kebatinan seseorang menjadi senang dan riang, hal tersebut berkaitan musik sebagai sarana ...
+
+[Materi #365]
+Topik (otomatis): melengkapi, pertunjukan, seni, tari
+Inti konsep: Pengiring
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam melengkapi sebuah pertunjukan seni tari, musik daerah berfungsi sebagai ...
+
+[Materi #366]
+Topik (otomatis): bawah, judul, lagu, daerah
+Inti konsep: Sumpah Suci dan Pemuda Idaman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini adalah judul lagu daerah dari Indramayu, yaitu ...
+
+[Materi #367]
+Topik (otomatis): salah, ciri, lagu, daerah
+Inti konsep: Turun – temurun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu ciri dari lagu daerah/ tradisional adalah ...
+
+[Materi #368]
+Topik (otomatis): lagu, daerah, berasal, papua
+Inti konsep: Apuse dan Yamko Rambe Yamk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu daerah yang berasal dari Papua adalah ...
+
+[Materi #369]
+Topik (otomatis): lagu, dolanan, identik, anak-anak
+Inti konsep: Berfungsi untuk iringan permainan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lagu dolanan identik dengan lagu anak-anak, karena ...
+
+[Materi #370]
+Topik (otomatis): menyanyikan, lagu, daerah, ada
+Inti konsep: Menyanyi bersama dalam satu suara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam menyanyikan lagu daerah ada yang disebut dengan teknik Unisono, artinya adalah ...
+
+[Materi #371]
+Topik (otomatis): teknik, bernyanyi, dilakukan, secara
+Inti konsep: Kanon
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik bernyanyi yang dilakukan secara susul menyusul dinamakan ...
+
+[Materi #372]
+Topik (otomatis): pembagian, bernyanyi, teknik, kor
+Inti konsep: Laki-laki untuk nada rendah dan perempuan untuk nada tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk bernyanyi dengan teknik kor perlu adanya pembagian suara berdasarkan prinsip harmonisasi musikal. Jika kelompok vokal grup terdiri dari anak laki-laki dan perempuan, pembagian suaranya adalah ...
+
+[Materi #373]
+Topik (otomatis): teknik, membawakan, lagu, secara
+Inti konsep: Kor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik membawakan lagu secara vokal grup dengan aransemen lebih dari satu suara adalah ...
+
+[Materi #374]
+Topik (otomatis): teknik, vokal, grup, akapela
+Inti konsep: Vokal grup tanpa iringan instrumen musik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik vokal grup akapela adalah ...
+
+[Materi #375]
+Topik (otomatis): vokal, grup, beranggotakan, penyanyi
+Inti konsep: Kuartet
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Vokal grup beranggotakan empat penyanyi dinamakan ...
+
+[Materi #376]
+Topik (otomatis): gondang, seni, musik, tradisional
+Inti konsep: Batak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gondang adalah  seni musik tradisional yang berasal dari daerah ...
+
+[Materi #377]
+Topik (otomatis): lagu, hingga, sekarang, masyarakat
+Inti konsep: Nina Bobok
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hingga sekarang masyarakat pedesaan masih banyak yang menggunakan lagu tradisi. Untuk menina bobokan bayinya. Di Jawa terdapat lagu nina bobok yang berjudul ...
+
+[Materi #378]
+Topik (otomatis): alat, musik, tradisional, asli
+Inti konsep: Buyung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik tradisional yang asli dan khas  dari daerah Indramayu adalah ...
+
+[Materi #379]
+Topik (otomatis): vokal, grup, membawakan, lagu
+Inti konsep: Panembromo
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Vokal grup yang membawakan lagu/tembang Jawa  dalam seni karawitan disebut ...
+
+[Materi #380]
+Topik (otomatis): cara, menggambar, model, warna
+Inti konsep: Aquarel
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cara menggambar model dengan warna air yang telah diperlakukan dengan water thinner
+disebut teknologi ...
+
+[Materi #381]
+Topik (otomatis): bahan, lengkap, model, menggambar
+Inti konsep: Pensil, kertas gambar, pewarna
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan lengkap untuk model menggambar ...
+
+[Materi #382]
+Topik (otomatis): pensil, lunak, umum, digunakan
+Inti konsep: B
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pensil lunak dan umum digunakan untuk menggambar kode ...
+
+[Materi #383]
+Topik (otomatis): garis, gambarkan, model, menggunakan
+Inti konsep: Linier
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambarkan model menggunakan garis sebagai gambar. Garis yang digunakan adalah garis lurus, lengkung, garis putus-putus atau garis lain dalam satu unit. Teknologi ini disebut ...
+
+[Materi #384]
+Topik (otomatis): kartun, biasanya, berisi, cerita
+Inti konsep: Nyata
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kartun biasanya berisi cerita ...
+
+[Materi #385]
+Topik (otomatis): musik, bahagia, cara, meningkatkan
+Inti konsep: Hiburan / rekreasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik juga merupakan cara untuk meningkatkan kebatinan Anda, menjadi bahagia dan bahagia. Ini dikaitkan dengan musik sebagai sarana ...
+
+[Materi #386]
+Topik (otomatis): bawah, judul, lagu, daerah
+Inti konsep: sumpah suci dan pemuda yang ideal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini adalah judul lagu daerah Indramayu, yaitu ...
+
+[Materi #387]
+Topik (otomatis): bahan, crayon, beberapa, alat
+Inti konsep: Bahan berbasis kapur dan minyak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Beberapa alat dan bahan yang dapat digunakan dalam menggambar model diantaranya adalah crayon. Bahan crayon terdiri atas dua macam, yaitu ...
+
+[Materi #388]
+Topik (otomatis): gambar, dimanfaatkan, menghidupkan, cerita
+Inti konsep: Ilustrasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar yang dimanfaatkan untuk menghidupkan cerita, disebut dengan gambar ...
+
+[Materi #389]
+Topik (otomatis): berikut, termasuk, gambar, ilustrasi
+Inti konsep: Patung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk jenis gambar ilustrasi, kecuali ...
+
+[Materi #390]
+Topik (otomatis): gambar, menampilkan, karakter, dilebih-lebihkan
+Inti konsep: Karikatur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar yang menampilkan karakter yang dilebih-lebihkan, lucu, unik, terkadang mengandung kritikan dan sindiran, termasuk dalam gambar ...
+
+[Materi #391]
+Topik (otomatis): gambar, ilustrasi, berbentuk, dekoratif
+Inti konsep: Vignette
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar ilustrasi berbentuk dekoratif yang berfungsi sebagai pengisi bidang kosong pada kertas narasi disebut ...
+
+[Materi #392]
+Topik (otomatis): berikut, alat, bahan, menggambar
+Inti konsep: Minyak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut alat dan bahan untuk menggambar ilustrasi dengan teknik kering, kecuali ...
+
+[Materi #393]
+Topik (otomatis): bahan, menggambar, ilustrasi, terbuat
+Inti konsep: Arang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan untuk menggambar ilustrasi yang terbuat dari bahan dasar kayu adalah ...
+
+[Materi #394]
+Topik (otomatis): alat, menggambar, ilustrasi, karakter
+Inti konsep: Pulpen
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat untuk menggambar ilustrasi dengan karakter tegas pada garis-garis gambarnya, adalah ...
+
+[Materi #395]
+Topik (otomatis): ilmu, mempelajari, keselarasan, bunyi
+Inti konsep: Harmoni
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ilmu yang mempelajari tentang keselarasan bunyi disebut ...
+
+[Materi #396]
+Topik (otomatis): tembang, mamos, berasal, daerah
+Inti konsep: Sunda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tembang mamos berasal dari daerah ...
+
+[Materi #397]
+Topik (otomatis): perpaduan, beberapa, alat, musik
+Inti konsep: Musik ansambel
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perpaduan dari beberapa alat musik yang membentuk suatu orchestra disebut ...
+
+[Materi #398]
+Topik (otomatis): salah, bentuk, pertunjukkan, musik
+Inti konsep: Wayang cokek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu bentuk pertunjukkan musik tradisional di daerah Jakarta atau Betawi adalah ...
+
+[Materi #399]
+Topik (otomatis): laki-laki, perempuan, tarian, dilakukan
+Inti konsep: Tarian berkelompok
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tarian yang dilakukan oleh laki-laki,perempuan atau campuran antara laki-laki dengan perempuan disebut ...
+
+[Materi #400]
+Topik (otomatis): musik, alat, biasa, dipakai
+Inti konsep: Rekorder
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik yang biasa dipakai untuk musik ansambel ...
+
+[Materi #401]
+Topik (otomatis): teknik, digunakan, bahan, berkarya
+Inti konsep: Pahat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik yang digunakan dalam berkarya seni rupa tiga dimensi seperti patung disesuaikan dengan bahan yang digunakan dan dapat memberikan karakteristik yang khas. Mengolah bahan yang berupa beberapa bagian atau bilah biasanya menggunakan teknik ...
+
+[Materi #402]
+Topik (otomatis): karya, seni, rupa, dimensi
+Inti konsep: (1) dan (2) benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: (1) Karya seni rupa tiga dimensi memiliki ukuran panjang, lebar dan volume,sehingga dapat dilihat/dinikmati dari berbagai arah/sudut pandang
+(2) Karya seni rupa dua dimensi hanya memiliki ukuran panjang x lebar dan berupa bidang datar,sehingga hanya dapat dilihat atau dinikmati dari satu arah pandang
+(3) Karya seni rupa tiga dimensi dapat dilihat dari satu arah pandangan.
+(4) Karya seni rupa tiga dimensi memiliki bentuk yang nyata.
+(5) Karya seni rupa tiga dimensi tidak memiliki ruang.
+
+Pernyataan yang benar adalah...
+
+[Materi #403]
+Topik (otomatis): karya, seni, rupa, dapat
+Inti konsep: Patung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karya seni rupa dapat digolongkan berdasarkan jenisnya dengan mengkategorikan kesamaan karakteristik karya yang satu dengan yang lainnya.
+Karya manakah yang termasuk ke dalam karya seni rupa tiga dimensi ...
+
+[Materi #404]
+Topik (otomatis): kegiatan, menentukan, pameran, perhatikan
+Inti konsep: (1) dan (2) benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut ini!
+(1) Menentukan tujuan pameran
+(2) Menentukan tema
+(3) Menata karya
+(4) Mengevaluasi kegiatan
+(5) Menyusun laporan kegiatan
+
+Pada tahap perencanaan kegiatan pameran hal apa saja yang harus dilakukan ...
+
+[Materi #405]
+Topik (otomatis): seni, karya, rupa, pameran
+Inti konsep: (4) dan (5) benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pameran karya seni rupa merupakan kegiatan menyajikan karya seni rupa kepada publik sehingga terjadi komunikasi antara seniman melalui medium karyanya dengan publik seni.
+Berdasarkan uraian di atas maka pameran seni rupa karya siswa memiliki fungsi:
+(1) Meningkatkan popularitas
+(2) Pengisi waktu luang;
+(3) Unjuk kemampuan;
+(4) Membangkitkan motivasi berkarya seni;
+(5) Belajar berorganisasi.
+
+[Materi #406]
+Topik (otomatis): orang, bertugas, mengelola, surat
+Inti konsep: Sekretaris
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang bertugas mengelola surat menyurat dan administrasi penyelenggaraan pameran adalah ...
+
+[Materi #407]
+Topik (otomatis): dimaksud, katalog, kegiatan, pameran
+Inti konsep: Buku yang memuat memuat informasi seniman dan karya seni yang dipamerkan dan menjadi panduan bagi pengunjung pameran
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Yang dimaksud dengan Katalog dalam kegiatan pameran adalah ...
+
+[Materi #408]
+Topik (otomatis): seni, kritik, konteks, apresiasi
+Inti konsep: (4) dan (5) benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kritik seni dalam konteks “apresiasi seni” mengandung pengertian
+(1) Penghakiman
+(2) Kecaman
+(3) Bantahan
+(4) Penghargaan
+(5) Penilaian
+Dari pernyataan di atas manakah yang benar ...
+
+[Materi #409]
+Topik (otomatis): seni, karya, meningkatkan, menjembatani
+Inti konsep: (1), (2), dan (3) benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: (1) Menjembatani persepsi dan apresiasi artistik dan estetik karya seni rupa
+(2) Motivasi untuk meningkatkan kualitas karya.
+(3) Interaksi searah antara kreator dengan penikmat seni.
+(4) Meningkatkan nilai ekonomis karya seni
+(5) Meningkatkan jumlah hasil karya seni
+
+Kritik seni memiliki fungsi yang yang sangat penting antara lain ...
+
+[Materi #410]
+Topik (otomatis): kritik, seni, memiliki, ciri
+Inti konsep: Kritik jurnalistik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Setiap jenis kritik seni memiliki ciri, cara dan tujuan yang berbeda sesuai dengan keperluannya. Kritik seni yang ditujukan untuk konsumsi massa/ umum.Jenis kritik seni ini lebih dikenal dengan istilah ...
+
+[Materi #411]
+Topik (otomatis): berikut, tahapan, harus, dilakukan
+Inti konsep: (4) dan (5) benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut adalah tahapan yang harus dilakukan oleh seorang kritikus seni
+(1) Mengecam
+(2) Mengkritik
+(3) Menunjukkan
+(4) Mendeskripsi
+(5) Menganalisis
+
+Pernyataan yang benar adalah ...
+
+[Materi #412]
+Topik (otomatis): pengalaman, pengindraan, seni, secara
+Inti konsep: apresiasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Secara psikologis pengalaman pengindraan karya seni terdiri dari:
+(1) sensasi
+(2) emosi
+(3) impresi
+(4) interpretasi
+(5) apresiasi
+
+Pengalaman pengindraan yang menimbulkan sikap menerima dan menghargai makna seni ...
+
+[Materi #413]
+Topik (otomatis): ciri, khas, karya, seni
+Inti konsep: menggambarkan kenyataan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri khas karya seni lukis bergaya Realis adalah ...
+
+[Materi #414]
+Topik (otomatis): seni, rupa, terapan, karya
+Inti konsep: Tidak memiliki peran sama sekali.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seni rupa terapan adalah karya seni yang lebih mengutamakan nilai kegunaan. Sebagai karya seni yang bertujuan praktis maka nilai estetis pada seni rupa terapan ...
+
+[Materi #415]
+Topik (otomatis): seni, rupa, berikut, unsur-unsur
+Inti konsep: Jika semua benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut adalah unsur-unsur seni rupa:
+(1) Garis
+(2) Tekstur
+(3) Gelap terang
+(4) Warna
+(5) Bidang
+
+Manakah yang termasuk ke dalam unsur fisik seni rupa ...
+
+[Materi #416]
+Topik (otomatis): seni, rupa, murni, karya
+Inti konsep: Apresiatif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seni rupa murni merupakan karya seni rupa yang lebih mengutamakan keindahan.
+Oleh karena itu seni rupa murni memiliki tujuan ...
+
+[Materi #417]
+Topik (otomatis): pameran, seni, rupa, penataan
+Inti konsep: (1), (2) dan (3)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keberhasilan penyelenggaraan pameran seni rupa ditentukan oleh komitmen dan kerjasama panitia. Pengorganisasian kegiatan pada tahap pelaksanaan pameran seni rupa antara lain meliputi
+(1) Penataan ruang dan karya
+(2) Penataan sirkulasi/alur pengunjung
+(3) Pengaturan tata cahaya/lampu
+(4) Susunan acara peresmian
+(5) Buku tamu dan buku kesan-pesan
+
+Hal yang dapat menambah nilai artistik adalah ...
+
+[Materi #418]
+Topik (otomatis): seni, pengalaman, makna, secara
+Inti konsep: (2), (1), (3), (4), (5), (6)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Secara psikologis pengalaman pengindraan karya seni terdiri dari:
+(1) emosi (rasa keindahan)
+(2) sensasi (reaksi panca indra kita mengamati seni)
+(3) impresi (kesan pencerapan seni)
+(4) interpretasi (penafsiran makna)
+(5) apresiasi (menerima dan menghargai makna seni)
+(6) evaluasi (menyimpulkan nilai seni)
+
+Urutan yang benar dari rangkaian pengalaman tersebut adalah ...
+
+[Materi #419]
+Topik (otomatis): karya, siswa, materi, kegiatan
+Inti konsep: (4) dan (5)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan atau materi karya untuk kegiatan pameran seni rupa sekolah dapat berupa
+(1) Karya seniman lokal
+(2) Koleksi karya tugas-tugas siswa terbaik.
+(3) Karya siswa dari sekolah lain
+(4) Hasil karya yang dibuat siswa secara mandiri, di luar tugas yang diberikan oleh guru.
+(5) Karya-karya siswa yang memenangkan lomba kesenirupaan.
+
+Materi karya seni yang manakah yang paing tepat untuk kegiatan pameran di sekolahmu ...
+
+[Materi #420]
+Topik (otomatis): prinsip, pokok, kaidah, komposisi
+Inti konsep: proporsi, keseimbangan, irama, kesatuan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Empat prinsip pokok atau kaidah komposisi, yaitu ...
+
+[Materi #421]
+Topik (otomatis): karya, seni, rupa, dimensi
+Inti konsep: (2), dan (3)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: (1) Patung merupakan karya seni rupa terapan tiga dimensi.
+(2) Patung merupakan karya seni rupa murni tiga dimensi.
+(3) Lukisan merupakan karya seni rupa murni dua dimensi.
+(4) Lukisan merupakan karya seni rupa terapan dua dimensi.
+(5) Patung merupakan karya seni rupa murni tiga dimensi.
+
+Ditinjau dari jenis karya seni rupa berdasarkan perujudan dan fungsinya, pernyataan yang benar adalah ...
+
+[Materi #422]
+Topik (otomatis): secara, garis, besar, tahapan
+Inti konsep: Perencanaan, penataan, penyajian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Secara garis besar tahapan pelaksanaan pameran terdiri dari ...
+
+[Materi #423]
+Topik (otomatis): seni, karya, mengutamakan, kegunaan
+Inti konsep: Harmony, unity, balance
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebagai karya seni yang lebih mengutamakan kegunaan, dalam proses berkarya seni rupa terapan setidaknya ada 3 (tiga) syarat yang harus dipertimbangkan, yaitu ...
+
+[Materi #424]
+Topik (otomatis): masa, indonesia, pembabakan, sejarah
+Inti konsep: Keindahan alam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada pembabakan sejarah perkembangan seni lukis modern di Indonesia ada masa yang terkenal dengan istilah “Masa Indonesia Jelita”. Sesuai dengan namanya pada masa itu tema lukisan yang berkembang adalah ...
+
+[Materi #425]
+Topik (otomatis): komunikasi, desain, visual, dkv
+Inti konsep: Tipografi dan ilustrasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Desain Komunikasi Visual (DKV) merupakan kegiatan perancangan media komunikasi yang efektif dengan memanfaatkan elemen utama yaitu ...
+
+[Materi #426]
+Topik (otomatis): dianalisa, teknik, pembuatannya, batik
+Inti konsep: batik tulis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika dianalisa dari teknik dan proses pembuatannya, batik yang dibuat secara langsung melukis menggunakan canting pada kain disebut ...
+
+[Materi #427]
+Topik (otomatis): salah, seorang, tokoh, seni
+Inti konsep: Raden Saleh Sjarif Bustaman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah seorang tokoh seni lukis periode modern Indonesia adalah ...
+
+[Materi #428]
+Topik (otomatis): nilai, estetis, karya, seni
+Inti konsep: nilai estetis subjektif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nilai estetis sebuah karya seni rupa berdasarkan penataan unsur-unsur rupanya disebut ...
+
+[Materi #429]
+Topik (otomatis): seni, orang, berperan, menganalisis
+Inti konsep: kurator
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang berperan dalam menganalisis berbagai faktor keunggulan seni yang dipamerkan, di samping menunjukkan pula kecenderungan kreatif peserta pameran, baik untuk bidang seni lukis, desain, atau kria, sehingga pengunjung mendapatkan bahan banding untuk mengapresiasi karya yang diamatinya ...
+
+[Materi #430]
+Topik (otomatis): karya, seni, terapan, berikut
+Inti konsep: (1), (2), dan (3)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah jenis karya seni rupa terapan:
+(1) Kursi
+(2) Tembikar
+(3) Sepatu
+(4) Poster
+(5) Brosur
+
+yang termasuk ke dalam karya seni terapan tiga dimensi adalah ...
+
+[Materi #431]
+Topik (otomatis): pameran, lukisan, hasil, penjualan
+Inti konsep: tujuan komersial
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pameran lukisan yang hasil dari penjualan karyanya semata-mata sebagai keuntungan senimanya dan /atau penyelenggaranya. Pameran jenis ini memiliki tujuan ...
+
+[Materi #432]
+Topik (otomatis): musik, alat, daerah, sunda
+Inti konsep: Kendang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suling adalah alat musik melodis yang terdapat dalam musik tradisional daerah Sunda. Sedangkan alat musik ritmis yang berasal dari daerah Sunda yaitu ...
+
+[Materi #433]
+Topik (otomatis): alat, musik, tradisional, daerah
+Inti konsep: Rabab
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tambua merupakan jenis alat musik tradisional membranphone dari daerah Sumatera Barat.selain membranophone, alat musik tradisional chordophone daerah Sumatera Barat adalah ...
+
+[Materi #434]
+Topik (otomatis): alat, musik, berikut, ragam
+Inti konsep: Siter
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut adalah ragam alat musik tradisional Nusantara yang bukan termasuk alat musik tiup, yaitu ...
+
+[Materi #435]
+Topik (otomatis): musik, dikil, huda, gabungan
+Inti konsep: Ritual
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik Huda merupakan gabungan dari tiga jenis musik tradisional Minangkabau, seperti Dikil Rabaro, Salaulaik Dulang, dan Dikil Mundan (kesemuanya musik bernuansa Islami). Musik jenis ini menunjukkan adanya fungsi musik sebagai ...
+
+[Materi #436]
+Topik (otomatis): musik, pertunjukan, karya, tradisional
+Inti konsep: media hiburan yang bersifat sosial
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pertunjukan karya musik tradisional angklung dan gamelan dapat menarik banyak penonton. Hal ini menunjukkan adanya fungsi musik sebagai ...
+
+[Materi #437]
+Topik (otomatis): adegan, musik, teater, ditampilkan
+Inti konsep: memberikan warna psikologis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam satu adegan teater, ditampilkan seorang anak yang sedang menangis ketika ditinggal pergi oleh ibunya. Pada adegan tesebut, musik memberikan ilustrasi nuansa sedih. Dalam hal ini musik berfungsi sebagai ...
+
+[Materi #438]
+Topik (otomatis): pertunjukan, tahapan, latihan, berikut
+Inti konsep: 1, 2, 3, 4, 7, 6, 5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut adalah tahapan persiapan dalam penyelenggaraan pertunjukan karya musik tradisional yang disusun secara acak, yaitu .....
+1. Pengorganisasian pertunjukan.
+2. Menentukan tempat, tema, sasaran, materi sajian, serta artis.
+3. Pelaksanaan latihan.
+4. Evaluasi latihan pertunjukan.
+5. Melaksanakan pertunjukan.
+6. Gladi resik.
+7. Menyiapkan sarana pertunjukan.
+
+Tahapan yang benar adalah ...
+
+[Materi #439]
+Topik (otomatis): alat, musik, ansambel, permainan
+Inti konsep: Gamelan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Permainan alat musik dapat disajikan secara individual dan kelompok (ansambel).
+Berikut ini merupakan alat musik yang tidak termasuk ansambel kecil yaitu ...
+
+[Materi #440]
+Topik (otomatis): pertunjukan, musik, tradisional, daerah
+Inti konsep: Kuda Renggong
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Apabila seni Ludruk termasuk ke dalam jenis pertunjukan musik tradisional daerah Jawa Timur, maka salah satu jenis pertunjukan musik tradisional yang terdapat di daerah Jawa Barat adalah ...
+
+[Materi #441]
+Topik (otomatis): godeg, termasuk, kedalam, gerak
+Inti konsep: Kepala
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Godeg termasuk kedalam gerak dasar tari bagian ...
+
+[Materi #442]
+Topik (otomatis): tari, gawil, gerak, tarian
+Inti konsep: Luas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari Gawil merupakan suatu tarian tradisional yang berasal dari Jawa Barat berkarakter lanyap. Gerak keupat anca yang terdapat dalam Tari Gawil menggunakan ruang gerak ...
+
+[Materi #443]
+Topik (otomatis): ragam, gerak, tari, berikut
+Inti konsep: 5 dan 6
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan ragam gerak tari tradisi Jawa Barat :
+1. Adeg-adeg
+2. Ukel
+3. Sirig
+4. Lontang
+5. Galeong
+6. Obah Bahu
+
+Yang termasuk kedalam ragam gerak badan pada tari adalah ...
+
+[Materi #444]
+Topik (otomatis): ajeng, tari, ujian, rosidi
+Inti konsep: Tari Cikeruhan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ajeng dan Rosidi ditugaskan oleh gurunya untuk menyajikan suatu bentuk tari berpasangan sebagai ujian praktek seni budaya yang menjadi salah satu syarat untuk menyelesaikan pendidikannya di jenjang sekolah menengah atas. Tari yang kemungkinan disajikan oleh Ajeng dan Nadia pada ujian prakteknya adalah ...
+
+[Materi #445]
+Topik (otomatis): berdasarkan, fungsinya, tari, dibedakan
+Inti konsep: Tari Upacara Adat, Tari Penyajian Estetis, dan Tari massal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan Fungsinya, jenis tari dibedakan menjadi tiga yaitu ...
+
+[Materi #446]
+Topik (otomatis): tari, gatotkaca, dibawakan, beberapa
+Inti konsep: Tari Berpasangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari Gatotkaca yang dibawakan oleh beberapa orang dalam suatu pementasan tari termasuk kedalam tari ...
+
+[Materi #447]
+Topik (otomatis): gerak, tari, indah, penari
+Inti konsep: Wiraga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gerak merupakan unsur yang paling mendasar dalam tari. Gerak tari akan dikatakan indah ketika lintasan gerak dan tenaga yang digunakan sesuai dengan kebutuhan dari suatu tarian. Kualitas gerak penari akan terlihat sangat indah apabila penari mampu dengan maksimal mengaplikasikan salah satu nilai estetika tari yaitu ...
+
+[Materi #448]
+Topik (otomatis): gedig, tari, lenyepan, termasuk
+Inti konsep: Murni
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gedig pada tari Lenyepan termasuk kedalam jenis gerak ...
+
+[Materi #449]
+Topik (otomatis): tarian, sederhana, pola, langkah
+Inti konsep: Tari Tradisional Kerakyatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tarian yang sederhana dengan pola langkah dan gerakan badan yang relatif mudah, sudah mengalami penggarapan koreografis menurut kemampuan penyusunnya, terlahir dari budaya masyarakat pedesaan atau luar tembok keraton dan tidak mengacu pada pencapaian standar estetik yang setinggi-tingginya. Tarian tersebut termasuk kedalam jenis tari ...
+
+[Materi #450]
+Topik (otomatis): tari, dipertunjukan, acara, pernikahan
+Inti konsep: Tari sebagai sarana upacara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari yang dipertunjukan pada acara pernikahan, kematian dan kelahiran merupakan tari berdasarkan fungsi ...
+
+[Materi #451]
+Topik (otomatis): tari, keurseus, tarian, mengalami
+Inti konsep: Tari Tradisional
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari Keurseus merupakan suatu tarian yang telah mengalami satuan perjalanan hidup yang cukup lama dan memiliki nilai-nilai masa lampau yang mempunyai hubungan ritual. Berdasarkan pola garapannya Tari Keurseus termasuk kedalam jenis tari ...
+
+[Materi #452]
+Topik (otomatis): ketukan, irama, dinamika, perpindahan
+Inti konsep: Wirahma
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ketukan/irama dan dinamika perpindahan sikap gerak yang selaras dalam tari adalah pengertian ...
+
+[Materi #453]
+Topik (otomatis): gerak, penari, aspek, diungkapkan
+Inti konsep: Ruang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Aspek gerak yang diungkapkan oleh seorang penari yang membentuk perpindahan gerak tubuh, posisi yang tepat, dan ruang gerak penari itu sendiri termasuk kedalam unsur ...
+
+[Materi #454]
+Topik (otomatis): gerak, tari, penari, pergelaran
+Inti konsep: Balance
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam suatu pergelaran tari kreasi karya seorang koreografer yang berasal dari Sumedang dengan format tari kelompok. Pada salah satu gerakannya terdapat gerak yang berimbang antar gerak penari. Desain gerak penari tersebut dinamakan ...
+
+[Materi #455]
+Topik (otomatis): tari, tahap, berkarya, setelah
+Inti konsep: Eksplorasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam proses berkarya tari, setelah semua gerak tari melalui tahap improvisasi dan komposisi maka seorang koreografer melakukan tahap selanjutnya yaitu ...
+
+[Materi #456]
+Topik (otomatis): tarian, dibawakan, orang, penari
+Inti konsep: Persahabatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah tarian dibawakan oleh dua orang penari yang menggambarkan kerukunan dan tolong menolong, tarian tersebut memiliki tema yaitu ...
+
+[Materi #457]
+Topik (otomatis): tarian, memiliki, aturan, gerak
+Inti konsep: Tari hiburan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tarian yang memiliki aturan gerak yang artistik dan hanya untuk ditonton saja disebut ...
+
+[Materi #458]
+Topik (otomatis): tari, kreasi, baru, tidak
+Inti konsep: tari merak, tari yapong, tari manuk rawa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam tari kreasi baru, tari tarian tidak lagi berpijak pada pola pola tradisi. Gerak tidak lagi memiliki aturan atau patokan tertentu. Yang termasuk dalam tari kreasi baru adalah ...
+
+[Materi #459]
+Topik (otomatis): tata, rias, pertunjukan, tari
+Inti konsep: Memperkuat ekspresi wajah dan karakter penari
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fungsi tata rias dalam pertunjukan tari Ramayana adalah ...
+
+[Materi #460]
+Topik (otomatis): orang, bertanggungjawab, membukukan, mencatat
+Inti konsep: Sekretaris
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang bertanggungjawab dalam membukukan dan mencatat semua kegiatan yang berhubungan dengan pergelaran adalah ...
+
+[Materi #461]
+Topik (otomatis): usaha, pergelaran, tari, managemen
+Inti konsep: Perencanaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam pergelaran tari suatu managemen dalam serangkaian tindakan yang dilakukan sebelum usaha dimulai hingga proses usaha masih berlangsung, hal tersebut masuk pengertian dari ...
+
+[Materi #462]
+Topik (otomatis): karya, imajinasi, tari, cerminan
+Inti konsep: Judul
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karya merupakan cerminan dari imajinasi dan emosi penciptanya. Dalam berkarya seni tari terdapat 7 tahap proses perencanaan karya tari yaitu
+1) Ide
+2) Judul
+3) Bentuk penyajian
+4) Musik pengiring
+5) Waktu
+6) Tata rias dan busana
+7) Tempat
+Hasil dari imajinasi koreografer memunculkan gagasan tema yang direncanakan sehingga dapat menceritakan isi didalamnya dengan memberikan nama tarian. hal ini merupakan proses ...
+
+[Materi #463]
+Topik (otomatis): sendratari, ramayana, sering, dipergelarkan
+Inti konsep: Procenium
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sendratari Ramayana yang sering dipergelarkan di pelataran Candi Prambananmenggunakan tata pentas ...
+
+[Materi #464]
+Topik (otomatis): bentuk, teater, didukung, masyarakat
+Inti konsep: Teater rakyat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk teater yang didukung oleh masyarakat kalangan pedesaan, berkarakter bebas, tidak terikat aturan dan penuh improvisasi adalah ...
+
+[Materi #465]
+Topik (otomatis): drama, berikut, salah, persamaan
+Inti konsep: memiliki pementasan dan dekorasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah salah satu persamaan dari drama tradisional dan drama modern, yaitu ...
+
+[Materi #466]
+Topik (otomatis): seni, upaya, mempelajari, teater
+Inti konsep: Menyelenggarakan festival teater
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mempelajari seni teater tradisi merupakan salah satu upaya melestarikan serta mencintai seni dan budaya bangsa sendiri. Upaya lain yaitu ...
+
+[Materi #467]
+Topik (otomatis): latihan, akhir, sebelum, pementasan
+Inti konsep: Gladi bersih
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Latihan akhir sebelum pementasan dilakukan, disebut ...
+
+[Materi #468]
+Topik (otomatis): teater, peran, utama, film
+Inti konsep: Seni kolektif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam teater, bahwa semua peran merupakan tokoh utama dalam pementasan teater atau film, sebaik apapun peran utama dalam bermain, tidak terlepas dari dukungan pemain lainnya, makanya seni teater atau film disebut ...
+
+[Materi #469]
+Topik (otomatis): pementasan, kegiatan, praktik, langsung
+Inti konsep: sutradara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan pementasan adalah praktik langsung dalam melaksanakan pementasan, meliputi ; pengendalian hal-hal yang tidak diharapkan dan optimalisasi panitia. Dalam pelaksanaan pementasan yang memiliki peran adalah tugas ...
+
+[Materi #470]
+Topik (otomatis): subang, anting, kalung, gelang
+Inti konsep: Aksesoris
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Subang, anting, kalung, gelang, kembang goyang, sunduk metal, suren, jingkat, bros, cincin merupakan bagian dari ...
+
+[Materi #471]
+Topik (otomatis): cerita, rakyat, lazim, disebut
+Inti konsep: Cinta terlarang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cerita rakyat atau lazim disebut legenda, salah satunya yang terkenal di di Jawa Barat (khususnya Bandung) yaitu “Sangkuriang”, tema cerita dari lengenda tersebut lebih mengarah pada ...
+
+[Materi #472]
+Topik (otomatis): tahapan, alur, dimulai, menunjukan
+Inti konsep: Komplikasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tahapan alur yang dimulai menunjukan adanya masa-lah yang mulai ber-kembang dan menimbulkan konflik-konflik yang semakin banyak, rumit, dan saling terkait, tetapi belum tampak ada pemecahannya, adalah ...
+
+[Materi #473]
+Topik (otomatis): berikut, termasuk, drama
+Inti konsep: bentuknya dialog
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut yang bukan termasuk dari pengertian drama adalah ...
+
+[Materi #474]
+Topik (otomatis): casting, ability, sangat, penting
+Inti konsep: Pemilihan pemeran dalam perencanaan harus berdasarkan kecakapan dan kemampuan pemain
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Casting by ability sangat penting dalam perencanaan pementasan seni teater kontemporer karena ...
+
+[Materi #475]
+Topik (otomatis): pemilihan, peran, penting, dilakukan
+Inti konsep: Casting
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pemilihan peran penting dilakukan, guna mencari pemain yang mampu menampilan karakter yang cocok dengan tokoh yang akan diperankan dalam istilah teater biasa disebut ...
+
+[Materi #476]
+Topik (otomatis): seni, pementasan, komunikasi, aktualisasi
+Inti konsep: Pendalaman materi bagi yang menikmatinya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pementasan merupakan proses komunikasi atau aktualisasi diri pembelajar atau pelaku dan pengiat seni dengan masyarakat atau penonton sebagai penikmat seni, hal ini akan terjadi ...
+
+[Materi #477]
+Topik (otomatis): manusia, teater, pementasan, seni
+Inti konsep: Simbol
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teater merupakan pementasan seni sebagai hasil daya cipta, rasa dan karsa manusia yang diekspresikan melalui media manusia dengan bahasa ...
+
+[Materi #478]
+Topik (otomatis): kegiatan, bereksperimen, berbagai, bahan
+Inti konsep: menemukan hal-hal dan hasil yang baru
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan bereksperimen dengan berbagai bahan perlu selalu diadakan terutama untuk ...
+
+[Materi #479]
+Topik (otomatis): hal, mampu, menentukan, jalan
+Inti konsep: Tema
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hal yang mampu menentukan jalan cerita dari penampilan sebuah teater adalah ...
+
+[Materi #480]
+Topik (otomatis): penokohan, drama, watak, karakter
+Inti konsep: foil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam penokohan drama, watak/karakter yang menjadi lawan dari pemeran utama adalah ...
+
+[Materi #481]
+Topik (otomatis): tata, busana, berfungsi, pelengkapan
+Inti konsep: Property
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tata busana berfungsi sebagai pelengkapan yang dikenakan pada pelaku/penari/pemain teater saat ia memperagakan peran tertentu, kecuali ...
+
+[Materi #482]
+Topik (otomatis): menggambarkan, gambaran, umum, alur
+Inti konsep: Paparan (eksposisi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambaran umum bagian alur yang menggambarkan kehadiran beberapa tokoh yang belum mempunyai masalah atau menggambarkan suasana, yaitu bagian ...
+
+[Materi #483]
+Topik (otomatis): pembuatan, naskah, lakon, teater
+Inti konsep: Pimpinan produksi dan aktor pendukung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pembuatan naskah lakon pada teater modern mengacu pada ...
+
+[Materi #484]
+Topik (otomatis): teater, pemain, pementasan, karya
+Inti konsep: Media pokok/posisi kunci
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pementasan sebuah karya teater modern sangat tergantung kepada kemampuan pemain teater dalam menghidupkan naskah di atas pentas,oleh sebab itu pemain teater memiliki peran ...
+
+[Materi #485]
+Topik (otomatis): berbedanya, peran, lainnya, pertunjukan
+Inti konsep: penokohan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berbedanya peran yang satu dengan yang lainnya dalam sebuah pertunjukan seni teater disebut ...
+
+[Materi #486]
+Topik (otomatis): tahapan, paling, mengadaptasi, naskah
+Inti konsep: proses latihan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mengadaptasi naskah merupakan tahapan yang paling penting dalam prosedur pementasan sebuah teater,tahapan berikutnya yang paling tepat adalah ...
+
+[Materi #487]
+Topik (otomatis): penyampaian, tema, cerita, pementasan
+Inti konsep: sutradara yang menyampaikan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penyampaian tema cerita dalam sebuah pementasan teater sehingga bisa diterima oleh penonton yang paling berperan dilakukan oleh ...
+
+[Materi #488]
+Topik (otomatis): karakter, karikatural, tokoh, pemeranan
+Inti konsep: datar dan biasanya bersifat hitam putih
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karakter karikatural dalam tokoh pemeranan seni teater memiliki sifat ...
+
+[Materi #489]
+Topik (otomatis): sajian, naskah, drama, diartikan
+Inti konsep: satir
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis sajian naskah drama yang yang jika diartikan secara harfiah adalah kidung kambing yang merupakan ritual keagamaan yang didasari pada mitologi Yunani kuno adalah ...
+
+[Materi #490]
+Topik (otomatis): keberhasilan, perancangan, pementasan, teater
+Inti konsep: aktor dan aktris merupakan ujung tombak dalam menyampaikan tujuan pementasan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keberhasilan Perancangan pementasan teater modern sangat erat keberhasilannya dengan pemilihan aktor/aktris. Dari pernyataan diatas alasan yang paling tepat adalah ...
+
+[Materi #491]
+Topik (otomatis): tugas, seorang, manajemen, produksi
+Inti konsep: mengatur segala hal yang diperlukan pada produksi seni teater
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tugas seorang manajemen produksi pertunjukan adalah ...
+
+[Materi #492]
+Topik (otomatis): pengelolaan, produksi, teater, modern
+Inti konsep: pimpinan produksi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada suatu pengelolaan produksi teater modern, sutradara bertanggung jawab kepada ...
+
+[Materi #493]
+Topik (otomatis): langkah-langkah, kerja, merancang, pementasan
+Inti konsep: Pembentukan panitia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Langkah-langkah kerja dalam merancang pementasan sebuah produksi teater yang paling awal adalah ...
+
+[Materi #494]
+Topik (otomatis): pementasan, penggunaan, latar, belakang
+Inti konsep: natural background
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penggunaan latar belakang panggung dalam suatu pementasan dengan menggunakan back drop dan cyclorama dalam pementasan teater modern disebut ...
+
+[Materi #495]
+Topik (otomatis): teknik, penulisan, drama, penyajiannya
+Inti konsep: dramaturgi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik penulisan drama dan penyajiannya dalam bentuk teater disebut ...
+
+[Materi #496]
+Topik (otomatis): mengapa, lighting, system, sangat
+Inti konsep: karena lighting sistem merupakan perangkat pertunjukan yang mengatur intensitas cahaya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mengapa lighting system sangat berperan dalam proses pementasan ...
+
+[Materi #497]
+Topik (otomatis): gar, pertunjukan, pementasan, teater
+Inti konsep: Stage manager
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: gar pertunjukan pementasan teater mampu menampilkan pembaruan visual harus didukung oleh ...
+
+[Materi #498]
+Topik (otomatis): mengadaptasi, naskah, membuat, konsep
+Inti konsep: Perencanaan pembentukan watak /penokohan pada teater kontemporer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mengadaptasi naskah, membuat konsep tata pentas, pemilihan pemeran, proses latihan merupakan langkah-langkah ...
+
+[Materi #499]
+Topik (otomatis): aliran, setelah, runtuhnya, kaum
+Inti konsep: Humanisme
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Setelah runtuhnya kaum feodal muncul aliran baru yang didasari oleh rasa cinta kasih sesama manusia yang disebut dengan aliran ...
+
+[Materi #500]
+Topik (otomatis): seni, rupa, jepang, terkenal
+Inti konsep: Ikebana
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seni rupa jepang yang terkenal salah satunya adalah seni merangkai bunga yang disebut ...
+
+[Materi #501]
+Topik (otomatis): patung, berkepala, manusia, berbadan
+Inti konsep: Spinx
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Patung berkepala manusia dan berbadan singa yang terdapat di mesir disebut ...
+
+[Materi #502]
+Topik (otomatis): seni, rupa, bangsa, thailand
+Inti konsep: Budha
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seni rupa bangsa thailand sangat kuat dipengaruhi oleh ajaran agama ...
+
+[Materi #503]
+Topik (otomatis): bahan, utama, membuat, vas
+Inti konsep: Tanah liat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan utama untuk membuat vas bunga adalah ...
+
+[Materi #504]
+Topik (otomatis): membuat, vas, bunga, bahan
+Inti konsep: Mencetak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk membuat sebuah vas bunga dengan bahan dasar tanah liat dapat menggunakan teknik berikut ini, kecuali ...
+
+[Materi #505]
+Topik (otomatis): hal, pertama, diperlukan, seorang
+Inti konsep: Ide atau gagasan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hal pertama yang diperlukan oleh seorang seniman dalam menghasilkan karya-karyanya adalah ...
+
+[Materi #506]
+Topik (otomatis): seorang, seniman, menghasilkan, gagasan
+Inti konsep: Kondisi ekonominya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seorang seniman menghasilkan gagasan dalam membuat sebuha hasil karya seninya berdasarkan ...
+
+[Materi #507]
+Topik (otomatis): kegiatan, menampilkan, hasil, seni
+Inti konsep: Pameran
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan untuk menampilkan sebuah hasil seni kriya kepada publik disebut ...
+
+[Materi #508]
+Topik (otomatis): dapat, karya, teknik, digunakan
+Inti konsep: Mekanisasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik yang dapat digunakan dalam penciptaan karya seni kriya sehingga dapat menghasilkan karya dengan cepat dan berjumlah banyak adalah ...
+
+[Materi #509]
+Topik (otomatis): bentuk, gambar, ditemukan, tarikan
+Inti konsep: Sentral
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gambar yang ditemukan dari tarikan garis menuju ke satu titik atau lebih yang berfungsi untuk melihat bentuk sesuai dengan bentuk aslinya disebut proyeksi ...
+
+[Materi #510]
+Topik (otomatis): langkah, pertama, harus, dilakukan
+Inti konsep: Membuat proposal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Langkah pertama yang harus dilakukan dalam membuat sebuah pameran hasil karya adalah ...
+
+[Materi #511]
+Topik (otomatis): hasil, karya, musik, dikatakan
+Inti konsep: Memiliki pola nada dan irama yang menarik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: . Sebuah hasil karya musik dikatakan baik dan berkualitas salah satunya adalah apabila ...
+
+[Materi #512]
+Topik (otomatis): musik, dangdut, tidak, termasuk
+Inti konsep: Aslinya musik tersebut adalah musik Melayu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik dangdut adalah jenis musik yang tidak termasuk ke dalam jenis musik tradisional nusantara karena ...
+
+[Materi #513]
+Topik (otomatis): musik, nontradisional, mempunyai, peranan
+Inti konsep: Sebagai media untuk menunjukkan ciri khas dari sebuah bangsa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik nontradisional mempunyai peranan seperti di bawah ini, kecuali ...
+
+[Materi #514]
+Topik (otomatis): melalui, musik, nontradisional, dapat
+Inti konsep: Bahasa yang digunakan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Melalui musik nontradisional dapat menunjukkan identitas sebuah bangsa yang dpaat terlihat melalui ...
+
+[Materi #515]
+Topik (otomatis): musik, melalui, dapat, meningkatkan
+Inti konsep: Berisi nilai yang universal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Melalui musik dapat meningkatkan solidaritas internasional karena musik ...
+
+[Materi #516]
+Topik (otomatis): musik, nontradisional, sangat, digemari
+Inti konsep: Populer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis musik nontradisional yang sangat digemari oleh generasi muda pada umumnya adalah jenis musik ...
+
+[Materi #517]
+Topik (otomatis): musik, dangdut, perpaduan
+Inti konsep: Melayu, India, dan rock
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik dangdut merupakan perpaduan antara jenis musik ...
+
+[Materi #518]
+Topik (otomatis): lagu, dangdut, disukai, masyarakat
+Inti konsep: Lagunya menarik dan sangat menghibur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah lagu dengan jenis dangdut disukai masyarakat kebanyakan karena ...
+
+[Materi #519]
+Topik (otomatis): seni, tari, berperan, sarana
+Inti konsep: Berkreasi atau berekspresi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seni tari berperan sebagai sarana atau alat untuk ...
+
+[Materi #520]
+Topik (otomatis): berikut, termasuk, tari, nusantara
+Inti konsep: Melestarikan budaya bangsa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk fungsi dari tari nusantara adalah ...
+
+[Materi #521]
+Topik (otomatis): tari, pakarena, awalanya, tarian
+Inti konsep: Pemujaan pada dewa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tari pakarena pada awalanya adalah tarian yang berfungsi untuk ...
+
+[Materi #522]
+Topik (otomatis): berikut, termasuk, karakteristik, tarian
+Inti konsep: Gerakannya anggun dan lembut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan termasuk karakteristik dari tarian daerah Sunda adalah ...
+
+[Materi #523]
+Topik (otomatis): ciri, khas, teater, modern
+Inti konsep: Penataan panggung dan dekorasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri khas dari teater modern di antaranya dapat terlihat dari ...
+
+[Materi #524]
+Topik (otomatis): pengarang, drama, absurd, terkenal
+Inti konsep: Iwan Simatupang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengarang drama absurd yang terkenal di Indonesia adalah ...
+
+[Materi #525]
+Topik (otomatis): drama, berikut, salah, persamaan
+Inti konsep: Memiliki pementasan dan dekorasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut adalah salah satu persamaan dari drama tradisional dan drama modern, yaitu ...
+
+[Materi #526]
+Topik (otomatis): teater, kita, dilatih, bekerja
+Inti konsep: Media pendidikan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dengan teater, kita dilatih untuk bekerja sama dengan orang lain. Dalam hal ini teater memiliki fungsi sebagai ...
+
+[Materi #527]
+Topik (otomatis): rakyat, jawa, tengah, cerita
+Inti konsep: Ketoprak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teater rakyat yang berasal dari Jawa Tengah yang diambil dari cerita tentang kerajaan, cerita sejarah atau cerita-cerita rakyat Jawa Tengah dinamakan ...
+
+[Materi #528]
+Topik (otomatis): latihan, ditekankan, gerak, pengelompokan
+Inti konsep: Blocking
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Latihan yang ditekankan pada latihan gerak dan pengelompokan perilaku adalah ...
+
+[Materi #529]
+Topik (otomatis): seni, kriya, yunani, klasik
+Inti konsep: Mitologi kepahlawanan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seni kriya Yunani klasik yang berupa tembikar dan jambangan menggambarkan ...
+
+[Materi #530]
+Topik (otomatis): berikut, persamaan, penciptaan, seni
+Inti konsep: Harus dikerjakan secara massal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut yang bukan persamaan penciptaan seni kriya mancanegara secara umum adalah ...
+
+[Materi #531]
+Topik (otomatis): tahapan, pertama, kali, menciptakan
+Inti konsep: Imajinasi atau ide
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tahapan pertama kali dalam menciptakan sebuah karya musik adalah ...
+
+[Materi #532]
+Topik (otomatis): iringan, musik, tari, pakarena
+Inti konsep: Poik-poik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Iringan musik tari pakarena menggunakan alat yang sangat sederhana, diantaranya ...
+
+[Materi #533]
+Topik (otomatis): teater, menonjolkan, dialog, drama
+Inti konsep: Panggung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam teater yang lebih menonjolkan dialog adalah drama ...
+
+[Materi #534]
+Topik (otomatis): usaha, menempatkan, ide, konsep
+Inti konsep: Conceptual art
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu usaha menempatkan ide, konsep, dan gagasan sebagai masalah utama dalam menciptakan karya seni adalah ...
+
+[Materi #535]
+Topik (otomatis): aspek, menetapkan, tingkat, pencapaian
+Inti konsep: Kreativitas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Aspek yang menetapkan tingkat pencapaian krativitas dalam berkarya seni rupa termasuk aspek ...
+
+[Materi #536]
+Topik (otomatis): rupa, karya, seni, menguraikan
+Inti konsep: Visual
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karya seni rupa yang menguraikan keberadaan rupa dengan kata-kata termasuk dari aspek ...
+
+[Materi #537]
+Topik (otomatis): seni, karya, rupa, mencakup
+Inti konsep: Konseptual
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karya seni rupa yang mencakup proses menemukan inspirasi dan gagasan seni merupakan aspek ...
+
+[Materi #538]
+Topik (otomatis): sangat, menggambarkan, subjek, datar
+Inti konsep: Primitivisme
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menggambarkan sebuah subjek dengan bagian yang sangat datar dan cenderung sangat sederhana sekali sebagai ciri-ciri dari aliran ...
+
+[Materi #539]
+Topik (otomatis): konsep, ide, penting, penciptaan
+Inti konsep: Le Witt
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Konsep atau ide penting dalam penciptaan seni konseptual bahwa gerakan ini menempatkan gagasan sebagai hal yang pokok digagas oleh ...
+
+[Materi #540]
+Topik (otomatis): gambar, seniman, mengambil, frame
+Inti konsep: Roy Lichtenstein
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seniman yang mengambil frame gambar yang kecil dengan pola titi-titik warnanya, kemudian membesarkannya menjadi gambar yang monumental dalam seni rupa adalah ...
+
+[Materi #541]
+Topik (otomatis): kebanyakan, seni, optic, berbentuk
+Inti konsep: Abstrak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kebanyakan seni optic berbentuk potongan yang hanya dibuat dengan warna hitam putih yang bersifat ...
+
+[Materi #542]
+Topik (otomatis): kegiatan, pameran, sekolah, paling
+Inti konsep: Setelah selesai ujian sekolah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kegiatan pameran di sekolah yang paling tepat kerika ...
+
+[Materi #543]
+Topik (otomatis): zaman, renaisans, musik, instrumental
+Inti konsep: 16
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada zaman Renaisans, musik instrumental merangkak naik cepat terkait dengan perkembangan teknik-teknik permainan instrument yang idiomatic selama abad ke- ...
+
+[Materi #544]
+Topik (otomatis): sebelum, zaman, karya, seni
+Inti konsep: Pramodern
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karya seni rupa yang hadir sebelum zaman industry yang berarti muncul sebelum zaman modern disebut ...
+
+[Materi #545]
+Topik (otomatis): paham, berkembang, setelah, zaman
+Inti konsep: Postmodern
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Paham yang berkembang setelah zaman modern disebut ...
+
+[Materi #546]
+Topik (otomatis): postmodernisme, kritik, atas, masyarakat
+Inti konsep: Memenuhi janji-janjinya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Postmodernisme merupakan kritik atas masyarakat modern dan kegaggalannya dalam ...
+
+[Materi #547]
+Topik (otomatis): secara, etimologis, postmodernisme, terbagi
+Inti konsep: Post dan modern
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Secara etimologis postmodernisme terbagi menjadi dua kata ialah ...
+
+[Materi #548]
+Topik (otomatis): seorang, keseimbangan, menampilkan, aransemen
+Inti konsep: Dirigen
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keseimbangan dalam menampilkan aransemen yang telah disusun diperlukan adanya seorang pemimpin yaitu seorang ...
+
+[Materi #549]
+Topik (otomatis): berikut, tata, cara, penulisan
+Inti konsep: Memiliki pengetahuan tentang ilmu harmoni yang kurang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut yang bukan tata cara dalam penulisan aransemen ialah ...
+
+[Materi #550]
+Topik (otomatis): berikut, struktur, aransemen, sendiri
+Inti konsep: Introduksi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut struktur dari aransemen itu sendiri adalah ...
+
+[Materi #551]
+Topik (otomatis): musik, memiliki, efek, terapi
+Inti konsep: Jiwa patriotisme
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik memiliki efek terapi rekreatif dan lebih jauh lagi dapat menumbuhkan ...
+
+[Materi #552]
+Topik (otomatis): hiburan, musik, dapat, memberikan
+Inti konsep: Pendengarannya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebagai hiburan, musik dapat memberikan rasa santai dan nyaman atau penyegaran pada ...
+
+[Materi #553]
+Topik (otomatis): evolusi, tokoh, menggambarkan, masyarakat
+Inti konsep: Lewis H. Morgan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tokoh yang menggambarkan proses evolusi masyarakat manusia melalui tiga tingkat evolusi universal adalah ...
+
+[Materi #554]
+Topik (otomatis): zaman, prasejarah, instrumen, musik
+Inti konsep: Ketukan kaki dan tepukan tangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada zaman Prasejarah, yang menjadi instrumen musik pertama masyarakat adalah ...
+
+[Materi #555]
+Topik (otomatis): berikut, aliran, seni, rupa
+Inti konsep: Kondisifisme
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut aliran seni rupa pramodern, kecuali ...
+
+[Materi #556]
+Topik (otomatis): berikut, hal, pokok, penyajian
+Inti konsep: Teoretis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut hal pokok dalam penyajian kritik musik, kecuali ...
+
+[Materi #557]
+Topik (otomatis): seni, rupa, tidak, terbatas
+Inti konsep: Modern
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seni rupa yang tidak terbatas pada kebudayaan suatu adat atau daerah, namun tetap berdasarkan sebuah filosofi dan aliran-aliran seni rupa disebut ...
+
+[Materi #558]
+Topik (otomatis): unsur, fisik, mendasar, penting
+Inti konsep: Garis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unsur  fisik yang mendasar dan penting dalam mewujudkan sebuah karya seni rupa dua dimensi adalah ...
+
+[Materi #559]
+Topik (otomatis): aspek, dianalisis, karya, seni
+Inti konsep: Tema
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Aspek yang dianalisis dalam karya seni rupa dengan prinsip estetik, yaitu ...
+
+[Materi #560]
+Topik (otomatis): warna, hasil, pencampuran, kedua
+Inti konsep: Warna tersier
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Warna yang merupakan hasil pencampuran kedua warna sekunder adalah pengertian dari ...
+
+[Materi #561]
+Topik (otomatis): arsiran, garis, pendek, mendapatkan
+Inti konsep: Bulu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Arsiran garis pendek untuk mendapatkan gambar ...
+
+[Materi #562]
+Topik (otomatis): arsiran, teknik, melengkung, mendapatkan
+Inti konsep: Kurva
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Arsiran dengan teknik melengkung untuk mendapatkan bentuk ...
+
+[Materi #563]
+Topik (otomatis): salah, bentuk, pengembangan, teknik
+Inti konsep: Lukis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu bentuk pengembangan teknik menggambar adalah seni ...
+
+[Materi #564]
+Topik (otomatis): karya, masa, seni, rupa
+Inti konsep: Edisi terbatas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada masa seni rupa modern setiap karya ditandatangani dan diberi nomor untuk menandai bahwa karya tersebut adalah ...
+
+[Materi #565]
+Topik (otomatis): tulisan, kaligrafi, indah, visualisasinya
+Inti konsep: Arab
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kaligrafi merupakan tulisan indah yang dalam visualisasinya menggunakan tulisan dan huruf ...
+
+[Materi #566]
+Topik (otomatis): prinsip, kaidah-kaidah, umum, digunakan
+Inti konsep: Nonfisik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Prinsip atau kaidah-kaidah umum yang digunakan dengan menempatkan unsur-unsur fisik disebut unsur ...
+
+[Materi #567]
+Topik (otomatis): dibawah, cabang-cabang, seni
+Inti konsep: Bela diri
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dibawah ini yang bukan merupakan cabang-cabang seni adalah ...
+
+[Materi #568]
+Topik (otomatis): karya, seni, rupa, pelita
+Inti konsep: Damar kurung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karya seni rupa pelita yang ditutupi tudung berbentuk bulat atau kotak dan terbuat dari kertas disebut ...
+
+[Materi #569]
+Topik (otomatis): tahapan, berkarya, berbeda-beda, sesuai
+Inti konsep: Wujud
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tahapan dalam berkarya akan berbeda-beda sesuai dengan karakteristik berikut, kecuali ...
+
+[Materi #570]
+Topik (otomatis): teknik, digunakan, mengarsir, bayangan
+Inti konsep: Arsir gradasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Teknik yang digunakan untuk mengarsir bayangan pada obyek adalah ...
+
+[Materi #571]
+Topik (otomatis): unsur, seni, rupa, paling
+Inti konsep: Titik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unsur seni rupa yang paling sederhana adalah ...
+
+[Materi #572]
+Topik (otomatis): keindahan, karya, seni, nilai
+Inti konsep: Objektif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Nilai estetis dalam memandang keindahan karya seni rupa berada pada wujud karya seni  itu sendiri sebagai keindahan tampak kasat mata termasuk dalam kategori ...
+
+[Materi #573]
+Topik (otomatis): seni, rupa, dimensi, salah
+Inti konsep: Matra
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Seni rupa dua dimensi merupakan salah satu pembagian jenis seni rupa menurut ...
+
+[Materi #574]
+Topik (otomatis): berikut, tujuan, diciptakannya, karya
+Inti konsep: Memperjelek ruangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut yang bukan tujuan diciptakannya karya seni rupa adalah sebagai sarana ...
+
+[Materi #575]
+Topik (otomatis): seni, salah, karya, terapan
+Inti konsep: Kerajinan tangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu jenis karya seni terapan, yaitu seni kriya yang disebut juga ...
+
+[Materi #576]
+Topik (otomatis): masyarakat, nusantara, berkarya, berlandaskan
+Inti konsep: Adanya kecenderungan untuk membuat abstraksi dari setiap objek yang digambar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Masyarakat Nusantara berkarya dengan berlandaskan kepercayaan dan keyakinan mereka. Dari sudut ekspresi, persamaan yang tampak adalah ...
+
+[Materi #577]
+Topik (otomatis): membuat, karya, seni, rupa
+Inti konsep: Orang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Membuat karya seni rupa tiga dimensi secara tidak langsung dapat dilakukan dengan menirukan objek yang akan dibuat melalui media berikut, kecuali ...
+
+[Materi #578]
+Topik (otomatis): alat, musik, berupa, bilah-bilah
+Inti konsep: Idiofon
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Alat musik yang berupa bilah-bilah kayu, bambu, atau logam yang diletakkan berderet dan dipukul pada badan bahan yang berbunyi adalah tergolong jenis alat musik ...
+
+[Materi #579]
+Topik (otomatis): alat, musik, nonvokal, kordofon
+Inti konsep: Sasando
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis alat musik nonvokal kordofon adalah ...
+
+[Materi #580]
+Topik (otomatis): instrumen, balungan, seni, gamelan
+Inti konsep: Pembawa melodi pokok
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fungsi instrumen balungan dalam seni gamelan adalah ...
+
+[Materi #581]
+Topik (otomatis): rebab, alat, musik, gamelan
+Inti konsep: Dipukul
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rebab merupakan bagian dari alat musik gamelan yang dimainkan dengan cara ...
+
+[Materi #582]
+Topik (otomatis): suara, vokal, sedang, pria
+Inti konsep: Bariton
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis suara vokal sedang untuk pria disebut ...
+
+[Materi #583]
+Topik (otomatis): berikut, gender, musik, gamelan
+Inti konsep: Sebagai penutup
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini fungsi gender dalam musik gamelan, kecuali ...
+
+[Materi #584]
+Topik (otomatis): berikut, termasuk, utama, musik
+Inti konsep: Sebagai media penyebaran musik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan termasuk dalam fungsi utama musik tradisional adalah ...
+
+[Materi #585]
+Topik (otomatis): lagu, berikut, ciri, daerah
+Inti konsep: Ciri isi lagu sesuai keadaan budaya tetangga
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini ciri lagu daerah yang merupakan warisan lagu tradisi turun-temurun, kecuali ...
+
+[Materi #586]
+Topik (otomatis): gender, alat, musik, gamelan
+Inti konsep: Slendro, panunggul, dan pelog barung
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gender adalah alat musik gamelan yang memiliki tiga macam nada (titi laras), yaitu ...
+
+[Materi #587]
+Topik (otomatis): bentuk, ciptaan, dialihkan, dlaam
+Inti konsep: Komposisi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk ciptaan yang dialihkan ke dlaam suatu tulisan musik agar lagu dapat dinikmati orang banyak disebut ...
+
+[Materi #588]
+Topik (otomatis): musik, lagu, berikut, unsur-unsur
+Inti konsep: 4, 2, 5, 3, dan 1
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini unsur-unsur karya musik:
+1) isi dan jiwa lagu
+2) jenis tempo dan dinamik
+3) jenis tangga nada yang digunakan
+4) jenis musik apa yang akan dibuat
+5) jenis birama dan irama
+
+Langkah-langkah secara berurutan sebelum membuat aransir sebuah lagu adalah ...
+
+[Materi #589]
+Topik (otomatis): ditambahkan, akhir, aransemen, lagu
+Inti konsep: Coda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bagian yang ditambahkan pada akhir suatu aransemen lagu bertujuan menghasilkan titik klimaks disebut ...
+
+[Materi #590]
+Topik (otomatis): arranger, musik, tidaklah, mudah
+Inti konsep: Menentukan lirik lagu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menjadi arranger musik tidaklah mudah, harus memenuhi syarat sebagai berikut, kecuali ...
+
+[Materi #591]
+Topik (otomatis): karya, cipta, musik, tidak
+Inti konsep: Improvisasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karya cipta musik tidak tertulis berlangsung sekali saja disebut ...
+
+[Materi #592]
+Topik (otomatis): musik, dapat, dimainkan, orang
+Inti konsep: Melodi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Agar musik dapat dimainkan orang lain (pemusik) seperti yang dikehendaki komponisnya dilakukan penulisan dengan ...
+
+[Materi #593]
+Topik (otomatis): berikut, musik, cara, memainkannya
+Inti konsep: Harpa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah musik yang cara memainkannya digesek, kecuali ...
+
+[Materi #594]
+Topik (otomatis): hasil, karya, cipta, lagu
+Inti konsep: Lagu instrumen
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hasil karya cipta lagu/nyanyian dapat berupa sebagai berikut, kecuali ...
+
+[Materi #595]
+Topik (otomatis): bernyanyi, dibawakan, orang, disebut
+Inti konsep: Kwartet
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bernyanyi dibawakan oleh empat orang disebut ...
+
+[Materi #596]
+Topik (otomatis): notasi, balok, media, komunikasi
+Inti konsep: Tujuh oktaf
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Notasi balok merupakan media komunikasi formal yang bersifat internasional, jangkauannya mencapai ...
+
+[Materi #597]
+Topik (otomatis): berikut, unsur, melodi
+Inti konsep: Aktor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan merupakan unsur melodi adalah ...
+
+[Materi #598]
+Topik (otomatis): musik, permainan, akapela, biasanya
+Inti konsep: Kelompok
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Permainan musik akapela yang biasanya dilakukan tanpa menggunakan alat musik termasuk jenis penampilan ...
+
+[Materi #599]
+Topik (otomatis): berikut, syarat, arranger, kecuali
+Inti konsep: Mengalihkan posisi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah syarat untuk menjadi arranger, kecuali ...
+
+[Materi #600]
+Topik (otomatis): berikut, termasuk, transkrip
+Inti konsep: Mengubah notasi angka menjadi notasi balok atau sebaliknya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk pengertian transkrip adalah ...
+
+[Materi #601]
+Topik (otomatis): disebut, musik, dibunyikan, suara
+Inti konsep: Musik vokal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musik yang dibunyikan dengan suara manusia (mulut) atau disebut menyanyi disebut ...

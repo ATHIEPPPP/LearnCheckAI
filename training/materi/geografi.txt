@@ -1,0 +1,3290 @@
+=== MATERI GEOGRAFI ===
+
+[Materi #1]
+Topik (otomatis): sensor, pengindraan, jauh
+Inti konsep: merekam objek yang diteliti
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fungsi sensor dalam pengindraan jauh adalah untuk….
+
+[Materi #2]
+Topik (otomatis): simbol, menggambarkan, sungai, jalan
+Inti konsep: garis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk menggambarkan simbol sungai dan jalan maka dapat digunakan simbol….
+
+[Materi #3]
+Topik (otomatis): tahapan-tahapan, penggunaan, peta
+Inti konsep: pembacaan peta, analisis peta, dan interprestasi peta
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tahapan-tahapan dalam penggunaan peta adalah….
+
+[Materi #4]
+Topik (otomatis): berikut, unsur-unsur, dapat, disadap
+Inti konsep: pola
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah unsur-unsur yang dapat disadap dari peta, kecuali….
+
+[Materi #5]
+Topik (otomatis): jarak, kota, diketahui, peta
+Inti konsep: 10 cm
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika diketahui jarak dari kota X ke kota Y di peta 10 cm, skalanya 1:100.000 maka jarak sebenarnya adalah….
+
+[Materi #6]
+Topik (otomatis): cara, digunakan, mengukur, arah
+Inti konsep: bearing dan azimuth
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cara yang digunakan untuk mengukur arah dapat dilakukan melalui….
+
+[Materi #7]
+Topik (otomatis): luas, bidang, dapat, diketahui
+Inti konsep: pengukuran ketinggian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Luas suatu bidang dapat diketahui dengan cara berikut, kecuali….
+
+[Materi #8]
+Topik (otomatis): bentuk, tiruan, bumi, mendekati
+Inti konsep: globe
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tiruan bentuk dari sebuah bumi yang mendekati bentuk aslinya disebut….
+
+[Materi #9]
+Topik (otomatis): ilmu, seni, teknik, mendeteksi
+Inti konsep: remote sensing
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu ilmu, seni, dan teknik untuk mendeteksi suatu alam dan sosial budaya di permukaan bumi dari jarak jauh dengan menggunakan alat pengindraan berupa sensor buatan disebut….
+
+[Materi #10]
+Topik (otomatis): menurut, bentuknya, simbol, peta
+Inti konsep: titik, garis dan bidang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menurut bentuknya, simbol pada peta diklasifikasikan menjadi….
+
+[Materi #11]
+Topik (otomatis): sumber, energi, pengindraan, jauh
+Inti konsep: menyinari objek dan memantulkan pada sensor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fungsi sumber energi dalam proses pengindraan jauh adalah….
+
+[Materi #12]
+Topik (otomatis): kenampakan, gejala, sosial, dapatn
+Inti konsep: pola persebaran pemukiman
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kenampakan gejala sosial yang dapatn dideteksi oleh pengindraan jauh adalah….
+
+[Materi #13]
+Topik (otomatis): berikut, dimaksud, rona
+Inti konsep: tingkat kecerahan objek yang tergambar pada citra
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang dimaksud dengan rona adalah….
+
+[Materi #14]
+Topik (otomatis): objek, permukaan, bumi, dapat
+Inti konsep: sensor memancarkan cahaya pada objek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu objek di permukaan bumi dapat ditangkap oleh sensor pengindraan jauh. Hal ini disebabkan….
+
+[Materi #15]
+Topik (otomatis): berikut, pengaruh, sumber, tenaga
+Inti konsep: intensitas pantulan atau pancaran yang berasal dari objek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang merupakan pengaruh sumber tenaga bagi kualitas pengambilan foto udara adalah….
+
+[Materi #16]
+Topik (otomatis): foto, kelapa, sawit, udara
+Inti konsep: pemotretan dilakukan tengah hari dalam posisi tegak lurus dengan objek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebuah foto udara memperlihatkan objek berupa perkebunan kelapa sawit. Pada foto itu tidak tampak bayangan dari pohon kelapa sawit tersebut. Hal ini terjadi karena….
+
+[Materi #17]
+Topik (otomatis): geografi, prinsip, peta, grafik
+Inti konsep: deskripsi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peta, grafik, table data, dan diagram akan sangat membantu dalam melihat karakteristik yang spesifik dari suatu gejala geografi. Pernyataan di atas adalah salah satu dari prinsip geografi yaitu prinsip….
+
+[Materi #18]
+Topik (otomatis): kota, hujan, akhir-akhir, sering
+Inti konsep: atmosfer dan biosfer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kota A akhir-akhir ini sering dilanda banjir pada musim hujan meskipun curah hujan relatif kecil. Lokasi kota A dilalui sungai yang berhulu di kaki gunung yang telah terjadi banyak alih fungsi lahan hutan. Komponen geosfer yang berkaitan dengan fenomena alam ini adalah….
+
+[Materi #19]
+Topik (otomatis): ruang, lingkup, kajian, geografi
+Inti konsep: lingkungan fisik alam dan keruangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ruang lingkup kajian geografi menurut Rhoads Murphy dalam The Scope of Geography, kecuali….
+
+[Materi #20]
+Topik (otomatis): manusia, alam, pokok-pokok, ruang
+Inti konsep: 1, 2, dan 4
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pokok-pokok ruang lingkup studi geografi:
+1) Kerangka regional dan analisis wilayah yang berciri khusus.
+2) Interaksi antara manusia dengan lingkungan fisik alam.
+3) Kebudayaan manusia dan akibatnya terhadap alam.
+4) Aspek keruangan dan pemanfaatannya bagi tempat hidup manusia.
+Pernyataan tersebut yang benar adalah….
+
+[Materi #21]
+Topik (otomatis): hewan, tumbuhan, hidup, lingkungan
+Inti konsep: biosfer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hewan dan tumbuhan yang hidup di lingkungan alam juga merupakan objek kajian geografi ditinjau dari aspek….
+
+[Materi #22]
+Topik (otomatis): mengetahui, terjadinya, fenomena, alam
+Inti konsep: how
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Untuk mengetahui proses terjadinya fenomena alam, analisis geografi dapat dilakukan dengan mengajukan pertanyaan….
+
+[Materi #23]
+Topik (otomatis): berikut, termasuk, letak, fisiografi
+Inti konsep: letak klimatologi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk letak fisiografi dalam objek material geografi adalah….
+
+[Materi #24]
+Topik (otomatis): objek, geografi, mungkin, memiliki
+Inti konsep: material
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Geografi mungkin akan memiliki objek yang sama dengan ilmu lain, terutama dalam objek….
+
+[Materi #25]
+Topik (otomatis): pertanyaan, how, objek, geografi
+Inti konsep: ukuran dari objek geografi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam objek geografi formal terdapat pertanyaan tentang “how many/how much”. Pertanyaan tersebut berkaitan dengan….
+
+[Materi #26]
+Topik (otomatis): biogeografi, geografi, ilmu-ilmu, lain
+Inti konsep: persebaran flora dan fauna di permukaan bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Geografi dengan ilmu-ilmu lain akan memunculkan ilmu baru. Sebagai contohnya adalah biogeografi. Contoh objek kajian biogeografi adalah….
+
+[Materi #27]
+Topik (otomatis): gejala, geografi, kehidupan, sehari-hari
+Inti konsep: angin
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gejala geografi dalam kehidupan sehari-hari yang sangat membantu para nelayan tradisional adalah….
+
+[Materi #28]
+Topik (otomatis): berikut, gejala-gejala, geografi, kehidupan
+Inti konsep: satelit komunikasi yang mengelilingi bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan gejala-gejala geografi dalam kehidupan sehari-hari, kecuali….
+
+[Materi #29]
+Topik (otomatis): ilmu, penunjang, geografi, mempelajari
+Inti konsep: oceanografi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ilmu penunjang geografi yang mempelajari lautan berserta isi dan morfologinya disebut….
+
+[Materi #30]
+Topik (otomatis): pendekatan, geografi, menganalisis, gejala
+Inti konsep: keruangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pendekatan geografi dalam menganalisis gejala atau fenomena geografis berdasarkan penyebarannya adalah….
+
+[Materi #31]
+Topik (otomatis): lapisan, permukaan, bumi, mendukung
+Inti konsep: biosfer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lapisan di permukaan bumi yang mendukung kehidupan organisme adalah ....
+
+[Materi #32]
+Topik (otomatis): berikut, termasuk, jenis-jenis, hutan
+Inti konsep: hutan heterogen
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan termasuk jenis-jenis hutan berdasarkan tujuan dan kegunaannya adalah ....
+
+[Materi #33]
+Topik (otomatis): berikut, termasuk, jenis-jenis, hutan
+Inti konsep: hutan payau
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan termasuk jenis-jenis hutan ditinjau dari tempat tumbuhnya adalah ....
+
+[Materi #34]
+Topik (otomatis): padang, rumput, diselingi, pohon-pohon
+Inti konsep: sabana
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Padang rumput yang diselingi oleh pohon-pohon yang agak tinggi dan menyebar disebut ....
+
+[Materi #35]
+Topik (otomatis): berikut, tujuan, ingin, dicapai
+Inti konsep: tersedianya kayu bangunan dalam jumlah yang cukup
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan merupakan tujuan yang ingin dicapai dengan peningkatan penanaman pohon jadi di Indonesia adalah ....
+
+[Materi #36]
+Topik (otomatis): faktor-faktor, biotik, memengaruhi, kehidupan
+Inti konsep: flora, fauna, dan manusia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor-faktor biotik yang memengaruhi kehidupan di muka bumi adalah ....
+
+[Materi #37]
+Topik (otomatis): salah, manfaat, tidak, langsung
+Inti konsep: mengatur tata air
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu manfaat tidak langsung dari hutan adalah ....
+
+[Materi #38]
+Topik (otomatis): faktor-faktor, fisik, memengaruhi, kehidupan
+Inti konsep: iklim, tanah, dan relief
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor-faktor fisik yang memengaruhi kehidupan di muka bumi adalah ....
+
+[Materi #39]
+Topik (otomatis): berikut, termasuk, faktor-faktor, memengaruhi
+Inti konsep: amplitudo
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut yang bukan termasuk faktor-faktor yang memengaruhi kehidupan di muka bumi adalah ....
+
+[Materi #40]
+Topik (otomatis): berikut, hewan, tidak, hidup
+Inti konsep: anoa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah hewan yang tidak hidup di Indonesia bagian barat adalah ....
+
+[Materi #41]
+Topik (otomatis): hutan, tumbuhan, tumbuh, hujan
+Inti konsep: rotan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tumbuhan yang tumbuh di hutan hujan tropis yang menjalar dan membelit pada pohon, banyak terdapat di hutan Indonesia adalah ....
+
+[Materi #42]
+Topik (otomatis): negara-negara, berikut, tidak, memiliki
+Inti konsep: Indonesia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara-negara berikut ini yang tidak memiliki hutan musim adalah ....
+
+[Materi #43]
+Topik (otomatis): padang, rumput, bawah, tidak
+Inti konsep: sabana
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Padang rumput di bawah ini yang tidak memiliki hutan musim adalah ....
+
+[Materi #44]
+Topik (otomatis): wilayah, berdasarkan, pembagian, fauna
+Inti konsep: oriental
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan pembagian wilayah fauna di Indonesia bagian barat termasuk di wilayah ....
+
+[Materi #45]
+Topik (otomatis): salah, cari, khas, vegetasi
+Inti konsep: pada musim kemarau daunnya meranggas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu cari khas dari vegetasi bumi adalah ....
+
+[Materi #46]
+Topik (otomatis): berikut, dimaksud, populasi
+Inti konsep: kumpulan individu sejenis yang hidup bersama di suatu wilayah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang dimaksud dengan populasi adalah ....
+
+[Materi #47]
+Topik (otomatis): hidup, ikan, hidupnya, air
+Inti konsep: habitat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ikan hidupnya di air, manusia hidup di daratan, harimau hidup di hutan. Fenomena seperti ini merupakan contoh dari ....
+
+[Materi #48]
+Topik (otomatis): negara, memiliki, hutan, hujan
+Inti konsep: Brasil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara yang memiliki hutan hujan tropis terluas di dunia adalah ....
+
+[Materi #49]
+Topik (otomatis): pantai, hutan, mangrove, banyak
+Inti konsep: berfungsi untuk manahan abrasi laut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hutan mangrove banyak dibudidayakan di pantai barat Sumatra dan pantai selatan Kalimantan. Hal ini disebebkan karena ....
+
+[Materi #50]
+Topik (otomatis): menumpang, kawasan, hutan, hujan
+Inti konsep: benalu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada kawasan hutan hujan tropis sering dijumpai adanya tanaman-tanaman yang merambat dan menumpang. Jenis tanaman menumpang seperti anggrek disebut ....
+
+[Materi #51]
+Topik (otomatis): kehidupan, muka, bumi, menempati
+Inti konsep: ekosistem
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kehidupan di muka bumi yang menempati suatu lapisan dalam atmosfer disebut ....
+
+[Materi #52]
+Topik (otomatis): kumpulan, populasi, hidup, tempat
+Inti konsep: komunitas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kumpulan populasi yang hidup pada suatu tempat atau wilayah tertentu adalah ....
+
+[Materi #53]
+Topik (otomatis): kawasan, tinggi, tumbuhan, terdapat
+Inti konsep: hujan tropis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kawasan hutan yang memiliki suhu dan kelembapan yang tinggi, hijau sepanjang tahun, pohon-pohonnya besar dan tinggi, tumbuhan semak-semak banyak terdapat di bawah pohonnya, serta terdapat tumbuhan merambat merupakan kawasan ....
+
+[Materi #54]
+Topik (otomatis): hutan, terdiri, atas, pohon
+Inti konsep: hutan hujan daerah tropis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hutan yang terdiri atas hutan dengan jenis pohon yang selalu hijau disebut ....
+
+[Materi #55]
+Topik (otomatis): padang, rumput, diselingi, pohon-pohon
+Inti konsep: sabana
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suatu padang rumput yang diselingi oleh pohon-pohon yang agak tinggi dan menyebar adalah ....
+
+[Materi #56]
+Topik (otomatis): musim, hutan, terdapat, daerah
+Inti konsep: hutan sabana
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hutan yang terdapat di daerah yang memiliki musim kemarau lebih panjang daripada musim penghujan disebut ....
+
+[Materi #57]
+Topik (otomatis): padang, rumput, luas, daerah
+Inti konsep: sabana
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Padang rumput yang luas di daerah sedang, diselingi oleh pohon-pohon atau semak-semak belukar adalah ....
+
+[Materi #58]
+Topik (otomatis): padang, rumput, luas, diselingi
+Inti konsep: stepa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Padang rumput yang luas tanpa diselingi oleh pepohonan disebut ....
+
+[Materi #59]
+Topik (otomatis): berikut, daerah, persebaran, biama
+Inti konsep: Afrika Selatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang merupakan daerah persebaran biama hutan gugur adalah ....
+
+[Materi #60]
+Topik (otomatis): daerah, padang, pasir, banyak
+Inti konsep: kaktus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di daerah padang pasir banyak ditemukan berbagai macam jenis tanaman xerofit, diantaranya ....
+
+[Materi #61]
+Topik (otomatis): sekelompok, individu, spesies, sama
+Inti konsep: populasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sekelompok individu dari spesies yang sama disebut ....
+
+[Materi #62]
+Topik (otomatis): perbedaan, tempat, persebaran, flora
+Inti konsep: keadaan iklim dan jenis tanah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perbedaan persebaran flora di muka bumi antara satu tempat dan tempat lainnya disebabkan oleh perbedaan fisik, anatara lain ....
+
+[Materi #63]
+Topik (otomatis): tumbuhan, hidup, daerah, laut
+Inti konsep: tratai dan eceng gondok
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis tumbuhan yang hidup di daerah laut dalam yang tidak dapat ditembus sinar matahari adalah ....
+
+[Materi #64]
+Topik (otomatis): berikut, tidak, termasuk, pengelompokkan
+Inti konsep: hutan rawa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang tidak termasuk dalam pengelompokkan persebaran flora di Indonesia berdasarkan perbedaan iklim adalah ....
+
+[Materi #65]
+Topik (otomatis): berikut, penyebab, kepunahan, hewan
+Inti konsep: perubahan suhu
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan penyebab kepunahan hewan adalah ....
+
+[Materi #66]
+Topik (otomatis): berikut, angka, interval, penduduk
+Inti konsep: 0-4 tahun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan angka dari interval penduduk yang benar adalah ....
+
+[Materi #67]
+Topik (otomatis): pertumbuhan, penduduk, tingkat, tinggi
+Inti konsep: pertama
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pertumbuhan penduduk berjalan perlahan-lahan, yang ditandai dengan tingkat kelahiran tinggi, serta tingkat kematian tinggi, merupakan pertumbuhan penduduk pada periode ....
+
+[Materi #68]
+Topik (otomatis): piramida, penduduk, negara, sedang
+Inti konsep: muda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Piramida penduduk negara sedang berkembang tergolong usia ....
+
+[Materi #69]
+Topik (otomatis): berikut, akibat, urbanisasi, desa
+Inti konsep: peralihan modal dari desa ke kota
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang merupakan akibat dari urbanisasi untuk desa adalah ....
+
+[Materi #70]
+Topik (otomatis): berikut, masalah, kependudukan, dialami
+Inti konsep: penyebaran penduduk yang tidak merata
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini masalah kependudukan yang dialami Indonesia adalah ....
+
+[Materi #71]
+Topik (otomatis): penduduk, pertumbuhan, besar, menghambat
+Inti konsep: kesejahteraan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pertumbuhan penduduk yang besar telah menghambat usaha untuk meningkatkan kemakmuran penduduk. Hal tersebut merupakan masalah kependudukan pada bidang ....
+
+[Materi #72]
+Topik (otomatis): pertumbuhan, penduduk, alami, natural
+Inti konsep: Pn = Po + (L - M)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pertumbuhan penduduk alami (natural increase) dapat diketahui dengan menggunakan rumus ....
+
+[Materi #73]
+Topik (otomatis): jumlah, penduduk, usia, tahun
+Inti konsep: 80
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negera X diketahui memiliki jumlah penduduk usia 0-14 tahun sebanyak 1.000.000, jumlah pendudukusia 65 ke atas 600.000, jumlah penduduk usia 15-64 tahun adalah 2.000.000, berarti angka ketergantungannya adalah ....
+
+[Materi #74]
+Topik (otomatis): komposisi, penduduk, menggambarkan, jumlah
+Inti konsep: jenis kelamin dan umur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Komposisi yang menggambarkan jumlah pria dan wanita, serta komposisi umur dari penduduk, merupakan komposisi penduduk berdasarkan ....
+
+[Materi #75]
+Topik (otomatis): pertambahan, penduduk, salah, masalah
+Inti konsep: > 2%
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu masalah kependudukan yang dialami Indonesia adalah pertambahan penduduk yang tinggi dibandingkan dengan negara-negara lain. Dapat dikatakan pertambahan penduduktinggi karena persentase pertumbuhan penduduk per tahun adalah ....
+
+[Materi #76]
+Topik (otomatis): penggolongan, penduduk, menurut, umur
+Inti konsep: komposisi penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penggolongan penduduk menurut umur, jenis kelamin, mata pencaharian, agama, dan tempat tinggal disebut ....
+
+[Materi #77]
+Topik (otomatis): berikut, termasuk, kelompok, usia
+Inti konsep: 0-14 tahun
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk kelompok usia belum produktif ialah ....
+
+[Materi #78]
+Topik (otomatis): berikut, kegunaan, piramida, penduduk
+Inti konsep: mengetahui luas wilayah suatu negara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan kegunaan piramida penduduk, kecuali ....
+
+[Materi #79]
+Topik (otomatis): penduduk, perhitungan, jalan, mencatat
+Inti konsep: de jure
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhitungan penduduk dengan jalan mencatat penduduk atau orang-orang yang benar-benar tinggal di daerah tersebut adalah jenis sensus ....
+
+[Materi #80]
+Topik (otomatis): bentuk, penduduk, piramida, tepat
+Inti konsep: piramida penduduk kerucut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk piramida penduduk yang tepat untuk menggambarkan keadaan penduduk Indonesia adalah bentuk ....
+
+[Materi #81]
+Topik (otomatis): piramida, penduduk, alas, lebar
+Inti konsep: sebagian besar penduduk berusia muda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Piramida penduduk dengan alas yang lebar menujukkan ....
+
+[Materi #82]
+Topik (otomatis): salah, masalah, kependudukan, indonesia
+Inti konsep: penyebaran penduduk yang tidak merata
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu masalah kependudukan di Indonesia adalah ....
+
+[Materi #83]
+Topik (otomatis): pencatatan, mengenai, data, pendudukan
+Inti konsep: angket
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pencatatan mengenai data ke pendudukan yang dilaksanakan secara terus-menerus oleh pemerintah daerah disebut ....
+
+[Materi #84]
+Topik (otomatis): wilayah, banyaknya, penduduk, menempati
+Inti konsep: densitas aritmatik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Banyaknya penduduk yang menempati wilayah tiap 1 km2 dengan tidak memperhitungkan kualitas wilayah disebut ....
+
+[Materi #85]
+Topik (otomatis): piramida, penduduk, tandai, angka
+Inti konsep: piramida penduduk stasioner
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Piramida penduduk yang di tandai dengan angka natalitas dan mortalitas relatif seimbang ialah ....
+
+[Materi #86]
+Topik (otomatis): berikut, faktor-faktor, pendorong, fertilitas
+Inti konsep: berperilaku (moral) yang restrain
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan faktor-faktor pendorong fertilitas adalah ....
+
+[Materi #87]
+Topik (otomatis): berikut, faktor-faktor, menyebabkan, pulau
+Inti konsep: faktor luasnya lahan yang tersedia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang bukan faktor-faktor yang menyebabkan Pulau Jawa dan Madura menjadi tempat pemusatan penduduk adalah ....
+
+[Materi #88]
+Topik (otomatis): diketahuinya, angka, ketergantungan, dapat
+Inti konsep: perbandingan usia penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dengan diketahuinya angka ketergantungan maka dapat digunakan untuk mengetahui ....
+
+[Materi #89]
+Topik (otomatis): angka, menunjukkan, jumlah, rata-rata
+Inti konsep: densitas penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Angka yang menunjukkan jumlah rata-rata penduduk per km2 pada suatu wilayah atau negara disebut ....
+
+[Materi #90]
+Topik (otomatis): berikut, dampak, negatif, arus
+Inti konsep: meningkatnya kualitas penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan dampak negatif dari arus urbanisasi yang tak terkendali, kecuali ....
+
+[Materi #91]
+Topik (otomatis): angka, persamaan, perhitungan, kelahiran
+Inti konsep: setiap 1.000 orang penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Persamaan dalam perhitungan angka kelahiran dengan angka kematian dihitung dari ....
+
+[Materi #92]
+Topik (otomatis): penduduk, semacam, sensus, mencatat
+Inti konsep: sensus penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Semacam sensus penduduk yang mencatat jumlah penduduk, misalnya penduduk yang berstatus guru, petani, dan pelajar disebut ....
+
+[Materi #93]
+Topik (otomatis): orang, menyatakan, mengemukakan, pertama
+Inti konsep: Thomas Robert Malthus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Orang yang menyatakan atau mengemukakan pertama kali mengenai teori penduduk adalah ....
+
+[Materi #94]
+Topik (otomatis): jumlah, bayi, pertengahan, tahun
+Inti konsep: 20 jiwa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika pertengahan tahun 1998 di negara X jumlah penduduk 60.000 jiwa dan jumlah bayi yang lahir 1.200 bayi, banyaknya tingkat kelahiran adalah ....
+
+[Materi #95]
+Topik (otomatis): kabupaten, terdapat, jiwa, luas
+Inti konsep: 250 jiwa/km2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di sebuah kabupaten terdapat 500.000 jiwa dan luas wilayah kabupaten tersebut adalah 2.000 km2, kepadatan penduduk kabupaten tersebut adalah ....
+
+[Materi #96]
+Topik (otomatis): berikut, salah, faktor, penghambat
+Inti konsep: UU perkawinan No. 1 Tahun 1974
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan salah satu faktor penghambat natalitas adalah ....
+
+[Materi #97]
+Topik (otomatis): grafik, penduduk, menurut, umur
+Inti konsep: piramida penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Grafik penduduk menurut umur dan jenis kelamin pada waktu tertentu disebut ....
+
+[Materi #98]
+Topik (otomatis): dependency, ratio, angka, menunjukkan
+Inti konsep: jumlah penduduk yang menjadi beban bagi penduduk produktif dalam hal ekonomi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengertian dependency ratio adalah angka menunjukkan ....
+
+[Materi #99]
+Topik (otomatis): transmigrasi, sendiri, dilaksanakan, atas
+Inti konsep: spontan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Transmigrasi yang dilaksanakan atas kemauan atau kehendakan sendiri dengan biaya sendiri disebut transmigrasi ....
+
+[Materi #100]
+Topik (otomatis): besar, kecilnya, rasio, ketergantungan
+Inti konsep: umur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Besar kecilnya rasio ketergantungan berkaitan erat dengan susunan penduduk di suatu negara berdasarkan ....
+
+[Materi #101]
+Topik (otomatis): tempat, tinggal, lahan, pertanian
+Inti konsep: ruang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tempat tinggal, lahan pertanian, dan tempat bermain termasuk ke dalam sumber daya alam ....
+
+[Materi #102]
+Topik (otomatis): sumber, daya, alam, dapat
+Inti konsep: reproduksi siklus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sumber daya alam dapat dilakukan pembaharuan dengan cara ....
+
+[Materi #103]
+Topik (otomatis): sumber, daya, alam, energi
+Inti konsep: minyak bumi dan gas alam, batu bara dan sinar matahari
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh sumber daya alam energi adalah ....
+
+[Materi #104]
+Topik (otomatis): aktivitas, manusia, dapat, menurunkan
+Inti konsep: pembalakan hutan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Aktivitas manusia yang dapat menurunkan kualitas dan kuantitas sumber daya alam adalah ....
+
+[Materi #105]
+Topik (otomatis): sumber, daya, alam, tidak
+Inti konsep: barang tambang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh sumber daya alam yang tidak dapat diperbahui adalah ....
+
+[Materi #106]
+Topik (otomatis): tidak, sumber, daya, alam
+Inti konsep: intan dan permata
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sumber daya alam yang tidak cepat habis, namun tidak dapat diperbahui adalah ....
+
+[Materi #107]
+Topik (otomatis): gas, alam, mengandung, unsur
+Inti konsep: metan dan etan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gas alam mengandung unsur ....
+
+[Materi #108]
+Topik (otomatis): organisasi, negara-negara, pengekspor, minyak
+Inti konsep: OPEC
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Organisasi negara-negara pengekspor minyak dunia adalah
+
+[Materi #109]
+Topik (otomatis): daerah, penghasil, pasir, besi
+Inti konsep: Cilacap
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Daerah penghasil pasir besi di Indonesia adalah ....
+
+[Materi #110]
+Topik (otomatis): kaolin, berasal
+Inti konsep: pelapukan batuan granit
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kaolin berasal dari ....
+
+[Materi #111]
+Topik (otomatis): kaolin, banyak, terdapat, daerah
+Inti konsep: Sumatra
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kaolin banyak terdapat di daerah ....
+
+[Materi #112]
+Topik (otomatis): intan, banyak, terdapat, daerah
+Inti konsep: Martapura
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Intan banyak terdapat di daerah ....
+
+[Materi #113]
+Topik (otomatis): pasir, besi, banyak, terdapat
+Inti konsep: Cilacap
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pasir besi banyak terdapat di daerah ....
+
+[Materi #114]
+Topik (otomatis): batuan, marmer, banyak, terdapat
+Inti konsep: Trenggalek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batuan marmer banyak terdapat di ....
+
+[Materi #115]
+Topik (otomatis): bauksit, banyak, terdapat, daerah
+Inti konsep: Pulau Bintan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bauksit banyak terdapat di daerah ....
+
+[Materi #116]
+Topik (otomatis): berikut, daerah, penghasil, emas
+Inti konsep: Muara Sipeng
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan daerah penghasil emas, kecuali ....
+
+[Materi #117]
+Topik (otomatis): tras, banyak, terdapat
+Inti konsep: Pegunungan Muria
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tras banyak terdapat di ....
+
+[Materi #118]
+Topik (otomatis): batu, bara, minyak, bumi
+Inti konsep: energi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batu bara, minyak bumi termasuk jenis sumber daya alam ....
+
+[Materi #119]
+Topik (otomatis): listrik, pembangkit, tenaga, indonesia
+Inti konsep: air
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia saat ini diharapkan pada masalah krisis energi listrik. Dilihat dari potensinya, pembangkit tenaga listrik yang paling mudah didapat dan efisien adalah pembangkit listrik tenaga ....
+
+[Materi #120]
+Topik (otomatis): indonesaia, daerah, penghasil, sagu
+Inti konsep: Maluku
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di Indonesaia daerah penghasil sagu terbanyak terdapat di ....
+
+[Materi #121]
+Topik (otomatis): banjir, permukiman, sering, pendekatan
+Inti konsep: kelingkungan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Permukiman di sepanjang Bengawan Solo sering mengalami banjir sehingga masyarakat membuat tanggul penahan banjir dan pada waktu banjir terjadi, sering kali permukiman ditinggalkan penghuninya.
+Pendekatan geografi untuk mempelajari peristiwa tersebut adalah pendekatan….
+
+[Materi #122]
+Topik (otomatis): pulau, penduduk, jawa, jumlah
+Inti konsep: interaksi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pulau Jawa dengan jumlah penduduk yang padat menyebabkan lahan pertanian sempit. Adapun pulau Kalimantan masih memiliki lahan pertanian yang luas karena jumlah penduduk yang relatif sedikit. Akibatnya, terjadi perpindahan penduduk dari Pulau Jawa ke Pulau Kalimantan melalui transmigrasi.
+Konsep geografi yang berkaitan dengan fenomena itu adalah konsep….
+
+[Materi #123]
+Topik (otomatis): fenomena, udara, prinsip, alam
+Inti konsep: interelasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fenomena alam dalam bentuk angin puting beliung yang terjadi di wilayah Indonesia ada kaitannya dengan perbedaan tekanan udara dan suhu udara.
+Prinsip geografi yang berkenaan dengan fenomena tersebut adalah prinsip….
+
+[Materi #124]
+Topik (otomatis): menurut, immanuel, kant, tata
+Inti konsep: nebula
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menurut Immanuel Kant, tata surya terbentuk dari gumpalan kabut yang terdiri atas bermacam-macam gas yang berpilin lambat hingga membentuk cakram biasa disebut teori….
+
+[Materi #125]
+Topik (otomatis): bumi, benda, terapung, ada
+Inti konsep: Thales
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bumi merupakan benda terapung yang ada di permukaan air, teori ini dikemukakan oleh….
+
+[Materi #126]
+Topik (otomatis): planet-planet, dikelompokan, superior, planet
+Inti konsep: Merkurius
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Planet-planet yang dikelompokan ke dalam superior planet, kecuali….
+
+[Materi #127]
+Topik (otomatis): planet, yupiter, terdapat, titik
+Inti konsep: topan dibagian atas atmosfer Yupiter
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di planet Yupiter terdapat titik merah besar. Fenomena ini disebabkan oleh….
+
+[Materi #128]
+Topik (otomatis): halmahera, salah, wilayah, indonesia
+Inti konsep: berada di atas lempeng Samudra Pasifik dan Indo-Australia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Halmahera merupakan salah satu wilayah di Indonesia yang rawan gempa, karena….
+
+[Materi #129]
+Topik (otomatis): fenomena, letusan, gunung, api
+Inti konsep: perisai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini fenomena letusan gunung api
+1) Letusan tidak dahsyat.
+2) Material yang dikeluarkan sangat cair
+3) Tekanan gas tinggi
+Fenomena tersebut akan menghasilkan bentuk muka bumi berupa gunung api….
+
+[Materi #130]
+Topik (otomatis): batuan, bercirikan, berbutir, kasar
+Inti konsep: beku dalam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batuan yang bercirikan berbutir kasar dan jarang adanya lubang gas adalah batuan….
+
+[Materi #131]
+Topik (otomatis): kota, suhu, memiliki, ketinggian
+Inti konsep: 16,74ᵒ C
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kota A memiliki ketinggian 5 meter di atas permukaan laut dan rata-rata suhu udara di kota A= 18ᵒC. Jika di kota B memiliki ketinggian 215m di atas permukaan laut dengan setiap naik 100 meter, suhu turun 0,6ᵒC, maka rata-rata suhu udaranya adalah….
+
+[Materi #132]
+Topik (otomatis): sungai, pola, aliran, bentuknya
+Inti konsep: trellis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pola aliran sungai yang bentuknya menyerupai tralis yang terdapat pada daerah lipatan disebut sungai….
+
+[Materi #133]
+Topik (otomatis): hujan, terjadi, daerah, tropis
+Inti konsep: hujan zenithal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hujan yang terjadi di daerah tropis yang disebabkan oleh arus konveksi disebut….
+
+[Materi #134]
+Topik (otomatis): hewan, indonesia, bercorak, wilayah
+Inti konsep: komodo, anoa, dan maleo
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh hewan di Indonesia yang bercorak wilayah peralihan adalah….
+
+[Materi #135]
+Topik (otomatis): flora, hidup, daerah, beriklim
+Inti konsep: lumut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Flora yang hidup di daerah beriklim dingin atau tundra adalah….
+
+[Materi #136]
+Topik (otomatis): ciri-ciri, piramida, penduduk, stasioner
+Inti konsep: kelahiran dan kematian sama-sama rendah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri-ciri piramida penduduk stasioner adalah tingkat….
+
+[Materi #137]
+Topik (otomatis): penduduk, berdasarkan, pengelompokan, tingkatan
+Inti konsep: biologis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengelompokan penduduk berdasarkan tingkatan usia merupakan komposisi penduduk berdasarkan….
+
+[Materi #138]
+Topik (otomatis): sumber, daya, alam, akuatik
+Inti konsep: sumber daya alam di perairan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sumber daya alam akuatik adalah….
+
+[Materi #139]
+Topik (otomatis): termasuk, sumber, daya, alam
+Inti konsep: flora dan fauna
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Termasuk sumber daya alam tidak dapat diperbarui dan harus digunakan sehemat mungkin, kecuali….
+
+[Materi #140]
+Topik (otomatis): hutan, berfungsi, mengikat, menahan
+Inti konsep: hidrologis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hutan berfungsi untuk mengikat atau menahan air hujan. Hal ini disebut fungsi….
+
+[Materi #141]
+Topik (otomatis): salah, strategis, hutan
+Inti konsep: untuk mengatur tata air dan iklim
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu fungsi strategis dari hutan adalah….
+
+[Materi #142]
+Topik (otomatis): pembalakan, hutan, secara, liar
+Inti konsep: membuka lapangan pekerjaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pembalakan hutan secara liar menyebabkan kerusakan lingkungan berikut, kecuali….
+
+[Materi #143]
+Topik (otomatis): salah, dampak, negatif, permukiman
+Inti konsep: meningkatkan limbah domestik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu dampak negatif permukiman terhadap lingkungan fisik adalah….
+
+[Materi #144]
+Topik (otomatis): ciri-ciri, pembangunan, berwawasan, lingkungan
+Inti konsep: menggunakan pandangan jangka pendek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri-ciri pembangunan berwawasan lingkungan, kecuali….
+
+[Materi #145]
+Topik (otomatis): pembangunan, berkelanjutan, berkaitan, lingkungan
+Inti konsep: menjaga kelestarian lingkungan hidup
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pembangunan berkelanjutan yang berkaitan dengan lingkungan hidup bertujuan untuk….
+
+[Materi #146]
+Topik (otomatis): arah, menunjukan, lereng, landai
+Inti konsep: 2
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Arah yang menunjukan lereng yang landai pada gambar di bawah ini adalah nomor….
+
+[Materi #147]
+Topik (otomatis): jarak, kedua, titik, peta
+Inti konsep: 1 : 30.000
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jarak kedua titik di peta 12cm, jarak sebenarnya 3.600 m. Jadi, skala petanya….
+
+[Materi #148]
+Topik (otomatis): faktor-faktor, mempengaruhi, lokasi, industri
+Inti konsep: dekat dengan wilayah pertumbuhan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor-faktor yang mempengaruhi lokasi industri, kecuali….
+
+[Materi #149]
+Topik (otomatis): termasuk, unsur-unsur, citra, kecuali
+Inti konsep: ketinggian dalam pengambilan gambar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Termasuk dalam unsur-unsur citra, kecuali….
+
+[Materi #150]
+Topik (otomatis): citra, diperoleh, sensor, kamera
+Inti konsep: citra radar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Citra yang diperoleh dari sensor bukan kamera dan menggunakan spektrum elektromagnetik disebut….
+
+[Materi #151]
+Topik (otomatis): citra, mengamati, pola, berikut
+Inti konsep: 3, 4, dan 5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini manfaat citra.
+(1) Mengamati pola perubahan pantai.
+(2) Untuk menunjukan situs purbakala.
+(3) Untuk memetakan data iklim dan cuaca.
+(4) Mengamati pola pergerakan angin.
+(5) Membantu menganalisis curah hujan tahunan.
+Pemanfaatan citra di bidang meteorologi adalah nomor….
+
+[Materi #152]
+Topik (otomatis): data, basis, membuat, baru
+Inti konsep: manipulasi dan analisis data
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Membuat basis data baru, menghapus basis data, membuat tabel basis data, dan mengedit data merupakan tahapan kerja SIG, yaitu….
+
+[Materi #153]
+Topik (otomatis): pemantulan, hutan, perhatikan, pernyataan
+Inti konsep: 2, 4, dan 5
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan berikut!
+1) Pemantulan wilayah pengikisan daerah pegunungan.
+2) Pemantulan kerusakan kebakaran hutan.
+3) Pemetaan ekosistem hutan bakau.
+4) Estimasi volume kayu.
+5) Pemantauan pelaksanaan reboisasi.
+Penggunaan sistem informasi geografi dalam bidang ketuhanan adalah nomor….
+
+[Materi #154]
+Topik (otomatis): termasuk, ciri, desa, swadaya
+Inti konsep: adat istiadat masih kuat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Termasuk ciri desa swadaya adalah….
+
+[Materi #155]
+Topik (otomatis): dampak, negatif, interaksi, desa-kota
+Inti konsep: desa kekurangan tenaga kerja muda
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dampak negatif interaksi desa-kota di daerah pedesaan adalah….
+
+[Materi #156]
+Topik (otomatis): pusat, pertumbuhan
+Inti konsep: wilayah yang perkembangannya pesat dan mampu memengaruhi wilayah lain
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengertian dari pusat pertumbuhan adalah….
+
+[Materi #157]
+Topik (otomatis): terbentuknya, pusat, pertumbuhan, memberikan
+Inti konsep: lokasi daerah yang strategis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Terbentuknya pusat pertumbuhan memberikan pengaruh pada perkembangan daerah sekitanya terutama dipengaruhi oleh faktor….
+
+[Materi #158]
+Topik (otomatis): berikut, ciri-ciri, negara, maju
+Inti konsep: pertumbuhan penduduk tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini ciri-ciri Negara maju, kecuali….
+
+[Materi #159]
+Topik (otomatis): faktor, mendorong, industri, negara-negara
+Inti konsep: tingkat etos kerja penduduk relatif maju
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor yang mendorong industri di negara-negara maju berkembang pesat adalah….
+
+[Materi #160]
+Topik (otomatis): berdasarkan, data, world, bank
+Inti konsep: Kolombia, Filipina, dan Cina
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan data World Bank Development, negara-negara yang GNP per-kapitanya antara 786-3. 125 dolar AS meliputi negara….
+
+[Materi #161]
+Topik (otomatis): ilmu, penunjang, geografi, mempelajari
+Inti konsep: oseanografi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ilmu penunjang geografi yang mempelajari lautan beserta isi dan morfologinya disebut….
+
+[Materi #162]
+Topik (otomatis): tanah, indonesia, gambut, salah
+Inti konsep: Sumatera Timur dan Kalimantan Selatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu jenis tanah di Indonesia adalah tanah gambut / organosol. Penyebaran tanah gambut di Indonesia termasuk ....
+
+[Materi #163]
+Topik (otomatis): fenomena, berliku-liku, pasir, hangus
+Inti konsep: erosi sungai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fenomena:
+1). berliku-liku
+2). pasir hangus
+3). Danau Oxbow
+4). Delta
+Fenomena di atas muncul karena pengaruh ....
+
+[Materi #164]
+Topik (otomatis): manakah, kategori, berikut, termasuk
+Inti konsep: pH
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manakah dari kategori berikut ini yang termasuk sifat kimia tanah?
+
+[Materi #165]
+Topik (otomatis): jerman, dia, ujang, musim
+Inti konsep: panasnya
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bp. Ujang melakukan perjalanan ke Jerman pada tanggal 5 Januari 2018. Ketika dia mendarat di sana, dia menemukan bahwa itu adalah musim dingin di Jerman. Bapak Ujang berencana untuk kembali ke Indonesia pada 17 Agustus 2018. Ketika dia kembali ke Indonesia, Jerman sedang musim .....
+
+[Materi #166]
+Topik (otomatis): manakah, gunung, berapi, memiliki
+Inti konsep: Tambora
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manakah dari gunung berapi ini yang memiliki kawah besar (kaldera) ....
+
+[Materi #167]
+Topik (otomatis): batuan, manakah, kelompok, berikut
+Inti konsep: Breccia, kanguru, jeruk nipis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manakah dari kelompok batuan berikut yang termasuk dalam jenis batuan sedimen ....
+
+[Materi #168]
+Topik (otomatis): efek, global, letusan, gunung
+Inti konsep: Penurunan suhu bumi karena abu vulkanik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Apa efek global dari letusan gunung berapi .....
+
+[Materi #169]
+Topik (otomatis): makassar, jam, waktu, bolang
+Inti konsep: 4:00 sore
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bolang berencana untuk terbang dari Jakarta ke Makassar. Dia berangkat jam 2 malam WIB. Perjalanan memakan waktu 2 jam. Ketika tiba di Makassar waktu menunjukkan di sana .....
+
+[Materi #170]
+Topik (otomatis): marmer, batu, metamorf
+Inti konsep: kapur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Marmer adalah batu metamorf .....
+
+[Materi #171]
+Topik (otomatis): erupsi, efusi, encer, dipengaruhi
+Inti konsep: Tekanan gas di gunung berapi tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Erupsi jenis efusi encer dipengaruhi oleh faktor-faktor berikut, kecuali ....
+
+[Materi #172]
+Topik (otomatis): jakarta, banjir, air, hujan
+Inti konsep: Pendekatan lingkungan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Banjir yang melanda Jakarta setiap tahunnya diakibatkan oleh banyaknya sungai-sungai yang tidak mampu menampung air hujan. Di samping itu, wilayah Jakarta dan sekitarnya, seperti Bogor, Depok dan Bekasi banyak lahan beralih fungsi dari daerah resapan air hujan menjadi daerah pemukiman atau pertokoan. Untuk menyelesaikan persoalan banjir di Jakarta dapat dianalisis dengan…
+
+[Materi #173]
+Topik (otomatis): daerah, menjual, letak, dekat
+Inti konsep: Konsep interaksi / interdependensi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Letak daerah X di dekat pantai menjual ikan laut ke daerah Y, sedangkan daerah Y sebagai penghasil pangan menjual beras ke daerah X. Konsep geografi yang berkaitan dengan fenomena tersebut adalah…
+
+[Materi #174]
+Topik (otomatis): peta, menggambarkan, struktur, batuan
+Inti konsep: Peta Khusus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peta yang menggambarkan struktur batuan pada lapisan kulit bumi (litosfer) termasuk ke dalam…
+
+[Materi #175]
+Topik (otomatis): geografi, banyak, digunakan, perencanaan
+Inti konsep: Pendekatan keruangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Geografi banyak digunakan sebagai perencanaan analisis masalah keruangan dan pemanfaatannya. Hal tersebut merupakan salah satu pendekatan geografi yang berupa…
+
+[Materi #176]
+Topik (otomatis): faktor, keterkaitan, lainnya, serta
+Inti konsep: Interaksi dan distribusi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keterkaitan antara faktor satu dengan faktor lainnya serta tersebar tidak merata di permukaan bumi dapat dipelajari dengan menggunakan prinsip..
+
+[Materi #177]
+Topik (otomatis): region, kenyataannya, studi, geografi
+Inti konsep: Objek formal geografi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada kenyataannya studi geografi tentang geosfer tidak terlepas dari unsur wilayah (region). Oleh karena itu, region merupakan…
+
+[Materi #178]
+Topik (otomatis): lahan, pak, geografi, jamal
+Inti konsep: Konsep nilai kegunaan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Contoh soal geografi kelas 10 selanjutnya. Pak Jamal merupakan pengusaha dari Jakarta, memiliki lahan 2 ha di kawasan Puncak, Bogor. Lahan tersebut dijadikan sebagai tempat peristirahatan. Adapun pak Joni memiliki lahan 1 ha di samping tanah pak Jamal. Lahan tersebut ditanami dengan palawija untuk memenuhi kebutuhan hidup sehari-hari. Konsep geografi yang digunakan untuk mengkaji fenomena tersebut adalah…
+
+[Materi #179]
+Topik (otomatis): perhatikan, pernyataan, bawah, seisme
+Inti konsep: (1),(3), dan (5)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan pernyataan di bawah ini:
+(1)Seisme
+(2)Urbanisasi
+(3)Abrasi
+(4)Ruralisasi
+(5)Tsunami
+(6)Aglomerasi industri
+Yang termasuk ke dalam aspek fisik ditunjukkan oleh nomor…
+
+[Materi #180]
+Topik (otomatis): perpaduan, unsur-unsur, fisik, nonfisik
+Inti konsep: Geografi kawasan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perpaduan unsur-unsur fisik dan nonfisik pada satu region tertentu secara komprehensif harus dibahas oleh satu cabang geografi, yaitu…
+
+[Materi #181]
+Topik (otomatis): pemerintah, daerah, membangun, taman
+Inti konsep: Peta persebaran penduduk, peta tata guna lahan dan peta jenis tanah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pemerintah daerah akan membangun taman kota, maka peta yang diperlukan adalah…
+
+[Materi #182]
+Topik (otomatis): alam, sumber, daya, berupa
+Inti konsep: materi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sumber daya alam yang berupa benda mati yang diambil dari alam yang berguna bagi kehidupan manusia disebut sumber daya alam ....
+
+[Materi #183]
+Topik (otomatis): hal-hal, berikut, sumber, daya
+Inti konsep: hewan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hal-hal berikut ini yang bukan merupakan sumber daya alam materi adalah ....
+
+[Materi #184]
+Topik (otomatis): berikut, sumber, daya, alam
+Inti konsep: batu bara dan minyak bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini merupakan jenis sumber daya alam yang tidak dapat diperbaharui adalah ....
+
+[Materi #185]
+Topik (otomatis): bahan, galian, magma, terjadi
+Inti konsep: pematit
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan galian yang terjadi dari magma yang terbentuk di dalam diatrema di dalam atau deket dengan magma disebut bahan galian ....
+
+[Materi #186]
+Topik (otomatis): berikut, bahan, tambang, golongan
+Inti konsep: minyak bumi, batu bara, timah, dan besi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang merupakan bahan tambang golongan A menurut Undang-Undang RI No. 11 Tahun 1976 adalah ....
+
+[Materi #187]
+Topik (otomatis): sumber, daya, alam, berdasarkan
+Inti konsep: akuatik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan lokasinya sumber daya alam yang terdapat di wilayah perairan adalah sumber daya alam ....
+
+[Materi #188]
+Topik (otomatis): pusat, pengolahan, minyak, bumi
+Inti konsep: Cilacap, Cepu, dan Wonokromo
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pusat pengolahan minyak bumi di Pulau Jawa terdapat di ....
+
+[Materi #189]
+Topik (otomatis): berikut, termasuk, sumber, daya
+Inti konsep: tumbuhan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk sumber daya alam yang dapat diperbaharui adalah ....
+
+[Materi #190]
+Topik (otomatis): berikut, termasuk, sumber, daya
+Inti konsep: batu bara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang termasuk sumber daya alam yang tidak dapat diperbaharui adalah ....
+
+[Materi #191]
+Topik (otomatis): terbentuknya, batu, bara, dilakukan
+Inti konsep: biokimia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses terbentuknya batu bara yang dilakukan oleh bakteri anaerob dan sisa tumbuh-tumbuhan yang menjadi keras karena beratnya sendiri disebut proses ....
+
+[Materi #192]
+Topik (otomatis): bahan, galian, menurut, undang-undang
+Inti konsep: strategis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menurut Undang-Undang No. 11 Tahun 1976 tentang pertambangan, bahan galian golongan A termasuk bahan galian ....
+
+[Materi #193]
+Topik (otomatis): bahan, galian, termasuk, penting
+Inti konsep: minyak bumi dan batu bara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan galian yang termasuk penting untuk memenuhi hajat hidup orang banyak adalah ....
+
+[Materi #194]
+Topik (otomatis): bahan, galian, magma, terjadi
+Inti konsep: metamorfosis kontak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bahan galian yang terjadi pada batuan sekitar magma yang bersentuhan dengan magma dan barubah menjadi material ekonomik termasuk bahan galian ....
+
+[Materi #195]
+Topik (otomatis): pulau, daerah, potensial, menghasilkan
+Inti konsep: Jawa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Daerah yang potensial menghasilkan tebu di Indonesia sehingga pada masa kolonial Belanda mendapat julukan “pulau mengambang di lautan gula” yaitu pulau ....
+
+[Materi #196]
+Topik (otomatis): daerah, penghasil, vanili, indoensia
+Inti konsep: Temanggung dan Ambarawa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Daerah penghasil vanili di Indoensia adalah ....
+
+[Materi #197]
+Topik (otomatis): objek, peta, paling, tepat
+Inti konsep: jenis tambang.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Objek pada peta yang paling tepat digambarkan dengan simbol kualitatif adalah ...
+
+[Materi #198]
+Topik (otomatis): penyebab, hutan, hujan, tropis
+Inti konsep: berdaun lebat.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penyebab hutan hujan tropis mempunyai peran penting sebagai penghasil oksigen dan pengendali iklim global adalah ...
+
+[Materi #199]
+Topik (otomatis): komponen, peta, topografi, diletakkan
+Inti konsep: sumber peta.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Komponen peta topografi yang diletakkan di pojok kanan bawah dekat garis tepi adalah ...
+
+[Materi #200]
+Topik (otomatis): gempa, yogyakarta, kerusakan, kabupaten
+Inti konsep: korologi.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gempa bumi dengan kekuatan 6,2 skala richter di Yogyakarta tahun 2006 mengakibatkan kerusakan hebat pada berbagai bangunan terutama permukiman. Kerusakan terbanyak terjadi di wilayah kabupaten Bantul Yogyakarta dan kabupaten Klaten Jawa Tengah. Gempa tersebut juga menimbulkan korban jiwa sekitar 5000 orang. Kajian geografi tersebut menggunakan prinsip ...
+
+[Materi #201]
+Topik (otomatis): data, masukan, berikut, dapat
+Inti konsep: kepadatan penduduk.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Data masukan berikut yang dapat diolah secara langsung melalui sistem informasi geografis adalah ...
+
+[Materi #202]
+Topik (otomatis): faktor, penyebab, terjadinya, pergeseran
+Inti konsep: arus konveksi di bawah kerak bumi.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor penyebab terjadinya pergeseran lempeng tektonik bumi adalah ...
+
+[Materi #203]
+Topik (otomatis): unsur, interpretasi, mengidentifikasi, peralatan
+Inti konsep: bentuk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unsur interpretasi untuk mengidentifikasi peralatan militer di dalam bunker dengan citra radar adalah ...
+
+[Materi #204]
+Topik (otomatis): bukit, jarak, puncak, peta
+Inti konsep: 10 km
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada peta topografi dengan interval kontur 25 meter, tergambar dua bukit dengan jarak antara puncak satu dengan lainnya 20 cm. Jarak lurus di lapang antara kedua puncak bukit tersebut adalah ...
+
+[Materi #205]
+Topik (otomatis): konsep, mengkaji, kegiatan, penduduk
+Inti konsep: diferensiasi area
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Konsep yang mengkaji jenis kegiatan penduduk di dataran tinggi dan rendah adalah ….
+
+[Materi #206]
+Topik (otomatis): bumi, gempa, tektonik, lombok
+Inti konsep: orogenetik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gempa bumi tektonik di Lombok pada tahun 2018 terjadi akibat aktivitas sesar naik Flores. Mekanisme ini adalah bagian dari pergerakan bumi secara ….
+
+[Materi #207]
+Topik (otomatis): bentukan, pola, aliran, sungai
+Inti konsep: pola aliran trellis dan rektangular
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentukan pola aliran sungai yang dapat mencirikan adanya patahan adalah ….
+
+[Materi #208]
+Topik (otomatis): laut, batas, terluar, teritorial
+Inti konsep: garis dasar pantai terluar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batas terluar laut teritorial Negara Kesatuan Republik Indonesia ke arah laut lepas ditarik 12 mil laut dari ….
+
+[Materi #209]
+Topik (otomatis): ciri, piramida, penduduk, indonesia
+Inti konsep: kelahiran dan kematian rendah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri piramida penduduk Indonesia telah mendekati bentuk stasioner yang ditandai oleh ….
+
+[Materi #210]
+Topik (otomatis): berdasarkan, kondisi, geografisnya, sumber
+Inti konsep: batu gamping
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berdasarkan kondisi geografisnya, sumber daya alam tambang yang paling sesuai dikembangkan di daerah Maros, Sulawesi Selatan, adalah ….
+
+[Materi #211]
+Topik (otomatis): peta, dapat, digunakan, menentukan
+Inti konsep: peta persebaran dan kepadatan penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peta yang dapat digunakan untuk menentukan prioritas penempatan proyek kegiatan padat karya adalah ….
+
+[Materi #212]
+Topik (otomatis): salah, kunci, penting, pengenalan
+Inti konsep: bentuk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu kunci penting untuk pengenalan objek pada citra pengindraan jauh berupa ketampakan sebaran pohon, irigasi, dan tempat parkir adalah ….
+
+[Materi #213]
+Topik (otomatis): pemasukan, data, spasial, perangkat
+Inti konsep: digitasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses pemasukan data spasial dalam perangkat lunak Sistem Informasi Geografis (SIG) disebut ….
+
+[Materi #214]
+Topik (otomatis): wilayah, potensi, erosi, provinsi
+Inti konsep: formal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Wilayah potensi erosi di Provinsi Jawa Barat merupakan contoh konsep region ….
+
+[Materi #215]
+Topik (otomatis): produk, unggulan, hasil, pertanian
+Inti konsep: beras, kopi, karet
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Produk unggulan hasil pertanian di Negara Vietnam adalah ….
+
+[Materi #216]
+Topik (otomatis): permukaan, tanah, hingga, ketinggian
+Inti konsep: Jika 1 dan 3 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Biosfer merupakan unsur geosfer yang berinteraksi dengan atmosfer, hidrosfer, dan litosfer. Batas interaksi tersebut masing-masing adalah ….
+(1) hingga ketinggian 10 km di atas permukaan tanah
+(2) hingga kedalaman 100 km di bawah permukaan tanah
+(3) sampai kedalaman 200 m dari permukaan air
+(4) sampai ketinggian 100 m di atas permukaan tanah
+
+[Materi #217]
+Topik (otomatis): wilayah, pinggiran, perkembangan, terbangun
+Inti konsep: Jika hanya 4 yang benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perkembangan wilayah yang terbangun ke arah pinggiran kota di Indonesia merupakan fenomena perluasan wilayah ….
+(1) pinggiran
+(2) peralihan
+(3) inti
+(4) urban
+
+[Materi #218]
+Topik (otomatis): data, melakukan, kajian, cepat
+Inti konsep: elevasi permukaan tanah dan tinggi gelombang laut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam melakukan kajian cepat (quick assessment) wilayah bahaya tsunami, dua macam data dasar yang harus tersedia adalah data ….
+
+[Materi #219]
+Topik (otomatis): selama, periode, pelaksanaan, program
+Inti konsep: penurunan jumlah murid SD tiap sekolah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Selama periode 1975–1995, pelaksanaan program Keluarga Berencana (KB) di Indonesia, terutama Jawa dan Bali, berhasil dengan baik. Keberhasilan tersebut berdampak terhadap ….
+
+[Materi #220]
+Topik (otomatis): peta, digunakan, mengetahui, tinggi
+Inti konsep: peta topografi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peta yang digunakan untuk mengetahui tinggi rendahnya permukaan tanah untuk keperluan pembuatan jalan raya adalah ….
+
+[Materi #221]
+Topik (otomatis): tanah, gersang, bermanfaat, pertanian
+Inti konsep: kandungan hara dan curah hujan sedikit
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tanah gersang kurang bermanfaat dalam pertanian karena ….
+
+[Materi #222]
+Topik (otomatis): konvergensi, udara, fenomena, atmosfer
+Inti konsep: Jika pernyataan benar, alasan benar, dan keduanya menunjukkan hubungan sebab akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fenomena konvergensi udara di atmosfer sekitar ekuator menyebabkan kenaikan suhu udara yang berdampak pada peningkatan curah hujan setempat.
+
+SEBAB
+
+Daerah konvergensi antartropis (DKAT) bergerak secara dinamis mengikuti gerakan bumi mengelilingi matahari.
+
+[Materi #223]
+Topik (otomatis): industri, kreatif, berbasis, kerajinan
+Inti konsep: Jika pernyataan dan alasan keduanya salah"
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Industri kreatif berbasis kerajinan tangan di suatu kabupaten/kota selalu berada di lokasi yang dekat dengan pusat kegiatan ekonomi (CBD).
+
+SEBAB
+
+Eksistensi industri kreatif terkait erat dengan akses pemasaran produk dan pemerolehan bahan baku.
+
+[Materi #224]
+Topik (otomatis): indonesia, kota, perubahan, pola
+Inti konsep: Jika pernyataan dan alasan keduanya salah"
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perubahan pola keruangan perkotaan di Indonesia dipengaruhi oleh banyaknya sarana hiburan di kota.
+
+SEBAB
+
+Di kota di Indonesia terjadi tingkat urbanisasi yang besar dan diikuti oleh pembangunan.
+
+[Materi #225]
+Topik (otomatis): afrika, selatan, negara, negara-negara
+Inti konsep: Jika pernyataan benar dan alasan salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara-negara Afrika bagian selatan masih mengimpor bahan makanan (gandum, jagung, barley) dari negara lain.
+
+SEBAB
+
+Di kawasan negara Afrika bagian selatan selalu terjadi gejolak politik maupun ekonomi.
+
+[Materi #226]
+Topik (otomatis): reboisasi, penghijauan, metode, pengawetan
+Inti konsep: Jika pernyataan benar dan alasan salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penghijauan atau reboisasi merupakan metode pengawetan tanah secara vegetatif.
+
+SEBAB
+
+Reboisasi diterapkan paling efektif di medan datar.
+
+[Materi #227]
+Topik (otomatis): air, hubungan, hidrolik, tanah
+Inti konsep: Jika hanya 4 yang benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hubungan hidrolik antara air tanah dan air laut menyebabkan sumber air bersih di beberapa daerah di Jakarta Utara mengalami ….
+1. kombinasi,
+2. kontradiksi,
+3. komunikasi,
+4. kontaminasi.
+
+[Materi #228]
+Topik (otomatis): dapat, vegetasi, permukaan, tanah
+Inti konsep: Jika semuanya benar"
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Interpretasi citra Landsat dapat digunakan untuk memetakan perbedaan kehijauan vegetasi dan suhu permukaan tanah tiap bulan selama setahun karena ….
+1. reflektansi gelombang dari vegetasi dapat terdeteksi oleh sensor satelit,
+2. satelit Landsat merekam area muka bumi yang sama setiap 16 hari sekali,
+3. gelombang termal dari permukaan tanah dapat direkam oleh sensor satelit,
+4. kehijauan vegetasi dan suhu permukaan tanah berubah menurut musim.
+
+[Materi #229]
+Topik (otomatis): liwung, dapat, lestari, pengelolaan
+Inti konsep: Jika semuanya benar"
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: DA Ci Liwung dapat lestari jika pengelolaan dilakukan bersama antara pemerintah daerah ….
+1. Jawa Barat,
+2. Kabupaten Bogor,
+3. DKI Jakarta,
+4. Kota Depok.
+
+[Materi #230]
+Topik (otomatis): kota, pinggiran, pertumbuhan, penduduk
+Inti konsep: Jika 2 dan 4 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sejak dekade 1990-an, pertumbuhan penduduk perkotaan di daerah pusat kota cenderung lebih rendah daripada daerah pinggiran kota karena ….
+1. pertumbuhan penduduk alami yang tinggi di pinggiran kota,
+2. pembangunan kawasan industri diarahkan ke pinggiran kota,
+3. pembangunan infrastruktur yang sangat pesat di pinggiran kota,
+4. kompleks perumahan berkembang pesat di pinggiran kota.
+
+[Materi #231]
+Topik (otomatis): langit, permukaan, bumi, mempunyai
+Inti konsep: Jika 2 dan 4 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika permukaan bumi mempunyai tekanan atmosfer tinggi, cuaca yang dialami adalah ….
+1. langit berawan,
+2. langit cerah,
+3. lembab,
+4. kering.
+
+[Materi #232]
+Topik (otomatis): peta, tematik, digambar, sesuai
+Inti konsep: Jika semuanya benar"
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peta tematik digambar sesuai dengan tujuan dan fungsi peta, yaitu untuk menunjukkan ….
+1. lokasi,
+2. arah,
+3. jarak,
+4. luas.
+
+[Materi #233]
+Topik (otomatis): there, large, number, smaller
+Inti konsep: Sinabung eruption in February 2014
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: There is a large number of smaller natural disasters (micro events) in Indonesia each year which often lead to deaths of 10 or 20 people or more. An example of this kind of disaster at the regional level is ….
+
+[Materi #234]
+Topik (otomatis): the, surabaya, home, many
+Inti konsep: Kota Pahlawan (City of Heroes)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Surabaya is home to many of the nation’s fiercest independence fighters, the city is known also to locals as ….
+
+[Materi #235]
+Topik (otomatis): slope, where, mountain, irregular
+Inti konsep: unevenly spaced
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Where a slope of a mountain is irregular, the countours representing that slope are ….
+
+[Materi #236]
+Topik (otomatis): the, water, area, surrounding
+Inti konsep: Sunda strait
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: The water area surrounding Krakatau is known as ….
+
+[Materi #237]
+Topik (otomatis): the, jakarta, has, with
+Inti konsep: 30 %
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jakarta as many other big cities has to deal with the urban heat island effect. To cope with this problem Jakarta has plans to increase the amount of green parks and trees in the city, from 10 % to the ideal amount of ….
+
+[Materi #238]
+Topik (otomatis): the, such, atmosphere, burning
+Inti konsep: If the statement is correct, the reason is correct, but the two do not show a cause and effect relationship
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: The burning of renewable resources such as natural gas has no significant effect on the warming of the atmosphere.
+
+BECAUSE
+
+The greenhouse gases such as CO2, Methane, Chlorofluorocarbons (CFC’s), and Nitrous Oxide in the atmosphere are caused by human activities.
+
+[Materi #239]
+Topik (otomatis): the, and, are, mountains
+Inti konsep: If the statement and reason are both false
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Most of the larger islands of Indonesia, such as Sumatra, Java, Bali, Lombok, Sulawesi, and Seram are mountainous, with peaks ranging between 3,000 and 3,800 metres (9,843 and 12,467 ft) above sea level.
+
+BECAUSE
+
+The country’s tallest mountains covered by snow are located in the Jayawijaya Mountains and the Sudirman Range in Kalimantan.
+
+[Materi #240]
+Topik (otomatis): reefs, coral, the, coast
+Inti konsep: If the statement is false and the reason is correct
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Coral reefs bordering the south east coast of Bali are termed barrier reefs.
+
+BECAUSE
+
+Coral reefs that lie offshore and parallel to the coast are fringing reefs.
+
+[Materi #241]
+Topik (otomatis): the, most, populous, jakarta
+Inti konsep: If the statement is correct, the reason is correct, but the two do not show a cause and effect relationship
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jakarta is not only the most populous city in Indonesia, but it is also the most populous in Southeast Asia.
+
+BECAUSE
+
+The official metropolitan suburbs, known as Jabodetabek, extend even further.
+
+[Materi #242]
+Topik (otomatis): the, and, indonesia, forests
+Inti konsep: If the statement is true and the reason is wrong
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia’s lowland tropical forests, the richest in timber resources and biodiversity, are most at risk.
+
+BECAUSE
+
+Indonesia is home to some of the most biologically diverse forests in the world and ranks third in number of species behind Brazil and Equador.
+
+[Materi #243]
+Topik (otomatis): the, indonesia, has, largest
+Inti konsep: If 1, 2, and 3 are correct
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia has the largest number of volcanoes of any country in the world – 76 of them are historically active;
+significant volcanic activity occurs in ….
+1. Sulawesi
+2. Sumatra
+3. the Sunda Islands
+4. Kalimantan
+
+[Materi #244]
+Topik (otomatis): the, subduction, earthquake, and
+Inti konsep: If 1 and 3 are true
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: A subduction earthquake and devastating tsunami which occurred on December 26, 2004 off the coast of the Indonesian island of Sumatra inflicted widespread destruction as far away as ….
+1. Myanmar
+2. Pakistan
+3. Bangladesh
+4. Cambodia
+
+[Materi #245]
+Topik (otomatis): the, project, road, realise
+Inti konsep: If everything is correct
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: To realise the trans-Sumatera mega project, the structure of the project needs to be seen first, the aspect(s) of which is(are) ….
+1. commercially prospective
+2. skinny
+3. financially feasible
+4. the existing road represents a plantation road
+
+[Materi #246]
+Topik (otomatis): and, dry, climate, with
+Inti konsep: If everything is correct
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tropical wet and dry or savanna climate (Aw) have a pronounced dry season, with the driest month having precipitation less than 60 mm and less than 1/25 of the total annual precipitation. Example(s) of areas with this climate is (are) ….
+1. Darwin, Northern Territory, Australia
+2. Bangkok (Thailand)
+3. Mumbai (India)
+4. Nusa Tenggara islands (Indonesia)
+
+[Materi #247]
+Topik (otomatis): the, absence, and, urban
+Inti konsep: If 1, 2, and 3 are correct
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: In the urban environment, the absorption of solar radiation causes higher ground temperatures for reasons like ….
+1. the absence of plant foliage
+2. the absence of transpiration
+3. roofs and pavements of concrete and asphalt hold no moisture
+4. the existence of population distribution pattern
+
+[Materi #248]
+Topik (otomatis): konsep, mengkaji, kegiatan, penduduk
+Inti konsep: diferensiasi area
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Konsep yang mengkaji jenis kegiatan penduduk di dataran tinggi dan rendah adalah ….
+
+[Materi #249]
+Topik (otomatis): pembentukan, ngarai, sianok, bukittinggi
+Inti konsep: proses sesar geser
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses pembentukan Ngarai Sianok di Bukittinggi, Sumatra Barat, yang dikenal sebagai Grand Canyon di Indonesia, disebabkan oleh ….
+
+[Materi #250]
+Topik (otomatis): mata, air, depresi, terbentuk
+Inti konsep: kontak batuan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mata air depresi terbentuk karena proses ….
+
+[Materi #251]
+Topik (otomatis): laut, batas, terluar, teritorial
+Inti konsep: garis dasar pantai terluar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batas terluar laut teritorial Negara Kesatuan Republik Indonesia ke arah laut lepas ditarik 12 mil laut dari ….
+
+[Materi #252]
+Topik (otomatis): penduduk, tekanan, kota, indonesia
+Inti konsep: daya dukung lingkungan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tekanan penduduk kota di Indonesia terjadi karena jumlah penduduk melebihi kemampuan ….
+
+[Materi #253]
+Topik (otomatis): pemanfaatan, sumber, daya, energi
+Inti konsep: Sungai Penuh, Sarulla, Dieng
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pemanfaatan sumber daya energi panas bumi tersebar di beberapa daerah di Indonesia, antara lain di wilayah ….
+
+[Materi #254]
+Topik (otomatis): peta, dapat, digunakan, menentukan
+Inti konsep: peta persebaran dan kepadatan penduduk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peta yang dapat digunakan untuk menentukan prioritas penempatan proyek kegiatan padat karya adalah ….
+
+[Materi #255]
+Topik (otomatis): suhu, permukaan, bumi, terekam
+Inti konsep: refleksi gelombang inframerah termal oleh permukaan bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suhu permukaan bumi yang terekam melalui sensor penginderaan jauh berasal dari ….
+
+[Materi #256]
+Topik (otomatis): beberapa, sumber, data, spasial
+Inti konsep: curah hujan, lereng, penggunaan lahan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Beberapa sumber data spasial yang dapat digunakan untuk menganalisis bencana banjir berbasis Sistem Informasi Geografis (SIG) adalah ….
+
+[Materi #257]
+Topik (otomatis): pencetus, pertama, teori, menyatakan
+Inti konsep: Perroux
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pencetus pertama teori yang menyatakan bahwa terbentuknya sebuah kota tidak secara serentak dan memerlukan proses adalah ….
+
+[Materi #258]
+Topik (otomatis): penyebab, utama, keragaman, hayati
+Inti konsep: iklim dan topografi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penyebab utama keragaman hayati (biodiversity) di Asia Tenggara adalah faktor ….
+
+[Materi #259]
+Topik (otomatis): pesisir, penduduk, semakin, panjangnya
+Inti konsep: Jika pernyataan benar, alasan benar, dan keduanya menunjukkan hubungan sebab akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Semakin panjangnya musim kemarau di wilayah pesisir dapat mengakibatkan dampak yang serius bagi kesehatan penduduk.
+
+SEBAB
+
+Sebagian besar penduduk di pesisir sangat bergantung pada air hujan.
+
+[Materi #260]
+Topik (otomatis): batu, bara, wilayah, keberadaan
+Inti konsep: Jika pernyataan benar dan alasan salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Keberadaan sumber daya batu bara berkaitan erat dengan morfogenesa bentuk medan suatu wilayah.
+
+SEBAB
+
+Cebakan batu bara di Indonesia pada umumnya dijumpai di wilayah endapan batuan vulkanik zaman pratersier.
+
+[Materi #261]
+Topik (otomatis): kanguru, walabi, gajah, harimau
+Inti konsep: Jika hanya 4 yang benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hewan mamalia Indonesia yang bertipe Australis adalah ….
+1. kanguru, walabi, gajah, babi rusa, harimau
+2. kanguru, kuskus, walabi, cendrawasih, kasuari
+3. gajah, badak, kanguru, walabi, kerbau, harimau
+4. kanguru, walabi, beruang, koala, nokdiak
+
+[Materi #262]
+Topik (otomatis): ciri-ciri, keruangan, kegiatan, perdagangan
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri-ciri keruangan kegiatan perdagangan di kota-kota di Indonesia selalu ditandai dengan keberadaan ….
+1. pasar
+2. toko
+3. bank
+4. pergudangan
+
+[Materi #263]
+Topik (otomatis): danau, penyebab, terjadinya, air
+Inti konsep: air laut yang terperangkap di dalam batuan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penyebab terjadinya danau air asin seperti Danau Satonda di Bima, Nusa Tenggara Barat, adalah ….
+
+[Materi #264]
+Topik (otomatis): peningkatan, bumi, gas, rumah
+Inti konsep: menghambat radiasi bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peningkatan gas rumah kaca (GRK) di lapisan atmosfer bumi berpengaruh terhadap peningkatan suhu udara permukaan bumi karena ….
+
+[Materi #265]
+Topik (otomatis): karakteristik, fisik, tanah, dapat
+Inti konsep: strukur tanah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karakteristik fisik tanah yang dapat terjaga dengan adanya rotasi tanaman pada budidaya pertanian berkelanjutan adalah ….
+
+[Materi #266]
+Topik (otomatis): kekayaan, ikan, laut, indonesia
+Inti konsep: garis batas wilayah tidak jelas
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kekayaan ikan laut di Indonesia banyak hilang dicuri oleh nelayan asing karena ….
+
+[Materi #267]
+Topik (otomatis): penduduk, bertempat, tinggal, wilayah
+Inti konsep: terjangkaunya jarak tempuh
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penduduk yang bertempat tinggal di wilayah perdesaan sekitar kota umumnya berprofesi sebagai pekerja komuter karena ….
+
+[Materi #268]
+Topik (otomatis): identifikasi, perbedaan, bangunan, sekolah
+Inti konsep: bentuk dan pola
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Identifikasi perbedaan bangunan sekolah dan hotel dapat dilakukan melalui interpretasi foto udara dengan menggunakan unsur ….
+
+[Materi #269]
+Topik (otomatis): salah, usaha, perlu, ditingkatkan
+Inti konsep: perluasan lapangan kerja
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu usaha yang perlu ditingkatkan oleh Pemerintah Indonesia agar dapat memenuhi kriteria sebagai negara maju adalah ….
+
+[Materi #270]
+Topik (otomatis): energi, sumber, biomasa, biasanya
+Inti konsep: ketersediaan bahan melimpah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sumber energi biomasa biasanya dimanfaatkan untuk pemenuhan kebutuhan energi bagi masyarakat pedesaan karena ….
+
+[Materi #271]
+Topik (otomatis): pembentukan, bukit, barisan, sumatera
+Inti konsep: penunjaman lempeng Samudera Hindia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses pembentukan Bukit Barisan di Sumatera lebih disebabkan oleh ….
+
+[Materi #272]
+Topik (otomatis): penduduk, indonesia, dapat, ketidakmerataan
+Inti konsep: Jika pernyataan dan alasan keduanya salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ketidakmerataan persebaran penduduk antarwilayah di Indonesia dapat dilakukan dengan menerapkan konsep lokasi relatif.
+SEBAB
+Hasil kajian kependudukan tidak dapat menunjukkan secara pasti jumlah dan konsentrasi penduduk di Indonesia.
+
+[Materi #273]
+Topik (otomatis): hewan, tumbuhan, tersebar, tidak
+Inti konsep: Jika pernyataan benar, alasan benar, dan keduanya menunjukkan hubungan sebab akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Setiap jenis hewan dan tumbuhan tersebar tidak merata di berbagai tempat di permukaan bumi.
+SEBAB
+Setiap jenis hewan dan tumbuhan mempunyai habitat yang sesuai dengan persyaratan hidupnya.
+
+[Materi #274]
+Topik (otomatis): pesisir, sumatera, timur, berisiko
+Inti konsep: Jika pernyataan salah dan alasan benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pesisir timur Sumatera lebih berisiko terlanda bencana tsunami dibanding pesisir barat Sumatera.
+SEBAB
+Daratan pesisir timur Sumatera sebagian besar berupa dataran rendah dan rawa-rawa.
+
+[Materi #275]
+Topik (otomatis): tingginya, faktor, menyebabkan, angka
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor yang menyebabkan tingginya angka perkawinan dini di beberapa wilayah perdesaan Indonesia adalah…
+1. rendahnya tingkat pendidikan
+2. pengaruh budaya setempat
+3. tingginya tekanan ekonomi
+4. eratnya hubungan kekerabatan
+
+[Materi #276]
+Topik (otomatis): objek, menunjukkan, secara, kartografis
+Inti konsep: Jika 1 dan 3 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Secara kartografis, tujuan penggunaan warna pada pembuatan peta tematik adalah untuk ….
+1. menunjukkan klasifikasi objek
+2. menyajikan jumlah objek
+3. membedakan jenis objek
+4. menunjukkan persebaran objek
+
+[Materi #277]
+Topik (otomatis): pengendalian, eksploitasi, sumber, daya
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengendalian eksploitasi sumber daya alam tak terbarukan di Indonesia perlu digalakkan karena ….
+1. jumlah cadangan terbatas
+2. sebaran tidak merata
+3. pembentukannya berlangsung lama
+4. antisipasi pertumbuhan kebutuhan
+
+[Materi #278]
+Topik (otomatis): bawah, termasuk, peta, tematik
+Inti konsep: Peta iklim dunia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di bawah ini yang termasuk contoh peta tematik adalah ...
+
+[Materi #279]
+Topik (otomatis): tanaman, mencegah, tanah, rotasi
+Inti konsep: Jika pernyataan benar, alasan benar, tetapi keduanya tidak menunjukkan hubungan sebab dan akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rotasi tanaman dapat mencegah penyerapan unsur hara tertentu secara terus menerus oleh satu jenis tanaman sehingga tanah menjadi tidak subur.
+SEBAB
+Vegetasi berfungsi mencegah erosi dan pertumbuhan gulma serta mempertahankan kandungan kimia tanah.
+
+[Materi #280]
+Topik (otomatis): bumi, rotasi, belahan, berbelok
+Inti konsep: Jika pernyataan benar, alasan benar, tetapi keduanya tidak menunjukkan hubungan sebab dan akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rotasi bumi menyebabkan arah angin muson di belahan bumi utara berbelok ke kanan dan di belahan bumi selatan berbelok ke kiri.
+SEBAB
+Rotasi bumi di ekuator lebih cepat daripada di bagian bumi yang lain.
+
+[Materi #281]
+Topik (otomatis): peran, desa, hinterland, kota
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peran desa sebagai hinterland kota adalah ...
+1. penyedia sarana-prasarana
+2. produsen hasil pertanian
+3. pasar barang produksi
+4. sumber tenaga kerja
+
+[Materi #282]
+Topik (otomatis): ciri, utama, negara, maju
+Inti konsep: Jika 2 dan 4 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri utama negara maju ditunjukkan oleh struktur masyarakat yakni ...
+1, berorientasi pada hasil alam
+2. produktif dalam bekerja
+3. tingkat konsumsi tinggi
+4. bertindak secara rasional
+
+[Materi #283]
+Topik (otomatis): gumuk, pasir, bulan, sabit
+Inti konsep: wilayah tropis humid
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gumuk pasir bulan sabit Pantai Parangtritis Yogyakarta merupakan fenomena geomorfologis aeolin yang yang unik karena…
+
+[Materi #284]
+Topik (otomatis): air, wilayah, perkotaan, banyaknya
+Inti konsep: banyaknya bangunan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Banyaknya penduduk di kota membutuhkan ketersediaan air dalam skala banyak. Air tanah bersih dan sehat di wilayah perkotaan cenderung sulit di dapat. Di bawah ini faktor fisik yang mempengaruhi sulitnya air di wilayah perkotaan adalah...
+
+[Materi #285]
+Topik (otomatis): angin, puting, beliung, terjadi
+Inti konsep: tekanan dan stabilitas udara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Angin puting beliung yang terjadi di Bogor merupakan fenomena alam yang berkaitan dengan perbedaan...
+
+[Materi #286]
+Topik (otomatis): tanah, rawa, dapat, digunakan
+Inti konsep: penambahan kapur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tanah rawa dapat digunakan sebagai lahan pertanian dengan cara...
+
+[Materi #287]
+Topik (otomatis): pulau, bali, memiliki, daratan
+Inti konsep: tombolo
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pulau Bali memiliki daratan alami sebagai penghubung ke Pulau Nusa Penida disebut...
+
+[Materi #288]
+Topik (otomatis): mangrove, penanaman, soft, protection
+Inti konsep: Jika pernyataan benar, alasan benar, dan keduanya menunjukkan hubungan sebab akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penanaman mangrove menjadi soft protection dari tsunami.
+SEBAB
+Tanaman mangrove memiliki kekuatan untuk memecah gelombang laut.
+
+[Materi #289]
+Topik (otomatis): bencana, sosial, perselisihan, antar
+Inti konsep: Jika pernyataan benar dan alasan salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perselisihan antar suku yang terjadi di Papua merupakan bencana sosial.
+SEBAB
+Bencana sosial merupakan bencana yang di sebabkan oleh non alam.
+
+[Materi #290]
+Topik (otomatis): angka, kematian, bayi, bertambah
+Inti konsep: Jika pernyataan benar dan alasan salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Angka kematian bayi merupakan salah satu faktor yang memengaruhi struktur umur penduduk.
+SEBAB
+Jika kematian bayi perempuan berkurang berarti mereka yang memasuki usia reproduksi semakin bertambah dan ada kecenderungan angka kelahiran bertambah.
+
+[Materi #291]
+Topik (otomatis): proyeksi, wilayah, hal-hal, harus
+Inti konsep: Jika 1, 2, dan 3 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hal-hal yang harus diperhatikan dengan cermat ketika menggunakan proyeksi azimuthal adalah…
+1. Bentuk wilayah proyeksi
+2. Letak wilayah proyeksi
+3. Luas wilayah proyeksi
+4. Informasi wilayah proyeksi
+
+[Materi #292]
+Topik (otomatis): indonesia, kegiatan, tujuan, perwilayah
+Inti konsep: Jika 1, 2, dan 3 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tujuan perwilayah di Indonesia bagi pembangun wilayah Indonesia adalah...
+1. Menyebarkan dan meratakan pembangunan
+2. Menjamin keserasian dan koordinasi terhadap berbagai kegiatan
+3. Memberikan pengarahan kegiatan
+4. Menyederhanakan informasi dari suatu gejala di permukaan bumi yang sangat beragam
+
+[Materi #293]
+Topik (otomatis): penentuan, kawasan, sempadan, pantai
+Inti konsep: menurunkan tingkat abrasi pantai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penentuan kawasan sempadan pantai yang minimal 100m dari titik pasang tertinggi ke arah darat berfungsi untuk ….
+
+[Materi #294]
+Topik (otomatis): pembuatan, garam, masyarakat, mata
+Inti konsep: subsisten
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pembuatan garam oleh masyarakat yang mata pencaharian utamanya petani disebut dengan aktivitas ….
+
+[Materi #295]
+Topik (otomatis): salah, faktor, menyebabkan, keragaman
+Inti konsep: sarana kesehatan yang memadai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu faktor yang menyebabkan keragaman usia harapan hidup di Indonesia adalah ….
+
+[Materi #296]
+Topik (otomatis): berikut, mencirikan, pola, peruntukan
+Inti konsep: pusat kegiatan jasa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang mencirikan pola peruntukan ruang di wilayah kota adalah ….
+
+[Materi #297]
+Topik (otomatis): faktor, perlu, diperhatikan, penentuan
+Inti konsep: biaya angkut minimum
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor yang perlu diperhatikan dalam penentuan lokasi industri adalah ….
+
+[Materi #298]
+Topik (otomatis): analisis, hubungan, manusia, lingkungan
+Inti konsep: produksi sampah tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Analisis hubungan manusia dan lingkungan isik buatan yang dapat diterapkan untuk menentukan faktor penyebab banjir kota adalah ….
+
+[Materi #299]
+Topik (otomatis): input, data, dibutuhkan, aplikasi
+Inti konsep: peta jalur evakuasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Input data yang dibutuhkan dalam aplikasi sistem informasi geograis (SIG) untuk bidang mitigasi bencana adalah ….
+
+[Materi #300]
+Topik (otomatis): dampak, lingkungan, timbul, akibat
+Inti konsep: turunnya permukaan tanah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dampak lingkungan yang timbul akibat pemanfaatan air tanah secara berlebihan di kota besar adalah ….
+
+[Materi #301]
+Topik (otomatis): terusan, suez, negara, dibuka
+Inti konsep: Jika pernyataan benar, alasan benar, dan keduanya menunjukkan hubungan sebab akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Terusan Suez yang dibuka pada tahun 1869 mempunyai peranan penting bagi lalu lintas perdagangan Benua Asia, Afrika, Eropa, dan Amerika.
+SEBAB
+Terusan Suez selalu terbuka untuk semua negara di dunia tanpa mengenal politik dan negara.
+
+[Materi #302]
+Topik (otomatis): objek, daya, terlihat, citra
+Inti konsep: Jika pernyataan benar dan alasan salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Setiap objek memiliki karakteristik yang berbeda dalam memantulkan dan memancarkan tenaga ke sensor.
+SEBAB
+Objek yang mempunyai daya pantul rendah akan terlihat cerah pada citra, sedangkan objek yang daya pantulnya tinggi akan terlihat gelap pada citra.
+
+[Materi #303]
+Topik (otomatis): permukaan, bumi, tempat, sama
+Inti konsep: Jika pernyataan benar dan alasan salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Permukaan bumi tersusun atas relief yang berbeda-beda, tetapi pengukuran tinggi tempat menggunakan titik nol yang sama, yaitu permukaan air laut.
+SEBAB
+Permukaan air laut relatif tetap di berbagai tempat dan relatif sama membentuk permukaan bumi yang bundar.
+
+[Materi #304]
+Topik (otomatis): sumberdaya, alam, hal-hal, harus
+Inti konsep: Jika 1, 2, dan 3 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hal-hal yang harus diperhatikan dalam pengelolaan sumberdaya alam dan lingkungan menurut Undang-Undang No.32 tahun 2009 adalah ….
+1. keberlanjutan sumberdaya alam potensial
+2. keragaman karakteristik dan fungsi ekologi
+3. keutamaan mempertahankan kearifan lokal
+4. kepentingan berdasar persebaran penduduk
+
+[Materi #305]
+Topik (otomatis): aluvial, potensial, dataran, sangat
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dataran aluvial sangat potensial untuk pengembangan pertanian dan permukiman karena didukung oleh banyak faktor, yaitu ….
+1. morfologi datar dan daya dukung lahan tinggi
+2. tersusun oleh tanah aluvial yang subur
+3. ketersediaan air permukaan yang melimpah
+4. adanya akifer yang potensial
+
+[Materi #306]
+Topik (otomatis): kondisi, lingkungan, mendukung, bumi
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kondisi lingkungan yang mendukung Bumi sebagai habitat makhluk hidup adalah ….
+1. suhu relatif tidak ekstrem
+2. kondisi atmosfer homogen
+3. air dalam bentuk cair
+4. relief cenderung rata
+
+[Materi #307]
+Topik (otomatis): permukaan, suhu, bumi, hari
+Inti konsep: Jika 1 dan 3 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kabut tipis yang menjadi embun di pagi hari terbentuk karena ….
+1. suhu udara dekat permukaan tanah lebih rendah daripada suhu lapisan di atasnya
+2. suhu udara dekat permukaan tanah relatif homogen pada seluruh lapisan
+3. terjadi pemancaran energi gelombang panjang oleh permukaan bumi pada malam hari sehingga terjadi penurunan suhu pada permukaan bumi
+4. adanya penyerapan energi gelombang matahari oleh permukaan bumi pada pagi hari sehingga terjadi perubahan suhu pada permukaan bumi
+
+[Materi #308]
+Topik (otomatis): wilayah, menghasilkan, produk, bagi
+Inti konsep: intelerasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Wilayah perkotaan menghasilkan produk industri dan jasa bagi penduduk pedesaan, sedangkan wilayah pedesaan menghasilkan produk pertanian bagi penduduk kota. Prinsip geografi yang tepat untuk menjelaskan fenomena tersebut adalah ….
+
+[Materi #309]
+Topik (otomatis): bukti, menunjukkan, benua, saat
+Inti konsep: kesamaan jenis batuan dan kesesuaian konfigurasi pantai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bukti yang menunjukkan bahwa benua yang saat ini ada di permukaan bumi berasal dari Pangea yang mengalami pemisahan adalah ….
+
+[Materi #310]
+Topik (otomatis): lempeng, indo-australia, pasiik, menghasilkan
+Inti konsep: Jika pernyataan dan alasan keduanya salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lempeng tektonik Indo-Australia, Eurasia, dan Pasiik bergerak membentuk subduksi yang menghasilkan sesar.
+SEBAB
+Lempeng Indo-Australia dan Pasiik yang bertumbukan menghasilkan rangkaian gunung api di Sulawesi dan utara Papua.
+
+[Materi #311]
+Topik (otomatis): suhu, udara, jayapura, waktu
+Inti konsep: 3,1°C
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Suhu udara di Jayapura 28°C. Pada waktu yang sama suhu di pegunungan Jayawijaya pada ketinggian 4.150 meter dpl adalah ....
+
+[Materi #312]
+Topik (otomatis): karakteristik, hujan, akibat, pemanasan
+Inti konsep: intensitas hujan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karakteristik hujan akibat pemanasan global yang sering menimbulkan bencana banjir dan tanah longsor adalah ….
+
+[Materi #313]
+Topik (otomatis): menurut, ketinggiannya, karakteristik, fisik
+Inti konsep: terdapat variasi tipe iklim
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menurut ketinggiannya, karakteristik fisik geografis yang menyebabkan vegetasi beragam di daerah gunung api adalah ….
+
+[Materi #314]
+Topik (otomatis): tahun, diperkirakan, indonesia, berada
+Inti konsep: perubahan pola pikir, keadaan geografis, pembangunan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada tahun 2050 diperkirakan Indonesia berada pada akhir masa transisi demograi, yaitu pertumbuhan penduduk stabil pada tingkat rendah. Faktor yang paling berpengaruh terhadap kondisi tersebut adalah ….
+
+[Materi #315]
+Topik (otomatis): sumber, daya, alam, masalah
+Inti konsep: Jika pernyataan benar, alasan benar, tetapi keduanya tidak menunjukkan hubungan sebab dan akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Masalah sumber daya alam adalah penyebarannya yang tidak merata, baik jenis maupun jumlah, dan nilai kegunaannya ditentukan oleh penguasaan pengetahuan dan teknologi.
+SEBAB
+Barang tambang merupakan sumber daya alam yang terikat pada lokasi dan dapat menjadi sumber daya potensial atau aktual tergantung pada pemanfaatannya.
+
+[Materi #316]
+Topik (otomatis): semakin, lingkungan, kebutuhan, kondisi
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika kondisi lingkungan baik dan beragam, maka kebutuhan makhluk hidup termasuk manusia semakin terpenuhi karena ….
+
+1. habitat setiap komunitas semakin seimbang
+2. ada alternatif untuk memenuhi kebutuhan
+3. pemanfaatan lingkungan semakin maksimal
+4. sumber daya alam semakin bervariasi
+
+[Materi #317]
+Topik (otomatis): proyeksi, peta, cocok, memetakan
+Inti konsep: silinder
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis proyeksi peta yang cocok untuk memetakan wilayah ekuator adalah ….
+
+[Materi #318]
+Topik (otomatis): data, spasial, diperlukan, memetakan
+Inti konsep: curah hujan, penggunaan lahan, dan transportasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Data spasial yang diperlukan untuk memetakan kesesuaian pemukiman melalui tumpang susun (overlay) peta adalah ….
+
+[Materi #319]
+Topik (otomatis): slum, area, tingginya, pertumbuhan
+Inti konsep: Jika pernyataan benar, alasan benar, tetapi keduanya tidak menunjukkan hubungan sebab dan akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tingginya pertumbuhan penduduk di perkotaan menyebabkan persaingan pemilikan lahan yang tinggi sehingga menimbulkan slum area.
+SEBAB
+Pemukiman di slum area sangat padat dan sebagian besar dihuni oleh para urbanit yang berpendapatan rendah.
+
+[Materi #320]
+Topik (otomatis): pembangunan, sektor, industri, wilayah
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pembangunan sektor industri di suatu wilayah secara langsung mempunyai peran penting karena ….
+
+1. membuka lapangan pekerjaan
+2. meningkatkan pendapatan penduduk
+3. menambah sumber devisa negara
+4. menunjukkan pengetahuan dan teknologi
+
+[Materi #321]
+Topik (otomatis): negara, berkembang, pertumbuhan, kemampuan
+Inti konsep: Jika pernyataan benar, alasan benar, tetapi keduanya tidak menunjukkan hubungan sebab dan akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Parameter yang digunakan untuk mengklasifikasikan suatu negara menjadi negara maju atau negara berkembang antara lain adalah pertumbuhan penduduk dan kemampuan teknologi.
+SEBAB
+Indonesia termasuk negara sedang berkembang karena tingkat pertumbuhan penduduknya tinggi dan kemampuan mengadopsi teknologi masih rendah.
+
+[Materi #322]
+Topik (otomatis): tindakan, harus, dilakukan, penduduk
+Inti konsep: menanam tanaman keras
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tindakan yang harus dilakukan oleh penduduk yang bertempat tinggal di daerah rawan bencana longsor adalah ….
+
+[Materi #323]
+Topik (otomatis): umumnya, laju, pelapukan, kimia
+Inti konsep: curah hujan tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada umumnya, laju pelapukan kimia di wilayah Indonesia berlangsung secara cepat karena….
+
+[Materi #324]
+Topik (otomatis): daerah, upaya, menurunkan, aliran
+Inti konsep: menghutankan kembali lahan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Upaya menurunkan aliran permukaan di daerah hulu untuk mengurangi banjir di daerah hilir dapat dilakukan dengan cara ….
+
+[Materi #325]
+Topik (otomatis): angin, puting, beliung, terjadi
+Inti konsep: tekanan dan stabilitas udara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Angin puting beliung yang terjadi di wilayah Indonesia merupakan fenomena alam yang berkaitan dengan perbedaan ….
+
+[Materi #326]
+Topik (otomatis): pengaruh, iklim, dekomposisi, biomasa
+Inti konsep: tanah di daerah arid berkadar biomasa tinggi dan mentah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengaruh iklim terhadap proses dekomposisi biomasa ditunjukkan oleh fenomena ….
+
+[Materi #327]
+Topik (otomatis): salah, fisik, hutan, mangrove
+Inti konsep: penahan gelombang laut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu fungsi fisik hutan mangrove bagi kelestarian lingkungan pantai adalah ….
+
+[Materi #328]
+Topik (otomatis): pola, interaksi, antarwilayah, jakarta
+Inti konsep: jumlah penduduk dan jarak dari pusat kota
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pola interaksi antarwilayah Jakarta, Bogor, Depok, Tangerang, dan Bekasi menunjukkan perbedaan keruangan akibat variasi ….
+
+[Materi #329]
+Topik (otomatis): tujuan, utama, interpretasi, citra
+Inti konsep: mengenal dan mengidentifikasi objek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tujuan utama proses interpretasi citra dalam penginderaan jauh adalah ….
+
+[Materi #330]
+Topik (otomatis): indonesia, salah, negara, potensial
+Inti konsep: cadangan batubara sangat besar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia merupakan salah satu negara potensial penghasil batu bara terbesar di dunia karena ....
+
+[Materi #331]
+Topik (otomatis): wilayah, harga, tanah, antar
+Inti konsep: Jika pernyataan dan alasan keduanya salah"
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fenomena harga tanah di perkotaan lebih mahal dibandingkan harga tanah di pedesaan dapat dijelaskan dengan konsep diferensiasi wilayah.
+SEBAB
+Aksesibilitas dan intensitas penggunaan lahan antar bagian wilayah kota atau antar bagian wilayah desa cenderung homogen.
+
+[Materi #332]
+Topik (otomatis): ekosistem, padang, lamun, laut
+Inti konsep: Jika pernyataan benar dan alasan salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ekosistem padang lamun berada di perairan laut dangkal dan mempunyai fungsi menjaga kualitas air laut.
+SEBAB
+Di dalam ekosistem padang lamun banyak dijumpai binatang pencacah seperti kepiting dan kerang.
+
+[Materi #333]
+Topik (otomatis): tanah, longsor, termasuk, salah
+Inti konsep: Jika pernyataan benar, alasan benar, tetapi keduanya tidak menunjukkan hubungan sebab dan akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tanah longsor termasuk salah satu bencana geomorfologis yang dipicu oleh pemanfaatan lahan di daerah pegunungan.
+SEBAB
+Gaya penahan longsor dipengaruhi oleh kekuatan batuan dan kepadatan material tanah.
+
+[Materi #334]
+Topik (otomatis): penduduk, kerja, kebijakan, kependudukan
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kebijakan kependudukan yang utama di Indonesia dalam pembangunan era milenium saat ini adalah peningkatan:
+
+1. lapangan kerja dan penyerapan tenaga kerja
+2. pemerataan distribusi dan pendapatan penduduk
+3. urbanisasi dan transmigrasi penduduk
+4. pendidikan dan kesehatan penduduk
+
+[Materi #335]
+Topik (otomatis): permukaan, bumi, hal, perlu
+Inti konsep: Jika 2 dan 4 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hal yang perlu diperhatikan dengan cermat pada saat memilih sistem proyeksi peta adalah ….
+
+1. bentuk permukaan bumi
+2. letak wilayah di permukaan bumi
+3. luas daerah yang dipetakan
+4. jumlah dan jenis informasi/data
+
+[Materi #336]
+Topik (otomatis): industri, limbah, kegiatan, lokasi
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cara yang tepat untuk mengurangi pencemaran lingkungan yang disebabkan oleh limbah industri adalah ….
+
+1. program AMDAL setelah melaksanakan kegiatan industri
+2. daur ulang limbah kegiatan industri
+3. lokasi industri dekat dari penghasil bahan baku
+4. lokasi industri jauh dari kawasan padat penduduk
+
+[Materi #337]
+Topik (otomatis): hujan, teknologi, cuaca, garam
+Inti konsep: Saat musim hujan bertiup rasti muson barat yang melewati Selat Sunda.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan isi artikel berikut ini!
+
+Berbagai upaya dilakukan Gubernur DKI Jakarta Joko Widodo untuk meminimalkan bencana banjir di Ibu Kota. Salah satunya, dilakukannya operasi teknologi modifikasi cuaca di atmosfer untuk mendistribusikan curah hujan di wilayah Jakarta dan sekitarnya. Rekayasa cuaca Operasi teknologi modifikasi cuaca (TMC) ini merupakan kerja sama Badan Nasional Penanggulangan Bencana (BNPB) dengan Badan Pengkajian dan Penerapan Teknologi (BPPT). Pesawat Hercules mulai menebar garam dapur di atas Selat Sunda, Sabtu (26/1/2013) pukul 13.32 hingga 15.40, untuk membuat hujan buatan. Hanya sekitar setengah jam setelah 4 ton garam ditebarkan, hujan lebat di atas Selat Sunda pun terjadi.  “Potensi pembentukan awan hujan terpantau radar BPPT berada di atas Selat Sunda, di sebelah barat Kabupaten Pandeglang. Karena itu, pesawat mengarah ke sana untuk menebarkan garam,” kata Kepala Unit Pelaksana Teknis Hujan Buatan BPPT Heru Widodo. (Dikutip dari halaman Kompas, 27 Januari 2013. Judul artikel:  “Hujan Diturunkan di Laut, Jokowi Minta Masyarakat Tetap Waspada”).
+
+Berdasarkan isi artikel tersebut, penaburan garam pada awan yang melintas di atas Selat Sunda sebagai bagian operasi teknologi modifikasi cuaca dirasa tepat sebagai upaya untuk mencegah banjir di Jakarta. Alasan klimatis yang mendasari keputusan tersebut yaitu…
+
+[Materi #338]
+Topik (otomatis): lapisan, udara, sangat, kondisi
+Inti konsep: Pelubangan ozon berlangsung lebih cepat dan gas-gas beracun akan melayang-layang di troposfer.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Setiap lapisan pada atmosfer bumi memiliki karakteristik yang berbeda-beda. Troposfer merupakan lapisan dengan kondisi udara yang tidak stabil. Pada lapisan ini banyak terjadi gerakan udara. Sementara itu, lapisan di atasnya yaitu stratosfer merupakan lapisan yang sangat stabil dengan gerakan udara yang sangat sedikit. Jika suatu saat nanti terjadi perubahan rastic pada kedua lapisan tersebut, di mana kondisi udara pada troposfer menjadi sangat stagnan dan kondisi udara pada stratosfer menjadi sangat dinamis, maka peristiwa yang dapat terjadi yaitu….
+
+[Materi #339]
+Topik (otomatis): unsur, interpretasi, mengidentifikasi, peralatan
+Inti konsep: Bentuk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Unsur interpretasi untuk mengidentifikasi peralatan militer di dalam bunker dengan citra radar adalah....
+
+[Materi #340]
+Topik (otomatis): gempa, yogyakarta, kerusakan, kabupaten
+Inti konsep: korologi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gempa bumi dengan kekuatan 6,2 skala richter di Yogyakarta tahun 2006 mengakibatkan kerusakan hebat pada berbagai bangunan terutama permukiman. Kerusakan terbanyak terjadi di wilayah kabupaten Bantul Yogyakarta dan kabupaten Klaten Jawa Tengah. Gempa tersebut juga menimbulkan korban jiwa sekitar 5000 orang. Kajian geografi tersebut menggunakan prinsip....
+
+[Materi #341]
+Topik (otomatis): rumah, iglo, eskimo, fenomena
+Inti konsep: keterkaitan keruangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rumah Iglo di Eskimo merupakan fenomena khas daerah tersebut. Pernyataan  tersebut termasuk konsep dasar geografi ....
+
+[Materi #342]
+Topik (otomatis): berikut, komponen-komponen, sosial, ada
+Inti konsep: aparatur desa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini adalah komponen-komponen sosial yang ada di desa adalah ....
+
+[Materi #343]
+Topik (otomatis): umumnya, pengolahan, tanah, daerah
+Inti konsep: mempertahankan kesuburan tanah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada umumnya pengolahan tanah di daerah tegalan dengan crop rotation tujuannya ....
+
+[Materi #344]
+Topik (otomatis): manfaat, data, komposisi, penduduk
+Inti konsep: perhitungan potensi tenaga kerja terdidik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manfaat data komposisi penduduk menurut tingkat pendidikan adalah untuk ....
+
+[Materi #345]
+Topik (otomatis): semakin, kegiatan, ekonomi, meninggalkan
+Inti konsep: konsentrik
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Semakin meninggalkan pusat kota Jakarta kegiatan ekonomi semakin berkurang, sebaliknya semakin memasuki Bekasi kegiatan ekonomi semakin ramai. Pernyataan tersebut sesuai teori ...
+
+[Materi #346]
+Topik (otomatis): kenaikan, suhu, bumi, global
+Inti konsep: Jika pernyataan benar dan alasan salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kenaikan suhu global telah berdampak pada kenaikan permukaan air laut di seluruh muka bumi.
+
+SEBAB
+Peningkatan suhu bumi terjadi sebagai akibat tutupan lapisan es di kutub utara dan selatan berkurang.
+
+[Materi #347]
+Topik (otomatis): sensor, sistem, radar, pantulannya
+Inti konsep: Jika pernyataan salah dan alasan benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penginderaan jauh sistem radar biasa disebut sistem pasif.
+
+SEBAB
+Radar mengirim tenaga elektromagnetik dari sensor, pantulannya diterima lagi oleh sensor, pantulannya diterima lagi oleh sensor lewat antena.
+
+[Materi #348]
+Topik (otomatis): air, laut, tanah, erosi
+Inti konsep: Jika pernyataan salah dan alasan benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Erosi air laut adalah proses masuknya air laut ke daratan kepesisir melalui porositas tanah/ batuan membentuk interface.
+
+SEBAB
+Pengambilan  air tanah besar-besaran melebihi debit jenisnya, disertai kurang upaya konservasi air untuk memberi umpan daerah resapan air, menyebabkan kekosongan lapisan akuifer.
+
+[Materi #349]
+Topik (otomatis): penduduk, rendah, kondisi, kependudukan
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kondisi kependudukan yang mendukung keberhasilan pembangunan nasional adalah ....
+1. pertumbuhan penduduk rendah
+2. arus urbanisasi rendah
+3. distribusi penduduk merata
+4. jumlah penduduk produktif banyak
+
+[Materi #350]
+Topik (otomatis): ciri, utama, negara, berkembang
+Inti konsep: Jika 1 dan 3 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri utama Negara berkembang ditunjukkan oleh struktur masyarakat yakni ....
+1. berorientasi pada hasil alam
+2. produktif dalam bekerja
+3. tingkat konsumsi tinggi
+4. bertindak secara rasional
+
+[Materi #351]
+Topik (otomatis): syarat, pembuatan, hujan, buatan
+Inti konsep: Jika 1 dan 3 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Syarat pembuatan hujan buatan adalah ....
+1. RH sekurang-kurangnya 70
+2. jenis awan sirus
+3. tingginya 5000-7000 kaki
+4. ada potensi petir
+
+[Materi #352]
+Topik (otomatis): danau, termasuk, tektonikvulkanik, towuti
+Inti konsep: Jika hanya 4 yang benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Danau yang termasuk danau tektonikvulkanik adalah ....
+1. Danau Towuti
+2. Danau Kelimutu
+3. Danau Singkarak
+4. Danau Toba
+
+[Materi #353]
+Topik (otomatis): penyebab, munculnya, fenomena, supermoon
+Inti konsep: bulan dan bumi berada pada jarak paling dekat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penyebab munculnya fenomena supermoon di Indonesia pada tanggal 19 Maret 2011 adaiah....
+
+[Materi #354]
+Topik (otomatis): mengapa, erosi, mengakibatkan, terjadinya
+Inti konsep: Lapisan tanah alas kaya unsur hara.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mengapa erosi mengakibatkan terjadinya penurunan kesuburan tanah di daerah pegunungan?
+
+[Materi #355]
+Topik (otomatis): faktor, menyebabkan, gajah, ditemukan
+Inti konsep: Sumatera pernah satu daratan dengan Asia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor yang menyebabkan gajah ditemukan di Sumatera dan Thailand adalah....
+
+[Materi #356]
+Topik (otomatis): mengapa, tanaman, padi, berumur
+Inti konsep: Pemantulan sinar matahari oleh air.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mengapa tanaman padi yang berumur muda pada foto udara hitam putih menunjukkan rona kelabu gelap?
+
+[Materi #357]
+Topik (otomatis): energi, mengapa, indonesia, harus
+Inti konsep: Potensi sumber energi fosil sudah hampir habis.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mengapa Indonesia harus segera mengembangkan energi alternatif pengganti energi minyak bumi?
+
+[Materi #358]
+Topik (otomatis): tanah, sifat, fisik, menyebabkan
+Inti konsep: ukuran butir dan tekstur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sifat fisik tanah yang menyebabkan tanah mudah terangkut oleh tenaga angin adalah...
+
+[Materi #359]
+Topik (otomatis): hubungan, antarfenomena, geografi, paling
+Inti konsep: temperatur udara dengan vegetasi hutan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hubungan antarfenomena geografi yang paling cocok dikaji dengan prinsip interelasi adalah....
+
+[Materi #360]
+Topik (otomatis): penyebab, terbentuknya, formasi, beting
+Inti konsep: pengendapan oleh gelombang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses penyebab terbentuknya formasi beting gisik (beach ridge) di pesisir adalah....
+
+[Materi #361]
+Topik (otomatis): data, dibutuhkan, pembuatan, peta
+Inti konsep: jumlah penduduk dan luas pembagian wilayah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Data yang dibutuhkan untuk pembuatan peta sebaran kepadatan penduduk suatu kota adalah...
+
+[Materi #362]
+Topik (otomatis): tanah, air, penurunan, eksploitasi
+Inti konsep: Jika pernyataan benar, alasan benar, dan keduanya menunjukkan hubungan sebab akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Eksploitasi air tanah yang berlebihan selalu berakibat pada penurunan permukaan tanah.
+
+SEBAB
+Hilangnya air di dalam pori akuifer pada semua jenis formasi batuan akan selalu diikuti oleh penurunan tanah.
+
+[Materi #363]
+Topik (otomatis): wilayah, pedesaan, kota, perkotaan
+Inti konsep: Jika pernyataan benar, alasan benar, dan keduanya menunjukkan hubungan sebab akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pedesaan di pinggiran kota selalu mengalami perubahan menjadi wilayah perkotaan.
+
+SEBAB
+Wilayah perkotaan dicirikan oleh tersedianya fasilitas-fasilitas kota di wilayah pedesaan, seperti toko swalayan dan jaringan air bersih.
+
+[Materi #364]
+Topik (otomatis): air, laut, amerika, panas
+Inti konsep: Jika pernyataan benar, alasan benar, tetapi keduanya tidak menunjukkan hubungan sebab dan akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: El-Nino dan La-Nina merupakan peristiwa meningkat dan menurunkannya suhu permukaan air laut di pantai Peru - Equador (Amerika Selatan).
+
+SEBAB
+Terjadi pertemuan air laut yang panas dari Indonesia dan Amerika Tengah sehingga massa air laut panas terakumulasi dalam jumlah besar.
+
+[Materi #365]
+Topik (otomatis): kerja, penyebab, peningkatan, jumlah
+Inti konsep: Jika 1, 2, dan 3 benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penyebab peningkatan jumlah penglaju dari desa ke kota adalah....
+1. kemajuan sarana transportasi
+2. rendahnya harga hasil pertanian
+3. keterbatasan lapngan kerja
+4. tingginya produktivitas tenaga kerja
+
+[Materi #366]
+Topik (otomatis): air, cara, efisien, mengolah
+Inti konsep: Jika hanya 4 yang benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cara efisien untuk mengolah air di daerah karst yang banyak mengandung kalsium (Ca) menjadi air minum adalah...
+1. direaksikan
+2. disaring
+3. disuling
+4. direbus
+
+[Materi #367]
+Topik (otomatis): fauna, bawah, termasuk, tipe
+Inti konsep: Kanguru, cendrawasih, kuskus
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis fauna di bawah ini yang termasuk tipe Australia adalah ….
+
+[Materi #368]
+Topik (otomatis): air, laut, daerah, hujan
+Inti konsep: Banyak sungai bermuara di laut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Air laut di daerah hujan tropis pada umumnya berkadar garam rendah karena ….
+
+[Materi #369]
+Topik (otomatis): indonesia, negara, wilayahnya, berada
+Inti konsep: kimiawi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia merupakan negara yang wilayahnya berada di garis khatulistiwa dan memiliki kelembapan udara yang tinggi. Jenis pelapukan batuan yang sering terjadi di Indonesia adalah ....
+
+[Materi #370]
+Topik (otomatis): dilihat, posisi, matahari, saat
+Inti konsep: wilayah kutub utara memasuki musim panas yang panjang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika dilihat dari posisi matahari saat memasuki tanggal 21 Juni, fenomena yang akan terjadi adalah ....
+
+[Materi #371]
+Topik (otomatis): fenomena, pandemik, penyakit, covid-
+Inti konsep: Jika hanya 4 yang benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fenomena pandemik penyakit Covid-19 yang terjadi di seluruh dunia pada tahun 2020 dapat dikaji dengan menggunakan prinsip ...
+1. deskripsi
+2. distribusi
+3. interelasi
+4. korologi
+
+[Materi #372]
+Topik (otomatis): negara, berada, garis, khatulistiwa
+Inti konsep: berkurangnya produktivitas sektor kelautan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebagai negara yang berada di garis khatulistiwa, dampakglobal warming di Indonesia lebih serius dibandingkan dengan negara yang memiliki empat musim. Dampak yang sangat dirasakan dapat terjadi pada bidang maritim seperti….
+
+[Materi #373]
+Topik (otomatis): sumber, daya, alam, dapat
+Inti konsep: memperbaiki kualitas sumber daya manusia yang ada
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebaran sumber daya alam di Indonesia sangat beragam dan dapat mempengaruhi kesejahteraan penduduknya.
+
+Akan tetapi, terkadang wilayah yang memiliki kandungan sumber daya alam lebih tinggi justru kesejahteraan penduduknya rendah karena tidak dapat mengoptimalkan pemanfatan sumber daya alamnya. Salah satu solusi yang tepat untuk menangani permasalahan tersebut adalah….
+
+[Materi #374]
+Topik (otomatis): permukiman, melalui, foto, udara
+Inti konsep: bentuk, ukuran, dan pola
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Melalui foto udara, perbedaan antara permukiman padat penduduk dengan permukiman elit dapat dibedakan dengan unsur interpretasi citra, yaitu….
+
+[Materi #375]
+Topik (otomatis): dindonesia, mengalami, puncak, bonus
+Inti konsep: Pertambahan penduduk usia produktif yang tidak diimbangi dengan peningkatan lapangan pekerjaan.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: DIndonesia akan mengalami puncak bonus demografi pada tahun 2030. Banyak sekali keuntungan yang akan didapatkan.
+
+Akan tetapi, jika tidak diantisipasi dengan baik justru akan berdampak negatif. Misalnya seperti tingginya angka pengangguran yang dapat terjadi karena….
+
+[Materi #376]
+Topik (otomatis): alam, berikut, langkah, tepat
+Inti konsep: Jika semuanya benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut ini yang merupakan langkah yang tepat untuk pemanfaatan pulau-pulau kecil adalah....
+1. wisata alam
+2. konservasi lingkungan
+3. cagar alam
+4. budi daya perikanan
+
+[Materi #377]
+Topik (otomatis): alfred, wegener, benua, teorinya
+Inti konsep: Apabila kedua benua dulunya bersatu, maka pada waktu yang bersamaan di masa lampau pernah hidup hewan yang sama.
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Menurut Alfred Wegener, benua tidak selamanya berada pada posisi tetap melainkan terus bergerak sepanjang waktu atau “terapung”. Alfred Wegener dalam teorinya mengatakan bahwa pada awalnya terdapat satu benua besar (super continent) yang dinamakan “Pangea”.
+Pernyataan tersebut diperkuat dengan adanya penemuan kesamaan fosil di berbagai tempat yang terpisah. Hal tersebut yang menjadi alasan kuat untuk mendasari hipotesis teorinya, karena….
+
+[Materi #378]
+Topik (otomatis): faktor, pronatalitas, jepang, negara
+Inti konsep: pemberian hadiah bagi ibu yang melahirkan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jepang merupakan negara yang memiliki angka natalitas yang cukup rendah. Maka dari itu, perlu adanya faktor pronatalitas yang dilakukan. Salah satu faktor pronatalitas adalah….
+
+[Materi #379]
+Topik (otomatis): geografi, the, mother, all
+Inti konsep: Preston E. James
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: “Geografi is the mother of all sciences” adalah pendapat yang dikemukakan oleh….
+
+[Materi #380]
+Topik (otomatis): cabang, geografi, mempelajaripersebaran, fauna
+Inti konsep: Zoogeografi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Cabang geografi yang mempelajaripersebaran fauna atau vegetasi dipermukaan bumi disebut…
+
+[Materi #381]
+Topik (otomatis): kota, bandung, ibukota, jawa
+Inti konsep: Lokasi mutlak
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ibukota Jawa Barat adalah Kota Bandung. Kota Bandung secara geografis berada pada koordinat 6° 50’ 38” - 6° 58’ 50” LS dan 107° 33’ 34” - 107° 43’ 50” BT. Kedudukan Kota Bandung menunjukkan ...
+
+[Materi #382]
+Topik (otomatis): ciri, spektral, citra, dapat
+Inti konsep: Ukuran dan bentuk
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri spektral pada citra dapat diidentifikasi oleh unsur interpretasi ...
+
+[Materi #383]
+Topik (otomatis): data, dilapangan, menunjukkan, hasil
+Inti konsep: Pedosfer dan atmosfer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Data dilapangan menunjukkan hasil luasan kebakaran lahan gambut dan ketebalan asapnya merupakan informasi tentang keberadaan fenomena di ...
+
+[Materi #384]
+Topik (otomatis): udara, pesawat, tebang, ketinggian
+Inti konsep: 1 : 3.000
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pesawat udara yang tebang dengan ketinggian 3000m melakukan pemotretan dengan kamera yang fokusnya 10 cm, maka foto udara yang dihasilkan memiliki skala....
+
+[Materi #385]
+Topik (otomatis): berikut, perangkat, keras, hardware
+Inti konsep: Map info
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut merupakan perangkat keras(hardware) dari Sistem InformasiGeografis, kecuali…
+
+[Materi #386]
+Topik (otomatis): data, memuat, objek, ruang
+Inti konsep: Perumusan masalah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bagian yang memuat objek, ruang lingkup penelitian, teknik pengumpulan data, cara pengolahan data, dan analisis data yang digunakan adalah ....
+
+[Materi #387]
+Topik (otomatis): hal-hal, perlu, diperhatikan, membuat
+Inti konsep: Selalu menggunakan bahasa asing dalam kesimpulan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hal-hal yang perlu diperhatikan dalam membuat laporan penelitian, antara lain sebagai berikut, kecuali ....
+
+[Materi #388]
+Topik (otomatis): tanah, bergerak, tanggal, januari
+Inti konsep: Interelasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada tanggal 4 Januari 2010 terjadi kejadian tanah bergerak atau soil creep di Taraju Tasikmalaya. Tanah tersebut bergerak disebabkan oleh hujan lebat dalam sehari yang mengakibatkan struktur tanah menjadi jenuh air dan labil. Prinsip geografi yang terdapat dalam paragraf tadi adalah.....
+
+[Materi #389]
+Topik (otomatis): aspek, geografi, fisik, kajian
+Inti konsep: Hujan mengguyur Jakarta selama 8 jam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam kajian ilmu geografi terdapat dua aspek yaitu aspek fisik dan aspek nonfisik. Berikut ini aspek fisik geografi adalah ...
+
+[Materi #390]
+Topik (otomatis): pembukaan, lahan, tambang, daerah
+Inti konsep: Suhu air laut meningkat tajam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pembukaan lahan tambang di daerah pesisir dapat menimbulkan kerusakan terumbu karang karena...
+
+[Materi #391]
+Topik (otomatis): laut, eutrofikasi, terjadi, mengakibatkan
+Inti konsep: Meningkatnya unsur fospat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses eutrofikasi yang terjadi di laut mengakibatkan air laut...
+
+[Materi #392]
+Topik (otomatis): faktor, geografis, mempengaruhi, persebaran
+Inti konsep: Iklim, relief, dan kesuburan tanah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor geografis yang mempengaruhi persebaran penduduk di Indonesia adalah...
+
+[Materi #393]
+Topik (otomatis): ciri-ciri, kependudukan, wilayah, piramida
+Inti konsep: Kelahiran dan kematian sama
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri-ciri kependudukan di wilayah dengan piramida penduduk stasioner adalah...
+
+[Materi #394]
+Topik (otomatis): rumah, penduduk, berada, pinggir
+Inti konsep: Memanjang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rumah penduduk yang berada di pinggir jalan umumnya pola pemukiman nya berbentuk..
+
+[Materi #395]
+Topik (otomatis): fenomena, desentralisasi, pemukiman, terjadi
+Inti konsep: Pemukiman kelompok menengah ke atas cenderung memisah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fenomena desentralisasi pemukiman yang terjadi pada kota-kota yang mengalami perkembangan pesat ditandai dengan ...
+
+[Materi #396]
+Topik (otomatis): industri, mengambil, langsung, bahan
+Inti konsep: Industri ekstraktif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Industri yang mengambil langsung bahan baku dari alam dinamakan...
+
+[Materi #397]
+Topik (otomatis): dampak, negatif, relokasi, industri
+Inti konsep: Menurunnya kualitas lingkungan hidup
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dampak negatif relokasi industri bagi negara berkembang adalah...
+
+[Materi #398]
+Topik (otomatis): beting, gisik, sepanjang, garis
+Inti konsep: Gelombang laut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Beting gisik sepanjang garis pantai merupakan hasil proses sedimentasi oleh...
+
+[Materi #399]
+Topik (otomatis): objek, diindera, mempunyai, warna
+Inti konsep: Rona
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika objek yang diindera mempunyai warna dasar hijau, cahaya yang akan dipantulkan sedikit, sehingga objek pada foto udara terlihat gelap. Untuk menginterpretasi citra tersebut, digunakan unsur…
+
+[Materi #400]
+Topik (otomatis): faktor, menyebabkan, pulau, kalimantan
+Inti konsep: Banyak sungai besar dan landai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Faktor yang menyebabkan pulau Kalimantan memiliki lahan sawah pasang surut adalah…
+
+[Materi #401]
+Topik (otomatis): pembentukan, estuaria, dipengaruhi, kondisi
+Inti konsep: Pasang surut, pola gelombang, dan arus laut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pembentukan estuaria dipengaruhi oleh kondisi fenomena laut…
+
+[Materi #402]
+Topik (otomatis): bonus, demografi, permasalahan, kependudukan
+Inti konsep: Pendidikan dan lapangan kerja
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Permasalahan kependudukan di Indonesia masa depan adalah bonus demografi. Usaha yang perlu dilakukan pemerintah terhadap bonus demografi tersebut adalah melakukan pembangunan di bidang…
+
+[Materi #403]
+Topik (otomatis): bentuk, gempa, tektonik, terjadi
+Inti konsep: Sesar geser
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentuk gempa tektonik yang terjadi di Palu pada 29 September 2018 sehingga menyebabkan likuifaksi adalah…
+
+[Materi #404]
+Topik (otomatis): buffering, salah, teknik, analisis
+Inti konsep: Menentukan daerah aliran sungai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Buffering merupakan salah satu teknik analisis yang dapat dipakai dengan menggunakan SIG, khususnya diperuntukkan untuk…
+
+[Materi #405]
+Topik (otomatis): pembangunan, indeks, manusia, digunakan
+Inti konsep: Angka harapan hidup, TFR, dan tingkat melek huruf
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indeks pembangunan manusia yang digunakan untuk menentukan tingkat pembangunan negara adalah…
+
+[Materi #406]
+Topik (otomatis): presiden, salah, pertimbangan, joko
+Inti konsep: Lokasi relatif
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu pertimbangan presiden Joko Widodo memilih lokasi ibukota baru di Kalimantan karena lokasinya yang ada di tengah-tengah Indonesia. Konsep geografi yang diterapkan presiden dalam hal tersebut adalah…
+
+[Materi #407]
+Topik (otomatis): analisis, hubungan, manusia, lingkungan
+Inti konsep: Koefisien dasar bangunan tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Analisis hubungan manusia dan lingkungan fisik buatan yang dapat diterapkan untuk menentukan penyebab banjir kota adalah…
+
+[Materi #408]
+Topik (otomatis): longsor, hasil, penyelidikan, kawasan
+Inti konsep: Interelasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hasil penyelidikan pada kawasan longsor di Banjarnegara, Jawa Tengah menunjukkan bahwa faktor dominan penyebab longsor adalah banyaknya tanaman tahunan yang ditanam tanpa mengikuti garis kontur. Prinsip yang berkaitan dengan fenomena tersebut adalah…
+
+[Materi #409]
+Topik (otomatis): ilmu, geografi, permukaan, bumi
+Inti konsep: Objek material
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam ilmu geografi, permukaan bumi dan proses yang ada di atasnya adalah…
+
+[Materi #410]
+Topik (otomatis): pembentukan, rangkaian, gunung, api
+Inti konsep: Subduksi antara si-ma dan si-al
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses pembentukan rangkaian gunung api di pulau Jawa bagian selatan disebabkan oleh…
+
+[Materi #411]
+Topik (otomatis): palung, mariana, dasar, laut
+Inti konsep: Pasifik dan Filipina
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Palung Mariana adalah dasar laut yang paling dalam di bumi. Palung tersebut terbentuk akibat tumbukan lempeng…
+
+[Materi #412]
+Topik (otomatis): fenomena, alam, membuat, wilayah
+Inti konsep: Revolusi bumi dan letak lintang
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fenomena alam yang membuat wilayah Eropa Barat bisa mengalami empat musim adalah…
+
+[Materi #413]
+Topik (otomatis): masyarakat, kehidupan, wilayah, pegunungan
+Inti konsep: formal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Masyarakat pegunungan memiliki ciri kehidupan yang khas. Umumnya, masyarakat bekerja sebagai petani dan kekerabatan menjadi dasar dari sistem kerja yang berlaku. Pola kehidupan tersebut akan membentuk suatu wilayah yang disebut wilayah ….
+
+[Materi #414]
+Topik (otomatis): pengaruh, pusat, pertumbuhan, daerah
+Inti konsep: semakin jauh jaraknya, maka pengaruhnya semakin kecil
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengaruh pusat pertumbuhan terhadap daerah sekitarnya berkurang seiring dengan jarak karena ….
+
+[Materi #415]
+Topik (otomatis): manakah, pernyataan, berikut, benar
+Inti konsep: Pelapukan dan erosi memengaruhi semua jenis batuan di permukaan bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Manakah pernyataan berikut yang benar terkait siklus batuan?
+
+[Materi #416]
+Topik (otomatis): batuan, dapat, memiliki, perlapisan
+Inti konsep: Perbedaan waktu pembekuan pada lava tersebut menyebabkan kenampakan batuan menjadi berlapis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Batu Batik atau Selendang Dayang Sumbi merupakan salah satu jenis dari batuan beku yang dapat kita temukan di Tahura, Bandung. Jika diperhatikan kenampakan batuan tersebut seperti memiliki perlapisan, padahal umumnya batuan yang memiliki perlapisan termasuk kedalam batuan sedimen. Mengapa hal tersebut dapat terjadi?
+
+[Materi #417]
+Topik (otomatis): perbedaan, konfigurasi, sungai, konsekwen
+Inti konsep: Pola sungai
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perbedaan konfigurasi sungai konsekwen dan bagiannya dengan insekwen terutama adalah…
+
+[Materi #418]
+Topik (otomatis): indonesia, potensi, geografis, pengembangan
+Inti konsep: Kelapa sawit dan sabut kelapa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Potensi geografis Indonesia untuk pengembangan energi alternatif bioenergi cukup besar. Produk biomassa Indonesia yang berasal dari limbah buangan untuk pembangkit listrik adalah…
+
+[Materi #419]
+Topik (otomatis): negara, brunei, darussalam, salah
+Inti konsep: produk ekspor utama barang primer
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Brunei Darussalam merupakan salah satu negara dengan tingkat pendapatan tertinggi di Asia Tenggara namun masih dikategorikan sebagai negara berkembang karena ….
+
+[Materi #420]
+Topik (otomatis): kerjasama, korea, selatan, keuntungan
+Inti konsep: meningkatnya sumber pendapatan dari investasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kerjasama antara Indonesia dengan Korea Selatan yang dikenal dengan Joint Task Force On Economic Cooperation (JTF-EC) memberikan keuntungan bagi masing-masing negara. Keuntungan yang didapatkan oleh Korea Selatan dengan adanya kerjasama tersebut adalah ….
+
+[Materi #421]
+Topik (otomatis): swiss, negara, maju, terdapat
+Inti konsep: tingkat pengetahuan yang tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Swiss merupakan negara maju yang terdapat di Benua Eropa. Swiss adalah negara yang menduduki peringkat ketujuh sebagai salah satu negara terkaya di dunia. Faktor yang mendorong kekuatan industri di Swiss adalah ….
+
+[Materi #422]
+Topik (otomatis): negara, maju, industri, memiliki
+Inti konsep: Prancis
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Negara maju adalah negara yang memiliki pendapatan per kapita yang tinggi. Selain itu, negara tersebut sangat berkembang di sektor industri. Berikut ini merupakan negara maju yang terkenal di industri pesawat terbangnya adalah …
+
+[Materi #423]
+Topik (otomatis): salah, indikator, menjadikan, norwegia
+Inti konsep: SDM memiliki daya saing yang tinggi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu indikator yang menjadikan Norwegia negara maju adalah …
+
+[Materi #424]
+Topik (otomatis): peningkatan, bumi, gas, rumah
+Inti konsep: Menghambat radiasi bumi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peningkatan gas rumah kaca (GRK) di lapisan atmosfer bumi berpengaruh terhadap peningkatan suhu udara permukaan bumi karena.
+
+[Materi #425]
+Topik (otomatis): sumber, daya, alam, dapat
+Inti konsep: Memperbaiki kualitas sumber daya manusia yang ada
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Distribusi sumber daya alam di Indonesia sangat beragam dan dapat mempengaruhi kesejahteraan masyarakat yang tinggal di daerah tersebut. Tapi, terkadang wilayah yang memiliki kandungan sumber daya alam lebih tinggi justru kesejahteraan penduduknya rendah karena tidak dapat mengoptimalkan pemanfaatan sumber daya alamnya. Salah satu cara untuk mengatasi masalah ini adalah dengan...
+
+[Materi #426]
+Topik (otomatis): mengapa, pemanfaatan, lahan, pola
+Inti konsep: Menghasilkan komoditas beraneka ragam
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Mengapa pemanfaatan lahan dengan pola tumpang sari lebih memberikan jaminan ketahanan pangan bagi petani...
+
+[Materi #427]
+Topik (otomatis): perhatikan, kondisi-kondisi, berikut, peluang
+Inti konsep: (1) dan (2)
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perhatikan kondisi-kondisi berikut ini:
+1. peluang untuk melanjutkan pendidikan ke tingkat yang lebih tinggi
+2. makin sempitnya lapangan pekerjaan
+3. pendapatan yang rendah
+4. adanya berbagai fasilitas yang lengkap
+Penyebab utama urbanisasi penduduk dari desa ke kota ditunjukkan oleh faktor yang mendorong
+
+[Materi #428]
+Topik (otomatis): variasi, kepadatan, penduduk, kabupaten
+Inti konsep: Topografi dataran
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Variasi kepadatan penduduk antara kabupaten di Bali disebabkan oleh...
+
+[Materi #429]
+Topik (otomatis): program, prioritas, pemerintah, pusat
+Inti konsep: Pendekatan Kompleks Wilayah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Prioritas pemerintah pusat saat ini adalah menggalakkan program Tol Laut yang dilakukan atas filosofi negara kepulauan. Program ini bertujuan untuk meningkatkan kemajuan ekonomi di berbagai wilayah di Indonesia.
+Pendekatan yang cocok untuk mengkaji fenomena tersebut adalah ....
+
+[Materi #430]
+Topik (otomatis): daerah, banjir, hilir, menggenangi
+Inti konsep: Pendekatan Kompleks Wilayah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Banjir menggenangi daerah hilir akibat alih fungsi lahan hutan di daerah hulu menjadi permukiman dan aktivitas lainnya. Jika hujan dengan intensitas sedang dapat meningkatkan limpahan air sungai sehingga menyebabkan banjir di daerah hilir.
+Pendekatan geografi untuk menganalisis gejala tersebut adalah ....
+
+[Materi #431]
+Topik (otomatis): sungai, pendekatan, banyak, pabrik
+Inti konsep: Ekologi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Banyak pabrik besar di sekitar sungai Siak Riau, menyebabkan air sungai tersebut tidak jernih. Diduga sungai sudah terkontaminasi berbagai macam limbah industri yang dibuang ke sungai.
+Pendekatan geografi yang dilakukan untuk mengkaji gejala tersebut adalah pendekatan ....
+
+[Materi #432]
+Topik (otomatis): fenomena, geografi, dianalisis, pendekatan
+Inti konsep: Jakarta banjir karena hujan seharian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fenomena geografi yang dianalisis dengan pendekatan spasial yaitu ….
+
+[Materi #433]
+Topik (otomatis): musim, kemarau, panjang, indonesia
+Inti konsep: Pendekatan Keruangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Musim kemarau panjang di Indonesia tahun 2015 memaksa petani merugi. Fenomena ini terjadi karena adanya El Nino di Samudera Pasifik bagian timur. Pendekatan yang sesuai dengan paragraf tersebut adalah....
+
+[Materi #434]
+Topik (otomatis): sungai, terjadi, penduduk, akibat
+Inti konsep: pendekatan ekologi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Banjir yang sering terjadi di sekitar pemukiman penduduk di daerah perkotaan akibat semakin dangkal dasar sungai. Pendangkalan sungai terjadi akibat adanya penduduk yang membuang sampah ke sungai.
+Pendekatan geografi untuk mengkaji hal tersebut adalah ....
+
+[Materi #435]
+Topik (otomatis): pembangunan, wilayah, kawasan, permukiman
+Inti konsep: Pendekatan kompleks wilayah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pembangunan kawasan permukiman yang dilengkapi dengan pembangunan fasilitas umum, infrastruktur di wilayah perkotaan terus dikembangkan. Pembangunan juga melibatkan wilayah sekitar.
+Pendekatan geografi untuk pelaksanaan kegiatan tersebut adalah ...
+
+[Materi #436]
+Topik (otomatis): kota, beberapa, hujan, deras
+Inti konsep: Pendekatan keruangan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hujan deras yang mengguyur kota Medan beberapa waktu lalu mengakibatkan banjir di beberapa lokasi kota tersebut.
+Pendekatan yang diperlukan untuk mengkaji permasalahan tersebut adalah...
+
+[Materi #437]
+Topik (otomatis): musim, kemarau, terjadi, bencana
+Inti konsep: Pendekatan kelingkungan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada musim kemarau selalu terjadi bencana kabut asap di wilayah Sumatera dan Kalimantan, karena masyarakat membuka areal pertanian dengan cara membakar lahan.
+Pendekatan geografi untuk melengkapi fenomena tersebut adalah ...
+
+[Materi #438]
+Topik (otomatis): geografi, dapat, disiplin, ilmu
+Inti konsep: Why
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Geografi sebagai disiplin ilmu dapat menunjukkan bahwa erupsi gunung api terjadi karena saluran lava yang tersumbat. Berarti geografi dapat menjawab pertanyaan....
+
+[Materi #439]
+Topik (otomatis): benua, samudra, indonesia, terletak
+Inti konsep: Konsep Lokasi Absolut
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia terletak pada 6°LU – 11°LS dan 95°BT – 141°BT, di antara Benua Asia dan Benua Australia serta Samudra Pasifik dan Samudra Hindia.
+Konsep geografi yang berkaitan untuk fenomena tersebut adalah....
+
+[Materi #440]
+Topik (otomatis): wilayah, kajian, perbandingan, berbatuan
+Inti konsep: Jika (2) dan (4) benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kajian perbandingan antara wilayah berbatuan gamping di Maros, Sulawesi dan di Gunung Sewu, Jawa dilakukan berdasarkan konsep....
+(1)Pola keruangan.
+(2)Diferensiasi area.
+(3)Keterkaitan ruang.
+(4)Morfologi wilayah.
+
+[Materi #441]
+Topik (otomatis): jakarta, banyak, mesin, penduduk
+Inti konsep: Konsep Aglomerasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Penduduk Jakarta banyak yang membutuhkan mesin pendingin ruangan, sehingga produsen mesin tersebut banyak menjual produknya di Jakarta.
+Konsep geografi yang sesuai dengan fenomena tersebut adalah ....
+
+[Materi #442]
+Topik (otomatis): wilayah, harga, tanah, antarbagian
+Inti konsep: Jika PERNYATAAN benar, ALASAN salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Fenomena harga tanah di perkotaan lebih mahal dibandingkan harga tanah di pedesaan dapat dijelaskan dengan konsep diferensiasi wilayah.
+SEBAB
+Aksesibilitas dan intensitas penggunaan lahan antarbagian wilayah kota atau antarbagian wilayah desa cenderung homogen.
+
+[Materi #443]
+Topik (otomatis): pengiriman, surat, suara, pemilu
+Inti konsep: Konsep Keterjangkauan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pengiriman surat suara pemilu ke suatu distrik di Provinsi Papua Barat dilakukan dengan menggunakkan helikopter dan dilanjutkan dengan berjalan kaki sejauh 30 km dengan medan yang sangat berat. Berbeda di daerah perkotaan yang hanya memerlukkan waktu singkat dengan transportasi yang baik.
+Konsep geografi yang digunakan untuk memahami fenomena tersebut adalah ....
+
+[Materi #444]
+Topik (otomatis): desa, sukasari, berada, daerah
+Inti konsep: keterjangkauan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Desa Sukasari berada di daerah pedalaman hutan. Kondisi jalan yang rusak dan jauh dari kota membuat desa ini perkembangannya sangat sulit. Konsep geografi yang sesuai dengan pernyataan tersebut adalah.....
+
+[Materi #445]
+Topik (otomatis): pulau, jawa, padi, daerah
+Inti konsep: Konsep Interdependensi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pulau Jawa merupakan daerah penghasil padi utama di Indonesia karena tanah di Pulau Jawa subur dan air tersedia cukup banyak serta wilayahnya merupakan dataran rendah sehingga cocok untuk tanaman padi.
+Konsep dasar geografi untuk memahami fenomena tersebut adalah ….
+
+[Materi #446]
+Topik (otomatis): banyak, daerah, tanaman, paku
+Inti konsep: morfologi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tanaman paku banyak hidup di daerah pegunungan sementara padi banyak tumbuh di daerah dataran rendah. Konsep geografi yang sesuai dengan pernyataan tersebut adalah.....
+
+[Materi #447]
+Topik (otomatis): jam, dulu, bandung-jakarta, ditempuh
+Inti konsep: Konsep Keterjangkauan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dulu Bandung-Jakarta ditempuh 5 jam dengan bus, sekarang dengan adanya tol Cipularang jarak tempuhnya hanya 3 jam saja. Pernyataan tersebut mengandung konsep ….
+
+[Materi #448]
+Topik (otomatis): kampung, jakarta, kita, mengenal
+Inti konsep: aglomerasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Di Jakarta kita mengenal adanya Kampung Ambon dan Kampung Melayu. Penamaan wilayah semacam ini juga terjadi di daerah lain. Jika ditelusuri asal muasalnya, proses kejadiannya sesuai dengan konsep dasar geografi, yaitu….
+
+[Materi #449]
+Topik (otomatis): sejak, zaman, belanda, pulau
+Inti konsep: jika jawaban (4) saja yang benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sejak zaman Belanda, pulau Bintan merupakan salah satu lokasi tempat penambangan bauksit yang dapat dimanfaatkan sebagai bahan mentah ....
+(1) timbal
+(2) nikel
+(3) tembaga
+(4) alumunium
+
+[Materi #450]
+Topik (otomatis): permukaan, bumi, hal, perlu
+Inti konsep: jika jawaban (2) dan (4) benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hal yang perlu diperhatikan dengan cermat pada saat memilih sistem proyeksi peta adalah ....
+(1) bentuk permukaan bumi
+(2) letak wilayah di permukaan bumi
+(3) luas daerah yang dipetakan
+(4) jumlah dan jenis informasi/data
+
+[Materi #451]
+Topik (otomatis): pola, interaksi, antarwilayah, jakarta
+Inti konsep: jumlah penduduk dan jarak dari pusat kota
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pola interaksi antarwilayah Jakarta, Bogor, Depok, Tangerang, dan Bekasi, menunjukkan perbedaan keruangan akibat variasi ....
+
+[Materi #452]
+Topik (otomatis): rendahnya, potensi, sumber, daya
+Inti konsep: permeabilitas rendah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Rendahnya potensi sumber daya air tanah pada lahan bebatuan gamping, karena ....
+
+[Materi #453]
+Topik (otomatis): negara, sumber, daya, perkembangan
+Inti konsep: Jika pernyataan benar, alasan benar, tetapi keduanya tidak menunjukkan hubungan sebab akibat
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Perkembangan pesat industri di negara maju menunjukkan di negara tersebut telah terjadi perubahan struktur masyarakat dalam pemanfaatan sumber daya.
+SEBAB
+Industrialisasi identik dengan eksploitasi sumber daya alam yang seringkali berimplikasi terhadap meningkatnya pencemaran lingkungan.
+
+[Materi #454]
+Topik (otomatis): tindakan, dapat, dilakukan, melestarikan
+Inti konsep: jika semua jawaban (1), (2), (3), dan (4) benar
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tindakan yang dapat dilakukan untuk melestarikan sumber daya ikan laut di perairan Indonesia adalah melalui ....
+(1) pemasangan rumpon
+(2) pelestarian hutan mangrove
+(3) penangkapan secara selektif
+(4) pembudidayaan plankton
+
+[Materi #455]
+Topik (otomatis): lempeng, indo-australia, pasifik, menghasilkan
+Inti konsep: Jika pernyataan dan alasan, keduanya salah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Lempeng tektonik Indo-Australia, Eurasia, dan Pasifik bergerak membentuk subduksi yang menghasilkan sesar.
+SEBAB
+Lempeng Indo-Australia dan Pasifik yang bertumbukan menghasilkan rangkaian gunung api di Sulawesi dan utara Papua.
+
+[Materi #456]
+Topik (otomatis): salah, usaha, mengatasi, menyempitnya
+Inti konsep: mereformasi lahan pertanian
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Salah satu usaha untuk mengatasi menyempitnya luas lahan pertanian di Pulau Jawa adalah ....
+
+[Materi #457]
+Topik (otomatis): peta, berskala, diperkecil, skala
+Inti konsep: jarak di dalam peta menjadi lebih pendek
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jika sebuah peta berskala 1:10.000 diperkecil menjadi skala 1:50.000, pernyataan yang benar adalah …
+
+[Materi #458]
+Topik (otomatis): kejadian, banjir, longsor, terjadi
+Inti konsep: interelasi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Kejadian banjir dan longsor yang terjadi di Manado, berkaitan dengan daerah hutan di wilayah hulu yang sudah gundul. Prinsip geografi yang diterapkan untuk menjelaskan fenomena tersebut adalah ....
+
+[Materi #459]
+Topik (otomatis): wilayah, longsor, banjir, kabupaten
+Inti konsep: Berada di luar Kawasan bencana
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hujan yang turun di wilayah utara D.I Yogyakarta dapat mengakibatkan banjir dan tanah longsor di sejumlah titik, terutama di daerah yang mengalami deforestasi akibat erupsi gunung Merapi. Sejumlah titik yang teridentifikasi rawan bencana banjir dan longsor itu tersebar di wilayah Kabupaten Bantul, Kabupaten Gunung Kidul, dan Kulon Progo. Di Kabupaten Bantul, bencana longsor terjadi di Imogiri, tepatnya di sepanjang wilayah menuju Dlingo.
+Wilayah kraton Yogyakarta tidak akan rawan terjadi banjir dan longsor karena ….
+
+[Materi #460]
+Topik (otomatis): wilayah, longsor, kabupaten, yogyakarta
+Inti konsep: Spasial
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Hujan yang turun di wilayah utara D.I Yogyakarta dapat mengakibatkan banjir dan tanah longsor di sejumlah titik, terutama di daerah yang mengalami deforestasi akibat erupsi gunung Merapi. Sejumlah titik yang teridentifikasi rawan bencana banjir dan longsor itu tersebar di wilayah Kabupaten Bantul, Kabupaten Gunung Kidul, dan Kulon Progo. Di Kabupaten Bantul, bencana longsor terjadi di Imogiri, tepatnya di sepanjang wilayah menuju Dlingo.
+Pendekatan geografi yang digunakan untuk menganalisis Kawasan deforestasi (penggundulan hutan) di Yogyakarta adalah ….
+
+[Materi #461]
+Topik (otomatis): bentang, alam, wilayah, pesisir
+Inti konsep: Abrasi dan Pengangkatan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Bentang alam di wilayah pesisir berupa tebing pantai terbentuk karena pengaruh ….
+
+[Materi #462]
+Topik (otomatis): dampak, pergerakan, lempeng, eurasia
+Inti konsep: Terbentuknya terusan Sirkum Mediterania
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dampak dari pergerakan lempeng Eurasia dan Indo-Australia berupa gerak subduksi terhadap kondisi geologis Indonesia antara lain ….
+
+[Materi #463]
+Topik (otomatis): batuan, mengalami, perubahan, bentuk
+Inti konsep: Marmer, sabak, turmalin
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Jenis batuan yang mengalami perubahan bentuk akibat penambahan suhu dan tekanan tinggi antara lain ….
+
+[Materi #464]
+Topik (otomatis): karakteristik, sungai, hilir, lain
+Inti konsep: Terdapat meander
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Karakteristik sungai di bagian hilir antara lain ….
+
+[Materi #465]
+Topik (otomatis): puncak, peta, topografi, contour
+Inti konsep: 22, 5 Km
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada sebuah peta topografi dengan contour interval 125 meter terdapat dua puncak yang berjarak 9 cm, sehingga jarak lurus di lapangan antara kedua puncak tersebut adalah ….
+
+[Materi #466]
+Topik (otomatis): sumber, daya, alam, dapat
+Inti konsep: memperbaiki kualitas sumber daya manusia yang ada
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sebaran sumber daya alam di Indonesia sangat beragam dan dapat mempengaruhi kesejahteraan penduduknya. Akan tetapi, terkadang wilayah yang memiliki kandungan sumber daya alam lebih tinggi justru kesejahteraan penduduknya rendah karena tidak dapat mengoptimalkan pemanfaatan sumber daya alamnya. Salah satu solusi yang tepat untuk menangani permasalahan tersebut adalah….
+
+[Materi #467]
+Topik (otomatis): peta, sifat, datanya, menggambarkan
+Inti konsep: peta stasioner
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Peta yang sifat datanya menggambarkan keadaan permukaan bumi yang tetap dan relatif stabil adalah ….
+
+[Materi #468]
+Topik (otomatis): laut, arah, relief, dasar
+Inti konsep: continental shelf
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Relief dasar laut paling tepi yang mengalami penurunan landai mulai dari pantai ke arah tengah lautan dengan kemiringan ke arah laut kurang dari satu derajat adalah ….
+
+[Materi #469]
+Topik (otomatis): sungai, musi, sepanjang, tahun
+Inti konsep: permanen
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Sepanjang tahun, debit sungai Musi relatif tetap besar. Hal ini menunjukkan Sungai Musi termasuk jenis sungai ….
+
+[Materi #470]
+Topik (otomatis): faktor-faktor, mempengaruhi, perubahan, cuaca
+Inti konsep: awan dan curah hujan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: faktor-faktor yang mempengaruhi perubahan cuaca suatu wilayah adalah ….
+
+[Materi #471]
+Topik (otomatis): matahari, setahun, memiliki, kedudukan
+Inti konsep: khatulistiwa
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam setahun, matahari memiliki kedudukan yang berbeda-beda. Tanggal 23 September, Matahari beredar pada garis ….
+
+[Materi #472]
+Topik (otomatis): padi, bulan, petani, indonesia
+Inti konsep: pola angin muson yang berhembus di Indonesia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Petani padi di Indonesia biasanya akan mulai menanam tanamannya pada akhir bulan November. Kemudian, mereka akan memanen hasilnya pada bulan April. Pola penanaman padi tersebut sangat berkaitan dengan ….
+
+[Materi #473]
+Topik (otomatis): distribusi, fenomena, coral, bleaching
+Inti konsep: Inframerah termal
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Distribusi fenomena coral bleaching atau pemutihan karang dapat dianalisis dengan baik apabila menggunakan citra ....
+
+[Materi #474]
+Topik (otomatis): gumuk, pasir, bulan, sabit
+Inti konsep: wilayah tropis humid
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Gumuk pasir bulan sabit Pantai Parangtritis Yogyakarta merupakan fenomena geomorfologis aeolis yang yang unik karena….
+
+[Materi #475]
+Topik (otomatis): air, wilayah, perkotaan, banyaknya
+Inti konsep: banyaknya bangunan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Banyaknya penduduk di kota membutuhkan ketersediaan air dalam skala banyak. Air tanah bersih dan sehat di wilayah perkotaan cenderung sulit di dapat. Di bawah ini faktor fisik yang mempengaruhi sulitnya air di wilayah perkotaan adalah....
+
+[Materi #476]
+Topik (otomatis): angin, puting, beliung, terjadi
+Inti konsep: tekanan dan stabilitas udara
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Angin puting beliung yang terjadi di Bogor merupakan fenomena alam yang berkaitan dengan perbedaan....
+
+[Materi #477]
+Topik (otomatis): tanah, rawa, dapat, digunakan
+Inti konsep: penambahan kapur
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Tanah rawa dapat digunakan sebagai lahan pertanian dengan cara....
+
+[Materi #478]
+Topik (otomatis): pulau, bali, memiliki, daratan
+Inti konsep: tombolo
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pulau Bali memiliki daratan alami sebagai penghubung ke Pulau Nusa Penida disebut....
+
+[Materi #479]
+Topik (otomatis): wilayah, kurun, waktu, tahun
+Inti konsep: prinsip deskripsi
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Dalam kurun waktu lima tahun terakhir, wilayah pantai barat Sumatra sudah beberapa kali diguncang gempa tektonik dan dilihat dari struktur geologinya wilayah tersebut berada di zona tumbukan lempeng. Prinsip geografi yang digunakan untuk mengkaji fenomena tersebut adalah ....
+
+[Materi #480]
+Topik (otomatis): indonesia, hasil, pertemuan, lempeng
+Inti konsep: lempeng Pasifik, Palempeng Samudra Hindia-Australia, Pasifik, dan Eurasiapua, dan Australia
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Indonesia merupakan hasil pertemuan dari tiga lempeng besar, yaitu
+
+[Materi #481]
+Topik (otomatis): ciri, bentang, alam, muka
+Inti konsep: longsor lahan
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri bentang alam muka bumi pada lereng perbukitan sebagai akibat proses debris avalanche (luncuran batu-batuan) ditunjukkan oleh kenampakan ....
+
+[Materi #482]
+Topik (otomatis): pembentukan, embun, terjadi, malam
+Inti konsep: udara jenuh terlampaui
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses pembentukan embun selalu terjadi pada malam dan pagi hari, ada kaitannya dengan kondisi cuaca dan iklim, yaitu ....
+
+[Materi #483]
+Topik (otomatis): iklim, ciri, koppen, temperatur
+Inti konsep: iklim A
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ciri iklim Koppen: temperatur bulan terdingin tidak kurang dari 180C, rata-rata curah hujan tahunan >60 mm, dan tumbuhan beraneka ragam. Jenis iklim yang sesuai dengan ciri-ciri tersebut adalah ....
+
+[Materi #484]
+Topik (otomatis): data, model, piksel, spasial
+Inti konsep: data vektor
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Data spasial merupakan data grafis yang mengidentifikasi kenampakan yang menunjukkan keruangan, lokasi, atau tempat-tempat di permukaan bumi. Model data yang dibentuk oleh kemampuan sel atau piksel (picture element) dengan bentuk grid dan setiap piksel mempunyai referensi. Model data tersebut disebut ....
+
+[Materi #485]
+Topik (otomatis): pembentukan, muka, bumi, lipatan
+Inti konsep: diatropisme
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Proses pembentukan muka bumi oleh pe­lipatan dan patahan dinamakan ....
+
+[Materi #486]
+Topik (otomatis): konservasi, tanah, metode, vegeta
+Inti konsep: strip cropping dan crop rotation
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Konservasi tanah dengan metode vegeta­tif dapat dilakukan dengan cara ....
+
+[Materi #487]
+Topik (otomatis): berikut, termasuk, skala, kadaster
+Inti konsep: 1 : 1.000
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Berikut yang termasuk skala kadaster adalah…
+
+[Materi #488]
+Topik (otomatis): kota, jarak, peta, berskala
+Inti konsep: 3.000m
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada peta yang berskala 1 : 150.000, jarak kota A dengan B adalah 3 cm. Tentukanlah jarak sesungguhnya antara kota A dengan kota B !
+
+[Materi #489]
+Topik (otomatis): peta, tercantum, skala, grafis
+Inti konsep: 1 : 50.000
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Pada sebuah peta tercantum skala grafis sebagai berikut :
+
+[Materi #490]
+Topik (otomatis): peta, ada, berskala, termasuk
+Inti konsep: peta berskala menengah
+Penjelasan singkat: Pelajari definisi/konsep yang ditanyakan agar dapat membedakan opsi yang mirip.
+Contoh soal: Ada sebuah peta berskala 1:200.000. Peta tersebut termasuk jenis ....

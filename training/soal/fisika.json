@@ -1,0 +1,5269 @@
+[
+  {
+    "pertanyaan": "Gerak benda selalu bersifat relatif. Hal ini berarti bahwa bergerak atau tidaknya suatu benda di tentukan oleh ….",
+    "opsi": {
+      "A": "keadaan si pengamat saat berlari",
+      "B": "keadaan si pengamat terhadap pengamat",
+      "C": "keadaan si pengamat terhadap benda",
+      "D": "pergerakan si pengamat"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Satuan kelajuan dalam SI adalah ….",
+    "opsi": {
+      "A": "m/s3",
+      "B": "m/s",
+      "C": "meter sekon2",
+      "D": "km/jam"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Gerak benda yang bergerak dengan lintasan berbentuk setengah lingkaran adalah ….",
+    "opsi": {
+      "A": "gerak melingkar",
+      "B": "gerak lurus",
+      "C": "gerak nyata",
+      "D": "gerak parabola"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Apa yang menyebabkan benda mengalami gerak parabola ….",
+    "opsi": {
+      "A": "Gaya gradient bumi",
+      "B": "Gaya gravitasi bumi",
+      "C": "Gaya sentrifugal",
+      "D": "Gaya genosoda bumi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah mobil dengan kelajuan 90 km/jam berjalan dari Jakarta menuju semarang. Kecepatan mobil tersebut jika di nyatakan dalam SI adalah ….",
+    "opsi": {
+      "A": "3 m/s",
+      "B": "9 m/s",
+      "C": "20 m/s",
+      "D": "25 m/s"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Benda yang bergerak jatuh bebas dari ketinggian tertentu di sebut ….",
+    "opsi": {
+      "A": "gerak lurus berubah beraturan",
+      "B": "gerak belok lurus beraturan",
+      "C": "gerak lurus berhenti beraturan",
+      "D": "gerak lurus beraturan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan berikut.\n1) Bola yang di lemparkan vertical keatas\n2) Naik sepatu roda di jalan mendatar\n3) Buah kelapa yang jatuh dari pohon\n4) Mobil sedang di rem hingga berhenti\nYang termasuk gerak lurus berubah beraturan di perlambat adalah ….",
+    "opsi": {
+      "A": "1,2, dan 3",
+      "B": "1 dan 4",
+      "C": "1 dan 3",
+      "D": "4 saja"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Gaya yang bekerja pada sebuah benda akan mengakibatkan perubahan ….",
+    "opsi": {
+      "A": "gerak dan bentuk benda",
+      "B": "gerak dan massa benda",
+      "C": "laju dan satuannya",
+      "D": "gerak otomatis"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Jika sebuah bus di rem secara mendadak, penumpang yang duduk di dalamnya akan terhempas kedepan. Peristiwa ini adalah contoh berlakunya ….",
+    "opsi": {
+      "A": "Hukum I Newton",
+      "B": "Hukum II Newton",
+      "C": "Hukum III Newton",
+      "D": "Hukum IV Newton"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sifat Inersia Benda dapat di artikan ….",
+    "opsi": {
+      "A": "benda selalu ingin berubah keadaanya",
+      "B": "benda cenderung akan bergerak",
+      "C": "jika benda jatuh, arahnya selalu menuju pusat bumi",
+      "D": "benda cenderung mempertahankan keadaannya yang diam atau bergerak"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah benda bermassa 5 Kg diam diatas tanah. Benda tersebut mengalami percepatan gravitasi sebesar 10 m/s2 . gaya berat yang bekerja pada benda tersebut adalah sebesar ….",
+    "opsi": {
+      "A": "15 N",
+      "B": "2 N",
+      "C": "50 N",
+      "D": "50 kg"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Gaya sebesar 20 N bekerja pada sebuah benda yang menyebabkan percepatan sebesar 2 m/s2, maka massa benda itu adalah ….",
+    "opsi": {
+      "A": "10 N",
+      "B": "10 Kg",
+      "C": "12 N",
+      "D": "12 Kg"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Gaya yang di keluarkan untuk memindahkan beban pada materi pesawat sederhana di sebut ….",
+    "opsi": {
+      "A": "gaya usaha",
+      "B": "gaya tenaga",
+      "C": "gaya kuasa",
+      "D": "gaya beban"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pesawat sederhana yang cocok di gunakan memotong kertas adalah ….",
+    "opsi": {
+      "A": "sekrup",
+      "B": "obeng",
+      "C": "pisau",
+      "D": "gunting"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Keuntungan mekanis sebuah pesawat sederhana adalah ….",
+    "opsi": {
+      "A": "perbandingan antara lengan kuasa dan gaya beban",
+      "B": "perbandingan antara gaya beban dan gaya kuasa",
+      "C": "perbandingan antara beban dan lengan beban",
+      "D": "perbandingan antara lengan beban dan gaya beban"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Keuntungan mekanis dari katrol tetap sebesar ….",
+    "opsi": {
+      "A": "1 kali",
+      "B": "2 kali",
+      "C": "3 kali",
+      "D": "4 kali"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Alat-alat berikut yang bekerja menggunakan prinsip tuas adalah ….",
+    "opsi": {
+      "A": "gunting, jungkat-jungkit, dan gerobak",
+      "B": "tangga, katrol, dan baji",
+      "C": "dongkrak, katrol, dan pinset",
+      "D": "paku, pisau, dan jalan di pegunungan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah benda dengan berat 120 N di tarik dengan menggunakan sebuah katrol tetap. Besar gaya kuasa yang di perlukan untuk menarik benda adalah ….",
+    "opsi": {
+      "A": "30 N",
+      "B": "60 N",
+      "C": "120N",
+      "D": "200 N"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pada tuas berlaku rumus ….",
+    "opsi": {
+      "A": "w x lb = F x la",
+      "B": "F x lk = w x lb",
+      "C": "F x w = lk x lb",
+      "D": "w x lk = lk x lb"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Tujuan orang menggunakan katrol tetap adalah ….",
+    "opsi": {
+      "A": "mengubah energi",
+      "B": "menghilangkan energi",
+      "C": "memperbesar kecepatan",
+      "D": "mengubah arah gaya"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Keuntungan mekanis suatu katrol bergerak adalah sebesar ….",
+    "opsi": {
+      "A": "1 kali",
+      "B": "2 kali",
+      "C": "3 kali",
+      "D": "4 kali"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah pengungkit mempunyai panjang lengan kuasa 3 m dan lengan beban 0,3 m, maka keuntungan mekanisnya adalah ….",
+    "opsi": {
+      "A": "2 kali",
+      "B": "6 kali",
+      "C": "8 kali",
+      "D": "10 kali"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Zat yang dapat mengalir  di sebut ….",
+    "opsi": {
+      "A": "gaya",
+      "B": "fluida",
+      "C": "densitas",
+      "D": "kekentalan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Gaya yang bekerja pada suatu zat cair dalam ruang tertutup, tekanannya di teruskan oleh zat cair itu kesegala arah sama besar, pernyataan tersebut termasuk ….",
+    "opsi": {
+      "A": "Hukum bejana berhubungan",
+      "B": "Hukum Lorentz",
+      "C": "Hukum Pascal",
+      "D": "Hukum Archimedes"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Suatu benda yang di celupkan kedalam zat cair sebagian atau seluruhnya, akan mendapatkan gaya tekan keatas yang besarnya sama dengan berat zat cair yang di pindahkan oleh benda tersebut, pernyataan tersebut termasuk ….",
+    "opsi": {
+      "A": "Hukum bejana berhubungan",
+      "B": "Hukum Lorentz",
+      "C": "Hukum Pascal",
+      "D": "Hukum Archimedes"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Satuan tekanan dalam zat cair adalah ….",
+    "opsi": {
+      "A": "N/m^2",
+      "B": "N.m",
+      "C": "kg/m^3",
+      "D": "kg.m"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Jika massa jenis benda lebih kecil dari pada massa jenis air, benda tersebut akan ….",
+    "opsi": {
+      "A": "melayang",
+      "B": "mengapung",
+      "C": "mendatar",
+      "D": "tenggelam"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Jika massa jenis benda sama dengan massa jenis air, benda tersebut akan ….",
+    "opsi": {
+      "A": "melayang",
+      "B": "mengapung",
+      "C": "mendatar",
+      "D": "tenggelam"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Jika massa jenis benda lebih besar dari pada massa jenis air, benda tersebut akan ….",
+    "opsi": {
+      "A": "melayang",
+      "B": "mengapung",
+      "C": "mendatar",
+      "D": "tenggelam"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Alat yang bekerja berdasarkan prinsip hukum Archimedes adalah ….",
+    "opsi": {
+      "A": "pompa air",
+      "B": "talang air",
+      "C": "kapal laut",
+      "D": "dongkrak"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Alat untuk mengukur tekanan gas pada ruang tertutup adalah ….",
+    "opsi": {
+      "A": "barometer",
+      "B": "hidrometer",
+      "C": "manometer",
+      "D": "fluidameter"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perubahan tekanan udara dapat di gunakan untuk ….",
+    "opsi": {
+      "A": "memperkirakan cuaca",
+      "B": "memperkirakan musim",
+      "C": "membuat hujan buatan",
+      "D": "membuat atmosfer"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Alat untuk mengukur tekanan atmosfer ….",
+    "opsi": {
+      "A": "barometer",
+      "B": "hidrometer",
+      "C": "manometer",
+      "D": "fluidameter"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah drum berisi air setinggi 0,4 m dari dasar drum, massa jenis air 1000 kg/m3 dan percepatan gravitasi g=10 m/s2. Jadi tekanan air pada dasar drum tersebut adalah ….",
+    "opsi": {
+      "A": "2000 N/m^2",
+      "B": "2000 N",
+      "C": "4000 N/m^2",
+      "D": "4000 N"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pada penyemprot nyamuk di ketahui memiliki luas penampang A= 0,5 m2 , penyemprot nyamuk di gunakan untuk membasmi nyamuk di rumah ahonk, agar penyemprot tersebut bekerja ahonk memberikan gaya sebesar 10 N , jadi tekanan yang di hasilkan penyemprot tersbut adalah ….",
+    "opsi": {
+      "A": "0,05 N/m^2",
+      "B": "5 N/m^2",
+      "C": "8 N/m^2",
+      "D": "20 N/m^2"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Besaran dikelompokkan menjadi dua, yaitu ....",
+    "opsi": {
+      "A": "Besaran pokok dan besaran baku",
+      "B": "Besaran baku dan besaran turunan",
+      "C": "Besaran nasional dan internasional",
+      "D": "Besaran pokok dan besaran turunan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Dahulu orang sering menggunakan anggota tubuh sebagai satuan pengukuran, misalnya seperti dibawah ini, kecuali ....",
+    "opsi": {
+      "A": "Jari, hasta, kaki",
+      "B": "Jengkal, depa, langkah",
+      "C": "Meter, Kilogram, Liter",
+      "D": "Depa, hasta dan kaki"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Besaran yang dapat diukur dan memiliki satuan disebut besaran ...",
+    "opsi": {
+      "A": "Bilogi",
+      "B": "Kimia",
+      "C": "Fisika",
+      "D": "Matematika"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Besaran yang merupakan besaran yang dijabarkan dari besaran-besaran pokok dinamakan besaran .....",
+    "opsi": {
+      "A": "Internasional",
+      "B": "Turunan",
+      "C": "Standar",
+      "D": "Panjang"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Besaran panjang memiliki satuan SI berupa...",
+    "opsi": {
+      "A": "Depa",
+      "B": "Kilogram",
+      "C": "Meter",
+      "D": "Kubik"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Ampere adalah satuan SI dari besaran pkok ....",
+    "opsi": {
+      "A": "Panjang",
+      "B": "Massa",
+      "C": "Waktu",
+      "D": "Kuat arus listrik"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Satuan SI dari besaran waktu adalah ....",
+    "opsi": {
+      "A": "Detik",
+      "B": "Meter",
+      "C": "Ampere",
+      "D": "Candela"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk besaran pokok adalah ....",
+    "opsi": {
+      "A": "Waktu",
+      "B": "Luas",
+      "C": "Volume",
+      "D": "Massa Jenis"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kecepatan merupakan salah satu besaran turunan yang mempunyai satuan ....",
+    "opsi": {
+      "A": "m/s",
+      "B": "Kg",
+      "C": "Newton",
+      "D": "Km"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Besaran massa jenis dapat dijabarkan dari besaran ....",
+    "opsi": {
+      "A": "Massa : Waktu",
+      "B": "Massa : Kecepatan",
+      "C": "Massa : Volume",
+      "D": "Massa : Percepatan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Satuan Watt merupakan satuan dari besaran ....",
+    "opsi": {
+      "A": "Gaya",
+      "B": "Volume",
+      "C": "Tekanan",
+      "D": "Daya"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Satuan Sistem Internasional (SI) digunakan di ....",
+    "opsi": {
+      "A": "Indonesia",
+      "B": "Asean",
+      "C": "Amerika",
+      "D": "Seluruh dunia"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan merupakan satuan panjang adalah ....",
+    "opsi": {
+      "A": "Meter",
+      "B": "Kiloliter",
+      "C": "Centimeter",
+      "D": "Kilometer"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Massa standar satu kilogram didefinisikan sebagai massa satu liter air murni pada suhu ...",
+    "opsi": {
+      "A": "4⁰C",
+      "B": "5⁰C",
+      "C": "6⁰C",
+      "D": "7⁰C"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini yang tidak termasuk Satuan Internasional adalah ....",
+    "opsi": {
+      "A": "Yard",
+      "B": "Sekon",
+      "C": "Ampere",
+      "D": "Meter"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Jarak 2.000 m jika dinyatakan dalam satuan cm adalah ....",
+    "opsi": {
+      "A": "2 cm",
+      "B": "200 cm",
+      "C": "20.000 cm",
+      "D": "200.000 cm"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Massa 20 Kg jika dinyatakan dalam satuan mg adalah ....",
+    "opsi": {
+      "A": "2.000 mg",
+      "B": "20.000 mg",
+      "C": "20.000.000 mg",
+      "D": "2.000.000 mg"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jarak pundak sampai ujung jari tangan orang dewasa dinamakan ....",
+    "opsi": {
+      "A": "1 mil",
+      "B": "1 kaki",
+      "C": "1 yard",
+      "D": "1 ons"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "1 inci sama dengan ....",
+    "opsi": {
+      "A": "3 cm",
+      "B": "2,54 cm",
+      "C": "5,5 cm",
+      "D": "3,5 cm"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah mobil melaju dengan kecepatan 36 km/jam. Kecepatan tersebut sama dengan .... m/s",
+    "opsi": {
+      "A": "72",
+      "B": "12",
+      "C": "60",
+      "D": "10"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "1 g/cm = .... kg/m",
+    "opsi": {
+      "A": "100",
+      "B": "1.000",
+      "C": "10.000",
+      "D": "100.000"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Satuan jengkal merupakan satuan yang tidak baku dipakai di berbagai negera. Karena contohnya adalah....",
+    "opsi": {
+      "A": "Ukuran jengkal orang Indonesia dengan orang Amerika panjangnya sama",
+      "B": "Ukuran jengkal orang Indonesia dengan orang Amerika lebarnya sama",
+      "C": "Ukuran jengkal orang Indonesia dengan orang Amerika panjangnya berbeda",
+      "D": "Ukuran jengkal orang Indonesia dengan orang Amerika warnanya berbeda"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Mistar adalah alat yang digunakan untuk mengukur ....",
+    "opsi": {
+      "A": "Massa",
+      "B": "Volume",
+      "C": "Panjang",
+      "D": "Kecepatan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Mistar memiliki ketelitian ....",
+    "opsi": {
+      "A": "1 mm",
+      "B": "1 dm",
+      "C": "1 m",
+      "D": "1 cm"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Alat ukut yang memiliki ketelitian 0,01 mm adalah ....",
+    "opsi": {
+      "A": "Jangka sorong",
+      "B": "Mistar",
+      "C": "Mikrometer Sekrup",
+      "D": "Neraca"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah alat-alat untuk mengukur waktu, kecuali ....",
+    "opsi": {
+      "A": "Jam analog",
+      "B": "Neraca dua lengan",
+      "C": "Stopwacth",
+      "D": "Jam digital"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Setiap benda yang mempunyai massa bergerak dengan kecepatan tertentu sehingga memiliki energi ....",
+    "opsi": {
+      "A": "Kinetik",
+      "B": "Listrik",
+      "C": "Massa",
+      "D": "Kimia"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Ukuran derajat panas dan dingin suatu benda tersebut dinyatakan dengan besaran .....",
+    "opsi": {
+      "A": "Gaya",
+      "B": "Suhu",
+      "C": "Daya",
+      "D": "Kuat arus"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dalam Sistem Internasional (SI) terdapat 7 besaran pokok yaitu ....",
+    "opsi": {
+      "A": "Panjang, Massa, Waktu, Kuat arus listrik, Suhu, Jumlah zat dan Intensitas cahaya",
+      "B": "Panjang, Massa, Waktu, Volume, Suhu, Jumlah zat dan Intensitas cahaya",
+      "C": "Panjang, Massa, Waktu, Kuat arus listrik, Suhu, Luas dan Intensitas cahay",
+      "D": "Panjang, Massa, Waktu, Kuat arus listrik, Suhu, Kecepatan dan Intensitas cahaya"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Satuan yang apabila digunakan oleh siapa pun akan menghasilkan hasil pengukuran yang\nsama dinamakan satuan ....",
+    "opsi": {
+      "A": "Resmi",
+      "B": "Fisika",
+      "C": "Baku",
+      "D": "Panjang"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Alat untuk mengukur suhu adalah ....",
+    "opsi": {
+      "A": "Termometer",
+      "B": "Mikrometer",
+      "C": "Dinamometer",
+      "D": "Jangka sorong"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Di dalam fisika besaran dengan satuan kilogram (kg) adalah besaran massa. Sedangkan berat (w) mempunyai satuan ....",
+    "opsi": {
+      "A": "Joule",
+      "B": "Newton",
+      "C": "Kelvin",
+      "D": "Ampere"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Contoh satuan tidak baku adalah ....",
+    "opsi": {
+      "A": "Jengkal, kaki, depa",
+      "B": "Meter, Kilogram, Sekon",
+      "C": "Sekon, Ampere, Watt",
+      "D": "Liter, meter, gram"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Termometer Fahrenheit Titik tetap bawah diberi angka 32 dan titik tetap atas diberi angka ....",
+    "opsi": {
+      "A": "100",
+      "B": "357",
+      "C": "212",
+      "D": "75"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Termometer yang umum digunakan adalah termometer zat cair dengan pengisi pipa kapilernya adalah ....",
+    "opsi": {
+      "A": "Air atau minyak",
+      "B": "Raksa atau alkohol",
+      "C": "Minyak atau air keras",
+      "D": "Raksa atau bensol"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Diantara syarat sebuah satuan bisa menjadi satuan Internasional adalah ....",
+    "opsi": {
+      "A": "Bersifat tetap dan berlaku dimana saja",
+      "B": "Bersifat tetap dan berlaku di negara tertentu",
+      "C": "Berubah-ubah sifatnya dan mudah diingat",
+      "D": "Berlaku dimana saja dan bersifat mudah diubah-ubah nilainya"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Suhu suatu benda saat diukur dengan termometr Celcius adalah 10°C. Maka jika diukur dengan termometer Fahrenheit adalah menjadi ....",
+    "opsi": {
+      "A": "50°F",
+      "B": "60°F",
+      "C": "70°F",
+      "D": "80°F"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Volume merupakan besaran turunan, yang disusun oleh besaran pokok ....",
+    "opsi": {
+      "A": "Massa",
+      "B": "Waktu",
+      "C": "Berat",
+      "D": "Panjang"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Doni mengukur suhu suatu benda menggunakan termometer Celcius sebesar 80°C. Suhu benda itu jika diukur menggunakan termometer Reaumur  adalah ....",
+    "opsi": {
+      "A": "70°R",
+      "B": "65°R",
+      "C": "64°R",
+      "D": "84°R"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perbandingan skala antara temometer Celcius, termometer Reaumur, dan termometer Fahrenheit adalah ....",
+    "opsi": {
+      "A": "1 : 2 : 3",
+      "B": "4 : 5 : 9",
+      "C": "5 : 4 : 9",
+      "D": "9 : 5 : 4"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jika arus 4 amp dalam kawat yang mengaliri tepinya memiliki potensial beda 12 volt, sama dengan muatan menit yang mengalir melalui kawat…",
+    "opsi": {
+      "A": "4 C",
+      "B": "12 C.",
+      "C": "60 C.",
+      "D": "120 C.",
+      "E": "240 C."
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Jika muatan listrik 6 x 10-2 C mengalir dalam konduktor selama 30 detik, arus listrik kuat yang mengalir dalam konduktor ini adalah ..",
+    "opsi": {
+      "A": "2 mA",
+      "B": "15 mA",
+      "C": "30 mA",
+      "D": "80 mA",
+      "E": "120 mA"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sepotong kawat pemandu memiliki panjang 50 cm, luas penampang 2 mm 2 dan hambatan listrik 100 ohm. Dengan demikian, resistansi jenis kawat adalah sama",
+    "opsi": {
+      "A": "5 x 10 – 6 ohm",
+      "B": "2 x 10 – 5 ohm",
+      "C": "4 x 10 – 4 ohm",
+      "D": "5 x 10? ² ohm",
+      "E": "8 x 10 2 ohm"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Tiga resistor 3 ohm, 4 ohm dan 6 ohm dihubungkan secara paralel, kemudian kedua ujungnya dihubungkan ke baterai dengan EMF 8 volt dan resistansi internal 2/3 ohm. Tegangan pemerasan dari rangkaian adalah. . . .",
+    "opsi": {
+      "A": "2,67 volt",
+      "B": "5,33 volt",
+      "C": "7,61 volt",
+      "D": "8.00 volt",
+      "E": "52,00 volt"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perlawanan konduktor dapat ditingkatkan dalam satu cara . . .",
+    "opsi": {
+      "A": "meningkatkan perbedaan potensial",
+      "B": "Tambah arus",
+      "C": "menambah luas penampang",
+      "D": "Perpanjang kawat",
+      "E": "meminimalkan perbedaan potensial"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Faktor-faktor yang juga menentukan ketahanan kawat logam adalah\n(1) kawat panjang\n(2) kawat suhu\n(3) area kawat penampang\n(4) Jenis bahan kawat\nSusunan yang benar adalah. . . .",
+    "opsi": {
+      "A": "1, 2 dan 3",
+      "B": "1 dan 3",
+      "C": "2 dan 4",
+      "D": "Hanya 4",
+      "E": "semuanya benar"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Kabel koneksi yang terhubung ke baterai 6 volt menghantarkan arus listrik 0,5 ampere. Ketika kawat dipotong menjadi dua panjang yang sama dan terhubung secara paralel ke baterai, listrik sekarang mengalir. . .",
+    "opsi": {
+      "A": "0,25 amp",
+      "B": "0,5 amp",
+      "C": "2.0 amp",
+      "D": "6 amp",
+      "E": "12 amp"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah lampu listrik diberi label dengan 100 W / 220 V sehingga lampu menyala dengan daya 25 watt, maka lampu tersebut harus terhubung ke tegangan suplai. . . .",
+    "opsi": {
+      "A": "100 volt",
+      "B": "110 volt",
+      "C": "125 volt",
+      "D": "140 volt",
+      "E": "160 volt"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pemanas listrik memiliki resistansi 25 ohm, terhubung ke sumber tegangan 250 volt dan bekerja selama 24 jam. maka:\n(1) Arus yang mengalir dalam pemanas adalah 10 amp\n(2) kekuatan pemanasan 2,5 kWatt\n(3) Ketika tarif listrik RP. 50,00 / kWh, saat ini harganya Rp 300,00\n\nPernyataan yang benar adalah …",
+    "opsi": {
+      "A": "1 dan 2",
+      "B": "1 dan 3",
+      "C": "2 dan 3",
+      "D": "1",
+      "E": "1, 2 dan 3"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Tiga rintangan 6-ohm, 4-ohm dan 12-ohm dipasang secara paralel dan terhubung ke tegangan listrik. Perbandingan arus yang mengalir pada setiap resistor adalah …",
+    "opsi": {
+      "A": "1: 2: 3",
+      "B": "2: 3: 1",
+      "C": "3: 2: 6",
+      "D": "6: 3: 2",
+      "E": "6: 2: 3"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Komponen yang diisi negatif adalah …",
+    "opsi": {
+      "A": "elektron",
+      "B": "proton",
+      "C": "neutron",
+      "D": "nukleo"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Komponen yang diisi Positif adalah …",
+    "opsi": {
+      "A": "neutron",
+      "B": "elektron",
+      "C": "positron",
+      "D": "proton"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah atom terdiri dari …",
+    "opsi": {
+      "A": "inti yang selalu berubah",
+      "B": "sebuah nukleus yang dikelilingi oleh elektron",
+      "C": "Elektron dikelilingi oleh nukleus",
+      "D": "Elektron dan nuklei, keduanya saling mengelilingi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Yang berikut, yang meliputi partikel-partikel yang membentuk inti, adalah …",
+    "opsi": {
+      "A": "Neutron dan elektron",
+      "B": "Proton dan neutron",
+      "C": "Nukleon dan elektron",
+      "D": "Elektron dan orbitnya"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Benda netral adalah benda yang tersusun dari atom netral. Atom dikatakan netral jika jumlahnya ....",
+    "opsi": {
+      "A": "Proton sama dengan elektron",
+      "B": "Proton dengan neutron",
+      "C": "Elektron sama dengan Neutron",
+      "D": "Neutron tidak sama dengan Proton"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Jumlah muatan listrik pada suatu benda tergantung pada …",
+    "opsi": {
+      "A": "Perbedaan proton dan elektron",
+      "B": "Jumlah elektron",
+      "C": "Jumlah proton",
+      "D": "Jumlah neutron"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Batang kaca digosok dengan kain sutra bermuatan positif karena …",
+    "opsi": {
+      "A": "tidak ada transfer elektron",
+      "B": "Elektron dari batang kaca bermigrasi ke syal sutra",
+      "C": "Elektron dari syal sutra bermigrasi ke batang kaca",
+      "D": "Elektron dari kain sutera dan batang kaca bergerak bersama"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan berikut\n(1). Keripik kertas menempel pada penggaris yang telah digosokkan ke kain\n(2). Balon yang melambung menempel di dinding\n(3). Munculnya petir saat akan turun hujan\n(4). Air naik di kapiler\nYang merupakan tanda dari listrik statis dalam pernyataan di atas …",
+    "opsi": {
+      "A": "1,2,3",
+      "B": "1.3",
+      "C": "2.4",
+      "D": "4"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dua objek ditolak jika …",
+    "opsi": {
+      "A": "dua objek dengan muatan yang sama",
+      "B": "Muatan kedua benda itu tidak sama",
+      "C": "objek yang dimuat",
+      "D": "Kedua objek diturunkan"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Suatu model atom yang diajukan memiliki kelemahan bahwa model atom ini belum mampu menjelaskan di mana letak elektron dan cara rotasinya terhadap inti atom. Model atom yang memiliki kelemahan tersebut diajukan oleh ….",
+    "opsi": {
+      "A": "Dalton",
+      "B": "J Thomson",
+      "C": "Rutherford",
+      "D": "Boh"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Partikel yang dapat berpindah-pindah disebut….",
+    "opsi": {
+      "A": "Proton dan elektron",
+      "B": "Proton",
+      "C": "Elektron",
+      "D": "Neutron"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Dua buah partikel bermuatan +3 C dan x mengalami gaya Coulomb sebesar 2,7 x 1010 N. Kedua muatan terpisah sejauh 2 m. Jika interaksi yang terjadi antara kedua muatan adalah tarik-menarik, maka nilai dan jenis muatan x adalah ….",
+    "opsi": {
+      "A": "2 C dan negatif",
+      "B": "2 C dan positif",
+      "C": "4 C dan negatif",
+      "D": "4 C dan positif"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Tiga buah hambatan listrik dipasang secara berdampingan. Pernyataan yang tepat mengenai karakteristik rangkaian tersebut adalah ….",
+    "opsi": {
+      "A": "Arus listrik yang mengalir pada ketiga hambatan sama besar.",
+      "B": "Arus listrik yang mengalir pada ketiga hambatan tidak dapat ditentukan karena tidak diberitahu nilai hambatan listriknya.",
+      "C": "Tegangan yang mengalir pada masing-masing hambatan sama besar.",
+      "D": "Hambatan total dari ketiga hambatan tersebut lebih kecil dari nilai masing-masing hambatan."
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Ibu memasak menggunakan rice cooker berdaya 40 watt selama 1 jam setiap harinya. Jika biaya listrik per kWh sebesar Rp1.500,00, setiap bulannya ibu harus membayar sebesar …",
+    "opsi": {
+      "A": "Rp 1.000,00",
+      "B": "Rp 1.200,00",
+      "C": "Rp 1.500,00",
+      "D": "Rp 1.800,00"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Agus memukul kentongan di antara dua tembok yang berhadapan. Bunyi pantul dari tembok pertama terdengar 1,5 sekon sesudah kentongan dipukul, disusul bunyi pantul dari dinding kedua 0,5 sekon setelah bunyi pantul pertama. Jika cepat rambat bunyi di udara 340 m/s, maka jarak di antara kedua tembok adalah….",
+    "opsi": {
+      "A": "170 m",
+      "B": "340 m",
+      "C": "425 m",
+      "D": "595 m"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Seseorang dapat membaca dengan jelas pada jarak paling dekat 45 cm. Agar ia dapat membaca paling jelas pada jarak 25 cm, kekuatan lensa yang diperlukan adalah….",
+    "opsi": {
+      "A": "1,2 dioptri",
+      "B": "1,5 dioptri",
+      "C": "1,8 dioptri",
+      "D": "2,0 dioptri"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sekelompok siswa melakukan pengamatan terhadap oli di dalam botol. Data yang diperoleh dalam pengamatan tersebut sebagai berikut.\n\nVolume 550 mL\nTinggi botol 25 cm\nLuas bidang tutup botol 2,50 cm2\nSuhu oli 25⁰C\nDiameter dasar botol 3 cm\nMassa botol beserta isinya 900 gram\nBerdasarkan data tersebut, yang merupakan besaran pokok adalah ….",
+    "opsi": {
+      "A": "1, 2, 3, dan 4",
+      "B": "2, 4, 5, dan 6",
+      "C": "1, 3, 4, dan 5",
+      "D": "2, 4, 5, dan 6"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Perhatikan ciri-ciri larutan berikut!\n\nMenyebabkan korosi pada logam\nMengubah warna lakmus biru menjadi merah\nBilangan pH nya kurang dari 7\nDalam larutan melepaskan ion hidroksil (OH–)\nCiri larutan asam ditunjukkan oleh nomor ….",
+    "opsi": {
+      "A": "1, 2, dan 3",
+      "B": "1, 3, dan 4",
+      "C": "2, 3, dan 4",
+      "D": "2, 3, dan 5"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perhatikan sifat-sifat zat berikut!\n\nMudah berkarat\nMudah bersenyawa dengan asam\nMudah menghantarkan arus listrik\nTidak dapat terbakar\nDapat melebur pada suhu tinggi\nBerdasarkan data tersebut, yang merupakan sifat fisika besi adalah ….",
+    "opsi": {
+      "A": "1 dan 2",
+      "B": "2 dan 4",
+      "C": "1 dan 3",
+      "D": "4 dan 5"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Dua buah benda P dan Q yang massanya sama bergerak pada bidang datar. Benda P memiliki energi kinetik sebesar 4 joule dan benda Q memiliki energi 9 joule. Jika benda P memiliki kecepatan 6 m/s, maka kecepatan benda Q adalah ….",
+    "opsi": {
+      "A": "13,5 m/s",
+      "B": "9,0 m/s",
+      "C": "8,25 m/s",
+      "D": "7,5 m/s"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sepotong baja bersuhu 28⁰C dimasukkan ke dalam 100 gram air bersuhu 38⁰C, sehingga suhu campuran menjadi 35⁰C. Jika kalor jenis air 4.200 J/kg⁰C dan kalor jenis baja X 450 J/kg⁰C, maka massa baja adalah ….",
+    "opsi": {
+      "A": "500 gram",
+      "B": "420 gram",
+      "C": "400 gram",
+      "D": "380 gram"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pemanas air memiliki daya 600 W digunakan untuk memanaskan aor 4 kg bersuhu awal 30⁰C hingga mendidih. Jika kalor jenis air 4.200 J/kg⁰C, maka waktu yang dibutuhkan untuk memanaskan air tersebut adalah ….",
+    "opsi": {
+      "A": "800 sekon",
+      "B": "960 sekon",
+      "C": "100 sekon",
+      "D": "250 sekon"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah mobil bermassa 800 kg mulai bergerak dengan percepatan 2 m/s2. Jika muatan mobil ditambah 400 kg, agar percepatan mobil menjadi 3 m/s2, maka gaya dorong mesin mobil harus ditambah sebesar ….",
+    "opsi": {
+      "A": "1.200 N",
+      "B": "1.900 N",
+      "C": "2.000 N",
+      "D": "3.600 N"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perhatikan peristiwa berikut!\n\nBuah kelapa jatuh bebas ke bumi\nBola menggelinding di atas lantai yang kasar\nMengayuh sepeda pada jalan menurun\nBatu kerikil yang dilemparkan ke atas\nContoh gerak lurus berubah beraturan dipercepat adalah ….",
+    "opsi": {
+      "A": "1 dan 2",
+      "B": "1 dan 3",
+      "C": "2 dan 3",
+      "D": "2 dan 4"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Benda X bermuatan listrik +3q berjarak 10 cm dari benda Y yang bermuatan +2q. Kedua benda tolak menolak dengan gaya 2 N. Jika muatan benda X diperkecil menjadi +1q dan muatan Y diperbesar menjadi +12q, sedangkan jarak X dengan Y didekatkan menjadi 5 cm. Gaya tolak menolak antara benda X dengan Y menjadi ….",
+    "opsi": {
+      "A": "2 N",
+      "B": "4 N",
+      "C": "8 N",
+      "D": "10 N"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pada selang waktu tertentu, wilayah belahan bumi utara dan selatan akan mengalami musim panas, semi, gugur, dan dingin secara bergantian. Perubahan musim yang terjadi pada belahan bumi utara dan selatan disebabkan oleh ….",
+    "opsi": {
+      "A": "rotasi bulan",
+      "B": "rotasi bumi",
+      "C": "revolusi bulan",
+      "D": "revolusi bumi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Perhatikan data berikut!\n1) Letak partikel berdekatan\n2) Gaya tarik partikel sangat kuat\n3) Susunan partikel teratur\n4) Susunan partikel tidak teratur\n5) Gaya partikel sangat lemah\nSifat partikel zat padat ditunjukkan oleh nomor….",
+    "opsi": {
+      "A": "(1), (2), dan (3)",
+      "B": "(1), (2), dan (4)",
+      "C": "(2), (3), dan (5)",
+      "D": "(3), (4), dan (5)"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah mobil menempuh 20 km dalam waktu 30 menit. Dapat dipastikan bahwa mobil tersebut bergerak dengan kecepatan ....",
+    "opsi": {
+      "A": "10 km/jam",
+      "B": "20 km/jam",
+      "C": "40 km/jam",
+      "D": "60 km/jam"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Seorang anak berlari dengan kecepatan 10 m/s. Perubahan kedudukan anak tersebut selama 20 detik adalah ....",
+    "opsi": {
+      "A": "50 meter",
+      "B": "100 meter",
+      "C": "150 meter",
+      "D": "200 meter"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah truk yang mula-mula diam, 5 detik kemudian kecepatannya menjadi 6 m/s. Percepatan truk tersebut adalah .... m/s2",
+    "opsi": {
+      "A": "0,83",
+      "B": "1,2",
+      "C": "5",
+      "D": "30"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah mobil bergerak dengan kelajuan 80 km/jam. Jarak yang ditempuh mobil tersebut selama 30 menit sejauh ....",
+    "opsi": {
+      "A": "40 km",
+      "B": "45 km",
+      "C": "60 km",
+      "D": "160 km"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Indra pergi ke toko buku yang berjarak 1,8 km dari rumahnya pukul 15.00. Agar Indra dapat sampai di toko pukul 15.30, ia harus mengayuh sepedanya dengan kecepatan ....",
+    "opsi": {
+      "A": "1 m/s",
+      "B": "2 m/s",
+      "C": "3 m/s",
+      "D": "4 m/s"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Resti berjalan 6 meter ke barat, kemudian 8 meter ke selatan. Besarnya perpindahan Resti adalah ....",
+    "opsi": {
+      "A": "2 m",
+      "B": "4 m",
+      "C": "10 m",
+      "D": "14 m"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Eko mengendarai sepeda motor menempuh jarak 108 km dalam waktu 2 jam, maka kecepatannya adalah … m/s",
+    "opsi": {
+      "A": "110",
+      "B": "60",
+      "C": "54",
+      "D": "15"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Budi pergi ke sekolah naik sepeda. Jarak dari rumah ke sekolah 1,8 km dan kecepatan sepedanya konstan sebesar 3 m/s. Jika masuk sekolah jam 07.00, paling lambat Budi harus berangkat ke sekolah pukul ….",
+    "opsi": {
+      "A": "06.54",
+      "B": "06.45",
+      "C": "06.30",
+      "D": "06.50"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah benda mula-mula diam kemudian dipercepat 3 m/s2. Setelah 5 detik kecepatannya menjadi … m/s.",
+    "opsi": {
+      "A": "0,6",
+      "B": "1,67",
+      "C": "2",
+      "D": "15"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Benda mula-mula diam, kemudian dipercepat 0,4 m/s2. Jarak yang ditempuh benda setelah bergerak selama 5 detik adalah... m.",
+    "opsi": {
+      "A": "1",
+      "B": "2",
+      "C": "5",
+      "D": "10"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah mobil berjalan 20 m/s direm hingga berhenti dalam waktu 4 detik. Jarak yang ditempuh selama pengereman adalah … m.",
+    "opsi": {
+      "A": "5",
+      "B": "20",
+      "C": "40",
+      "D": "80"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Adi mengendarai sepeda motor dengan kecepatan 45 km/jam. Jarak yang ditempuh Adi selama 1 menit adalah ....",
+    "opsi": {
+      "A": "250 m",
+      "B": "500 m",
+      "C": "750 m",
+      "D": "1250 m"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Rudi berlari selama 10 menit dan menempuh jarak 1,2 km. Kelajuan Rudi berlari adalah ....",
+    "opsi": {
+      "A": "20 m/s",
+      "B": "2 m/s",
+      "C": "12 m/s",
+      "D": "1,2 m/s"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Barkah berangkat ke sekolah menggunakan sepeda motor dengan kecepatan 4 m/s. Jika ia sampai ke sekolah pada pukul 07.05 dan jarak dari rumah Barkah ke sekolah 6 km, maka Barkah berangkat dari rumah pada pukul ....",
+    "opsi": {
+      "A": "06.30",
+      "B": "06.40",
+      "C": "06.45",
+      "D": "06.50"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah mobil yang sedang melaju menempuh jarak 10 km pada 5 menit pertama, 10 menit berikutnya menempuh jarak 45 km dan 15 menit selanjutnya mobil itu menempuh jarak 15 km. Kecepatan rata-rata dari mobil itu adalah ....",
+    "opsi": {
+      "A": "170 km/jam",
+      "B": "140 km/jam",
+      "C": "35 km/jam",
+      "D": "23 km/jam"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sepeda motor bergerak dengan kecepatan 28 km/jam. Dalam waktu 6 sekon kecepatannya menjadi 16 km/jam. Percepatan rata-rata yang dialami sepeda motor adalah ....m/s2",
+    "opsi": {
+      "A": "-0,5",
+      "B": "-0,6",
+      "C": "-0,7",
+      "D": "-1"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Suatu pengamatan yang dilakukan dengan melakukan observasi mengenai sifat atau keadaan objek yang diamati dan tidak disajikan dalam bentuk angka merupakan jenis pengamatan….",
+    "opsi": {
+      "A": "Kualitatif",
+      "B": "Analitif",
+      "C": "Kuantitatif",
+      "D": "Deskriptif"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan berikut\ni) Dani mengukur berat buku dengan neraca pegas\nii) Dina mengukur tinggi badannya dengan jangka sorong\niii) Andi mengukur massa badan dengan neraca Ohauss\niv) Ani mengukur waktu berlarinya menggunakan stopwatch\n\nPenggunaan alat ukur yang tepat dinyatakan oleh nomor ….",
+    "opsi": {
+      "A": "i) dan ii)",
+      "B": "i) dan iv)",
+      "C": "ii) dan iv)",
+      "D": "iii) dan iv)"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah benda berbentuk tabung padat dengan jari-jari 3,5 cm dan tinggi 10 cm dimasukkan ke dalam gelas ukur berisi 38,5 mL air. Jika massa tabung padat tersebut 308 g, massa jenis tabung tersebut sebesar ….",
+    "opsi": {
+      "A": "0,8 kg/m3",
+      "B": "8 kg/m3",
+      "C": "800 kg/m3",
+      "D": "8.000 kg/m3"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Suatu zat memiliki ciri-ciri volumenya tetap, bentuknya berubah, dan gaya ikat antar partikel lemah. Wujud zat tersebut adalah….",
+    "opsi": {
+      "A": "Padat",
+      "B": "Cair",
+      "C": "Gas",
+      "D": "Tidak dapat ditentukan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dina membeli buah yang sudah matang dan berencana untuk digunakan sampai esok hari. Ternyata secara tiba-tiba, Dina harus pergi selama empat hari, buah yang dibeli Dina hanya diletakkan di luar dan dibiarkan di udara terbuka. Empat hari kemudian ketika Dina pulang, hal yang ditemuinya adalah ….",
+    "opsi": {
+      "A": "Buah yang dibeli Dina mengalami perubahan kimia, yaitu menyusut",
+      "B": "Buah yang dibeli Dina mengalami perubahan fisika, yaitu mengering",
+      "C": "Buah yang dibeli Dina mengalami perubahan fisika, yaitu membusuk",
+      "D": "Buah yang dibeli Dina mengalami perubahan kimia, yaitu membusuk"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Suatu cara pemisahan zat berdasarkan perbedaan daya serap zat pada medium stasioner disebut dengan ….",
+    "opsi": {
+      "A": "Ekstraksi",
+      "B": "Distilasi",
+      "C": "Evaporasi",
+      "D": "Kromatografi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Lima gram raksa cair akan diubah menjadi raksa dalam bentuk padat. Jika 0,059 kJ kalor dilepaskan oleh raksa pada proses perubahan wujud tersebut, maka kalor lebur raksa sebesar ….",
+    "opsi": {
+      "A": "118.000 J/kg",
+      "B": "11.800 J/kg",
+      "C": "118 J/kg",
+      "D": "11,8 J/kg"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Ukurannya di bagi kedalam menjadi dua kelompok ialah?",
+    "opsi": {
+      "A": "Jumlah standar dan jumlah turunannya.",
+      "B": "Jumlah utama dan jumlah mentah.",
+      "C": "Standar nasional dan internasional.",
+      "D": "Jumlah utama dan jumlah turunannya."
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pada zaman dahulu, orang – orang seringnya menggunakan anggota tubuhnya untuk menjadi sebuah unit pengukuran, contohnya seperti dibawah ini yang benar, kecuali?",
+    "opsi": {
+      "A": "Meter, kilogram, liter.",
+      "B": "Kebiasaan, depa, langkah.",
+      "C": "Jari, ellen, kaki.",
+      "D": "Fathom Ellen and Feet."
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Ukuran yang dimiliki satu unit disebut dengan ukuran?",
+    "opsi": {
+      "A": "Fisika.",
+      "B": "Kimia.",
+      "C": "Biologi.",
+      "D": "Matematika."
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kuantitas, yang menjadi penjumlahan yang di jelaskan oleh penjumlahan utama, disebutkan dengan kuantitas?",
+    "opsi": {
+      "A": "Standar.",
+      "B": "Panjang.",
+      "C": "Internasional.",
+      "D": "Turunan."
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Jumlah panjang yang memiliki satuan SI dalam bentuk?",
+    "opsi": {
+      "A": "Kubik.",
+      "B": "Meter.",
+      "C": "Depa.",
+      "D": "Sentimeter."
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Ampere ialah merupakan unit sistem internasional dari set pokok?",
+    "opsi": {
+      "A": "Panjang.",
+      "B": "Waktu.",
+      "C": "Massa.",
+      "D": "Arus listrik yang kuat."
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Unit waktu SI ialah?",
+    "opsi": {
+      "A": "Meter.",
+      "B": "Candela.",
+      "C": "Amper.",
+      "D": "Detik."
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Dibawah ini yang termasuk kedalam penjumlahan nominal ialah?",
+    "opsi": {
+      "A": "Volume.",
+      "B": "Lebar.",
+      "C": "Waktu.",
+      "D": "Kepadatan."
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Speed ​​ialah merupakan suatu set turunan yang satu unit?",
+    "opsi": {
+      "A": "Newton.",
+      "B": "KG.",
+      "C": "M / S.",
+      "D": "KM."
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Suatu massa jenis dapat di konversi dari ukuran?",
+    "opsi": {
+      "A": "Massa : waktu.",
+      "B": "Massa : volume.",
+      "C": "Massa : kecepatan.",
+      "D": "Massa : akselerasi."
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Apabila matamu ditutup, kamu tidak dapat melihat benda-benda di sekitarmu,karena ..",
+    "opsi": {
+      "A": "Tidak ada cahaya yang keluar dari mata ke benda",
+      "B": "Tidak ada cahaya yang masuk dari benda ke mata",
+      "C": "Benda-benda tidak menerima cahaya",
+      "D": "Benda-benda tidak memantulkan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kamu dapat melihat siaran langsung sepakbola piala eropa di televisi karena ....",
+    "opsi": {
+      "A": "Cahaya dari lampu pijar mengenai televisi dipantulkan masuk ke matumu",
+      "B": "Cahaya dari lampu pijar mengenai matamu dipantulakan ke televisi",
+      "C": "Cahaya langsung dari matamu menuju ke televisi",
+      "D": "Cahaya dari televisi langsung masuk ke matamu"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Salah satu sifat bayangan yang dibentuk oleh cermin datar bersifat ....",
+    "opsi": {
+      "A": "Maya",
+      "B": "Nyata",
+      "C": "Terbalik",
+      "D": "Diperkecil"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini merupakan bunyi hukum pemantulan:\n\n1. sinar datang, sinar pantul, dan garis normal terletak pada satu bidang datar;\n\n2. sinar datang dan sinar pantul memiliki arah yang sama;\n\n3. sudut sinar datang sama dengan sudut sinar pantul.\n\nPernyataan yang benar adalah ....",
+    "opsi": {
+      "A": "1, 2, dan 3",
+      "B": "1 dan 2",
+      "C": "1 dan 3",
+      "D": "2 dan 3"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah benda diletakkan di depan cermin cekung, tetapi tidak terlihat bayangannya di mana pun, berarti benda terletak di titik ....",
+    "opsi": {
+      "A": "P",
+      "B": "O – F",
+      "C": "F",
+      "D": "F - P"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah benda terletak di antara dua cermin datar yang membentuk sudut 300. Jumlah bayangan benda tersebut adalah …",
+    "opsi": {
+      "A": "12 buah",
+      "B": "11 buah",
+      "C": "10 buah",
+      "D": "9 buah"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah benda diletakkan di antara dua cermin datar yang dipasang berhadapan dan membentuk sudut 45 derajat. Hitunglah jumlah bayangan yang terbentuk!",
+    "opsi": {
+      "A": "3 buah",
+      "B": "4 buah",
+      "C": "7 buah",
+      "D": "8 buah"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk benda tembus cahaya adalah ....",
+    "opsi": {
+      "A": "Kaca spion",
+      "B": "Kaca jendela",
+      "C": "Karton",
+      "D": "Koran"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Ahmad mengendarai sepeda motor dengan kecepatan 72 km/jam. Tiba-tiba ada anak kecil ditengah jalan pada jarak 50 m dari pengendara. Jika motor direm dengan perlambatan konstan sebesar 2 m/s2, peristiwa yang terjadi adalah....",
+    "opsi": {
+      "A": "Motor Ahmad berhenti secara seketika dan masih berjarak 50 m dari anak kecil",
+      "B": "Motor Ahmad berhenti sebelum menabrak anak kecil",
+      "C": "Motor Ahmad berhenti tepat sebelum menabrak anak kecil",
+      "D": "Motor Ahmad berhenti setelah menabrak anak kecil",
+      "E": "Motor Ahmad tidak berhenti"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Seorang kuli menarik ember berisi air sumur bermassa total 5 kg. Ember diikat tali yang kemudian ditarik dari ketinggian 5 meter sampai ketinggian 20 meter dihitung dari dasar sumur. Jika percepatan gravitasi 10 m/s2, maka besar usaha yang dilakukan adalah ... J.",
+    "opsi": {
+      "A": "750",
+      "B": "1.000",
+      "C": "1.250",
+      "D": "1.500",
+      "E": "1.750"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Budi berdiri di pinggir jalan kemudian melintas sepeda motor di depannya. Sebelum melewati Budi, pengendara motor tersebut membunyikan klakson dengan frekuensi 900 Hz. Namun yang didengar oleh Budi adalah 1000 Hz. Kecepatan sepeda motor tersebut adalah .... (kecepatan bunyi di udara 340 m/s)",
+    "opsi": {
+      "A": "14 m/s",
+      "B": "24 m/s",
+      "C": "34 m/s",
+      "D": "44 m/s",
+      "E": "54 m/s"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah logam bermassa 2 kg dimasukkan ke dalam wadah berisi 4 liter air. Suhu logam dan air masing-masing adalah 800 C dan 100C. Jika kalor jenis logam 0,11 kal/g. 0C dan kalor jenis air 1 kal/g.0C, suhu keduanya setelah setimbang adalah .... (ρair = 1 g/mL)",
+    "opsi": {
+      "A": "13,65 0C",
+      "B": "14,41 0C",
+      "C": "15,32 0C",
+      "D": "16,22 0C",
+      "E": "17,17 0C"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Nobita menderita miopi sehingga dia tidak dapat melihat dengan jelas benda yang berjarak lebih dari 10 meter dari matanya. Kekuatan lensa yang dibutuhkan Nobita agar dapat melihat dengan normal adalah ....",
+    "opsi": {
+      "A": "0,1 dioptri",
+      "B": "0,2 dioptri",
+      "C": "0,3 dioptri",
+      "D": "0,4 dioptri",
+      "E": "0,5 dioptri"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Bola 2 kg bergerak lurus dengan percepatan 2 ms-2 dari keadaan diam. Usaha setelah 3 detik adalah …",
+    "opsi": {
+      "A": "72 J",
+      "B": "36 J",
+      "C": "24 J",
+      "D": "12 J",
+      "E": "8 J"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dua buah gaya saling searah ke kanan dan besarnya masing-masing 3 N dan 4 N. Besar resultan kedua gaya tersebut adalah ...",
+    "opsi": {
+      "A": "1 N",
+      "B": "5 N",
+      "C": "7 N",
+      "D": "12 N",
+      "E": "15 N"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Benda bermassa 2,5 kg jatuh bebas dari ketinggian 2 meter. Jika percepatan gravitasi 10 m/s2 ,besar energi potensial pada benda tersebut adalah .",
+    "opsi": {
+      "A": "0 J",
+      "B": "10 J",
+      "C": "20 J",
+      "D": "50 J",
+      "E": "100 J"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Yona menyetrika baju dengan setrika yang berdaya 250 Watt selama 2 jam. Berapakah biaya yang dihabiskan jika harga per kWh adalah Rp. 300 ....",
+    "opsi": {
+      "A": "Rp. 150",
+      "B": "Rp. 600",
+      "C": "Rp. 100",
+      "D": "Rp. 450",
+      "E": "Rp. 750"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Massa jenis atau rapat massa mempunyai dimensi ....",
+    "opsi": {
+      "A": "[M][L]-2",
+      "B": "[M][L]-1",
+      "C": "[M]2[L]-1",
+      "D": "[M][L]-3",
+      "E": "[M][L]2"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Peristiwa terjadinya perubahan frekuensi yang diterima pendengar akibat adanya perubahan gerak relatif sumber suara, merupakan bunyi dari ….",
+    "opsi": {
+      "A": "Getaran",
+      "B": "Bunyi",
+      "C": "Gelombang",
+      "D": "Efek Dopler",
+      "E": "Taraf Intensitas Bunyi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Di bawah ini merupakan besaran-besaran pokok kecuali ........",
+    "opsi": {
+      "A": "Massa",
+      "B": "Waktu",
+      "C": "Gaya",
+      "D": "Kuat arus listrik",
+      "E": "Panjang"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Satuan dari energi adalah ..............",
+    "opsi": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Volt",
+      "D": "Ampere",
+      "E": "Kilogram"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Anak mengendarai motor dengan kecepatan 60 m/s lalu tiba-tiba berhenti mendadak. Motor mengerem selama 2 detik sampai berhenti (kecepatan = 0). Hitung jarak motor mulai dari mengerem sampai berhenti !.",
+    "opsi": {
+      "A": "60 m",
+      "B": "70 m",
+      "C": "80 m",
+      "D": "45 m",
+      "E": "65 m"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Benda bermassa 100 kg didorong dua orang dengan masing- masing gaya 40 N, berapakah percepatan benda?",
+    "opsi": {
+      "A": "0,1 m/s2",
+      "B": "0,3 m/s2",
+      "C": "0,4 m/s2",
+      "D": "0,2 m/s2",
+      "E": "0,5 m/s2"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Molekul unsur adalah molekul yang tersusun dari...",
+    "opsi": {
+      "A": "Beberapa atom berbeda yang berikatan secara kimia",
+      "B": "Dua atau lebih atom sejenis yang berikatan secara kimia",
+      "C": "Dua zat yang sama dan terbentuk secara fisika",
+      "D": "Beberapa atom berbeda yang memiliki sifat sama"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dua buah muatan Q₁ dan Q₂ berada pada jarak r, sehingga kedua muatan mengalami gaya elektrostatik 18 N. Jika jarak kedua muatan dijauhkan 3 kali semula, maka gaya elektrostatiknya menjadi ....",
+    "opsi": {
+      "A": "2 N",
+      "B": "6 N",
+      "C": "10 N",
+      "D": "12 N"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan berikut!\n\n(1). Benda A digosok dengan benda X sehingga terjadi perpindahan elektron dari benda A ke benda X.\n\n(2). Benda B digosok dengan benda Y sehinga terjadi perpindahan elektron dari benda Y ke benda B\n\n\nBerdasarkan data di atas, pernyataan di bawah ini yang benar adalah....",
+    "opsi": {
+      "A": "Benda A dan benda B bermuatan listrik positif",
+      "B": "Benda A dan benda B bermuatan listrik negatif",
+      "C": "Benda A bermutan listrik negatif, benda B bermuatan listrik positif",
+      "D": "Benda A bermutan listrik positif, benda B bermuatan listrik negatif"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Listrik yang diam untuk sementara waktu disebut.....",
+    "opsi": {
+      "A": "Listrik statisioner",
+      "B": "Listrik statis",
+      "C": "Listrik dinamis",
+      "D": "Listrik"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Ilmuwan yang melakukan percobaan tentang pengaruh antara 2 buah benda bermuatan adalah.....",
+    "opsi": {
+      "A": "Carl Frederich Gauss",
+      "B": "Thomas Alva Edison",
+      "C": "Heinrich Hertz",
+      "D": "Charles Augustin de Coulomb"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah partkel terkecil dari suatu zat disebut.....",
+    "opsi": {
+      "A": "unsur",
+      "B": "sel",
+      "C": "atom",
+      "D": "partikel"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah atom bermuatan positif jika......",
+    "opsi": {
+      "A": "sama dengan jumlah neutron",
+      "B": "sama dengan jumlah elektron",
+      "C": "lebih besar daripada jumlah elektron",
+      "D": "lebih besar daripada jumlah proton"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Ketika dua buah benda bermuatan sama didekatkan, maka benda tersebut akan.....",
+    "opsi": {
+      "A": "tidak terjadi apapun",
+      "B": "tarik menarik",
+      "C": "tolak menolak",
+      "D": "bergerak sedikit"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sisir akan bermuatan listrik negatif bila digosok dengan rambut karena ...",
+    "opsi": {
+      "A": "elektron dari rambut pindah ke sisir",
+      "B": "elektron dari sisir pindah ke rambut",
+      "C": "tidak ada perpindahan elektron",
+      "D": "terjadi perpindahan elektron secara bersama-sama"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan berikut!\n\nMuatan listrik yang sejenis saling tolak- menolak\nBenda bermuatan listrik positif jika jumlah elektron lebih banyak daripada jumlah proton\nMuatan listrik yang tidak sejenis tarik-menarik\nBenda bermuatan listrik negatif jika jumlah proton lebih banyak daripada jumlah elektron\nSifat-sifat dari muatan listrik yang benar sesuai pernyataan adalah nomor ..",
+    "opsi": {
+      "A": "1 dan 2",
+      "B": "1 dan 3",
+      "C": "2 dan 3",
+      "D": "2 dan 4"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Elektroskop dapat digunakan untuk :\n\nmengetahui jenis muatan listrik suatu benda\nmengetahui apakah sebuah benda bermuatan atau tidak\nmengukur banyaknya muatan listrik suatu benda\n\n\nPernyataan yang benar adalah ..",
+    "opsi": {
+      "A": "1, 2, dan 3",
+      "B": "1 dan 2",
+      "C": "1 dan 3",
+      "D": "2 dan 3"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Alat untuk mengetahui muatan listrik suatu benda adalah....",
+    "opsi": {
+      "A": "kaca pembesar",
+      "B": "generator van de graf",
+      "C": "elektroskop",
+      "D": "neraca pegas"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut merupakan bagian dari elektroskop, kecuali......",
+    "opsi": {
+      "A": "kepala",
+      "B": "tangkai",
+      "C": "muatan listrik",
+      "D": "kaki"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kecepatan 36 Km/jam setara dengan ..",
+    "opsi": {
+      "A": "5 m/s",
+      "B": "10 m/s",
+      "C": "15 m/s",
+      "D": "20 m/s"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kecepatan 72 Km/jam setara dengan ...",
+    "opsi": {
+      "A": "5 m/s",
+      "B": "10 m/s",
+      "C": "15 m/s",
+      "D": "20 m/s"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Kecepatan 90 Km/jam setara dengan ...",
+    "opsi": {
+      "A": "25 m/s",
+      "B": "10 m/s",
+      "C": "15 m/s",
+      "D": "20 m/s"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kecepatan 15 m/s setara dengan ... km/jam",
+    "opsi": {
+      "A": "10",
+      "B": "36",
+      "C": "54",
+      "D": "72"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jarak dari kota A ke kota B adalah 125 km. Pak Budi berangkat dari kota A pukul 09.00 menuju kota B menggunakan kendaraan dengan kecepatan 50 km/jam. Pak Budi akan sampai ke kota B pada pukul ….",
+    "opsi": {
+      "A": "11.00",
+      "B": "11.15",
+      "C": "11.30",
+      "D": "12.00"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jarak dari kota A ke kota B adalah 120 km. Pak Heru berangkat dari kota A pukul 09.00 menuju kota B menggunakan kendaraan dengan kecepatan 40 km/jam. Pak Heru akan sampai ke kota B pada pukul …",
+    "opsi": {
+      "A": "11.00",
+      "B": "12.30",
+      "C": "11.30",
+      "D": "12.00"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah mobil menempuh jarak 360 km dengan kecepatan 20 m/s. Berapakah waktu yang diperlukan mobil untuk menempuh jarak tersebut?",
+    "opsi": {
+      "A": "4 Jam",
+      "B": "5 Jam",
+      "C": "6 Jam",
+      "D": "7 Jam"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah mobil menempuh jarak 2000 mdengan kecepatan 10 m/s. Berapakah waktu yang diperlukan mobil untuk menempuh jarak tersebut?",
+    "opsi": {
+      "A": "100 sekon",
+      "B": "1000 sekon",
+      "C": "2000 sekon",
+      "D": "200 sekon"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah mobil menempuh jarak 6000 m dengan kecepatan 72 km/jam. Berapakah waktu yang diperlukan mobil untuk menempuh jarak tersebut?",
+    "opsi": {
+      "A": "100 sekon",
+      "B": "300 sekon",
+      "C": "83.33 sekon",
+      "D": "200 sekon"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Ciri utama gerak lurus beraturan adalah ..",
+    "opsi": {
+      "A": "Memiliki kecepatan gerak yang tetap",
+      "B": "Memiliki kecepatan gerak yang berubah beraturan",
+      "C": "Memiliki kecepatan gerak yang berubah terus menerus",
+      "D": "Memiliki kecepatan gerak yang tidak tetap"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Syena berjalan kearah timur sejauh 150 meter, kemudian berbalik kearah barat sejauh 50 meter besar jarak yang ditempuh syena adalah ... m",
+    "opsi": {
+      "A": "200",
+      "B": "150",
+      "C": "100",
+      "D": "50"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Hardi berjalan kearah utara sejauh 150 meter, kemudian berbalik kearah selatan sejauh 50 meter besar perpindahan yang ditempuh hardi adalah ... m",
+    "opsi": {
+      "A": "200",
+      "B": "150",
+      "C": "100",
+      "D": "50"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Patrick berjalan kearah timur sejauh 200 meter, kemudian berbalik kearah barat sejauh 75 meter besar perpindahan yang ditempuh patrick adalah ... m",
+    "opsi": {
+      "A": "125",
+      "B": "275",
+      "C": "75",
+      "D": "150"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Apakah benda yang diam dapat dikatakan bergerak lurus beraturan ?",
+    "opsi": {
+      "A": "Ya",
+      "B": "Tidak",
+      "C": "Mungkin",
+      "D": "Bisa Jadi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah sepeda melaju pada dengan kecepatan 2 m/s kearah timur selama 5 menit, tentukan besar jarak yang ditempuh sepeda tersebut ...",
+    "opsi": {
+      "A": "3000 m",
+      "B": "300 m",
+      "C": "600 m",
+      "D": "6000 m"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah sepeda melaju pada dengan kecepatan 3 m/s kearah timur selama 500 s , tentukan besar jarak yang ditempuh sepeda tersebut ...",
+    "opsi": {
+      "A": "3000 m",
+      "B": "1500 m",
+      "C": "166,67 m",
+      "D": "15000 m"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Jarak Kota Banjarmasin ke kota banjarbaru 34,1 Km. Terdapat 4 mobil dengan kecepatan berbeda menuju banjarbaru dari banjarmasin pada waktu yang sama. Apabila mobil A melaju dengan kecepatan 72 km/jam, Mobil B melaju dengan kecepatan 90 km/jam, mobil C melaju dengan kecepatan 20 m/s dan mobil D dengan kecepatan 15 m/s. Mobil manakah yang akan sampai lebih cepat!",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berikut ini merupakan besaran pokok, kecuali ....",
+    "opsi": {
+      "A": "massa",
+      "B": "panjang",
+      "C": "luas",
+      "D": "waktu"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Peristiwa berikut yang tidak mempunyai hukum kelembaman adalah....",
+    "opsi": {
+      "A": "Bila mobil yang kita tumpangi di rem mendadak, tubuh kita terdorong ke depan",
+      "B": "Pemain ski yang sedang melaju, tiba-tiba tali putus, pemain ski tetap bergerak maju",
+      "C": "Penerjun payung bergerak turun ke bawah walaupun tidak didorong dari atas",
+      "D": "Bila kita berdiri di mobil, tiba-tiba mobil bergerak maju tubuh kita terdorong ke belakang"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah gaya sebesar 70 N bekerja selama 0,05 sekon pada sebuah benda yang diam. Impuls yang diberikan pada benda tersebut adalah....Ns",
+    "opsi": {
+      "A": "350",
+      "B": "35",
+      "C": "3,5",
+      "D": "0,35"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Notasi ilmiah bilangan 0,000 000 022157 adalah ....",
+    "opsi": {
+      "A": "22,157 x 10-19",
+      "B": "2,2157 x 10-8",
+      "C": "22,157 x 10-10",
+      "D": "2,2157 x 10-9"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pekerjaan berikut dapat dilakukan di laboratorium:",
+    "opsi": {
+      "A": "Bawa makanan",
+      "B": "Bermain-main",
+      "C": "Bawalah minuman",
+      "D": "Dengan jas lab",
+      "E": "berjalan di sekitar"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Jumlah berikut termasuk jumlah nominal adalah …",
+    "opsi": {
+      "A": "Pencahayaan yang panjang, kuat, suhu",
+      "B": "massa, jumlah zat, arus listrik yang kuat",
+      "C": "Berat, suhu, waktu",
+      "D": "Panjang, energi, waktu",
+      "E": "Massa, luas, jumlah zat"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kelompok-kelompok berikut secara eksklusif terdiri dari jumlah turunan, kecuali …",
+    "opsi": {
+      "A": "Lebar, gaya, energi",
+      "B": "Jenis, energi, usaha",
+      "C": "Usaha, arus kuat, akselerasi",
+      "D": "Volume, kepadatan, kecepatan",
+      "E": "Impuls, impuls, tekanan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Saat mengukur panjang objek, hasil pengukuran adalah 0,04070 meter. Hasil pengukuran mengandung sejumlah … nomor penting.",
+    "opsi": {
+      "A": "Dua",
+      "B": "Tiga",
+      "C": "Empat",
+      "D": "Lima",
+      "E": "Enam"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Hasil pengukuran luas pelat tipis dengan panjang 1,25 cm dan lebar 0,15 cm sesuai aturan tokoh penting",
+    "opsi": {
+      "A": "0,1875 cm²",
+      "B": "0,188 cm²",
+      "C": "0,187 cm²",
+      "D": "0,19 cm²",
+      "E": "0,20 cm²"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pembangkit listrik tenaga uap menggunakan bahan bakar batu bara dan dapat menghasilkan 206.000.000 watt. Kinerja dalam notasi ilmiah adalah …",
+    "opsi": {
+      "A": "206 x 108 W.",
+      "B": "20,6 x 105 W.",
+      "C": "2,06 x 10? W",
+      "D": "2.06 x 10? W",
+      "E": "2.06 x 108 W."
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Tekanan adalah gaya per satuan luas. Dimensi hasil cetak adalah …",
+    "opsi": {
+      "A": "[MLT2]",
+      "B": "[ML-1T2]",
+      "C": "[ML-1T-2]",
+      "D": "[ML-2T-1]",
+      "E": "[ML2T-1]"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Di antara kelompok yang ditetapkan di mana ada kelompok set vektor adalah …",
+    "opsi": {
+      "A": "Panjang, kekuatan, akselerasi, kecepatan.",
+      "B": "kecepatan, berat, percepatan",
+      "C": "Impuls, jarak, suhu",
+      "D": "Luas, volume, kepadatan",
+      "E": "Impuls, waktu, massa, jarak"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Ukuran vektor mengikuti, kecuali …",
+    "opsi": {
+      "A": "Upaya",
+      "B": "Gaya",
+      "C": "Akselerasi",
+      "D": "berat badan",
+      "E": "shift"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Vektor gaya F = 20√3 N membentuk sudut 600 dengan sumbu X.\n\nUkuran komponen vektor pada sumbu Y adalah …",
+    "opsi": {
+      "A": "60 N",
+      "B": "30 N",
+      "C": "10/6 N.",
+      "D": "20 N",
+      "E": "10/3 N"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Diketahui bahwa ukuran vektor A = 5 unit dan ukuran vektor B = 6 unit. Kedua vektor membentuk sudut 600. Ukuran skalar antara dua vektor adalah …",
+    "opsi": {
+      "A": "30 unit",
+      "B": "11 unit",
+      "C": "15/3 unit",
+      "D": "30 √ 2 unit",
+      "E": "15 unit"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan berikut:\n(1) Shift adalah ukuran vektor\n(2) Jarak adalah kuantitas skalar\n(3) Shift adalah perubahan posisi objek\n(4) Jarak adalah panjang gerakan objek\n\nPernyataan di atas benar …",
+    "opsi": {
+      "A": "(1), (2), (3) dan (4)",
+      "B": "(1) (2) dan (3)",
+      "C": "(1) dan (3)",
+      "D": "(2) dan (4)",
+      "E": "(4)"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Yanti berjalan 40 meter ke timur, lalu 30 meter ke selatan. Langkah Yanti dari posisi awal adalah …",
+    "opsi": {
+      "A": "10 m",
+      "B": "50 m",
+      "C": "70 m",
+      "D": "100 m",
+      "E": "1200 m"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Bayu berjalan di sekitar bidang melingkar dengan diameter 60 m. Dia meninggalkan titik A dan akhirnya berhenti di titik A setelah putaran 3,14 menit. Kecepatan rata-rata Bayuadalah …",
+    "opsi": {
+      "A": "5,0 m / s",
+      "B": "2,0 m / s",
+      "C": "1,0 m / s",
+      "D": "0,5 m / s",
+      "E": "0"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Suatu objek awalnya berdiri diam dan kemudian bergerak dengan kecepatan 10 m / s pada jarak 10 meter. Akselerasi benda yang dialami benda adalah …",
+    "opsi": {
+      "A": "0,5 m / s2",
+      "B": "2 m / s2",
+      "C": "5 m / s2",
+      "D": "10 m / s2",
+      "E": "20 m / s2"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Lokomotif pertama berhenti dan kemudian berjalan dengan akselerasi 2 m / s2. Waktu yang dibutuhkan lokomotif untuk melakukan perjalanan 900 m …",
+    "opsi": {
+      "A": "3 s",
+      "B": "6 s",
+      "C": "15 s",
+      "D": "30 s",
+      "E": "90 s"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Benda jatuh bebas adalah benda dengan:\n(1) Kecepatan awal adalah nol\n(2) Percepatan = percepatan gravitasi\n(3) Gerakan lurus berubah secara tidak teratur\n(4) Arah akselerasi ke pusat bumi\n\nPernyataan di atas benar …",
+    "opsi": {
+      "A": "(1), (2), (3) dan (4)",
+      "B": "(1), (2) dan (3)",
+      "C": "(1) dan (3)",
+      "D": "(2) dan (4)",
+      "E": "(4)"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah batu jatuh bebas dari puncak menara hingga ketinggian 45 m. Jika akselerasi karena gravitasi adalah 10 ms-2, kecepatan batu saat menyentuh tanah adalah …",
+    "opsi": {
+      "A": "25 ms-1",
+      "B": "30 ms-1",
+      "C": "35 ms-1",
+      "D": "40 ms-1",
+      "E": "45 ms-1"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Peluru ditembakkan pada kecepatan 60 ms-1 dan sudut ketinggian 300. Tinggi maksimum yang bisa dicapai bola adalah …",
+    "opsi": {
+      "A": "30 m",
+      "B": "45 m",
+      "C": "50 m",
+      "D": "90 m",
+      "E": "100 m"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Objek yang bergerak dalam urutan melingkar memiliki …",
+    "opsi": {
+      "A": "Kecepatan konstan, perubahan kecepatan",
+      "B": "Kecepatan konstan, perubahan kecepatan",
+      "C": "Akselerasi konstan, perubahan kekuatan",
+      "D": "Sudut deviasi konstan",
+      "E": "Kekuatan dan kecepatan konstan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Objek yang berputar secara teratur dengan kecepatan linier 3 ms-1 dan radius 1,5 m. Frekuensi objek adalah ….",
+    "opsi": {
+      "A": "1 / π Hz",
+      "B": "1 / 2π Hz",
+      "C": "Π Hz",
+      "D": "1.2π Hz",
+      "E": "1.5π Hz"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah mobil mainan bergerak dalam lingkaran pada kecepatan linier 1,8 ms-1 dan radius 90 cm. Percepatan centripetal yang dialami oleh mobil mainan adalah …",
+    "opsi": {
+      "A": "1.6 ms-2",
+      "B": "1.8 ms-2",
+      "C": "2.4 ms-2",
+      "D": "3,2 ms-2",
+      "E": "3.6 ms-2"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Nilai rata-rata ulangan matematika dari 39 siswa di suatu kelas adalah 65. Jika nilai seorang siswa yang mengikuti ulangan susulan digabungkan, maka nilai rata-rata ulangan matematika menjadi 64,5. Nilai siswa tersebut adalah ….",
+    "opsi": {
+      "A": "85",
+      "B": "75",
+      "C": "65",
+      "D": "55",
+      "E": "45"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Nilai rata-rata tes matematika dari kelompok siswa dan kelompok siswi di suatu kelas berturut-turut adalah 5 dan 7. Jika nilai rata-rata di kelas tersebut adalah 6,2, maka perbandingan banyaknya siswa dan siswi adalah ….",
+    "opsi": {
+      "A": "2 : 3",
+      "B": "3 : 4",
+      "C": "2 : 5",
+      "D": "3 : 5",
+      "E": "4 : 5"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Suatu data mempunyai rata-rata 35 dan jangkauan 7. Jika setiap nilai dalam data dikalikan a kemudian dikurangi b, didapat data baru dengan rata-rata 42 dan jangkauan 9. Nilai 7a – b adalah ….",
+    "opsi": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Dalam suatu kelas terdapat 30 siswa. Rata-rata nilai mata pelajaran statistika mereka adalah 8. Rata-rata nilai tersebut tetap sama meskipun satu nilai terendah dan satu nilai tertinggi di keluarkan. Jika semua nilai tersebut berupa bilangan cacah satu angka dan tidak semua siswa memperoleh nilai yang sama, maka jumlah nilai tertinggi dan terendah adalah ….",
+    "opsi": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15",
+      "E": "16"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Sebanyak sembilan siswa mengikuti tes. Guru mengumumkan bahwa jangkauan data nilai siswa tersebut adalah 25. Jika diumumkan tiga siswa memperoleh nilai 100, satu siswa memperoleh nilai 95, dua siswa memperoleh nilai 93, serta satu siswa memperoleh nilai 76, maka nilai dua siswa yang belum diumumkan tersebut yang paling mungkin adalah ….",
+    "opsi": {
+      "A": "99 dan 75",
+      "B": "99 dan 85",
+      "C": "99 dan 95",
+      "D": "79 dan 87",
+      "E": "75 dan 74"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Diketahui data : 8, 3, p, 3, 4, 10, q, 4, 12 memiliki mean (rata-rata) 6. Nilai p + q = ….",
+    "opsi": {
+      "A": "5",
+      "B": "8",
+      "C": "10",
+      "D": "12",
+      "E": "15"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini pernyataan tentang gaya:\n\n(i) Gaya dapat mengubah arah gerak suatu benda\n(ii) Gaya dapat merubah bentuk benda\n(iii) Gaya tidak dapat mengubah ukuran suatu benda\n(iv) Gaya menyebabkan percepatan\n(v) Gaya menyebabkan kecepatan\n\nDari pernyataan di atas, yang bukan merupakan gaya adalah…..",
+    "opsi": {
+      "A": "(ii) dan (v)",
+      "B": "(i) dan (ii)",
+      "C": "(ii), (iii) dan (v)",
+      "D": "(i), (iv) dan (v)",
+      "E": "(iv) saja"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Hukum gerak Newton menjelaskan aspek tentang…..",
+    "opsi": {
+      "A": "Kehidupan Manusia",
+      "B": "Gerak Penari",
+      "C": "Gerak Planet",
+      "D": "Gerak Benda",
+      "E": "Gerak Tumbuha"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Hukum II Newton menyatakan bahwa gaya sama dengan massa kali…..",
+    "opsi": {
+      "A": "berat",
+      "B": "kecepatan",
+      "C": "percepatan",
+      "D": "perpindahan",
+      "E": "kelembaman"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kecenderungan suatu benda dalam mempertahankan keadaan diamnya disebut…..",
+    "opsi": {
+      "A": "gravitasi",
+      "B": "gaya",
+      "C": "inersia",
+      "D": "kecepatan",
+      "E": "massa"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Peristiwa yang berhubungan dengan Hukum I Newton adalah…..",
+    "opsi": {
+      "A": "Seseorang yang mendayung sungai",
+      "B": "Seseorang memberikan gaya dorong pada mobil",
+      "C": "Penerjun payung bergerak ke bawah",
+      "D": "Seorang pengendara motor tiba-tiba tubuhnya terdorong ke depan pada saat di rem mendadak",
+      "E": "Seseorang yang berenang"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Dua buah benda masing-masing massanya  dan  dihubungkan dengan tali dan ditarik dengan gaya tetap 24 N, Maka besar tegangan tali penghubung kedua benda adalah?",
+    "opsi": {
+      "A": "6 N",
+      "B": "8 N",
+      "C": "12 N",
+      "D": "16 N",
+      "E": "20 N"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Saat melakukan kegiatan ilmiah, gagasan dan pemikiran ilmuan fisika didasari dari rasa ingin tahu yang tinggi, diiringi dengan rasa percaya diri, sikap sisiplin, obyektif,\n\njujur, dan mau mendengar pendapat orang lain. Hal tersebut merupakan ciri hakikat fisika sebagai….",
+    "opsi": {
+      "A": "Ilmu",
+      "B": "Produk",
+      "C": "Sains",
+      "D": "Sikap",
+      "E": "Proses"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Fakta, konsep, teori, rumus, prinsip, hukum, dan model merupakan….",
+    "opsi": {
+      "A": "ilmu fisika",
+      "B": "produk fisika",
+      "C": "ruang lingkup fisika",
+      "D": "sikap fisika",
+      "E": "proses fisika"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pernyataan yang menggambarkan dan menjelaskan pola umum yang terjadi di alam semesta yang didukung oleh bukti ilmiah dan percobaan/eksperimen disebut…",
+    "opsi": {
+      "A": "fakta",
+      "B": "konsep",
+      "C": "prinsip",
+      "D": "teori",
+      "E": "hukum"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Air laut mengandung natrium klorida. Pernyataan tersebut merupakan produk fisika kategori...",
+    "opsi": {
+      "A": "fakta",
+      "B": "konsep",
+      "C": "teori",
+      "D": "hukum",
+      "E": "rumus"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Hambatan listrik (resistor) ketika dirangkai seri dan dihubungkan dengan sumber tegangan, maka jumlah tegangan pada masing-masing resistor besarnya sama dengan tegangan sumber dan arus yang mengalir pada resistor besarnya sama. Pernyataan tersebut merupakan produk fisika kategori...",
+    "opsi": {
+      "A": "model",
+      "B": "fakta",
+      "C": "konsep",
+      "D": "teori",
+      "E": "prinsip"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Perhatiakan langkah-langkah analisis data berikut:\n\n1. Mentabulasi data dengan mengentri kedalam tabel\n\n2. Mengelompokkan data berdasarkan variabel\n\n3. Mendeskripsikan data\n\n4. Menguji kualias data\n\n5. Menguji hipotesis\n\nUrutan langkah analisis data yang benar adalah….",
+    "opsi": {
+      "A": "1 – 2 – 4 – 3 – 5",
+      "B": "1 – 2 – 4 – 5 – 3",
+      "C": "2 – 1 – 4 – 3 – 5",
+      "D": "2 – 1 – 5 – 3 – 4",
+      "E": "4 – 2 – 1 – 3 – 5"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Ruang lingkup fisika secara garis besar terbagi menjadi dua kelompok yaitu fisika klasik dan fisika modern. Fisika modern berkembang pada mulai abad ke-20 sejak ditemukannya",
+    "opsi": {
+      "A": "listrik dan magnet",
+      "B": "kalor dan bunyi",
+      "C": "optika dan gelombang",
+      "D": "teori relativitas dan radioaktivitas",
+      "E": "termodinamika dan teori relativitas"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Terdapat penilitian yang berjudul “Pengaruh Kadar Garam Terhadap Titik Didih Air”.\n\nDari judul tesebut maka:\n\n1) Masalah: Bagaimanakah pengaruh kadar garam terhadap kenaikan titik didik air?\n\n2) Hipotesis: Kadar garam berpengaruh pada kenaikan titik didih air\n\n3) Variabel bebas: Jumlah garam; variabel terikat: suhu didih air; variabel kontrol: volume awal air dan jenis wadah untuk memanaskas air.\n\nPernyataan yang benar adalah…",
+    "opsi": {
+      "A": "1) saja",
+      "B": "3) saja",
+      "C": "1) dan 2)",
+      "D": "2) dan 3)",
+      "E": "1), 2), dan 3)"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Sekelompok peserta didik mengamati permainan ayunan. Salah satu dari mereka mengajukan pertanyaan apakah massa orang yang naik ayunan mempengaruhi\n\nperiode getaran dan apakah panjang tali ayunan juga mempengaruhi periode getaran. Mereka membuat dugaan bahwa semakin besar massa orang periode ayunannya makin besar dan makin panjang tali periodenya juga semakin besar. Penggalan narasi\n\ntersebut menggambarkan prosedur ilmiah hingga tahap…",
+    "opsi": {
+      "A": "obesrvasi",
+      "B": "menyusun masalah",
+      "C": "membuat hipotesis",
+      "D": "analisis data",
+      "E": "kesimpulan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Dua buah benda saat ditimbang masing-masing bermassa 20,45 kg dan 15,2 kg. Jika dua benda tersebut dijadikan satu masanya adalah ….",
+    "opsi": {
+      "A": "35,65 kg",
+      "B": "35,7 kg",
+      "C": "35,6 kg",
+      "D": "36,0 kg",
+      "E": "36 kg"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan berikut!\n\n1) Mengukur tebal buku menggunakan mistar\n\n2) Mengukur volume batu dengan gelas ukur\n\n3) Mengukur volume balok dengan jangka sorong\n\n4) Mengukur kecepatan lari seseorang dengan meteran dan stopwatch\n\nYang termasuk pengukuran tidak langsung adalah….",
+    "opsi": {
+      "A": "1) dan 2)",
+      "B": "1) dan 3)",
+      "C": "2) dan 4)",
+      "D": "2) dan 3)",
+      "E": "3) dan 4)"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Pengukuran berulang dilakukan dengan alasan:\n\n1) Pengukuran tunggal memberikan hasil yang kurang teliti\n\n2) Hasil pengukuran berulang lebih mendekati nilai yang sebenarnya\n\n3) Ketidakpastian pengukuran berulang lebih kecil dari pengukuran tunggal\n\nPernyataan yang benar adalah…",
+    "opsi": {
+      "A": "1 saja",
+      "B": "1 dan 2",
+      "C": "1, 2, dan 3",
+      "D": "2 dan 3",
+      "E": "3 saja"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Alat ukur yang baik harus memiliki kemampuan untuk memberikan hasil yang sama dari pengukuran yang dilakukan berulang-ulang dengan cara yang sama. Kemampuan itu disebut….",
+    "opsi": {
+      "A": "teliti/akurat",
+      "B": "ketepatan/presisi",
+      "C": "sensitif",
+      "D": "tepat dan akurat",
+      "E": "sensitif dan teliti"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Hasil pengukuran panjang dan lebar persegi panjang, panjang= (15,50 ± 0,05 cm) dan lebar= (2,352 ± 0,005) cm. Keliling persegi panjang tersebut adalah….",
+    "opsi": {
+      "A": "(17,852 ± 0,055) cm",
+      "B": "(35,704 ± 0,055) cm",
+      "C": "(35,70 ± 0,05) cm",
+      "D": "(35,70 ± 0,06) cm",
+      "E": "(35,7 ± 0,05) cm"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Proses berfikir untuk memecahkan masalah secara sistematis, empiris, dan terkontrol disebut ...",
+    "opsi": {
+      "A": "metode berfikir",
+      "B": "metode ilmiah",
+      "C": "ilmu sains",
+      "D": "metode empiris",
+      "E": "konsep fisika"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Besaran-besaran berikut yang termasuk besaran pokok yaitu ...",
+    "opsi": {
+      "A": "Panjang, kuat penerangan, suhu",
+      "B": "Panjang, energi, waktu",
+      "C": "Massa, jumlah zat, kuat arus listrik",
+      "D": "Massa, luas, jumlah zat",
+      "E": "Berat, waktu, suh"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Hasil pengukuran panjang dan lebar sebidang tanah berbentuk empat persegi panjang adalah 15,35 m dan 12,5 m. Luas tanah menurut aturan angka penting adalah ...",
+    "opsi": {
+      "A": "191,875 m2",
+      "B": "191,88 m2",
+      "C": "191,87 m2",
+      "D": "191,9 m2",
+      "E": "192 m2"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Sebuah benda mula-mula bergerak dengan kecepatan 6 ms-1 kemudian dipercepat menjadi 8 ms-1, ternyata jarak yang ditempuh sudah sejauh 42 meter. Lama percepatan benda adalah …",
+    "opsi": {
+      "A": "2 detik",
+      "B": "2,5 detik",
+      "C": "3 detik",
+      "D": "4,5 detik",
+      "E": "6 detik"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Pada sebuah benda yang massanya 10 kg bekerja sebuah gaya F arah mendatar besarnya 20 N. bila µs = 0.4 dan µk = 0.2 maka besarnya gaya gesekan adalah ...",
+    "opsi": {
+      "A": "10 N",
+      "B": "20 N",
+      "C": "30 N",
+      "D": "40 N",
+      "E": "50 N"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Juniar yang bermassa 35 kg berada di dalam lift yang sedang bergerak ke atas dengan percepatan 2 m/s2. Gaya tekanan kaki Juniar pada lantai lift adalah ...",
+    "opsi": {
+      "A": "280 N",
+      "B": "350 N",
+      "C": "375 N",
+      "D": "400N",
+      "E": "420 N"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Besaran-besaran berikut ini yang merupakan besaran turunan adalah ....",
+    "opsi": {
+      "A": "gaya, kecepatan, dan panjang",
+      "B": "berat, daya, dan waktu",
+      "C": "massa, waktu, dan percepatan",
+      "D": "berat, energi, dan massa",
+      "E": "tekanan, gaya, dan bera"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Besaran-besaran berikut ini yang semuanya bukan besaran turunan adalah ....",
+    "opsi": {
+      "A": "usaha, massa jenis, dan suhu",
+      "B": "daya, gaya, dan intensitas cahaya",
+      "C": "luas, panjang, dan volume",
+      "D": "kuat arus listrik, suhu, dan waktu",
+      "E": "usaha, daya, dan gaya"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Besaran-besaran berikut ini yang tidak termasuk besaran turunan adalah ....",
+    "opsi": {
+      "A": "massa jenis",
+      "B": "momentum",
+      "C": "jumlah zat",
+      "D": "tekanan",
+      "E": "usaha"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jika sebuah benda di permukan bumi dipindahkan ke planet Mars, maka yang tidak mengalami perubahan adalah …",
+    "opsi": {
+      "A": "Berat benda",
+      "B": "Massa benda",
+      "C": "Massa dan berat benda",
+      "D": "Potensi grafitasi pada benda",
+      "E": "Energi potensial"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah balok besi beratnya 40 N. Balok tersebut di bawa ke planet X yang mempunyai massa 5 kali massa bumi dan diameternya 2 kali diameter bumi. Berat balok di planet X adalah …",
+    "opsi": {
+      "A": "8 N",
+      "B": "16 N",
+      "C": "50 N",
+      "D": "80 N",
+      "E": "100 N"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Jika percepatan gravitasi dipermukaan bumi adalah g dan jari-jari bumi R, maka percepatan gravitasi di suatu tempat sejauh R dari permukaan bumi adalah ...",
+    "opsi": {
+      "A": "½ g",
+      "B": "¼ g",
+      "C": "1/6 g",
+      "D": "1/8 g",
+      "E": "1/9 g"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Diketahui jarak antara m1 (4 kg) dan m2 (9 kg) adalah 1 meter. Letak titik yang kuat medan gravitasinya nol diukur dari m1 arah kekanan adalah …",
+    "opsi": {
+      "A": "0,04 m",
+      "B": "0,10 m",
+      "C": "0,20 m",
+      "D": "0,30 m",
+      "E": "0,40 m"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Dua buah satelit A dan B mengorbit sebuah planet yang sama, dengan jari jari orbit masing masing berurutan R dan 2R. Bila kecepatan orbit satelit A adalah v, maka kecepatan orbit satelit B adalah …",
+    "opsi": {
+      "A": "v",
+      "B": "√2v",
+      "C": "v/√2",
+      "D": "2v",
+      "E": "2v/√3"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah balok bergerak dengan kecepatan v serta memiliki energi kinetik Ek, jika kecepatan balok dibuat menjadi 2v, maka energi kinetiknya menjadi …",
+    "opsi": {
+      "A": "Ek",
+      "B": "2 Ek",
+      "C": "3 Ek",
+      "D": "4 Ek",
+      "E": "5 Ek"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah benda jatuh bebas dari ketinggian 80 m di atas tanah. Jika terjadi tumbukan elastik sebagaian (e = 0,2), kecepatan pantul benda setelah tumbukan adalah …",
+    "opsi": {
+      "A": "4 m/s",
+      "B": "6 m/s",
+      "C": "8 m/s",
+      "D": "10 m/s",
+      "E": "12 m/s"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebatang kayu memiliki panjang 10 m. Dari pernyataan tersebut yang disebut besaran adalah ....",
+    "opsi": {
+      "A": "10",
+      "B": "m",
+      "C": "10 m",
+      "D": "panjang",
+      "E": "kayu"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah benda yang diikat dengan seutas benang hanya dapat berayun dengan simpangan kecil. Supaya periode ayunanya bertambah besar, maka :\n(1)ayunanya diberi simpangan awal yang lebih besar\n(2)massa bendanya ditambah\n(3)ayunan diberi kecepatan awal\n(4)benang penggantungnya diperpanjang pilihan yang benar adalah …",
+    "opsi": {
+      "A": "(1) dan (2)",
+      "B": "(1) dan (3)",
+      "C": "(2) dan (4)",
+      "D": "(1), (2), dan (3)",
+      "E": "(1), (2), (3) dan (4)"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Mobil bergerak pada sebuah jalan lurus. Bila jarak yang ditempuh mobil selama 4 sekon adalah 48 m, maka kecepatan awal mobil ( vo ) adalah ...",
+    "opsi": {
+      "A": "16 m/s",
+      "B": "4 m/s",
+      "C": "5 m/s",
+      "D": "10 m/s",
+      "E": "12 m/s"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah mobil mengalami perlambatan konstan, kecepatan mula-mula 90 km/jam. Setelah menempuh jarak 100 m kecepatannya menjadi 54 km/jam. Jarak yang masih harus ditempuh sampai mobil berhenti adalah ...",
+    "opsi": {
+      "A": "45,50 m",
+      "B": "53,25 m",
+      "C": "60,50 m",
+      "D": "56,25 m",
+      "E": "65,60 m"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Yang termasuk gerak lurus berubah beraturan adalah ....",
+    "opsi": {
+      "A": "orang berjalan",
+      "B": "semut berlari",
+      "C": "kapal berlayar",
+      "D": "mobil berjalan pada jalan pada jalan tol",
+      "E": "benda jatuh"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Sebuah benda yang massanya 50 gram diikat dengan tali kemudian diputar sehingga benda bergerak melingkar beraturan dengan kecepatan sudut 10 rad/s. Jika panjang tali 100 cm dan tegangan pada tali diabaikan, besar gaya sentripetal yang terjadi adalah ...",
+    "opsi": {
+      "A": "0,5 N",
+      "B": "1 N",
+      "C": "2 N",
+      "D": "4 N",
+      "E": "7 N"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Dua buah roda masing-masing memiliki jari-jari 25 cm dan 50 cm. Roda pertama bergerak dengan kecepatan sudut tetap 8 rad/s selama 1 menit. Kedua roda akan menempuh panjang lintasan yang sama bila roda kedua bergerak selama 4 menit dengan kecepatan 0,5 m/s. Kecepatan sudut roda kedua adalah ...",
+    "opsi": {
+      "A": "0,25 rad/s",
+      "B": "0,5 rad/s",
+      "C": "1 rad/s",
+      "D": "2 rad/s",
+      "E": "4 rad/s"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Ponigon adalah produk sepeda gunung baru yang didesain sedernikian rupa sehingga dapat melaju dengan kencang. Roda gigi pedal berdiameter 12 cm. sedangkan diameter roda gigi pada torsi belakang 7 cm. dan diameter ban sepeda belakang adalah 65 cm. Berapakah kecepatan linier sepeda jika kecepatan pada pedal adalah 36 km/jam?",
+    "opsi": {
+      "A": "92,856 km/s",
+      "B": "92,856 cm/s",
+      "C": "92,856 m/s",
+      "D": "92,856 km/jam",
+      "E": "92,856 m/jam"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sistem roda-roda menunjukkan roda B dan roda C sepusat, roda B dan roda A dihubungkan dengan tali. Roda A, B dan C memiliki jari-jari masing-masing 30 cm, 15 cm dan 40 cm. Apabila roda A diputar dengan kecepatan sudut 15 raad/s maka kecepatan linear roda C adalah ...",
+    "opsi": {
+      "A": "8 m.s",
+      "B": "12 m/s",
+      "C": "16 m/s",
+      "D": "18 m/s",
+      "E": "20 m/s"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dari pilihan berikut ini, manakah yang merupakan definisi paling tepat untuk perpindahan kalor?",
+    "opsi": {
+      "A": "Perpindahan energi akibat perbedaan suhu di dua tempat berbeda termasuk proses pengeluaran dan pemasukan.",
+      "B": "Perpindahan energi akibat perbedaan ketinggian di dua tempat berbeda termasuk proses pengeluaran dan pemasukan.",
+      "C": "Perpindahan energi akibat perbedaan massa benda di dua tempat berbeda termasuk proses pengeluaran dan pemasukan.",
+      "D": "Perpindahan energi akibat perbedaan waktu di dua tempat berbeda termasuk proses pengeluaran dan pemasukan.",
+      "E": "Perpindahan energi akibat perbedaan titik lebur benda di dua tempat berbeda termasuk proses pengeluaran dan pemasukan."
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini merupakan cara perpindahan kalor yang benar adalah…",
+    "opsi": {
+      "A": "Konduksi, isolasi, asimilasi",
+      "B": "Konduksi, konveksi, radiasi",
+      "C": "Konduksi, konveksi, infeksi",
+      "D": "Konduksi, konveksi, sosialisasi",
+      "E": "Konduksi, gesekan, adaptasi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dari pilihan berikut ini, manakah yang mengalami pembekuan?",
+    "opsi": {
+      "A": "Air menjadi embun",
+      "B": "Air menjadi es",
+      "C": "Air mendidih",
+      "D": "Embun menguap",
+      "E": "Penyegar udara"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Diketahui 2 kg air memiliki suhu 400 C dan dipanaskan hingga suhu 700 C. Bila kalor jenis airnya adalah 4.186 j/kg0 C, maka berapa kalor yang diserap oleh air tersebut?",
+    "opsi": {
+      "A": "252.162 J",
+      "B": "253.360 J",
+      "C": "251.160 J",
+      "D": "255.166 J",
+      "E": "254.160 J"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Diketahui sebuah logam perak memiliki massa 8 kg dengan suhu 200 C. Bila suhunya akan dinaikkan hingga 1200 C dan kalor jenis perak adalah 230 J/kg0 C, berapakah kalor yang dibutuhkan logam perak tersebu",
+    "opsi": {
+      "A": "48 KJ",
+      "B": "94 KJ",
+      "C": "120 KG",
+      "D": "240 KJ",
+      "E": "184 KJ"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Dari pilihan di bawah ini, yang merupakan definisi paling tepat dari listrik dinamis adalah…",
+    "opsi": {
+      "A": "Listrik yang dapat berubah-ubah dan dapat mengalir dalam waktu tertentu.",
+      "B": "Listrik yang tak dapat berubah-ubah dan dapat mengalir secara terus-menerus.",
+      "C": "Listrik yang dapat berubah-ubah dan dapat mengalir secara terus-menerus.",
+      "D": "Listrik yang tak berubah-ubah dan dapat tidak mengalir secara terus-menerus.",
+      "E": "Listrik yang kadang bisa berubah dan dapat kadang mengalir secara terus-menerus."
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Dari pilihan berikut ini, manakah yang merupakan definisi paling tepat dari listrik statis?",
+    "opsi": {
+      "A": "Hasil penumpukan muatan listrik yang terjadi ketika dua benda bukan logam saling bergesekan.",
+      "B": "Hasil penumpukan muatan listrik yang terjadi ketika dua benda logam saling bergesekan.",
+      "C": "Hasil perpindahan muatan listrik yang terjadi ketika dua benda bukan logam saling bergesekan.",
+      "D": "Hasil pembuatan muatan listrik yang terjadi ketika benda logam dan bukan logam saling bergesekan.",
+      "E": "Hasil pengaliran muatan listrik yang terjadi ketika dua benda semi logam saling bergesekan."
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Diketahui sebuah penghantar memiliki muatan listrik yang mengalir secara konstan sebesar 0,06 C selama 20 s. Maka besar kuat arus listrik dalam penghantar tersebut adalah…",
+    "opsi": {
+      "A": "0,001 A",
+      "B": "0,002 A",
+      "C": "0,003 A",
+      "D": "0,004 A",
+      "E": "0,005 A"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah bola memiliki muatan +6.10-6 C. Tentukanlah potensial titik A dengan jarak 0,6 m dan potensial B berjarak 0,9 dari bola!",
+    "opsi": {
+      "A": "9.104 volt dan 6.104 volt",
+      "B": "12.104 volt dan 6.104 volt",
+      "C": "18.104 volt dan 6.104 volt",
+      "D": "9.104 volt dan 6.10-4 volt",
+      "E": "9.104 volt dan 6.102 volt"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kuat arus listrik pada sebuah lampu adalah 250mA. Bila lampu tersebut menyala selama 10 jam, maka tentukanlah muatan listrik yang mengalir pada lampu tersebut!",
+    "opsi": {
+      "A": "3000 C",
+      "B": "6000 C",
+      "C": "12000 C",
+      "D": "9000 C",
+      "E": "1800 C"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Kedua ujung kawat penghantar memiliki beda potensial 6 volt. Hal ini menyebabkan arus listrik sebesar 2A mengalir. Maka hambatan dalam kawat tersebut adalah…",
+    "opsi": {
+      "A": "1 Ω",
+      "B": "2 Ω",
+      "C": "3 Ω",
+      "D": "4 Ω",
+      "E": "5 Ω"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Laju aliran partikel-partikel bermuatan listrik yang mengalir melewati suatu rangkaian listrik atau titik adalah definisi dari…",
+    "opsi": {
+      "A": "Hambatan listrik",
+      "B": "Katoda",
+      "C": "Arus listrik",
+      "D": "Konduksi",
+      "E": "Radiasi"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Muatan sebesar 300 C selama 30s mengalir melalui sebuah penghantar. Berapakah kuat arus yang mengalir pada penghantar tersebut?",
+    "opsi": {
+      "A": "5 A",
+      "B": "10 A",
+      "C": "15 A",
+      "D": "20 A",
+      "E": "25 A"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah solder memiliki beda potensial 10 V dan kuat arus listriknya adalah 2A. Tentukanlah berapa besar hambatan solder tersebut!",
+    "opsi": {
+      "A": "5 Ω",
+      "B": "10 Ω",
+      "C": "15 Ω",
+      "D": "20 Ω",
+      "E": "25 Ω"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "3 resistor memiliki hambatan masing-masing 2 Ω, 4 Ω, dan 3 Ω dan disusun secara seri. Kemudian rangkaian tersebut dikoneksikan dengan ggl total 20 volt dengan hambatan 1 Ω. Berapakah kuat arus pada rangkaian tersebut?",
+    "opsi": {
+      "A": "1 A",
+      "B": "2 A",
+      "C": "3 A",
+      "D": "4 A",
+      "E": "5 A"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Jika resultan gaya yang bekerja pada sebuah benda sama dengan nol, maka …. (1) benda akan dipercepat (2) benda selalu diam (3) perubahan kecepatan benda nol (4) benda akan bergerak lurus beraturan (5) benda akan bergerak lurus berubah beraturan. Yang benar adalah .....",
+    "opsi": {
+      "A": "(1), (2) dan (3)",
+      "B": "(1), (4) dan (5)",
+      "C": "(2), (3) dan (5)",
+      "D": "(2), (3) dan (4)",
+      "E": "(1), (3) dan (4)"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sewaktu berada di dalam lift yang diam, berat Sandi adalah 500 N. Percepatan gravitasi = 10 ms–2. Sewaktu lift dipercepat, tegangan tali menjadi 750 N. Dengan demikian percepatan lift adalah .....",
+    "opsi": {
+      "A": "5,0 ms^–2",
+      "B": "7,5 ms^–2",
+      "C": "10,0 ms^–2",
+      "D": "12,5 ms^–2",
+      "E": "15,0 ms^–2"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Planet Q memiliki jari-jari rata-rata 4 kali jari-jari rata-rata bumi. Adapun percepatan gravitasinya 1/4 kali percepatan gravitasi bumi. Jika massa bumi sebesar m, massa planet Q sebesar ...",
+    "opsi": {
+      "A": "1/4 m",
+      "B": "1/2 m",
+      "C": "2 m",
+      "D": "4 m",
+      "E": "8 m"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Benda berada pada ketinggian tertentu diatas permukaaan bumi. Percepatan gravitasi pada ketinggian tersebut sebesar 3/4 g. Jika R adalah jari-jari bumi dan g adalah percepatan gravitasi di permukaan bumi, ketinggian benda adalah .... ( akar 3= 1,732)",
+    "opsi": {
+      "A": "0.15 R",
+      "B": "0.17 R",
+      "C": "0.25 R",
+      "D": "0.22 R",
+      "E": "0.20 R"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Jika Bumi menyusut menjadi setengah semula, tapi massanya tetap, maka apa yang terjadi dengan massa benda-benda yang ada di permukaan bumi?",
+    "opsi": {
+      "A": "massa benda tetap",
+      "B": "berat benda tetap",
+      "C": "berat benda menjadi setengah semula",
+      "D": "berat benda menjadi dua kali semula",
+      "E": "massa benda menjadi empat kali semula"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Jarak rata-rata planet A dan B terhadap Matahari, masing-masing berbanding 4 : 1. Jika periode revolusi planet A mengitari matahari selama 704 hari, maka lama periode planet B mengitari matahari adalah ......",
+    "opsi": {
+      "A": "704 hari",
+      "B": "5678 hari",
+      "C": "2765 hari",
+      "D": "7040 hari",
+      "E": "7000 hari"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perbandingan periode planet A dan B adalah 8 : 27. Jika jarak rata-rata planet A terhadap Matahari adalah 4 satuan astronomi (SA), maka jarak rata-rata planet B terhadap Matahari adalah ......",
+    "opsi": {
+      "A": "4 SA",
+      "B": "5 SA",
+      "C": "7 SA",
+      "D": "8 SA",
+      "E": "9 SA"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Sebuah benda 1 kg dilemparkan ke atas dengan kecepatan awal 40 m/s. Besar energi kinetik benda pada saat mencapai ketinggian 20 m dari tanah sebesar .....",
+    "opsi": {
+      "A": "100 J",
+      "B": "200 J",
+      "C": "400 J",
+      "D": "600 J",
+      "E": "800 J"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah benda jatuh bebas dari ketinggian h dan pada suatu saat energi kinetiknya tiga kali energi potensialnya. Pada saat itu tinggi benda adalah .....",
+    "opsi": {
+      "A": "1/4 h",
+      "B": "1/3 h",
+      "C": "1/2 h",
+      "D": "2 h",
+      "E": "3 h"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah balok bermassa 400 gram dijatuhkan dari ketinggian 2 m ke permukaan tanah. Jika pada permukaan tanah terdapat pegas dengan konstanta100 N/m maka pegas akan tertekan sebesar .....",
+    "opsi": {
+      "A": "0,1 m",
+      "B": "0,2 m",
+      "C": "0,3 m",
+      "D": "0,4 m",
+      "E": "0,05 m"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Seorang anak memukul bola tenis yang massanya 100 gr dengan gaya 10 N menggunakan sebuah raket. Bola menempel pada raket selama 0,2 sekon. Kecepatan bola waktu lepas dari raket adalah .....",
+    "opsi": {
+      "A": "10 m/s",
+      "B": "20 m/s",
+      "C": "30 m/s",
+      "D": "40 m/s",
+      "E": "50 m/s"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuahbenda jatuh bebas dari ketinggian 10 m di atas lantai. Jika koefisien restitusi antara bola dengan lantai 0,5 , maka tinggi pantulan pertama adalah .....",
+    "opsi": {
+      "A": "10 m",
+      "B": "5 m",
+      "C": "2,5 m",
+      "D": "1 m",
+      "E": "0,5 m"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah bola menumbuk tegak lurus sebuah tembok dengan kecepatan 8 m/s. Jika koefisien tumbukan yang dialami bola dengan tembok adalah 0,5, maka kelajuan bola setelah memantul adalah .....",
+    "opsi": {
+      "A": "8 m/s",
+      "B": "6 m/s",
+      "C": "4 m/s",
+      "D": "2 m/s",
+      "E": "0,5 m/s"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Seorang anak melompat lepas dari skate board yang dinaikinya dengan kecepatan 1 m/det. Bila massa anaknya 20 kg dan massa skate board 2 kg maka besar kecepatan hentakan papan adalah .....",
+    "opsi": {
+      "A": "1 m/s",
+      "B": "2 m/s",
+      "C": "2,2 m/s",
+      "D": "3 m/s",
+      "E": "11 m/s"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Besaran pokok panjang dapat diturunkan menjadi ....",
+    "opsi": {
+      "A": "Volume dan daya",
+      "B": "Volume dan kuat arus listrik",
+      "C": "Luas dan volume",
+      "D": "Luas dan tegangan",
+      "E": "Tinggi dan kecepatan"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pada pengukuran panjang benda, diperoleh hasil pengukuran 0,07060 m. Banyaknya angka penting hasil pengukuran tersebut adalah ....",
+    "opsi": {
+      "A": "Dua",
+      "B": "Tiga",
+      "C": "Empat",
+      "D": "Lima",
+      "E": "Enam"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Luas suatu bujur sangkar adalah 26,5 cm2, maka panjang salah satu sisinya adalah ....",
+    "opsi": {
+      "A": "5,1478 cm",
+      "B": "5,148 cm",
+      "C": "5,15 cm",
+      "D": "5,2 cm",
+      "E": "5,1 cm"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Diketahui sebuah tanah berbentuk persegi panjang dengan panjang 5,125 m dan lebar 2.8 m. Angka penting yang terdapat dalam hasil pengukuran luas tanah tersebut adalah ....",
+    "opsi": {
+      "A": "2 AP",
+      "B": "3 AP",
+      "C": "4 AP",
+      "D": "5 AP",
+      "E": "6 AP"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Budi berjalan ke barat sejauh 50 m lalu berbalik arah ke timur sejauh 10 m. Jarak dan perpindahan yang ditempuh Budi adalah ...",
+    "opsi": {
+      "A": "60 m dan 40 m",
+      "B": "60 m dan 60 m",
+      "C": "50 m dan 10 m",
+      "D": "40 m dan 40 m",
+      "E": "10 m dan 50 m"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Andi berlari sejauh 50 m ke barat selama 15 sekon lalu berbalik arah ke timur sejauh 10 m selama 5 sekon. Kecepatan rata-rata Andi adalah ....",
+    "opsi": {
+      "A": "2 m/s",
+      "B": "10 m/s",
+      "C": "20 m/s",
+      "D": "30 m/s",
+      "E": "50 m/s"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Ari pergi ke sekolah naik sepeda. Jarak dari rumah ke sekolah 2 km dan kecepatan sepedanya konstan sebesar 4 m/s. Jika pelajaran dimulai pukul 07.00, paling lambat Ari harus berangkat dari rumah pukul ....",
+    "opsi": {
+      "A": "06.55",
+      "B": "06.54",
+      "C": "06.51",
+      "D": "06.45",
+      "E": "06.30"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Seseorang berjalan sejauh 60 m ke timur dalam waktu 60 s, kemudian 20 m ke barat dalam waktu 40 s. Kelajuan rata-rata dan kecepatan rata-rata orang tersebut adalah ....",
+    "opsi": {
+      "A": "0,2 m/s dan 0,8 m/s ke timur",
+      "B": "0,8 m/s dan 0,2 m/s ke barat",
+      "C": "0,3 m/s dan 0,4 m/s ke timur",
+      "D": "0,8 m/s dan 0,4 m/s ke timur",
+      "E": "0,4 m/s dan 0,8 m/s ke barat"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Besaran yang menyebabkan benda dapat melakukan gerak rotasi adalah ....",
+    "opsi": {
+      "A": "Momentum sudut",
+      "B": "Percepatan sudut",
+      "C": "Momen inersia",
+      "D": "Momen gaya",
+      "E": "Gaya gesek"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pernyataan tentang faktor-faktor gerak rotasi\n1) kecepatan sudut\n2) letak sumbu rotasi\n3) bentuk benda\n4) massa benda\n\nFaktor-faktor yang mempengaruhi besar momen inersia adalah .....",
+    "opsi": {
+      "A": "1 dan 3",
+      "B": "2 dan 4",
+      "C": "1,2 dan 3",
+      "D": "1,2 dan 4",
+      "E": "1,2,3 dan 4"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Beberapa penerapan Hukum kekekalan momen tum sudut adalah sebagai berikut .....\n1) Seorang peluncur es yang sedang bergerak dan tiba-tiba berpegangan pada tiang mengakibatkan ia berotasi pada tiang menjadi lambat.\n2) Penari balet dalm berputar dapat bergerak cepat bila kedua tangan didekapkan pada kedua bahu.\n3) Peloncat indah dapat bergerak dengan putaran cepat bila kedua tangan dan kaki ditekuk\n\nPernyataan yang benar adalah .....",
+    "opsi": {
+      "A": "3 saja",
+      "B": "1 dan 2",
+      "C": "1 dan 3",
+      "D": "2 dan 3",
+      "E": "1,2 dan 3"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Perhatikanlah penyataan – pernyataan berikut!\n(1) Benda akan mengalami kesetimbangan pada saat jumlah gaya -gaya yang bekerja sama dengan nol\n(2) Kesetimbangan terjadi pada saat tidak ada gaya yang bekerja\n(3) Benda yang bergerak lurus beraturan mengalami kesetimbangan dinamis\n(4) Benda yang bergerak tidak mungkin mengalami kesetimbangan\n\nPernyataan yang sesuai dengan konsep kesetimbangan adalah .....",
+    "opsi": {
+      "A": "(1), (2), dan (3)",
+      "B": "(1) dan (3)",
+      "C": "(2) dan (4)",
+      "D": "(4) saja",
+      "E": "(1), (2), (3), dan (4)"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Faktor yang menentukan tekanan zat cair adalah .....",
+    "opsi": {
+      "A": "Massa jenis zat cair",
+      "B": "massa jenis dan volume zat cair",
+      "C": "Volume dan kedalaman zat cair",
+      "D": "massa jenis dan kedalaman zat cair",
+      "E": "massa jenis, volume , dan kedalaman zat cair"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Besarnya gaya yang bekerja tiap satu satuan luas penampang disebut .....",
+    "opsi": {
+      "A": "Regangan",
+      "B": "Tegangan",
+      "C": "Elastis",
+      "D": "Gaya Pegas",
+      "E": "Modulus Young"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Benda berikut yang tidak elastis adalah .....",
+    "opsi": {
+      "A": "karet",
+      "B": "pegas",
+      "C": "besi",
+      "D": "penggaris plastik",
+      "E": "palstisin"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Pernyataan yang tepat mengenai benda elastis adalah .....",
+    "opsi": {
+      "A": "pegas jika diberikan gaya sebesar apapun akan kembali ke bentuk semula",
+      "B": "karet jika diberikan gaya sebesar apapun akan kembali ke bentuk semula",
+      "C": "besi termasuk benda elastis karena besi akan berubah ke bentuk semula jika gaya luar dihilangkan",
+      "D": "semua jenis logam termasuk plastis karena akan berubah ke bentuk jika diberikan gaya",
+      "E": "pegas termasuk benda plastis"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah pegas dengan panjang mula-mula 10 cm kemudian diberi beban ternyata panjangnya menjadi 12 cm. Besarnya regangan adalah .....",
+    "opsi": {
+      "A": "0,2",
+      "B": "1,2",
+      "C": "2",
+      "D": "12",
+      "E": "20"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Jika sebuah benda dimasukkan ke dalam fluida seluruhnya atau sebagian, benda tersebut akan mendapat gaya angkat ke atas sebesar berat fluida yang dipindahkan. Pernyataan ini disebut hukum .....",
+    "opsi": {
+      "A": "Pascal",
+      "B": "Archimedes",
+      "C": "Bernoulli",
+      "D": "Utama Hidrostatik",
+      "E": "Joule"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Jika 100 gram air bersuhu 80 ⁰C dicampur dengan 200 gram air bersuhu 40 ⁰C (kalor jenis air 1 kalori/gram ⁰C pada suatu wadah yang tidak menyerap kalor, maka suhu akhir campuran adalah .....",
+    "opsi": {
+      "A": "48,2 ⁰C",
+      "B": "53,5 ⁰C",
+      "C": "67,4 ⁰C",
+      "D": "72,3 ⁰C",
+      "E": "82,4 ⁰C"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut alat yang merupakan penerapan hukum Archimedes, kecuali .....",
+    "opsi": {
+      "A": "Kapal laut",
+      "B": "Galangan kapal",
+      "C": "Balon Udara",
+      "D": "Hidrometer",
+      "E": "Semprot obat nyamuk"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Apabila suatu fluida zat cair dalam ruang terisolasi diberi gaya tekan dari luar, maka tekanan tersebut akan diteruskan kesegala arah dan sama besar. Pernyataan tersebut adalah bunyi .....",
+    "opsi": {
+      "A": "Hukum Archimedes",
+      "B": "Hukum Newton",
+      "C": "Hukum Hooke",
+      "D": "Hukum Pascal",
+      "E": "Asas Bernoulli"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Dongkrak Hidrolik dibuat dengan menerapkan .....",
+    "opsi": {
+      "A": "Hukum hidrostatis",
+      "B": "Hukum Archimedes",
+      "C": "Hukum Pascal",
+      "D": "Hukum Hooke",
+      "E": "Hukum grafitas"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Bila massa jenis benda lebih ringan dari massa jenis air, maka benda akan mengalami .....",
+    "opsi": {
+      "A": "Terapung",
+      "B": "Melayang",
+      "C": "Tenggelam",
+      "D": "Terbang",
+      "E": "Tertanam"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Fluida adalah .....",
+    "opsi": {
+      "A": "Zat yang mengalir",
+      "B": "Zat yang menguap",
+      "C": "Zat yang mencair",
+      "D": "Zat yang membeku",
+      "E": "Zat yang padat"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Ciri fluida ideal adalah .....",
+    "opsi": {
+      "A": "Alirannya tanah",
+      "B": "Alirannya turbulen",
+      "C": "Alirannya rotasional",
+      "D": "Kompresibel",
+      "E": "Tidak kental"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Serangga dapat berjalan di permukaan air karena .....",
+    "opsi": {
+      "A": "Berat jenis serangga lebih kecil dari permukaan air",
+      "B": "berat jenis serangga sama dengan air",
+      "C": "adanya tegangan permukaan air",
+      "D": "berat jenis serangga lebih besar dari air",
+      "E": "adanya gaya apung Archimede"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Suatu pipa mengalirkan air dengan debit 0,2 m³/s. Massa air yang keluar dari pipa tersebut selama 20 s adalah .....",
+    "opsi": {
+      "A": "1000 KG",
+      "B": "500 KG",
+      "C": "4000 KG",
+      "D": "200 KG",
+      "E": "100 KG"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Termometer Celcius dan Reamur digunakan untuk mengukur suhu suatu benda ternyata jumlah skala yang ditunjukkan oleh kedua termometer = 90⁰. Berapa ⁰C dan ⁰R suhu benda tersebut?",
+    "opsi": {
+      "A": "100 ⁰X",
+      "B": "130 ⁰X",
+      "C": "162 ⁰X",
+      "D": "195 ⁰X",
+      "E": "192 ⁰X"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Mengapa setiap rel kereta api dibuat rebih renggang ?",
+    "opsi": {
+      "A": "Agar udara bisa masuk",
+      "B": "Agar tidak berkarat",
+      "C": "Agar tidak rusak ketika terjadi pemuaian",
+      "D": "Agar listrik dari kereta terputus",
+      "E": "Agar lebih kuat ketika digunakan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah benda yang terbuat dari baja memiliki panjang 1500 cm. Berapakah perubahan panjang baja itu jika terjadi perubahan suhu sebesar 50 ⁰C ?",
+    "opsi": {
+      "A": "90 cm",
+      "B": "50 cm",
+      "C": "40 cm",
+      "D": "60 cm",
+      "E": "80 cm"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah bejana memiliki volume 3 liter pada suhu 25 ⁰C jika koefisien muai panjang sebuah bejana adalah 2 x 10⁻⁵ ⁰C. Maka panjang bejana pada suhu 75 ⁰C adalah .....",
+    "opsi": {
+      "A": "1 liter",
+      "B": "3,0003 Liter",
+      "C": "3,006 liter",
+      "D": "2,0005 liter",
+      "E": "3,03 liter"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pakaian berwarna hitam lebih cepat kering daripada pakaian berwarna putih karena .....",
+    "opsi": {
+      "A": "Warna hitam lebih banyak memantulkan panas",
+      "B": "Warna hitam lebih banyak menyerap panas",
+      "C": "biasanya baju hitam lebih tebal dari baju berwarna putih",
+      "D": "baju hitam biasanya lebih tipis dari baju putih",
+      "E": "Warna hitam lebih banyak memantulkan sinar mata hari"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Perpindahan kalor yang disertai perpindahan partikel zat disebut .....",
+    "opsi": {
+      "A": "Radiasi",
+      "B": "Kunduksi",
+      "C": "Konveksi",
+      "D": "Induksi",
+      "E": "Semuanya benar"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pada system gambar diketahui mA= 8 kg, mB= 5 kg. Massa katrol = 4 kg dan g= 10 ms⁻². Katrol merupakan silinder pejal dan bergerak rotasi. Maka percepatan system adalah .....",
+    "opsi": {
+      "A": "8,0 ms⁻²",
+      "B": "4,0 ms⁻²",
+      "C": "5,0 ms⁻²",
+      "D": "2,0 ms⁻²",
+      "E": "1,0 ms⁻²"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Debit air yang keluar dari pipa yang luas penampangnya 4cm² sebesar 100 cm³/s. Kecepatan air yang keluar dari pipa tersebut adalah ....",
+    "opsi": {
+      "A": "25 m/s",
+      "B": "2,5 m/s",
+      "C": "0,25 m/s",
+      "D": "4 m/s",
+      "E": "0,4 m/s"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sesuai dengan hukum Archimedes, maka benda yang melayang dalam zat cair mempunyai .....",
+    "opsi": {
+      "A": "massa yang sama dengan gaya ke atas",
+      "B": "berat yang lebih besar dari gaya ke atas",
+      "C": "massa jenis yang lebih besar dari massa jenis zat cair",
+      "D": "massa yang lebih besar dari gaya ke atas",
+      "E": "berat yang sama dengan gaya ke atas"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Sebuah partikel mempunyai massa 0,25 kg, melakukan gerak orbital dan memiliki momen inersia sebesar 9,0 x 10⁻² kg.m². Jari-jari lintasan partikel adalah .....",
+    "opsi": {
+      "A": "60 cm",
+      "B": "36 cm",
+      "C": "6,0 cm",
+      "D": "3,6 cm",
+      "E": "0,6 cm"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Momen inersia sebuah benda yang berputar tergantung pada .....",
+    "opsi": {
+      "A": "Percepatan anguler benda",
+      "B": "Momen gaya yang bekerja pada benda",
+      "C": "Massa benda",
+      "D": "Letak sumbu putar dan massa benda",
+      "E": "Letak sumbu putar"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Gaya Archimedes yang bekerja pada benda saat dimasukkan ke dalam fluida ditentukan oleh .....",
+    "opsi": {
+      "A": "massa benda dan keadaan benda di cairan",
+      "B": "volume benda dan keadaan benda di cairan",
+      "C": "volume benda dan massa jenis benda",
+      "D": "massa benda dan massa jenis",
+      "E": "kecepatan dan volume benda"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Tekanan hidrostatik yang dialami suatu titik besarnya bergnatung pada .....",
+    "opsi": {
+      "A": "Volume, gaya dan massa benda",
+      "B": "Tekanan, gaya dan luas bidang",
+      "C": "Tekanan dan vokume",
+      "D": "Gaya dan massa benda",
+      "E": "Volume, massa dan gaya"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kekentalan zat cair dapat disebut pula dengan .....",
+    "opsi": {
+      "A": "Miniskus",
+      "B": "Kapilaritas",
+      "C": "Konstanta air",
+      "D": "Tegangan permukaan",
+      "E": "Viskositas"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Pernyataan-pernyataan yang benar tentang titik berat, kecuali .....",
+    "opsi": {
+      "A": "Titik kumpul gaya berat",
+      "B": "Pusat massa benda",
+      "C": "Selalu berada di tengah-tengah benda",
+      "D": "Benda setimbang bila diletakkan di titik berat",
+      "E": "Benda berbentuk simetris, titik beratnya berada ditengah-tengah benda"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah benda bermassa 2 kg digantungkan pada sebuah pegas sehingga pegas tersebut betambah panjang 5 cm. Konstanta pegas tersebut adalah ..... N/m (g = 10 m/s²)",
+    "opsi": {
+      "A": "10",
+      "B": "100",
+      "C": "40",
+      "D": "400",
+      "E": "4000"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Energi kinetik rotasi suatu benda tegar tergantung pada .....",
+    "opsi": {
+      "A": "Kecepatan sudut",
+      "B": "Massa benda",
+      "C": "Bentuk benda",
+      "D": "Letak sumbu putar",
+      "E": "Semua benar"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Dalam waktu 2 sekon sebuah sebuah roda yang berotasi murni,mengalami perubahan kecepatan dari 4 rad/s menjadi 10 rad/ s secara berurutan. Sebuah titik terletak 30 cm dari poros roda. Besar percepatan tangensial yang dialami titik tersebut adalah ..... m/s²",
+    "opsi": {
+      "A": "240",
+      "B": "0,9",
+      "C": "2,4",
+      "D": "4,24",
+      "E": "9"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah gas ideal mengalami proses isokhorik seingga ....",
+    "opsi": {
+      "A": "semua molekul kecepatanya sama.",
+      "B": "tidak memiliki energi dalam",
+      "C": "tekanan gas menjadi tetap",
+      "D": "gas tidak melakukan usaha.",
+      "E": "pada suhu tinggi kecepatan rata-rata molekul lebih besar"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Jika kalor sebanyak 4500 joule ditambahkan pada sistem dan sistem melakukan usaha sebesar 4000 joule pasda lingkungan, maka hitunglah perubahan energi dalam sistem ....",
+    "opsi": {
+      "A": "8500 J",
+      "B": "500 J",
+      "C": "-500 J",
+      "D": "-4500 J",
+      "E": "-8500 J"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah mesin carnot mempunyai efisiensi 30% dengan tempratur reservoir suhu tinggi sebesar 750 K. Jika diinginkan efesiensi mesin naik menjadi 50% maka temperatur reservoir suhu tinggi harus dinaikan menjadi?",
+    "opsi": {
+      "A": "1050 K",
+      "B": "1000 K",
+      "C": "950 K",
+      "D": "900 K",
+      "E": "850 K"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Dua buah gabus terapung di permukaan air laut dan berjarak 1,5 m satu sama lain. Kedua gabus berada di puncak gelombang dan diantara kedua gabus terdapat dua puncak gelombang. Jika frekuensi gelombang adalah 10 Hz, kecepatan dan panjang gelombang berturut-turut adlah.....",
+    "opsi": {
+      "A": "10 m/s dan 5 m",
+      "B": "10 m/s dan 1,5 m",
+      "C": "10 m/s dan 0,5 m",
+      "D": "5 m/s dan 1,5 m",
+      "E": "5 m/s dan 0,5 m"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Seutas tali yang panjangnya 7 m diikat salah satu ujungnya pada suatu dinding dan ujung lainnya digetarkan secara teratur sehingga terbentuk 8 simpul gelombang staioner. Letak simpul ke-5 dari ujung pantul adalah.....",
+    "opsi": {
+      "A": "5,0 m",
+      "B": "4,0 m",
+      "C": "3,0 m",
+      "D": "2,5 m",
+      "E": "2,0 m"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Seutas tali yang panjangnya 3 m, salah satu ujungnya dibiarkan bebas pada suatu tiang dan ujung lainnya digetarkan secara teratur sehingga terbentuk 8 perut gelombang stasioner. Letak simpul ketiga dari sumber getar adalah.....",
+    "opsi": {
+      "A": "2,5 m",
+      "B": "2,0 m",
+      "C": "1,5 m",
+      "D": "1,0 m",
+      "E": "0,5 m"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sifat umum dari gelombang antara lain :\n\n(1) mengalami difraksi\n\n(2) tidak dapat merambat dalam ruang hampa\n\n(3) bergerak lurus jika melewati dua medium yang berbeda\n\n(4) megalami refleksi\n\n(5) dapat mengalami polarisasi\n\nDari pernyataan di atas, sifat yang sesuai dengan ciri-ciri gelombang bunyi adalah ....",
+    "opsi": {
+      "A": "(1) dan (2)",
+      "B": "(1), (2), dan (3)",
+      "C": "(1), (2), dan (4)",
+      "D": "(1), (3), dan (4)",
+      "E": "(1), (4), dan (5)"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Seutas dawai panjangnya 80 cm, massanya 0,016 kg, dan teganganya 800 N. Frekuensi nada dasar yang dihasilkan adalah ....",
+    "opsi": {
+      "A": "100 Hz",
+      "B": "125 Hz",
+      "C": "200 Hz",
+      "D": "300 Hz",
+      "E": "350 HZ"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah pipa organa terbuka memiliki frakuensi nada atas ketiga sama dengan frkuensi nada dasar sebuah pipa organa tertutup bila ditutup pada suhu yang sama. Perbandingan panjang pipa organa terbuka dan tertutup itu adalah ....",
+    "opsi": {
+      "A": "1 : 2",
+      "B": "4 : 1",
+      "C": "1 : 4",
+      "D": "6 : 1",
+      "E": "1 : 6"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Titik P dan Q berjarak masing-masing 10 m daan 100 m dari sumber ledakan. Detektor dipasang pada kedua titik tersebut. Daerah P menerima ledakan deengan intesitas 10-3 watt/m2. Jika intesitas ambang pendengaran 10-12 watt/m2, maka perbandingan taraf intesitas yang ditunjukan kedua detektor tersebut adalah ....",
+    "opsi": {
+      "A": "9 : 7",
+      "B": "9 : 8",
+      "C": "7 : 3",
+      "D": "7 : 9",
+      "E": "3 : 2"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Seseorang mengendarai sepeda motor dengan kecepatan 54 km/jam. Sebuah mobil abulan sambil membunyikan sirine 1800 Hz melaju dengan kecepatan 72 km/jam di depan pengendara sepeda motor dengan arah yang sama. Jika cepat rambat bunyi di udara 340 m/s, maka frekuensi bunyi sirine yang didengar oleh pengendara sepeda motor adalah ....",
+    "opsi": {
+      "A": "1892 Hz",
+      "B": "1848 Hz",
+      "C": "1820 Hz",
+      "D": "1775 Hz",
+      "E": "1700 Hz"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Seberapa besar gaya yang diberikan untuk memutar suatu benda terhadap suatu poros tertentu disebut\n...",
+    "opsi": {
+      "A": "benda tegar",
+      "B": "momen gaya (torsi)",
+      "C": "momen inersia",
+      "D": "momentum sudut",
+      "E": "Lengan momen"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Penyebab dari gerak rotasi adalah …..",
+    "opsi": {
+      "A": "Momen Inersia",
+      "B": "Momentum anguler",
+      "C": "Momen Gaya",
+      "D": "Momen Linier",
+      "E": "Gaya"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Ukuran besarnya kecendrungan berotasi yang ditentukan oleh keadaan benda atau partikel penyusunnya adalah ...",
+    "opsi": {
+      "A": "Momen gaya",
+      "B": "Hukum Newton",
+      "C": "Momen Inersia",
+      "D": "Hukum Momentum Sudut",
+      "E": "Momentum Sudut"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Titik berat sebuah segitiga sama kaki adalah ...",
+    "opsi": {
+      "A": "½ tunggi dari alas",
+      "B": "2/3 tnggi dari alas",
+      "C": "¾ tinggi dari alas",
+      "D": "1/3 tinggi dari alas",
+      "E": "¼ tinggi dari alas"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Titik berat bidang setengah lingkaran adalah ...",
+    "opsi": {
+      "A": "yo = 4R/3",
+      "B": "yo = 3/8 R",
+      "C": "1/4 Rπ",
+      "D": "yo = 2/3 R",
+      "E": "4R/3π"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Berikut ini contoh aplikasi torsi dalam kehidupan sehari-hari, kecuali..",
+    "opsi": {
+      "A": "Kincir yang berputar karena tertiup angin",
+      "B": "Membuka baut dengan kunci inggris",
+      "C": "Knop pintu ketika dibuka",
+      "D": "Mendorong mobil yang mogok",
+      "E": "Semua Salah"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Apa definisi dari momentum?",
+    "opsi": {
+      "A": "Ukuran kecepatan sebuah benda bergerak",
+      "B": "Ukuran sebuah benda dapat bergerak",
+      "C": "Ukuran kesukaran benda untuk berhenti",
+      "D": "Ukuran kemalasan sebuah benda",
+      "E": "Ukuran kelembaban sebuah benda"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah bola bermassa 0,1 kg dipukul dari keadaan diam hingga meluncur dengan kecepatan 50 m/s. Jika waktu kontak antara pemukul dan bola adalah 0,2 s, besarnya gaya yang dikerjakan pemukul tersebut adalah...",
+    "opsi": {
+      "A": "20 N",
+      "B": "25 N",
+      "C": "30 N",
+      "D": "35 N",
+      "E": "40 N"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Satuan dari momen gaya adalah ....",
+    "opsi": {
+      "A": "N/m",
+      "B": "N/m2",
+      "C": "Nm",
+      "D": "Nm2"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah benda meluncur di atas papan kasar sejauh 7 m. Jika benda mendapatkan gesekan dengan papan sebesar 120 N, tentukan besarnya usaha yang dilakukan gaya gesek tersebut!",
+    "opsi": {
+      "A": "840 J",
+      "B": "-840 J",
+      "C": "480 J",
+      "D": "-480 J",
+      "E": "-84 J"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Air terjun setinggi 20 m dengan debit 50 m3/s dimanfaatkan untuk menggerakkan turbin PLTA. Jika 25% energi air dapat diubah menjadi energi listrik dan massa jenis air 1.000 kg/m3, tentukan daya keluaran generatornya!",
+    "opsi": {
+      "A": "50 J",
+      "B": "500 J",
+      "C": "5000 J",
+      "D": "5 J",
+      "E": "50000 J"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Sebuah mangga yang massanya 0.5 kg menggantung pada tangkainya dan berada 40 m dari pemukaan tanah. Hitung usaha yang dilakukan mangga jika mangga jatuh bebas dari tangkainya !",
+    "opsi": {
+      "A": "2000 J",
+      "B": "20 J",
+      "C": "2 J",
+      "D": "200 J",
+      "E": "20000 J"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah TV dinyalakan rata-rata 6 jam dalam sehari, TV tersebut dihubungkan pada tegangan 220 V dan menarik arus 2,5 A. Jika biaya listrik per kWh sebesar Rp100,00, maka biaya tagihan listrik untuk pemakaian TV selama 30 hari adalah ….",
+    "opsi": {
+      "A": "Rp8.900,00",
+      "B": "Rp9.900,00",
+      "C": "Rp7.900,00",
+      "D": "Rp6.900,00",
+      "E": "Rp11.900,00"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pernyataan yang tidak tepat mengenai listrik arus searah di bawah ini adalah ….",
+    "opsi": {
+      "A": "ammeter ideal memiliki hambatan dalam mendekati 0",
+      "B": "voltmeter ideal memiliki hambatan dalam mendekati tidak berhingga",
+      "C": "beda potensial antara terminal baterai selalu berbeda dengan nilai GGL baterai",
+      "D": "GGL baterai akan sama dengan beda potensial ketika tidak ada arus yang melalui hambatan dalam baterai",
+      "E": "sumber arus ideal memiliki hambatan dalam tak hingga"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah partikel bermuatan positif q = 2C bergerak dalam medan magnet homogen B = 20T dengan kecepatan v = 3000 m/s dengan arah yang tegak lurus dengan medan magnet. Gaya Lorentz yang dialami partikel ini sebesar ….",
+    "opsi": {
+      "A": "12 N",
+      "B": "1,2 N",
+      "C": "0,12 N",
+      "D": "0,012 N",
+      "E": "120 N"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah rangkaian listrik dengan sumber tegangan V memiliki kuat arus 6 A. Jika hambatan dibuat tetap, sedangkan sumber tegangan dinaikkan menjadi 2V, maka kuat arus akan menjadi…",
+    "opsi": {
+      "A": "12 A",
+      "B": "3 A",
+      "C": "1,5 A",
+      "D": "24 A",
+      "E": "Tidak berubah"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan berikut!\n\nMenyala lebih terang\nMenyala lebih redup\nJika salah satu lampu dicabut, lampu lain tetap menyala\nJika salah satu lampu dicabut, lampu lainnya mati\nTerdapat dua buah rangkaian berbeda yang dihubungkan ke sebuah baterai dengan nilai tegangan yang sama. Pada rangkaian pertama, lampu A-B-C dipasang secara paralel sedangkan pada rangkaian kedua lampu D-E-F dipasang secara seri. Sifat di atas yang merupakan sifat rangkaian lampu A-B-C jika dibandingkan dengan lampu D-E-F adalah…",
+    "opsi": {
+      "A": "1 dan 3",
+      "B": "2 dan 4",
+      "C": "1 dan 4",
+      "D": "2 dan 3",
+      "E": "Tidak ada yang benar"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah lampu memiliki spesifikasi 20 W, 220 V. Jika lampu dipasang pada tegangan 110 V, maka energi listrik yang terpakai dalam 1 jam adalah…",
+    "opsi": {
+      "A": "72 kJ",
+      "B": "36 kJ",
+      "C": "44 kJ",
+      "D": "22 kJ",
+      "E": "18 kJ"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Terdapat dua buah muatan dengan muatan masing-masing +3 µC dan -3 µC. Kedua muatan terpisah sejauh 3 cm. Besar dan jenis gaya Coulomb antara kedua muatan tersebut adalah…",
+    "opsi": {
+      "A": "90 N dan tolak menolak",
+      "B": "90 N dan tarik menarik",
+      "C": "2.700 N dan tolak menolak",
+      "D": "2.700 N dan tarik menarik",
+      "E": "Tidak ada jawaban yang benar"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Dua buah muatan yang memiliki jarak R memiliki gaya Coulomb sebesar F. Jika jarak kedua muatan diubah menjadi 2R, gaya Coulomb antara kedua muatan tersebut menjadi…",
+    "opsi": {
+      "A": "2F",
+      "B": "F/2",
+      "C": "4F",
+      "D": "F/4",
+      "E": "Tidak berubah"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Terdapat rangkaian dengan dua buah kapasitor yang disusun seri. Jika kapasitansi kapasitor masing-masing adalah 6 μF dan 12 μF dan beda potensial rangkaian adalah 220 V, energi yang tersimpan adalah…",
+    "opsi": {
+      "A": "440,0 mJ",
+      "B": "220,0 mJ",
+      "C": "110,2 mJ",
+      "D": "96.8 mJ",
+      "E": "55,1 mJ"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pernyataan di bawah ini yang bukan sifat gelombang elektromagnetik adalah … .",
+    "opsi": {
+      "A": "Merupakan gelombang longitudinal",
+      "B": "Mengalami polarisasi",
+      "C": "Dapat merambat dalam ruang hampa",
+      "D": "Merambat pada medan magnet dan medan listrik",
+      "E": "Arah getar dan arah rambat tegak lurus"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Yang bukan merupakan sifat gelombang elektromagnetik adalah … .",
+    "opsi": {
+      "A": "Memerlukan medium",
+      "B": "Tidak menyimpang dalam medan magnet",
+      "C": "Arah getarannya tegak lurus arah rambat",
+      "D": "Dapat dipantulkan dan dibiaskan",
+      "E": "Dapat menunjukkan gejala polarisasi"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Urutan jenis gelombang elektromagnetik dari frekuensi besar ke kecil adalah … .",
+    "opsi": {
+      "A": "Gelombang radio, inframerah, cahaya tampak, sinar x",
+      "B": "Sinar gamma, ultraviolet, inframerah, gelombang mikro",
+      "C": "Sinar gamma, inframerah, ultraviolet, gelombang radio",
+      "D": "Gelombang radio, cahaya tampak, ultraviolet, sinar x",
+      "E": "Gelombang mikro, cahaya tampak, inframerah, sinar x"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Gelombang elektromagnetik dengan periode 10^-15 sekon (cepat rambat dalam ruang hampa 3 x 10^8 m/s) merupakan … .",
+    "opsi": {
+      "A": "Gelombang radio dan televisi",
+      "B": "Gelombang mikro",
+      "C": "Sinar inframerah",
+      "D": "Cahaya tampak",
+      "E": "Sinar ultraviolet"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Gelombang elektromagnetik yang mempunyai daerah frekuensi 10^4 Hz sampai 10^7 Hz adalah … .",
+    "opsi": {
+      "A": "Gelombang mikro",
+      "B": "Gelombang radio",
+      "C": "Gelombang tampak",
+      "D": "Sinar inframerah",
+      "E": "Sinar gamma"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Gelombang elektromagnetik merambat dalam ruang hampa dengan kecepatan 3 x 10^8 m/s. Apabila frekuensi gelombang tersebut 20 MHz, maka panjang gelombangnya adalah … .",
+    "opsi": {
+      "A": "5 m",
+      "B": "10 m",
+      "C": "15 m",
+      "D": "20 m",
+      "E": "25 m"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Seorang siswa menyusun spektrum gelombang elektromagnetik dari panjang gelombang terbesar sebagai berikut:\n1. Inframerah\n2. Ultraviolet\n3. Gelombang televisi\n4. Cahaya tampak\n\nUrutan spektrum yang benar seharusnya … .",
+    "opsi": {
+      "A": "1,4,3,2",
+      "B": "3,1,4,2",
+      "C": "3,2,1,4",
+      "D": "3,2,4,1",
+      "E": "4,1,2,3"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kegunaan sinar inframerah dalam kehidupan sehari-hari adalah … .",
+    "opsi": {
+      "A": "Memasak makanan",
+      "B": "Pemancar radio FM",
+      "C": "Remote control",
+      "D": "Foto tempat-tempat yang mengalami polusi",
+      "E": "Menghitung luas hutan dengan bantuan foto"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kegunaan sinar ultraviolet dalam kehidupan sehari-hari adalah … .",
+    "opsi": {
+      "A": "Mengobati kanker",
+      "B": "Foto jaringan pada tubuh",
+      "C": "Pemancar radio FM",
+      "D": "Fotosintesis pada tanaman",
+      "E": "Remote control"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Selang waktu yang digunakan pesawat radar untuk menangkap sinyal adalah 0,4 sekon. jarak antara pesawat radar dan sasaran yang dituju oleh pesawat tersebut adalah … .",
+    "opsi": {
+      "A": "2 x 10^5 m",
+      "B": "3 x 10^5 m",
+      "C": "4 x 10^7 m",
+      "D": "5 x 10^8 m",
+      "E": "6 x 10^7 m"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Radar adalah gelombang elektromagnetik yang bermanfaat untuk … .",
+    "opsi": {
+      "A": "Memeriksa cacat pada logam",
+      "B": "Membunuh sel-sel kanker",
+      "C": "Mendeteksi posisi keberadaan pesawat terbang",
+      "D": "Mendeteksi keaslian uang kertas",
+      "E": "Mensterilkan alat kedokteran"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kegunaan sinar x dalam kehidupan manusia adalah … .",
+    "opsi": {
+      "A": "Membunuh sel-sel kanker",
+      "B": "Menganalisis struktur kristal",
+      "C": "Membawa informasi alat komunikasi",
+      "D": "Sebagai remote control TV",
+      "E": "Mendeteksi keaslian uang kertas"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pemanfaatan gelombang elektromagnetik dalam pengobatan memiliki efek menyembuhkan dan dapat merusak. Jenis gelombang elektromagnetik yang energinya paling besar sehingga dapat merusak jaringan sel manusia adalah … .",
+    "opsi": {
+      "A": "Inframerah",
+      "B": "Gelombang mikro",
+      "C": "Sinar gamma",
+      "D": "Ultraviolet",
+      "E": "Cahaya tampak"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sinar gamma merupakan gelombang elektromagnetik yang sangat berbahaya pada makhluk hidup, karena sinar gamma dapat menyebabkan … .",
+    "opsi": {
+      "A": "Kanker dan mandul",
+      "B": "Kebakaran hutan",
+      "C": "Mengubah struktur genetik sel tubuh",
+      "D": "Pemanasan global",
+      "E": "Fermentasi pada klorofil"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Jenis gelombang elektromagnetik yang dapat menyebabkan terjadinya kanker kulit adalah … .",
+    "opsi": {
+      "A": "Inframerah",
+      "B": "Sinar x",
+      "C": "Sinar gamma",
+      "D": "Ultraviolet",
+      "E": "Cahaya tampak"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah jembatan panjangnya 100 meter, berapakah panjang jembatan jika diamati oleh orang yang berada dalam pesawat yang bergerak dengan kecepatan 0,6 c ?",
+    "opsi": {
+      "A": "40 meter",
+      "B": "50 meter",
+      "C": "55 meter",
+      "D": "60 meter",
+      "E": "80 meter"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Seorang pengamat di stasiun ruang angkasa mengamati adanya dua pesawat antariksa A dan B yang datang menuju stasiun tersebut dari arah yang berlawanan dengan laju vA = vB = ¾ c (c adalah cepat rambat cahaya). Kelajuan pesawat A menurut pilot pesawat B adalah…",
+    "opsi": {
+      "A": "9/16 c",
+      "B": "8/9 c",
+      "C": "24/25 c",
+      "D": "4/3 c",
+      "E": "3/2 c"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah pesawat antariksa bergerak menjauhi bumi dengan laju 0,9 c sambil menembakkan robot searah dengan arah gerak pesawat. Robot bergerak dengan laju 0,7 c realtif terhadap pesawat. Berapakah laju relatif robot terhadap bumi …",
+    "opsi": {
+      "A": "0,83 c",
+      "B": "0,87 c",
+      "C": "0,93 c",
+      "D": "0,95 c",
+      "E": "0,98 c"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Dari besaran-besaran di bawah ini, yang nilainya selalu sama untuk kerangka acuan pengamatan adalah … .",
+    "opsi": {
+      "A": "energi kinetik",
+      "B": "momentum",
+      "C": "laju cahaya",
+      "D": "kecepatan",
+      "E": "kelajuan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah roket waktu diam di bumi mempunyai panjang 100 m. Roket tersebut bergerak dengan kecepatan 0,8 c (c = kecepatan cahaya dalam vakum). Menurut orang di bumi, panjang roket tersebut selama bergerak adalah (dibulatkan)…",
+    "opsi": {
+      "A": "50 m",
+      "B": "60 m",
+      "C": "70 m",
+      "D": "80 m",
+      "E": "100 m"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Panjang benda diukur saat bergerak menyusut 20 cm dari panjangnya saat diukur dalam keadaan diam. Bila panjang benda diukur dalam keadaan diam panjangnya 1 m dan c = kecepatan cahaya, maka kecepatan gerak benda tersebut adalah…",
+    "opsi": {
+      "A": "0,2 c",
+      "B": "0,3 c",
+      "C": "0,4 c",
+      "D": "0,6 c",
+      "E": "0,8 c"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah pesawat antariksa melewati bumi dengan kelajuan 0,6 c. Menurut penumpang pesawat panjang pesawat L, maka menurut orang di bumi panjang pesawat adalah …",
+    "opsi": {
+      "A": "0,2 L",
+      "B": "0,1 L",
+      "C": "0,8 L",
+      "D": "0,6 L",
+      "E": "0,4 L"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Seorang astronot yang memiliki saudara kembar pergi ke ruang angkasa pada umur 32 tahun menggunakan pesawat luar angkasa yang melaju dengan kecepatan hingga mencapai 80% kecepatan cahaya. Astronot tersebut kembali ke bumi dan pada saat itu saudara kembarnya sudah berumur 44 tahun. Berapakah umur saudara kembarnya menurut astronot yang baru kembali ke bumi … .",
+    "opsi": {
+      "A": "32,2 tahun",
+      "B": "36,2 tahun",
+      "C": "37,2 tahun",
+      "D": "39,2 tahun",
+      "E": "41,2 tahun"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Suatu peristiwa terjadi selama 3 s menurut pengamat yang bergerak menjauhi peristiwa itu dengan kecepatan 0,8 c (c = kecepatan cahaya). Menurut pengamat yang diam, peristiwa itu terjadi dalam selang waktu…",
+    "opsi": {
+      "A": "5,0 s",
+      "B": "4,8 s",
+      "C": "3,0 s",
+      "D": "1,8 s",
+      "E": "1,2 s"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Massa diam suatu benda mo dan massa bergeraknya m. Apabila benda itu bergerak dengan kecepatan 0,6 c dimana c = laju cahaya dalam ruang hampa, maka hubungan mo dan m yang benar adalah …",
+    "opsi": {
+      "A": "mo = 1,25 m",
+      "B": "mo = 0,8 m",
+      "C": "mo = 1,0 m",
+      "D": "mo = 0,5 m",
+      "E": "mo = 0,6 m"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Bila c = kecepatan cahaya, maka kecepatan yang diperlukan oleh suatu benda supaya massanya bertambah 25 % adalah…",
+    "opsi": {
+      "A": "0,2 c",
+      "B": "0,3 c",
+      "C": "0,5 c",
+      "D": "0,6 c",
+      "E": "0,8 c"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebuah elektron dengan energi diam 0,511 MeV bergerak dengan laju v = 0,8 c. Berapakah energi total yang dialami oleh elektron tersebut … .",
+    "opsi": {
+      "A": "0,452 MeV",
+      "B": "0,653 MeV",
+      "C": "0,853 MeV",
+      "D": "1,251 MeV",
+      "E": "1,452 MeV"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Sebuah benda hitam memancarkan Radiasi sebesar 32 W/m^2, benda tersebut memiliki suhu sebesar 127 derajat celcius, jika diketahui emivisitas benda 0,5 dan σ = 5,6 ×10^-8 Wm^-2. Tentukan luas benda hitam tersebut...",
+    "opsi": {
+      "A": "0.064",
+      "B": "0.045",
+      "C": "0.083",
+      "D": "0.076",
+      "E": "0.089"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Besarnya perbandingan energi radiasi yang dipancarkan oleh benda yang sama pada suhu 127 derajat celcius dan 527 derajat celcius adalah … .",
+    "opsi": {
+      "A": "1 : 2",
+      "B": "1 : 4",
+      "C": "1 : 8",
+      "D": "1 : 10",
+      "E": "1 : 16"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Konstanta yang merupakan besarnya tergantung pada sifat permukaan benda yang nilainya berlangsung antara 0 sampai dengan 1 adalah…",
+    "opsi": {
+      "A": "Konstanta boltzman",
+      "B": "Emisivitas",
+      "C": "Kalor muai",
+      "D": "Kontan wein.",
+      "E": "Radiasi max planck."
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Benda yang memiliki luas 400 cm2 dan suhunya 127 derajat celcius. Jika diketahui emivisitas 0.5. berapa energi radiasi yang dipancarkan oleh benda tersebut … . (Jika Tetapan boltzman = 5.67 x 10^-8 W/m^2)",
+    "opsi": {
+      "A": "28.2034 W/m2",
+      "B": "29.2034 W/m2",
+      "C": "30.2034 W/m2",
+      "D": "31.2034 W/m2",
+      "E": "32.2034 W/m2"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Benda yang menyerap semua energi yang datang dan memancarkan energi dengan baik adalah…",
+    "opsi": {
+      "A": "Benda laten",
+      "B": "Benda logam.",
+      "C": "Benda hitam.",
+      "D": "Benda emivisitas.",
+      "E": "Benda nonlogam"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Radiasi benda hitam selalu terdapat panjang gelombang yang membawa intensitas maksimum selalu bergeser ke intensitas lebih kecil ketika suhu tersebut bertambah hal ini disebut… .",
+    "opsi": {
+      "A": "Hukum planck",
+      "B": "Hukum pergeseran Wein",
+      "C": "Hukum Krichof",
+      "D": "Emisivistas",
+      "E": "Efek Radiasi benda hitam"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Panjang gelombang radiasi maksimum suatu benda pada suhu T kelvin adalah 6.000 A. Jika suhu benda naik hingga menjadi 3/2 T kelvin, panjang gelombang radiasi maksimum benda adalah … .",
+    "opsi": {
+      "A": "1.000 A",
+      "B": "2.000 A",
+      "C": "3.000 A",
+      "D": "4.000 A",
+      "E": "5.000 A"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Kuanta energi yang terkandung di dalam sinar ultraungu dengan panjang gelombangnya 3300 A, konstanta Planck 6,6 x 10^-34 Js dan kecepatan cahaya 3 x 10^8 m/s sebesar …..",
+    "opsi": {
+      "A": "6 x 10^-20",
+      "B": "6 x 10^-19",
+      "C": "6 x 10^-18",
+      "D": "6 x 10^-17",
+      "E": "6 x 10^-16"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Perhatikan faktor-faktor berikut:\n1) frekuensi foton yang datang\n2) fungsi kerja logam\n3) intensitas cahaya yang datang\n4) tetapan stefan-boltzma\nFaktor yang mempengaruhi besarnya energi kinetik maksimum pada efek fotolistrik ditunjukkan oleh nomor..",
+    "opsi": {
+      "A": "1) dan 2)",
+      "B": "1) dan 3)",
+      "C": "2) dan 3)",
+      "D": "2) dan 4)",
+      "E": "3) dan 4)"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Energi ikat minimum elektron pada permukaan bahan bergantung pada jenis bahan. Pernyataan tersebut sesuai dengan salah satu peristiwa fisika yaitu … .",
+    "opsi": {
+      "A": "efek Compton",
+      "B": "produksi pasangan",
+      "C": "radiasi benda hitam",
+      "D": "pembentukan sinar x",
+      "E": "efek fotolistrik"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Energi foton cahaya biru dengan frekuensi 5 x 10^14 Hz adalah … . ( Jika h = 6,6 x 10^-34 Js, 1 eV = 1,6 x 10^-19 J)",
+    "opsi": {
+      "A": "2, 06 eV",
+      "B": "4, 03 eV",
+      "C": "6, 08 eV",
+      "D": "8, 06 eV",
+      "E": "9, 27 eV"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah foton dengan frekuensi 2 x 10^19 Hz menabrak sebuah elektron yang diam dan memantul kembali dengan sudut 120 derajat ke arah asalnya. Berapakah panjang gelombang dari foton setelah terjadi tumbukan … .",
+    "opsi": {
+      "A": "0,64 x 10^-11 m",
+      "B": "0,86 x 10^-11 m",
+      "C": "1,24 x 10^-11 m",
+      "D": "1,48 x 10^-11 m",
+      "E": "1,86 x 10^-11 m"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Eksperimen yang dianggap membuktikan bahwa cahaya memiliki momentum adalah eksperimen … .",
+    "opsi": {
+      "A": "efek Compton",
+      "B": "efek Fotolistrik",
+      "C": "radiasi benda hitam",
+      "D": "difraksi celah tunggal",
+      "E": "pembentukan sinar x"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah pesawat terbang bergerak ke arah Utara sejauh 13 km kemudianberbelok ke arah Timur sejauh 24 km dan berbelok lagi ke arah Selatan sejauh 3 km. Tentukan perpindahan yang dialami pesawat terbang!",
+    "opsi": {
+      "A": "23 km",
+      "B": "24 km",
+      "C": "25 km",
+      "D": "26 km",
+      "E": "27 km"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Benda bermassa 2 kg bergerak secara beraturan dalam lintasan melingkar berjari-jari 0,5 m dengan kecepatan 4 m/s. Perhatikan pernyataan berikut.\n\n1) Gaya sentripetalnya 64 N\n2) Percepatan sentripetalnya 32 m/s2\n3) Kecepatan sudutnya 8 rad/s\nPernyataan yang benar terkait kasus diatas adalah....",
+    "opsi": {
+      "A": "1), 2), dan 3)",
+      "B": "1) dan 2)",
+      "C": "1) dan 3)",
+      "D": "2) dan 3)",
+      "E": "3) saja"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Sebuah benda jatuh bebas dari ketinggian 20 meter, benda tersebut memiliki energi kinetik awal sebesar 40 joule. Berapakah kecepatan benda pada ketinggian 10 meter jika massa benda tersebut 1 kg? (g = 10 m/s2)",
+    "opsi": {
+      "A": "2√70 m/s",
+      "B": "3√70 m/s",
+      "C": "4√70 m/s",
+      "D": "5√70 m/s",
+      "E": "6√70 m/s"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Bola pingpong bermassa 5 gram jatuh bebas dari ketinggian tertentu (g = 10 m/s2). Ketika menumbuk lantai kecepatan bola 6 m/s dan sesaat setelah menumbuk lantai, bola terpantul ke atas dengan kecepatan 4 m/s. Besar impuls yang bekerja pada bola pingpong adalah ... Ns",
+    "opsi": {
+      "A": "0,01",
+      "B": "0,02",
+      "C": "0,03",
+      "D": "0,04",
+      "E": "0,05"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Bola A bergerak ke arah kanan, kemudian bertumbukan dengan bola B yang bergerak ke kiri dengan kecepatan 2 m/s. Kedua benda saling menempel satu sama lain dan memiliki nilai kecepatan setelah tumbukan sebesar 3 m/s ke kanan. Jika massa bola A 25 gram dan massa bola B 30 gram, maka kecepatan bola A sebelum tumbukan adalah ... m/s.",
+    "opsi": {
+      "A": "3",
+      "B": "5",
+      "C": "6",
+      "D": "9",
+      "E": "18"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Suatu gas ideal pada ruang tertutup memiliki temperatur T, tekanan P, dan volume V. Jika tekanannya dijadikan 4 kali semula dan gas mengalami proses isokhorik, maka pernyataan yang benar adalah….",
+    "opsi": {
+      "A": "Volumenya menjadi seperempat kali",
+      "B": "Volumenya menjadi empat kali",
+      "C": "Temperaturnya menjadi seperempat kali",
+      "D": "Temperaturnya menjadi empat kali",
+      "E": "Jumlah molnya menjadi seperempat kali"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Es batu bermassa 100 gram dicelupkan ke dalam 500 ml air. Es batu dan air masing-masing bersuhu -5oC dan 50oC. Jika kalor jenis air adalah 1 kal/gr oC, kalor jenis es adalah 0,5 kal/gr oC dan kalor lebur es 80 kal/gr, maka berapakah suhu akhir campuran?",
+    "opsi": {
+      "A": "41,3 oC",
+      "B": "42,6 oC",
+      "C": "43,4 oC",
+      "D": "44,7 oC",
+      "E": "45,1 oC"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Suatu sistem mengalami proses isobarik. Maka pernyataan berikut yang sesuai dengan sistem tersebut adalah....",
+    "opsi": {
+      "A": "Proses berlangsung pada volume konstan",
+      "B": "Energi dalam sistem bernilai nol",
+      "C": "Tidak ada kalor yang masuk dan keluar dari sistem",
+      "D": "Sistem memiliki energi dalam yang konstan",
+      "E": "Sistem memiliki tekanan yang konstan"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Sebuah cahaya monokromatik dengan panjang gelombang 450 nm melalui celah ganda yang berjarak 1 mm. Kemudian terbentuk pola gelap terang pada layar yang berjarak 2 meter dari celah. Tentukan jarak terang ke-2 dengan gelap ke-5!",
+    "opsi": {
+      "A": "1,75 mm",
+      "B": "2,00 mm",
+      "C": "2,25 mm",
+      "D": "2,50 mm",
+      "E": "2,75 mm"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Dua buah kawat sejajar yang berjarak 0,5 m satu sama lain dialiri listrik masing-masing 2 A dengan arah yang sama. Di antara kedua kawat akan terjadi ....",
+    "opsi": {
+      "A": "Gaya tarik menarik per satuan panjang sebesar 8 x 10-7 N/m",
+      "B": "Gaya tolak menolak per satuan panjang sebesar 2 x 10-7 N/m",
+      "C": "Gaya tarik menarik per satuan panjang sebesar 2 x 10-7 N/m",
+      "D": "Gaya tarik menarik per satuan panjang sebesar 2 x 10-7 N/m",
+      "E": "Gaya tolak menolak per satuan panjang sebesar 2 x 10-7 N/m"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "1.Atom adalah bagian terkecil dari suatu zat.\n2.Elektron bergerak mengelilingi inti atom dengan meradiasikan energi.\n3.Elektron akan berpindah ke kulit yang lebih luar saat menyerap energi.\n4.Muatan positif tersebar merata pada atom dan dikelilingi elektron sebagai muatan negatif.\nBerdasarkan pernyataan di atas yang merupakan teori atom menurut Bohr adalah….",
+    "opsi": {
+      "A": "(1) dan (2)",
+      "B": "(2)",
+      "C": "(3)",
+      "D": "(2) dan (4)",
+      "E": "(1) dan (3)"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perhatikan faktor-faktor sebagai berikut:\n\n1.Frekuensi foton yang datang\n2.Fungsi kerja logam\n3.Intensitas cahaya yang datang\n4.Tetapan Stefan-Boltzmann\nYang mempengaruhi besarnya energi kinetik maksimum pada efek fotolistrik....",
+    "opsi": {
+      "A": "1) dan 2)",
+      "B": "2) dan 3)",
+      "C": "2) dan 3)",
+      "D": "2) dan 4)",
+      "E": "3) dan 4)"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Urutan jenis gelombang elektromagnetik dari frekuensi besar ke kecil adalah … .",
+    "opsi": {
+      "A": "Sinar gamma, inframerah, ultraviolet, gelombang radio",
+      "B": "Gelombang radio, inframerah, cahaya tampak, sinar x",
+      "C": "Gelombang radio, cahaya tampak, ultraviolet, sinar x",
+      "D": "Gelombang mikro, cahaya tampak, inframerah, sinar x",
+      "E": "Sinar gamma, ultraviolet, inframerah, gelombang mikro"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Pernyataan di bawah ini yang bukan sifat gelombang elektromagnetik adalah …",
+    "opsi": {
+      "A": "Mengalami polarisasi",
+      "B": "Dapat merambat dalam ruang hampa",
+      "C": "Merambat pada medan magnet dan medan listrik",
+      "D": "Arah getar dan arah rambat tegak lurus",
+      "E": "Merupakan gelombang longitudinal"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Gelombang elektromagnetik dengan periode 10^-15 sekon (cepat rambat dalam ruang hampa 3 x 10^8 m/s) merupakan …",
+    "opsi": {
+      "A": "Sinar ultraviolet",
+      "B": "Gelombang radio dan televisi",
+      "C": "Gelombang mikro",
+      "D": "Sinar inframerah",
+      "E": "Cahaya tampak"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Yang bukan merupakan sifat gelombang elektromagnetik adalah … .",
+    "opsi": {
+      "A": "Tidak menyimpang dalam medan magnet",
+      "B": "Arah getarannya tegak lurus arah rambat",
+      "C": "Dapat dipantulkan dan dibiaskan",
+      "D": "Dapat menunjukkan gejala polarisasi",
+      "E": "Memerlukan medium"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Seorang siswa menyusun spektrum gelombang elektromagnetik dari panjang gelombang terbesar sebagai berikut:\n1. Inframerah\n2. Ultraviolet\n3. Gelombang televisi\n4. Cahaya tampak\nUrutan spektrum yang benar seharusnya … .",
+    "opsi": {
+      "A": "3,1,4,2",
+      "B": "1,4,3,2",
+      "C": "3,2,4,1",
+      "D": "4,1,2,3",
+      "E": "3,2,1,4"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Gelombang elektromagnetik yang mempunyai daerah frekuensi 10^4 Hz sampai 10^7 Hz adalah …",
+    "opsi": {
+      "A": "Gelombang tampak",
+      "B": "Gelombang mikro",
+      "C": "Gelombang radio",
+      "D": "Sinar gamma",
+      "E": "Sinar inframerah"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Kegunaan sinar inframerah dalam kehidupan sehari-hari adalah … .",
+    "opsi": {
+      "A": "Memasak makanan",
+      "B": "Remote control",
+      "C": "Pemancar radio FM",
+      "D": "Menghitung luas hutan dengan bantuan foto",
+      "E": "Foto tempat-tempat yang mengalami polusi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Selang waktu yang digunakan pesawat radar untuk menangkap sinyal adalah 0,4 sekon. jarak antara pesawat radar dan sasaran yang dituju oleh pesawat tersebut adalah … .",
+    "opsi": {
+      "A": "6 x 10^7 m",
+      "B": "2 x 10^5 m",
+      "C": "3 x 10^5 m",
+      "D": "4 x 10^7 m",
+      "E": "5 x 10^8 m"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kegunaan sinar x dalam kehidupan manusia adalah … .",
+    "opsi": {
+      "A": "Menganalisis struktur kristal",
+      "B": "Membunuh sel-sel kanker",
+      "C": "Sebagai remote control TV",
+      "D": "Membawa informasi alat komunikasi",
+      "E": "Mendeteksi keaslian uang kertas"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Radar adalah gelombang elektromagnetik yang bermanfaat untuk … .",
+    "opsi": {
+      "A": "Membunuh sel-sel kanker",
+      "B": "Memeriksa cacat pada logam",
+      "C": "Mendeteksi keaslian uang kertas",
+      "D": "Mensterilkan alat kedokteran",
+      "E": "Mendeteksi posisi keberadaan pesawat terbang"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Berikut ini besaran-besaran fisis bunyi:\n1) Kecepatan bunyi di udara\n2) Panjang senar\n3) Massa jenis senar\n4) Tegangan senar\nBesaran-besaran yang mempengaruhi frekuensi nada senar adalah ....",
+    "opsi": {
+      "A": "(2) dan (4)",
+      "B": "(1) dan (3)",
+      "C": "(1), (2), (3), dan (4)",
+      "D": "(2), (3), dan (4)",
+      "E": "(1), (2), dan (3)"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Amplitudo gelombang bunyi menentukan.....",
+    "opsi": {
+      "A": "frekuensi layangan",
+      "B": "frekuensi resonansi",
+      "C": "Tinggi rendah nada",
+      "D": "Kuat lemah bunyi",
+      "E": "kualitas (timbre)"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pada percobaan Melde digunakan seutas benang yang panjangnya 2 m dan massanya 10 gram. Jika beban yang digunakan pada percobaan itu 200 gram ( g = 10 m/s2). Kecepatan gelombang tranversal pada benang adalah....",
+    "opsi": {
+      "A": "25 m/s",
+      "B": "20 m/s",
+      "C": "5 m/s",
+      "D": "15 m/s",
+      "E": "10 m/s"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Perhatikan besaran-besaran berikut :\n1) Gaya tegangan tali\n2) Volume pada tali\n3) Massa tiap satuan panjang tali\n4) Warna tali\nFaktor-faktor yang mempengaruhi cepat rambat gelombang pada tali adalah …",
+    "opsi": {
+      "A": "10 cm",
+      "B": "4,5 cm",
+      "C": "7,5 cm",
+      "D": "2,5 cm",
+      "E": "6,0 cm"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Gelombang bunyi tergolong gelombang . . .",
+    "opsi": {
+      "A": "Gelombang transversal",
+      "B": "Gelombang longitudinal",
+      "C": "Gelombang elektromagnetik",
+      "D": "Gelombang stasioner",
+      "E": "Gelombang gabungan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Gelombang bunyi tidak dapat mengalami peristiwa . . .",
+    "opsi": {
+      "A": "Difraksi",
+      "B": "Longitudinal",
+      "C": "Polarisasi",
+      "D": "Interferensi",
+      "E": "Refraksi"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pelayangan terjadi karena adanya interferensi. . .",
+    "opsi": {
+      "A": "Dua gelombang yang sama frekuensinya",
+      "B": "Lebih dari dua gelombang yang sama frekuensinya",
+      "C": "Dua gelombang yang berlawanan arah getarnya",
+      "D": "Dua gelombang yang beda frekuensinya besar",
+      "E": "Dua gelombang yang beda frekuensinya kecil"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Warna bunyi yang dihasilkan oleh sumber ditentukan oleh . . .",
+    "opsi": {
+      "A": "Amplitudo",
+      "B": "Bentuk gelombang",
+      "C": "Tinggi nada",
+      "D": "Frekuensi",
+      "E": "Jenis sumber buny"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Seorang astronot menggunakan gelombang radio untuk berkomunikasi di Bulan. Astronot tidak bisa berkomunikasi secara langsung karena . . .",
+    "opsi": {
+      "A": "Bulan merupakan tempat sunyi",
+      "B": "Bulan tidak ada udara (hampa udara)",
+      "C": "Bulan tidak ada sinyal HP",
+      "D": "Bulan memerlukan pesawat",
+      "E": "Bulan gelap"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Bunyi akan terdengar keras, jika . . .",
+    "opsi": {
+      "A": "Frekuensinya tinggi",
+      "B": "Frekuensinya rendah",
+      "C": "Amplitudonya besar",
+      "D": "Amplitudonya kecil",
+      "E": "Periodenya tak beraturan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Tinggi rendahnya suara bergantung pada . . .",
+    "opsi": {
+      "A": "Amplitudo",
+      "B": "Panjang gelombang",
+      "C": "Frekuensi",
+      "D": "Pola getar",
+      "E": "Kecepatan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Perhatikan faktor-faktor berikut!\n\n   1) Memperkecil massa jenis kawat\n   2) Memperpanjang kawat\n   3) Memperbesar tegangan kawat\n   4) Memperbesar ukuran kawat\n\nFaktor-faktor yang dapat mempercepat perambatan gelombang pada kawat adalah . .",
+    "opsi": {
+      "A": "Semua benar",
+      "B": "1, 2, dan 3",
+      "C": "2 dan 4",
+      "D": "1 saja",
+      "E": "3 saja"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Teori yang menyatakan bahwa cepat rambat gelombang elektromagnetik sama dengan cepat rambat cahaya ditemukan oleh . . .",
+    "opsi": {
+      "A": "Hertz",
+      "B": "Maxwell",
+      "C": "Zeeman",
+      "D": "Huygens",
+      "E": "Thomas Young"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan berikut!\n\n   1) Kecepatan cahaya adalah 3 x 108 m/s\n   2) Dualisme cahaya dapat terjadi pada saat bersamaan\n   3) Cahaya dapat melentur (difraksi) dan bergabung (inteferensi)\n   4) Berkas cahaya dapat dipengaruhi oleh medan magnet dan medan listrik yang kuat\n\nPernyataan yang benar mengenai teori tentang cahaya ditunjukkan oleh nomor . . .",
+    "opsi": {
+      "A": "1, 2, dan 3",
+      "B": "1, 2, dan 4",
+      "C": "1, 3, dan 4",
+      "D": "2, 3, dan 4",
+      "E": "3 dan 4"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Cahaya putih yang melewati prisma akan terurai menjadi cahaya berwarna-warni (pelangi). Peristiwa ini disebut . . .",
+    "opsi": {
+      "A": "Difraksi",
+      "B": "Dispersi",
+      "C": "Refleksi",
+      "D": "Absorbsi",
+      "E": "Interferens"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Penyebab cahaya tidak dapat terpolarisasi adalah . . .",
+    "opsi": {
+      "A": "Refleksi",
+      "B": "Abdorbsi selektif",
+      "C": "Refraksi",
+      "D": "Hamburan",
+      "E": "Difraksi"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Berikut urutan gelombang elektromagnetik berikut dari frekuensi rendah ke tinggi adalah . . .",
+    "opsi": {
+      "A": "Sinar tampak, sinar UV, sinar gamma",
+      "B": "Sinar inframerah, sinar x, sinar tampak",
+      "C": "Sinar x, sinar inframerah, sinar ultraviolet",
+      "D": "Sinar ultraviolet, sinar tampak, sinar inframerah",
+      "E": "Gelombang TV, sinar ultraviolet, sinar inframerah"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut urutan gelombang elektromagnetik yang benar dari periode kecil ke besar adalah . . .",
+    "opsi": {
+      "A": "Sinar x, sinar gamma, cahaya biru, cahaya hijau",
+      "B": "Gelombang radar, cahaya hijau, cahaya biru, gelombang radio",
+      "C": "Sinar inframerah, sinar ultraviolet, cahaya hijau, cahaya biru",
+      "D": "Sinar gamma, sinar x, cahaya biru, cahaya hijau",
+      "E": "Gelombang radar, sinar gamma, cahaya biru, cahaya hijau"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Gelombang cahaya dapat saling berinterferensi satu sama lain dengan syarat:\n\n   1) Memiliki fase yang sama\n   2) Memiliki frekuensi yang sama\n   3) Memiliki amplitudo yang sama\n   4) Dua sinar koheren\n\nPernyataan yang benar ditunjukkan oleh nomor . . .",
+    "opsi": {
+      "A": "1, 2, dan 3",
+      "B": "1 dan 3",
+      "C": "2 dan 4",
+      "D": "4",
+      "E": "1, 2, 3, dan 4"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Percobaan interferensi celah ganda digunakan sinar merah monokromatis. Pada layar akan terlihat . . .",
+    "opsi": {
+      "A": "Garis merah dan gelap saling berselang-seling dengan garis yang di tengah merah",
+      "B": "Garis merah dan gelap berselang-seling dengan garis yang ditengah gelap",
+      "C": "Garis berwarna seperti pelangi dengan garis yang di tengah gelap",
+      "D": "Garis berwarna seperti pelangi dengan garis yang di tengah gelap",
+      "E": "Garis terang dan gelap berselang-seling dengan garis yang di tengah putih"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Perhatikan faktor-faktor berikut!\n   1) Jarak celah ke layar (l)\n   2) Panjang gelombang (λ)\n   3) Jarak antara dua celah (d)\n   4) Selang waktu penyinaran (t)\n\nFaktor-faktor yang mempengaruhi jarak antara terang pusat dengan terang ke-n pada percobaan Young ditunjukkan nomor . . .",
+    "opsi": {
+      "A": "Semua benar",
+      "B": "1, 2, dan 3",
+      "C": "2 dan 4",
+      "D": "1 saja",
+      "E": "3 saja"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Interferensi percobaan Young memiliki jarak pisah antara terang ke-1 dan terang pusat sebesar 5 mm. Jarak celah ke layarnya adalah 3 m dan kedua celah terpisah sejauh 2 mm. Panjang gelombang cahaya yang digunakan adalah . . .",
+    "opsi": {
+      "A": "1500 nm",
+      "B": "2100 nm",
+      "C": "2500 nm",
+      "D": "3300 nm",
+      "E": "8400 nm"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Benda yang tidak dapat kembali ke bentuk awal setelah gaya dihilangkan disebut . . .",
+    "opsi": {
+      "A": "Elastis",
+      "B": "Deformasi",
+      "C": "Inelastis",
+      "D": "Semielastis",
+      "E": "Superelastis"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini contoh benda inelastic adalah . . .",
+    "opsi": {
+      "A": "Plastik, kayu, besi",
+      "B": "Plastik, karet, besi",
+      "C": "Plastik, besi, pegas",
+      "D": "Pegas, kayu, besi",
+      "E": "Tidak ada jawaban yang benar"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Pegas dengan luas penampang 1 m2 dikenai gaya sebesar 5 N. Besar tegangan yang dialami pegas tersebut adalah . . .",
+    "opsi": {
+      "A": "0,2 N/m2",
+      "B": "0,5 N/m2",
+      "C": "1 N/m2",
+      "D": "2 N/m2",
+      "E": "5 N/m2"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Sebuah pegas memanjang 5 cm saat diberi gaya 10 N. Jika diberi gaya sebesar 12 N, maka pegas akan mengalami pertambahan panjang pegas . . .",
+    "opsi": {
+      "A": "2 cm",
+      "B": "4 cm",
+      "C": "5 cm",
+      "D": "6 cm",
+      "E": "8 cm"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Tegangan yang dimiliki pegas adalah . . .",
+    "opsi": {
+      "A": "1 N/m2",
+      "B": "10 N/m2",
+      "C": "100 N/m2",
+      "D": "1000 N/m2",
+      "E": "10000 N/m2"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Regangan pegas adalah . . .",
+    "opsi": {
+      "A": "1/7",
+      "B": "1/5",
+      "C": "1/2",
+      "D": "5",
+      "E": "7"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Modulus young pada pegas adalah . . .",
+    "opsi": {
+      "A": "1 x 104 Pa",
+      "B": "3 x 104 Pa",
+      "C": "5 x 104 Pa",
+      "D": "7 x 104 Pa",
+      "E": "9 x 104 Pa"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Ketapel dengan luas penampang 0,1 m2 memiliki panjang awal sebesar 50 cm. Jika modulus elastisitas pegas 40 N/m2, maka besarnya gaya yang dibutuhkan agar pegas bertambah panjang sebesar 5 cm adalah . . .",
+    "opsi": {
+      "A": "0,2 N",
+      "B": "0,4 N",
+      "C": "2,0 N",
+      "D": "4,0 N",
+      "E": "10 N"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Tali nilon berdiameter 0,7 cm dan panjang 1 m memiliki modulus elastisitas (7/22) x 109 N/m2. Jika ditarik dengan gaya sebsar 49 N, maka nilon akan bertambah panjang sebesar. .",
+    "opsi": {
+      "A": "0,1 cm",
+      "B": "0,4 cm",
+      "C": "1,0 cm",
+      "D": "2,0 cm",
+      "E": "4,0 cm"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Kabel lift yang memiliki luas penampang 5 cm2 digunakan untuk menahan lift dengan berat 20.000 N. Jika tegangan maksimal kabel tersebut adalah 5000 N/cm2, maka percepatan maksimal lift adalah . . .",
+    "opsi": {
+      "A": "2,0 m/s2",
+      "B": "2,5 m/s2",
+      "C": "12,5 m/s2",
+      "D": "22,5 m/s2",
+      "E": "25,0 m/s2"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Salah satu fungsi dari dioda, kecuali . . .",
+    "opsi": {
+      "A": "Pengaman (sekering)",
+      "B": "Indikator untuk rangkaian LED",
+      "C": "Penstabil tegangan pada dioda Zener",
+      "D": "Pengontrol besarnya arus listrik yang melaluinya",
+      "E": "Penyearah"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Komponen elektronika yang terbuat dari bahan semikonduktor dan mempunyai tiga elektroda (triode), yaitu dasar (basis), pengumpulan (kolektor), dan pemancar (emitor) adalah . . .",
+    "opsi": {
+      "A": "Dioda",
+      "B": "Transistor",
+      "C": "Resistor",
+      "D": "T – Flip Flop",
+      "E": "Counter"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Di bawah ini merupakan pernyataan tentang transistor FET\n\n   1) Lebih stabil terhadap suhu\n   2) Mampu menangani daya besar\n   3) Memiliki densitas yang sangat tinggi\n   4) Kecepatan switching-nya lebih cepat dibandingkan transistor bipolar\n\nPernyataan yang benar ditunjukkan nomor . . .",
+    "opsi": {
+      "A": "1, 2, dan 3",
+      "B": "1 dan 3",
+      "C": "2 dan 4",
+      "D": "4 saja",
+      "E": "benar semua"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Transistor BJT digunakan sebagai penguat elektronik karena . . .",
+    "opsi": {
+      "A": "Dapat mengatur tegangan",
+      "B": "Dihasilkan oleh hole",
+      "C": "Perubahan arus listrik dalam jumlah kecil pada terminal basis dapat menghasilkan perubahan perubahan arus listrik dalam jumlah besar pada terminal kolektor",
+      "D": "Memiliki daya yang sangat besar",
+      "E": "Menghantarkan arus listrik di bawah control tegangan input"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan termasuk gerbang logika adalah . . .",
+    "opsi": {
+      "A": "NAND",
+      "B": "OR",
+      "C": "X – NOR",
+      "D": "X – NAND",
+      "E": "NOT"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Urutan daya tembus sinar-sinar radioaktif dimulai dari yang paling kuat adalah . . .",
+    "opsi": {
+      "A": "Alfa, beta, dan gamma",
+      "B": "Gamma, alfa, dan beta",
+      "C": "Beta, alfa, dan gamma",
+      "D": "Alfa, gamma, dan beta",
+      "E": "Gamma, beta, dan alfa"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Atom perak mempunyai nomor atom 47 dan nomor massa 107. Jumlah elektron, proton, dan neutron yang terdapat dalam atom adalah . . .",
+    "opsi": {
+      "A": "Elektron 47, proton 47, dan neutron 60",
+      "B": "Elektron 62, proton 47, dan neutron 47",
+      "C": "Elektron 47, proton 62, dan neutron 47",
+      "D": "Elektron 56, proton 109, dan neutron 47",
+      "E": "Semua jawaban salah"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Energi ikat inti adalah . . .",
+    "opsi": {
+      "A": "Energi yang diperlukan untuk menyatukan proton-proton dan neutron-neutron dalam inti atom",
+      "B": "Energi yang diperlukan untuk memutuskan inti atom menjadi proton-proton dan neutron-neutron",
+      "C": "Energi yang diperlukan untuk menyatukan proton-proton, neutron-neutron, dan elektron-elektron dalam sebuah atom",
+      "D": "Energi yang dibebaskan ketika proton-proton dan neutron-neutron bersatu dalam inti",
+      "E": "Energi yang dibebaskan ketika inti atom pecah menjadi proton-proton dan neutron-neutron dan menyatu kembali"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Jika massa inti AZX, massa proton, massa neutron, dan laju cahaya di ruang hampa berturut-turut adalah m kg, p kg, n kg dan c m/s, maka energi ikat inti tersebut adalah . . .",
+    "opsi": {
+      "A": "(Zp + An + Zn + m)c2 Joule",
+      "B": "(–Zp – An + Zn + m)c2 Joule",
+      "C": "(Zp + An – Zn – m)c2 Joule",
+      "D": "(Zp – An – Zn + m)c2 Joule",
+      "E": "(Zp – An + Zn – m)c2 Joule"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Massa satuan inti atom adalah X sma (sma = satuan massa atom). Jika massa seluruh proton dan seluruh neutron penyusun inti adalah Y sma dan Z sma, maka besar energi ikat inti atom itu adalah . . .",
+    "opsi": {
+      "A": "(Y + Z + X).931 MeV",
+      "B": "(Y – (X + Z))931 MeV",
+      "C": "((Y + Z) – X)931 MeV",
+      "D": "(X – (Y + Z))931 MeV",
+      "E": "((X + Z) – Y)931 MeV"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Massa inti karbon 6C12 adalah 12,000 sma, sedangkan massa proton dan neutron masing-masing 1,0078 sma dan 1,0089 sma. Besar  defek massa dalam pembentukan inti karbon adalah . . .",
+    "opsi": {
+      "A": "24,0984 sma",
+      "B": "12,0984 sma",
+      "C": "6,0516 sma",
+      "D": "6,0468 sma",
+      "E": "0,1002 sma"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Massa inti 3Li7 adalah 7,0160 sma. Jika massa proton 1,0078 sma, massa neutron 1,0086 sma dan 1 sma setara 931 MeV, maka energi ikat 3Li7 adalah . . .",
+    "opsi": {
+      "A": "0,039 MeV",
+      "B": "0,041 MeV",
+      "C": "0,389 MeV",
+      "D": "3,892 MeV",
+      "E": "38,92 MeV"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Massa neutron, proton, dan partikel alfa masing-masing 1,008 sma, 1,007 sma, dan 4,002 sma. Jika 1 sma setara dengan 931 MeV, maka energi ikat partikel alfa adalah . . .",
+    "opsi": {
+      "A": "0,931 MeV",
+      "B": "24,206 MeV",
+      "C": "26,068 MeV",
+      "D": "27,930 MeV",
+      "E": "30,965 MeV"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Suatu bahan memiliki HVL 2 mm untuk radiasi sinar gamma. Intensitas radiasi berkurang 87,5% dari semula, maka ketebalan bahannya adalah . . .",
+    "opsi": {
+      "A": "0,5 mm",
+      "B": "1,0 mm",
+      "C": "4,0 mm",
+      "D": "6,0 mm",
+      "E": "8,0 mm"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Gaya yang berlawanan dengan arah gerak dan menuju ke titik setimbang disebut . . .",
+    "opsi": {
+      "A": "Gaya pemulih",
+      "B": "Gaya bandul",
+      "C": "Gaya normal",
+      "D": "Gaya pegas",
+      "E": "Gaya kontak"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pegas saat diberi beban m, pegas mengalami perpanjangan sebesar x. Jika beban yang digantungkan sebesar 2m, maka perpanjangan sebesar . . .",
+    "opsi": {
+      "A": "(1/4)x",
+      "B": "(1/2)x",
+      "C": "x",
+      "D": "2x",
+      "E": "3x"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Bandul bergerak harmonis dengan simpangan terjauhnya sebesar2,4 m. Jika kecepatan maksimumnya sebesar 12 m/s, maka frekuensi sudut bandul tersebut adalah . . .",
+    "opsi": {
+      "A": "2 rad/s",
+      "B": "3 rad/s",
+      "C": "4 rad/s",
+      "D": "5 rad/s",
+      "E": "6 rad/s"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Gerak harmonik memiliki persamaan y = 0,2 sin 2πt meter. Kecepatan bandul saat t = 1 s adalah . . .",
+    "opsi": {
+      "A": "0,1π m/s",
+      "B": "0,2π m/s",
+      "C": "0,3π m/s",
+      "D": "0,4π m/s",
+      "E": "0,5π m/s"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut ini pernyataan yang benar terkait gerak parabola adalah . . .",
+    "opsi": {
+      "A": "gerak parabola merupakan gabungan antara gerak melingkar dan gerak lurus",
+      "B": "percepatan arah vertikal pada gerak parabola berubah-ubah terhadap waktu",
+      "C": "kecepatan arah horisontal pada gerak parabola sebanding dengan waktu",
+      "D": "pada titik tertinggi, kecepatan benda adalah nol",
+      "E": "percepatan pada gerak parabola hanya percepatan gravitasi"
+    },
+    "jawaban_benar": "E"
+  },
+  {
+    "pertanyaan": "Besaran yang selalu konstan dalam gerak parabola adalah . . .",
+    "opsi": {
+      "A": "Jarak benda secara vertikal",
+      "B": "kecepatan pada sumbu y",
+      "C": "percepatan pada sumbu x",
+      "D": "percepatan pada sumbu y",
+      "E": "jarak benda secara horisontal"
+    },
+    "jawaban_benar": "D"
+  }
+]
