@@ -1,2 +1,4 @@
 training/scripts/__pycache__
 training/soal
+
+training/scripts/*.pyc
