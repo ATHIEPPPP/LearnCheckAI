@@ -1,0 +1,30 @@
+version: "3.8"
+
+services:
+  postgres:
+    image: ankane/pgvector:latest
+    container_name: learncheck_pg
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: learncheck_user
+      POSTGRES_PASSWORD: learncheck_pwd
+      POSTGRES_DB: learncheck_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    shm_size: "1gb"
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: learncheck_pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "athifzaki29@gmail.com"
+      PGADMIN_DEFAULT_PASSWORD: "@anjinglu123"
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres
+
+volumes:
+  pgdata:

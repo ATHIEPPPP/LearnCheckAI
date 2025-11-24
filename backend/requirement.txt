@@ -4,6 +4,9 @@ fastapi[all]
 pgvector
 python-dotenv
 psycopg2-binary
+uvicorn
+pydantic>=2.0
+SQLAlchemy>=2.0
 
 # Google Gemini integration
 google-genai>=0.7.0
@@ -12,3 +15,6 @@ scikit-learn
 pandas
 tqdm
 google-generativeai>=0.7.0
+faiss-cpu
+sentence-transformers
+requests
