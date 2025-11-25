@@ -1,21 +1,41 @@
-from fastapi import FastAPI, Depends
+from fastapi import FastAPI, HTTPException, Depends
 from sqlalchemy.orm import Session
+import json
+import sys
+from pathlib import Path
 
-from .db import Base, engine, get_db
-from .routers import questions
-from .models import User
+# Add parent directory to path so 'training' can be imported
+ROOT = Path(__file__).resolve().parents[2]  # LearnCheck root
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
-app = FastAPI(title="LearnCheck Backend")
+from . import models, schemas
+from .db import SessionLocal
+from training.scripts.qg_service import generate_question_raw
+from training.scripts.db import insert_question_with_options
 
-# Buat tabel kalau belum ada
-@app.on_event("startup")
-def on_startup():
-    Base.metadata.create_all(bind=engine)
+app = FastAPI()
 
-@app.get("/health")
-def health_check(db: Session = Depends(get_db)):
-    # Test sederhana: hitung user
-    db.execute("SELECT 1")
-    return {"status": "ok"}
+# Dependency untuk mendapatkan session
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
 
-app.include_router(questions.router)
+@app.post("/qg/generate", response_model=schemas.Question)
+def generate_question(qg_input: schemas.QuestionCreate, db: Session = Depends(get_db)):
+    context = qg_input.question_text
+    raw_question = generate_question_raw(context)
+
+    # Parse raw_question menjadi dictionary
+    try:
+        q_json = json.loads(raw_question)
+    except json.JSONDecodeError as e:
+        raise HTTPException(status_code=400, detail="Failed to parse Gemini output.")
+
+    # Simpan ke database
+    qid = insert_question_with_options(q_json)
+    
+    return db.query(models.Question).filter(models.Question.id == qid).first()

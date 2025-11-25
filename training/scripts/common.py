@@ -1,7 +1,8 @@
 import psycopg2
 import os
 from dotenv import load_dotenv
-from gemini_api import generate_question
+# from gemini_api import generate_question
+from .qg_service import generate_question_raw
 
 # Memuat file .env untuk API key dan database credentials
 load_dotenv()

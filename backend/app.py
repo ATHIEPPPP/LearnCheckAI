@@ -19,14 +19,14 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 # util LearnCheck
-from training.scripts import common as LC
+# from training.scripts import common as LC
 
 # ===== path & konstanta =====
-SOAL_DIR = LC.SOAL_DIR
-TRAINING_DIR = LC.TRAINING_DIR
-JAWABAN_DIR = LC.JAWABAN_DIR
-MODELS_DIR = LC.MODELS_OUTPUT_DIR            # tempat file model *.joblib
-CHOICES = {"A", "B", "C", "D", "E"}
+# SOAL_DIR = LC.SOAL_DIR
+# TRAINING_DIR = LC.TRAINING_DIR
+# JAWABAN_DIR = LC.JAWABAN_DIR
+# MODELS_DIR = LC.MODELS_OUTPUT_DIR            # tempat file model *.joblib
+# CHOICES = {"A", "B", "C", "D", "E"}
 
 # ===== FastAPI app =====
 app = FastAPI(title="LearnCheck API", version="0.4.0")
