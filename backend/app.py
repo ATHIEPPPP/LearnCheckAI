@@ -19,14 +19,14 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 # util LearnCheck
-# from training.scripts import common as LC
+from training.scripts import common as LC
 
 # ===== path & konstanta =====
-# SOAL_DIR = LC.SOAL_DIR
-# TRAINING_DIR = LC.TRAINING_DIR
-# JAWABAN_DIR = LC.JAWABAN_DIR
-# MODELS_DIR = LC.MODELS_OUTPUT_DIR            # tempat file model *.joblib
-# CHOICES = {"A", "B", "C", "D", "E"}
+SOAL_DIR = LC.SOAL_DIR
+TRAINING_DIR = LC.TRAINING_DIR
+JAWABAN_DIR = LC.JAWABAN_DIR
+MODELS_DIR = LC.MODELS_OUTPUT_DIR            # tempat file model *.joblib
+CHOICES = {"A", "B", "C", "D", "E"}
 
 # ===== FastAPI app =====
 app = FastAPI(title="LearnCheck API", version="0.4.0")
@@ -191,10 +191,10 @@ class RemediationRecommendation(BaseModel):
     student_id: str
     session_id: str
     total_score: float
-    renedial_topics: List[RemediationTopic]
+    remedial_topics: List[RemediationTopic]
     recommended_actions: List[str]
 
-def analyze_remedial(score_resp: ScoreResp, mapel_scores: Dict) -> RemediationRecommendation:
+def analyze_remedial(score_req: ScoreReq, mapel_scores: Dict, total_persen: float, session_id: str) -> RemediationRecommendation:
     """
     Analisis hasil ujian siswa.
     Tentukan topik mana yang perlu remedial (skor < 75%)
@@ -219,9 +219,9 @@ def analyze_remedial(score_resp: ScoreResp, mapel_scores: Dict) -> RemediationRe
         )
 
     return RemediationRecommendation(
-        student_id=score_resp.student_id,
-        session_id=score_resp.session_id,
-        total_score=score_resp.persen,
+        student_id=score_req.student_id,
+        session_id=session_id,
+        total_score=total_persen,
         remedial_topics=remedial_topics,
         recommended_actions=recommended_actions
     )
@@ -358,10 +358,11 @@ def score(req: ScoreReq):
         for m, v in per_mapel.items()
     }
 
-    remedial = analyze_remedial(req, per_mapel_pct)
+    remedial = analyze_remedial(req, per_mapel_pct, persen, session_id)
 
-    if remedial.remedial_topics:
-        _save_remedial_recommendation(remedial)
+    # TODO: implement _save_remedial_recommendation
+    # if remedial.remedial_topics:
+    #     _save_remedial_recommendation(remedial)
 
     return ScoreResp(total=total, benar=benar, persen=persen,
                      per_mapel=per_mapel_pct, items=items)

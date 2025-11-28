@@ -3,8 +3,8 @@ from pydantic import Field
 
 class Settings(BaseSettings):
     # Sesuaikan dengan docker-compose tadi
-    DB_USER: str = Field(default="learncheck")
-    DB_PASSWORD: str = Field(default="learncheck_pass")
+    DB_USER: str = Field(default="learncheck_user")
+    DB_PASSWORD: str = Field(default="learncheck_pwd")
     DB_HOST: str = Field(default="localhost")
     DB_PORT: str = Field(default="5432")
     DB_NAME: str = Field(default="learncheck_db")

@@ -24,3 +24,8 @@ class Question(QuestionBase):
 
     class Config:
         orm_mode = True
+
+class RemedialRequest(BaseModel):
+    mapel: str
+    wrong_questions: List[str]
+
