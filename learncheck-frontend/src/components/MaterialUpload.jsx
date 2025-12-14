@@ -29,7 +29,7 @@ export default function MaterialUpload() {
         "application/vnd.ms-powerpoint",
         "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       ];
-      
+
       if (!allowedTypes.includes(file.type)) {
         alert("Hanya file PDF atau PPT yang diperbolehkan!");
         return;
@@ -52,38 +52,34 @@ export default function MaterialUpload() {
     }
 
     setUploading(true);
-    
+
     try {
-      // Simulasi upload - nanti akan diganti dengan actual API call
       const formData = new FormData();
       formData.append("file", selectedFile);
       formData.append("subject", subject);
       formData.append("title", title);
       formData.append("description", description);
 
-      // TODO: Uncomment ketika backend ready
-      // const res = await fetch("http://127.0.0.1:8000/materials/upload", {
-      //   method: "POST",
-      //   body: formData,
-      // });
-      // 
-      // if (!res.ok) throw new Error("Upload failed");
-
-      // Simulasi delay
-      await new Promise((resolve) => setTimeout(resolve, 2000));
-
-      // Simpan ke localStorage untuk demo
-      const materials = JSON.parse(localStorage.getItem("materials") || "[]");
-      materials.push({
-        id: Date.now(),
-        subject,
-        title,
-        description,
-        fileName: selectedFile.name,
-        fileSize: selectedFile.size,
-        uploadDate: new Date().toISOString(),
+      const res = await fetch("http://127.0.0.1:8000/materials/upload", {
+        method: "POST",
+        body: formData,
       });
-      localStorage.setItem("materials", JSON.stringify(materials));
+
+      if (!res.ok) {
+        const errorData = await res.json().catch(() => ({}));
+        throw new Error(errorData.detail || "Upload failed");
+      }
+
+      const result = await res.json();
+
+      // Show success with AI processing info
+      if (result.questions_generated > 0) {
+        alert(
+          `Upload berhasil! AI telah mempelajari materi dan menambahkan ${result.questions_generated} soal ke bank soal ${subject}.`
+        );
+      } else {
+        alert("Upload berhasil! Materi tersimpan.");
+      }
 
       setUploadSuccess(true);
       setTimeout(() => {
@@ -229,7 +225,7 @@ export default function MaterialUpload() {
                   </>
                 )}
               </button>
-              
+
               {selectedFile && !uploading && (
                 <button
                   onClick={() => setSelectedFile(null)}
@@ -246,8 +242,15 @@ export default function MaterialUpload() {
         {/* Info Box */}
         <div className="mt-6 bg-blue-50 border border-blue-200 rounded-xl p-4">
           <p className="text-sm text-blue-800">
-            <strong>💡 Tips:</strong> Pastikan file materi sudah terstruktur dengan baik dan mudah dipahami siswa. File yang di-upload akan langsung tersedia untuk siswa.
+            <strong>💡 Tips:</strong> Pastikan file materi sudah terstruktur
+            dengan baik dan mudah dipahami siswa. File yang di-upload akan
+            diproses oleh AI untuk:
           </p>
+          <ul className="text-sm text-blue-800 mt-2 ml-4 list-disc">
+            <li>Membaca dan mempelajari materi</li>
+            <li>Menambahkan soal-soal baru ke bank soal secara otomatis</li>
+            <li>Menyediakan rekomendasi belajar yang lebih baik untuk siswa</li>
+          </ul>
         </div>
       </div>
     </div>

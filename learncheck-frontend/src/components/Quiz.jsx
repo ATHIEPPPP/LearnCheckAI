@@ -1,6 +1,14 @@
-import { ArrowRight, BookOpen, CheckCircle2, Home, Trophy, XCircle } from "lucide-react";
+import {
+  ArrowRight,
+  BookOpen,
+  CheckCircle2,
+  Home,
+  Trophy,
+  XCircle,
+} from "lucide-react";
 import { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
+import { API_BASE_URL } from "../config/api";
 
 export default function Quiz() {
   const loc = useLocation();
@@ -16,11 +24,14 @@ export default function Quiz() {
   const [score, setScore] = useState(0);
   const [showResult, setShowResult] = useState(false);
   const [isCorrect, setIsCorrect] = useState(null);
-  
+
   // Track wrong answers for remedial
   const [wrongAnswers, setWrongAnswers] = useState([]);
   const [remedialContent, setRemedialContent] = useState("");
   const [loadingRemedial, setLoadingRemedial] = useState(false);
+
+  // Quiz settings
+  const [showCorrectAnswers, setShowCorrectAnswers] = useState(true);
 
   useEffect(() => {
     if (!initial.length) {
@@ -37,18 +48,42 @@ export default function Quiz() {
           answer: 1,
         },
       ]);
+    } else {
+      console.log("[Quiz] Received questions:", initial);
+      console.log("[Quiz] First question structure:", initial[0]);
     }
+
+    // Load quiz settings
+    loadQuizSettings();
   }, [initial]);
+
+  const loadQuizSettings = async () => {
+    try {
+      const mapel = subject.toLowerCase().replace(/\s+/g, "_");
+      console.log("[Quiz] Loading settings for:", mapel);
+      const response = await fetch(`${API_BASE_URL}/quiz-settings/${mapel}`);
+      if (response.ok) {
+        const data = await response.json();
+        console.log("[Quiz] Settings loaded:", data);
+        console.log("[Quiz] showCorrectAnswers:", data.showCorrectAnswers);
+        setShowCorrectAnswers(data.showCorrectAnswers);
+      }
+    } catch (error) {
+      console.error("Failed to load quiz settings:", error);
+      // Default to showing correct answers if error
+      setShowCorrectAnswers(true);
+    }
+  };
 
   const fetchRemedial = async () => {
     setLoadingRemedial(true);
     try {
-      const res = await fetch("http://127.0.0.1:8000/remedial/recommend", {
+      const res = await fetch(`${API_BASE_URL}/remedial/recommend`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-            mapel: subject,
-            wrong_questions: wrongAnswers
+          mapel: subject,
+          wrong_questions: wrongAnswers,
         }),
       });
       const data = await res.json();
@@ -74,12 +109,12 @@ export default function Quiz() {
     const q = questions[index];
     const correct = selected === q.answer;
     setIsCorrect(correct);
-    
+
     if (correct) {
       setScore((s) => s + 1);
     } else {
       // Record wrong answer
-      setWrongAnswers(prev => [...prev, q.question]);
+      setWrongAnswers((prev) => [...prev, q.question]);
     }
   };
 
@@ -110,7 +145,7 @@ export default function Quiz() {
   }
 
   const q = questions[index];
-  
+
   // Safety check untuk memastikan question data valid
   if (!q || !q.question || !q.options || !Array.isArray(q.options)) {
     return (
@@ -119,8 +154,12 @@ export default function Quiz() {
           <div className="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
             <XCircle className="w-8 h-8 text-red-600" />
           </div>
-          <h2 className="text-2xl font-bold text-gray-800 mb-2">Data Soal Tidak Valid</h2>
-          <p className="text-gray-600 mb-6">Format soal tidak sesuai atau data rusak.</p>
+          <h2 className="text-2xl font-bold text-gray-800 mb-2">
+            Data Soal Tidak Valid
+          </h2>
+          <p className="text-gray-600 mb-6">
+            Format soal tidak sesuai atau data rusak.
+          </p>
           <button
             onClick={() => navigate("/student")}
             className="bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white py-3 px-6 rounded-xl font-semibold"
@@ -131,7 +170,7 @@ export default function Quiz() {
       </div>
     );
   }
-  
+
   const progress = ((index + 1) / questions.length) * 100;
 
   return (
@@ -141,7 +180,9 @@ export default function Quiz() {
         <div className="bg-white rounded-2xl shadow-lg border border-gray-100 p-4 sm:p-6 mb-6">
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-4">
             <div>
-              <h2 className="text-xl sm:text-2xl font-bold text-gray-800">Kuis: {subject}</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
+                Kuis: {subject}
+              </h2>
               <p className="text-sm text-gray-600 mt-1">
                 Pertanyaan {index + 1} dari {questions.length}
               </p>
@@ -154,10 +195,10 @@ export default function Quiz() {
               </div>
             </div>
           </div>
-          
+
           {/* Progress Bar */}
           <div className="w-full bg-gray-200 rounded-full h-3 overflow-hidden">
-            <div 
+            <div
               className="h-full bg-gradient-to-r from-indigo-600 to-purple-600 transition-all duration-500 ease-out"
               style={{ width: `${progress}%` }}
             ></div>
@@ -181,10 +222,12 @@ export default function Quiz() {
               const isSelected = selected === i;
               const isAnswer = i === q.answer;
               const showFeedback = isCorrect !== null;
-              
-              let optionClass = "w-full text-left p-4 sm:p-5 rounded-xl border-2 transition-all duration-200 ";
-              
-              if (showFeedback) {
+
+              let optionClass =
+                "w-full text-left p-4 sm:p-5 rounded-xl border-2 transition-all duration-200 ";
+
+              if (showFeedback && showCorrectAnswers) {
+                // Only show green/red if showCorrectAnswers is enabled
                 if (isAnswer) {
                   optionClass += "border-green-500 bg-green-50 ";
                 } else if (isSelected && !isCorrect) {
@@ -192,12 +235,20 @@ export default function Quiz() {
                 } else {
                   optionClass += "border-gray-200 bg-gray-50 opacity-50 ";
                 }
+              } else if (showFeedback && !showCorrectAnswers) {
+                // If showCorrectAnswers disabled, just show neutral state
+                if (isSelected) {
+                  optionClass += "border-indigo-600 bg-indigo-50 ";
+                } else {
+                  optionClass += "border-gray-200 bg-gray-50 opacity-50 ";
+                }
               } else if (isSelected) {
                 optionClass += "border-indigo-600 bg-indigo-50 shadow-md ";
               } else {
-                optionClass += "border-gray-200 bg-gray-50 hover:border-indigo-300 hover:bg-indigo-50/50 ";
+                optionClass +=
+                  "border-gray-200 bg-gray-50 hover:border-indigo-300 hover:bg-indigo-50/50 ";
               }
-              
+
               return (
                 <button
                   key={i}
@@ -207,27 +258,37 @@ export default function Quiz() {
                 >
                   <div className="flex items-center justify-between">
                     <div className="flex items-center gap-3">
-                      <div className={`w-8 h-8 rounded-full border-2 flex items-center justify-center ${
-                        showFeedback && isAnswer
-                          ? "border-green-500 bg-green-500"
-                          : showFeedback && isSelected && !isCorrect
-                          ? "border-red-500 bg-red-500"
-                          : isSelected
-                          ? "border-indigo-600 bg-indigo-600"
-                          : "border-gray-300"
-                      }`}>
+                      <div
+                        className={`w-8 h-8 rounded-full border-2 flex items-center justify-center ${
+                          showFeedback && showCorrectAnswers && isAnswer
+                            ? "border-green-500 bg-green-500"
+                            : showFeedback &&
+                              showCorrectAnswers &&
+                              isSelected &&
+                              !isCorrect
+                            ? "border-red-500 bg-red-500"
+                            : isSelected
+                            ? "border-indigo-600 bg-indigo-600"
+                            : "border-gray-300"
+                        }`}
+                      >
                         <span className="text-sm font-bold text-white">
                           {String.fromCharCode(65 + i)}
                         </span>
                       </div>
-                      <span className="text-base sm:text-lg font-medium text-gray-800">{o}</span>
+                      <span className="text-base sm:text-lg font-medium text-gray-800">
+                        {o}
+                      </span>
                     </div>
-                    {showFeedback && isAnswer && (
+                    {showFeedback && showCorrectAnswers && isAnswer && (
                       <CheckCircle2 className="w-6 h-6 text-green-600" />
                     )}
-                    {showFeedback && isSelected && !isCorrect && (
-                      <XCircle className="w-6 h-6 text-red-600" />
-                    )}
+                    {showFeedback &&
+                      showCorrectAnswers &&
+                      isSelected &&
+                      !isCorrect && (
+                        <XCircle className="w-6 h-6 text-red-600" />
+                      )}
                   </div>
                 </button>
               );
@@ -241,8 +302,10 @@ export default function Quiz() {
               disabled={selected === null && isCorrect === null}
               className="bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 disabled:from-gray-300 disabled:to-gray-400 text-white py-3 px-8 rounded-xl font-semibold shadow-lg hover:shadow-xl transition-all duration-200 flex items-center gap-2 disabled:cursor-not-allowed"
             >
-              {isCorrect !== null 
-                ? (index + 1 < questions.length ? "Lanjut" : "Lihat Hasil") 
+              {isCorrect !== null
+                ? index + 1 < questions.length
+                  ? "Lanjut"
+                  : "Lihat Hasil"
                 : "Jawab"}
               <ArrowRight className="w-5 h-5" />
             </button>
@@ -255,49 +318,115 @@ export default function Quiz() {
         <div className="fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center z-50 p-4 overflow-y-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-8 max-w-2xl w-full animate-fadeIn my-8">
             <div className="text-center mb-8">
-                <div className="w-20 h-20 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-full flex items-center justify-center mx-auto mb-6">
+              <div className="w-20 h-20 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-full flex items-center justify-center mx-auto mb-6">
                 <Trophy className="w-10 h-10 text-white" />
-                </div>
-                <h2 className="text-3xl font-bold text-gray-800 mb-2">Quiz Selesai!</h2>
-                <p className="text-gray-600 mb-6">Berikut adalah hasil Anda:</p>
-                
-                <div className="bg-gradient-to-br from-indigo-50 to-purple-50 rounded-2xl p-6 mb-6">
+              </div>
+              <h2 className="text-3xl font-bold text-gray-800 mb-2">
+                Quiz Selesai!
+              </h2>
+              <p className="text-gray-600 mb-6">Berikut adalah hasil Anda:</p>
+
+              <div className="bg-gradient-to-br from-indigo-50 to-purple-50 rounded-2xl p-6 mb-6">
                 <div className="text-5xl font-bold text-transparent bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text mb-2">
-                    {score}/{questions.length}
+                  {score}/{questions.length}
                 </div>
                 <p className="text-gray-600 font-medium">
-                    Persentase: {Math.round((score / questions.length) * 100)}%
+                  Persentase: {Math.round((score / questions.length) * 100)}%
                 </p>
-                </div>
+              </div>
             </div>
-            
+
             {/* Remedial Section */}
             {wrongAnswers.length > 0 && (
-                <div className="bg-orange-50 rounded-2xl p-6 mb-8 border border-orange-100 text-left">
-                    <div className="flex items-center gap-3 mb-4">
-                        <div className="p-2 bg-orange-100 rounded-lg">
-                            <BookOpen className="w-6 h-6 text-orange-600" />
-                        </div>
-                        <h3 className="text-lg font-bold text-gray-800">Rekomendasi Materi Remedial (AI)</h3>
-                    </div>
-                    
-                    {loadingRemedial ? (
-                        <div className="flex items-center gap-2 text-gray-600">
-                            <div className="w-4 h-4 border-2 border-orange-600 border-t-transparent rounded-full animate-spin"></div>
-                            <span>Sedang membuat ringkasan materi khusus untukmu...</span>
-                        </div>
-                    ) : (
-                        <div className="prose prose-orange max-w-none text-gray-700 text-sm">
-                             {remedialContent ? (
-                                <div className="whitespace-pre-wrap">{remedialContent}</div>
-                             ) : (
-                                <p>Tidak ada materi tambahan.</p>
-                             )}
-                        </div>
-                    )}
+              <div className="bg-gradient-to-br from-orange-50 to-amber-50 rounded-2xl p-6 mb-8 border-2 border-orange-100 text-left">
+                <div className="flex items-center gap-3 mb-4">
+                  <div className="p-2 bg-gradient-to-br from-orange-400 to-amber-500 rounded-lg shadow-md">
+                    <BookOpen className="w-6 h-6 text-white" />
+                  </div>
+                  <h3 className="text-xl font-bold text-gray-800">
+                    Rekomendasi Materi Remedial
+                  </h3>
                 </div>
+
+                {loadingRemedial ? (
+                  <div className="flex items-center gap-3 text-gray-600 bg-white rounded-lg p-4">
+                    <div className="w-5 h-5 border-2 border-orange-600 border-t-transparent rounded-full animate-spin"></div>
+                    <span className="font-medium">
+                      Sedang membuat ringkasan materi khusus untukmu...
+                    </span>
+                  </div>
+                ) : (
+                  <div className="bg-white rounded-xl p-5 shadow-sm">
+                    {remedialContent ? (
+                      <div className="text-gray-700 space-y-4 remedial-content">
+                        {remedialContent.split("\n").map((line, idx) => {
+                          // Bold headers with **
+                          if (line.includes("**")) {
+                            const text = line.replace(/\*\*/g, "");
+                            return (
+                              <p
+                                key={idx}
+                                className="font-bold text-lg text-gray-800 mt-3"
+                              >
+                                {text}
+                              </p>
+                            );
+                          }
+                          // Numbered lists
+                          if (/^\d+\./.test(line.trim())) {
+                            return (
+                              <p
+                                key={idx}
+                                className="font-semibold text-indigo-700 mt-2"
+                              >
+                                {line}
+                              </p>
+                            );
+                          }
+                          // Bullet points with -
+                          if (line.trim().startsWith("-")) {
+                            return (
+                              <p key={idx} className="ml-6 text-gray-600">
+                                • {line.trim().substring(1).trim()}
+                              </p>
+                            );
+                          }
+                          // Emoji lines (tips, etc)
+                          if (/^[📚📖💡🎯✨]/.test(line.trim())) {
+                            return (
+                              <p
+                                key={idx}
+                                className="text-gray-800 font-medium bg-blue-50 rounded-lg p-3 mt-2"
+                              >
+                                {line}
+                              </p>
+                            );
+                          }
+                          // Empty lines
+                          if (line.trim() === "") {
+                            return <div key={idx} className="h-2"></div>;
+                          }
+                          // Regular text
+                          return (
+                            <p
+                              key={idx}
+                              className="text-gray-600 leading-relaxed"
+                            >
+                              {line}
+                            </p>
+                          );
+                        })}
+                      </div>
+                    ) : (
+                      <p className="text-gray-500 italic">
+                        Tidak ada materi tambahan.
+                      </p>
+                    )}
+                  </div>
+                )}
+              </div>
             )}
-            
+
             <div className="flex gap-3">
               <button
                 onClick={handleFinish}

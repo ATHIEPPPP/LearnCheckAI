@@ -2,11 +2,27 @@
 import axios from "axios";
 
 // Base URL dari FastAPI backend
-const API_URL = "http://127.0.0.1:8000"; // Ganti dengan URL server produksi jika perlu
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
 const api = axios.create({
   baseURL: API_URL,
+  timeout: 10000, // 10 second timeout
 });
+
+// Add response interceptor for better error handling
+api.interceptors.response.use(
+  (response) => response,
+  (error) => {
+    if (error.code === "ECONNABORTED") {
+      console.error("Request timeout - API might be down");
+    } else if (error.response) {
+      console.error("API Error:", error.response.status, error.response.data);
+    } else if (error.request) {
+      console.error("No response from API - check if backend is running");
+    }
+    return Promise.reject(error);
+  }
+);
 
 export const generateQuestion = async (data) => {
   try {

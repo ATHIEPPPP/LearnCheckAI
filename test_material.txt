@@ -1,0 +1,36 @@
+TEST PDF
+Ini adalah test file PDF untuk testing upload materi.
+
+Materi Biologi - Sel
+====================
+
+Pengertian Sel:
+Sel adalah unit struktural dan fungsional terkecil dari makhluk hidup.
+
+Bagian-bagian Sel:
+1. Membran Sel - pembungkus sel
+2. Sitoplasma - cairan sel
+3. Nukleus - inti sel
+4. Mitokondria - pembangkit energi
+
+Fungsi Sel:
+- Melakukan metabolisme
+- Berkembang biak
+- Merespon rangsangan
+
+Soal Latihan:
+1. Apa fungsi utama mitokondria?
+   A. Fotosintesis
+   B. Pembangkit energi
+   C. Sintesis protein
+   D. Penyimpanan genetik
+
+Jawaban: B
+
+2. Bagian sel yang berfungsi sebagai pembungkus adalah?
+   A. Nukleus
+   B. Sitoplasma
+   C. Membran sel
+   D. Ribosom
+
+Jawaban: C

@@ -1,5 +1,6 @@
 import { AlertCircle, CheckCircle, Loader, Sparkles } from "lucide-react";
 import { useState } from "react";
+import { API_BASE_URL } from "../config/api";
 
 export default function QuestionGenerator() {
   const [context, setContext] = useState("");
@@ -16,7 +17,7 @@ export default function QuestionGenerator() {
     setError(null);
 
     try {
-      const response = await fetch("http://127.0.0.1:8000/qg/generate", {
+      const response = await fetch(`${API_BASE_URL}/qg/generate`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

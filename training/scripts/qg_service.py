@@ -16,6 +16,16 @@ load_dotenv(ENV_PATH, override=True)
 
 GOOGLE_GEMINI_API_KEY = os.getenv("GOOGLE_GEMINI_API_KEY")
 
+# ====== Validasi API Key ======
+if not GOOGLE_GEMINI_API_KEY:
+    raise ValueError(
+        "GOOGLE_GEMINI_API_KEY tidak ditemukan di file .env!\n"
+        f"Pastikan file {ENV_PATH} ada dan berisi:\n"
+        "GOOGLE_GEMINI_API_KEY=your_api_key_here"
+    )
+
+print(f"[QG_SERVICE] API Key loaded: {GOOGLE_GEMINI_API_KEY[:10]}...")
+
 # ====== konfigurasi Gemini ======
 genai.configure(api_key=GOOGLE_GEMINI_API_KEY)
 MODEL_NAME = "gemini-2.5-flash"
