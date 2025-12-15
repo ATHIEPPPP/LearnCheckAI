@@ -1,5 +1,7 @@
-# backend/app.py
+
 from __future__ import annotations
+
+    # ...existing code...
 
 # ===== stdlib =====
 from pathlib import Path
@@ -1097,29 +1099,17 @@ async def upload_material(
             f.write(file_content)
         print(f"[UPLOAD] File saved successfully")
         
-        # Extract text from file
-        print(f"[UPLOAD] Extracting text from {file_extension} file...")
+
+        # Ekstrak teks dari file (PDF/PPT)
         material_text = ""
-        
-        try:
-            if file_extension == "pdf":
-                material_text = extract_text_from_pdf(file_path)
-            elif file_extension in ["ppt", "pptx"]:
-                material_text = extract_text_from_ppt(file_path)
-            else:
-                raise HTTPException(status_code=400, detail=f"Unsupported file type: {file_extension}")
-        except Exception as extract_error:
-            print(f"[ERROR] Text extraction failed: {extract_error}")
-            import traceback
-            traceback.print_exc()
-            raise HTTPException(status_code=400, detail=f"Failed to extract text from file: {str(extract_error)}")
-        
-        print(f"[UPLOAD] Extracted {len(material_text)} characters")
-        if material_text:
-            print(f"[UPLOAD] First 300 chars: {material_text[:300]}")
-        
-        if not material_text or len(material_text.strip()) < 10:
-            raise HTTPException(status_code=400, detail="Failed to extract text from file or text is too short")
+        if file_extension == "pdf":
+            material_text = extract_text_from_pdf(file_path)
+        elif file_extension in ["ppt", "pptx"]:
+            material_text = extract_text_from_ppt(file_path)
+        # Jika ingin support gambar: elif file_extension in ["jpg", "jpeg", "png"]: ...
+        print(f"[UPLOAD] Extracted {len(material_text)} chars from materi")
+
+        # Simpan ke database tanpa cek material_text
         
         # Save to database
         print(f"[UPLOAD] Saving to database...")
@@ -1153,49 +1143,13 @@ async def upload_material(
             db.rollback()
             raise HTTPException(status_code=500, detail=f"Database error: {str(db_error)}")
         
-        # Process with AI to generate questions
-        print(f"[UPLOAD] Starting AI processing...")
-        ai_result = process_material_with_ai(material_text, subject_normalized)
-        print(f"[UPLOAD] AI result success: {ai_result.get('success', False)}")
-        
-        questions_added = 0
-        if ai_result.get("success") and ai_result.get("questions"):
-            print(f"[UPLOAD] Saving {len(ai_result['questions'])} questions to bank...")
-            try:
-                questions_added = save_questions_to_bank(ai_result["questions"], subject_normalized)
-                print(f"[UPLOAD] ✅ Added {questions_added} questions to bank")
-            except Exception as save_error:
-                print(f"[ERROR] Failed to save questions: {save_error}")
-        else:
-            print(f"[UPLOAD] ⚠️ AI processing failed: {ai_result.get('error', 'Unknown error')}")
-        
-        # Save material text to training/materi folder for future reference
-        materi_text_file = MATERI_DIR / f"{subject_normalized}.txt"
-        
-        try:
-            # Append to existing material file
-            with open(materi_text_file, "a", encoding="utf-8") as f:
-                f.write(f"\n\n{'='*60}\n")
-                f.write(f"=== {title or file.filename} ===\n")
-                f.write(f"=== Uploaded: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ===\n")
-                f.write(f"{'='*60}\n\n")
-                f.write(material_text)
-                f.write("\n")
-            print(f"[UPLOAD] Material text saved to {materi_text_file}")
-        except Exception as txt_error:
-            print(f"[ERROR] Failed to save text file: {txt_error}")
-        
-        print(f"[UPLOAD] ========== UPLOAD COMPLETE ==========\n")
-        
+        print(f"[UPLOAD] ========== UPLOAD COMPLETE ==========")
         return {
             "success": True,
             "material_id": new_material.id,
             "title": new_material.title,
             "mapel": new_material.mapel,
-            "file_path": str(file_path),
-            "text_extracted": len(material_text),
-            "questions_generated": questions_added,
-            "ai_processing": ai_result.get("success", False)
+            "file_path": str(file_path)
         }
         
     except HTTPException:
@@ -1255,6 +1209,15 @@ def get_material(material_id: int, db: DBSessionType = Depends(get_db)):
         "uploaded_by": material.uploaded_by,
         "created_at": material.created_at.isoformat() if material.created_at else None
     }
+
+@app.delete("/materials/{material_id}")
+def delete_material(material_id: int, db: DBSessionType = Depends(get_db)):
+    material = db.query(DBMaterial).filter(DBMaterial.id == material_id).first()
+    if not material:
+        raise HTTPException(status_code=404, detail="Material not found")
+    db.delete(material)
+    db.commit()
+    return {"success": True, "message": "Material deleted"}
 
 # ===== Quiz Settings Management =====
 class QuizSettingsReq(BaseModel):

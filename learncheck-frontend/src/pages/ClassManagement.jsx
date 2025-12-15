@@ -25,6 +25,22 @@ export default function ClassManagement() {
   const [materials, setMaterials] = useState([]);
   const [uploading, setUploading] = useState(false);
   const [saving, setSaving] = useState(false);
+  // Modal konfirmasi hapus materi
+  const [showDeleteModal, setShowDeleteModal] = useState(false);
+  const [deleteId, setDeleteId] = useState(null);
+  // Notifikasi pop-up
+  const [notif, setNotif] = useState({
+    show: false,
+    message: "",
+    type: "info",
+  });
+  const showNotif = (message, type = "info", timeout = 2500) => {
+    setNotif({ show: true, message, type });
+    setTimeout(
+      () => setNotif({ show: false, message: "", type: "info" }),
+      timeout
+    );
+  };
 
   // Students management state
   const [myClass, setMyClass] = useState(null);
@@ -147,17 +163,17 @@ export default function ClassManagement() {
       );
 
       if (response.ok) {
-        alert("✅ Siswa berhasil ditambahkan!");
+        showNotif("✅ Siswa berhasil ditambahkan!", "success");
         await loadMyClass();
         await loadAvailableStudents();
         setShowAddStudent(false);
       } else {
         const error = await response.json();
-        alert(`❌ Error: ${error.detail}`);
+        showNotif(`❌ Error: ${error.detail}`, "error");
       }
     } catch (error) {
       console.error("Failed to add student:", error);
-      alert("❌ Gagal menambahkan siswa");
+      showNotif("❌ Gagal menambahkan siswa", "error");
     } finally {
       setLoadingStudents(false);
     }
@@ -181,15 +197,15 @@ export default function ClassManagement() {
       );
 
       if (response.ok) {
-        alert("✅ Siswa berhasil dihapus dari kelas");
+        showNotif("✅ Siswa berhasil dihapus dari kelas", "success");
         await loadMyClass();
         await loadAvailableStudents();
       } else {
-        alert("❌ Gagal menghapus siswa");
+        showNotif("❌ Gagal menghapus siswa", "error");
       }
     } catch (error) {
       console.error("Failed to remove student:", error);
-      alert("❌ Gagal menghapus siswa");
+      showNotif("❌ Gagal menghapus siswa", "error");
     } finally {
       setLoadingStudents(false);
     }
@@ -232,15 +248,16 @@ export default function ClassManagement() {
         ];
 
         if (!allowedTypes.includes(file.type)) {
-          alert(
-            `File ${file.name} tidak didukung. Hanya PDF atau PPT yang diperbolehkan.`
+          showNotif(
+            `File ${file.name} tidak didukung. Hanya PDF atau PPT yang diperbolehkan.`,
+            "error"
           );
           continue;
         }
 
         // Validate file size (max 10MB)
         if (file.size > 10 * 1024 * 1024) {
-          alert(`File ${file.name} terlalu besar. Maksimal 10MB.`);
+          showNotif(`File ${file.name} terlalu besar. Maksimal 10MB.`, "error");
           continue;
         }
 
@@ -263,14 +280,12 @@ export default function ClassManagement() {
 
         if (response.ok) {
           const result = await response.json();
-          alert(
-            `✅ ${file.name} berhasil diupload!\n\n` +
-              `AI telah memproses materi dan menambahkan ${result.questions_generated} soal ke bank soal.`
-          );
+          showNotif(`✅ ${file.name} berhasil diupload!`, "success");
         } else {
           const error = await response.json().catch(() => ({}));
-          alert(
-            `❌ Gagal upload ${file.name}: ${error.detail || "Unknown error"}`
+          showNotif(
+            `❌ Gagal upload ${file.name}: ${error.detail || "Unknown error"}`,
+            "error"
           );
         }
       }
@@ -280,7 +295,7 @@ export default function ClassManagement() {
       e.target.value = null;
     } catch (error) {
       console.error("Upload error:", error);
-      alert("❌ Terjadi kesalahan saat upload");
+      showNotif("❌ Terjadi kesalahan saat upload", "error");
     } finally {
       setUploading(false);
     }
@@ -308,14 +323,39 @@ export default function ClassManagement() {
     }
   };
 
-  const handleDeleteMaterial = async (id) => {
-    if (!confirm("Hapus materi ini?")) return;
+  const handleDeleteMaterial = (id) => {
+    setDeleteId(id);
+    setShowDeleteModal(true);
+  };
 
-    // For now, just remove from state (can implement DELETE endpoint later)
-    setMaterials(materials.filter((m) => m.id !== id));
-    alert(
-      "✅ Materi dihapus dari tampilan (untuk delete permanent, perlu implement DELETE endpoint)"
-    );
+  const confirmDeleteMaterial = async () => {
+    if (!deleteId) return;
+    try {
+      const response = await fetch(`${API_BASE_URL}/materials/${deleteId}`, {
+        method: "DELETE",
+      });
+      if (response.ok) {
+        showNotif("✅ Materi berhasil dihapus permanen!", "success");
+        // Reload list dari backend
+        await loadMaterials();
+      } else {
+        const error = await response.json().catch(() => ({}));
+        showNotif(
+          `❌ Gagal hapus materi: ${error.detail || "Unknown error"}`,
+          "error"
+        );
+      }
+    } catch (error) {
+      showNotif("❌ Gagal hapus materi (server error)", "error");
+    } finally {
+      setShowDeleteModal(false);
+      setDeleteId(null);
+    }
+  };
+
+  const cancelDeleteMaterial = () => {
+    setShowDeleteModal(false);
+    setDeleteId(null);
   };
 
   const handleQuizToggle = () => {
@@ -347,19 +387,19 @@ export default function ClassManagement() {
 
       if (response.ok) {
         if (showNotification) {
-          alert("✅ Pengaturan quiz berhasil tersimpan!");
+          showNotif("✅ Pengaturan quiz berhasil tersimpan!", "success");
         }
         return true;
       } else {
         if (showNotification) {
-          alert("❌ Gagal menyimpan pengaturan");
+          showNotif("❌ Gagal menyimpan pengaturan", "error");
         }
         return false;
       }
     } catch (error) {
       console.error("Failed to save quiz settings:", error);
       if (showNotification) {
-        alert("❌ Error: " + error.message);
+        showNotif("❌ Error: " + error.message, "error");
       }
       return false;
     } finally {
@@ -373,6 +413,45 @@ export default function ClassManagement() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-purple-50/30 pb-12">
+      {/* Notifikasi Pop-up */}
+      {notif.show && (
+        <div
+          className={`fixed top-6 left-1/2 -translate-x-1/2 z-50 px-6 py-3 rounded-xl shadow-lg text-white font-semibold transition-all duration-300 ${
+            notif.type === "error"
+              ? "bg-red-500"
+              : notif.type === "success"
+              ? "bg-green-500"
+              : "bg-indigo-500"
+          }`}
+        >
+          {notif.message}
+        </div>
+      )}
+      {/* Modal Konfirmasi Hapus */}
+      {showDeleteModal && (
+        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-40 z-50">
+          <div className="bg-white p-6 rounded shadow-lg w-80">
+            <p className="text-lg font-semibold mb-4">Hapus materi ini?</p>
+            <div className="flex gap-2 justify-end">
+              <button
+                onClick={confirmDeleteMaterial}
+                className="bg-red-500 text-white px-4 py-2 rounded"
+              >
+                Ya
+              </button>
+              <button
+                onClick={cancelDeleteMaterial}
+                className="bg-gray-300 px-4 py-2 rounded"
+              >
+                Batal
+              </button>
+            </div>
+            <p className="text-xs text-gray-400 mt-3">
+              (Untuk delete permanent, perlu implement DELETE endpoint)
+            </p>
+          </div>
+        </div>
+      )}
       {/* Header */}
       <div className="bg-white border-b shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
@@ -669,20 +748,29 @@ export default function ClassManagement() {
                       }`}
                     >
                       <span
-                        className={`inline-block h-6 w-6 transform rounded-full bg-white transition-transform ${
+                        className={`inline-block w-7 h-7 transform bg-white rounded-full shadow transition-transform duration-200 ${
                           quizSettings.enabled
-                            ? "translate-x-9"
+                            ? "translate-x-8"
                             : "translate-x-1"
                         }`}
                       />
                     </button>
-                  </div>
-                </div>
 
-                {/* Quiz Settings Form */}
-                <div className="space-y-6">
-                  {/* Timer */}
-                  <div>
+                    <button
+                      onClick={() => handleStartQuiz(material.mapel || subject)}
+                      className="px-4 py-2.5 rounded-xl border-2 border-indigo-200 text-indigo-700 hover:bg-indigo-50 transition-all duration-200 flex items-center gap-2"
+                      title="Mulai Quiz"
+                    >
+                      <PlayCircle className="w-5 h-5" />
+                    </button>
+
+                    <button
+                      onClick={() => handleDeleteMaterial(material.id)}
+                      className="px-4 py-2.5 rounded-xl border-2 border-red-200 text-red-700 hover:bg-red-50 transition-all duration-200 flex items-center gap-2"
+                      title="Hapus Materi"
+                    >
+                      🗑️ Hapus
+                    </button>
                     <label className="block text-sm font-semibold text-gray-700 mb-2">
                       ⏱️ Durasi Quiz (menit)
                     </label>
