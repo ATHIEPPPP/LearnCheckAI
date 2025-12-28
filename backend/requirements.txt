@@ -7,7 +7,6 @@ psycopg2-binary
 uvicorn
 pydantic>=2.0
 SQLAlchemy>=2.0
-pytesseract
 
 # Security & Auth
 passlib[bcrypt]
@@ -20,3 +19,9 @@ requests
 # Document processing
 PyPDF2
 python-pptx
+pdf2image
+
+# Image processing & OCR
+pytesseract
+Pillow
+pdf2image
