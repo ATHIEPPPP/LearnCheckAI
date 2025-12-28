@@ -85,9 +85,14 @@ app.add_middleware(
 )
 
 # ===== Database imports =====
-from app.db import engine, Base, get_db
-from app.models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
-from app import crud, schemas
+try:
+    from app.db import engine, Base, get_db
+    from app.models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
+    from app import crud, schemas
+except ImportError:
+    from .db import engine, Base, get_db
+    from .models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
+    from . import crud, schemas
 from sqlalchemy.orm import Session as DBSessionType
 import json
 
