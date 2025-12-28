@@ -41,7 +41,7 @@ from pydantic import BaseModel, Field, EmailStr
 import joblib  # untuk load model .joblib
 from passlib.context import CryptContext
 import secrets
-import google.generativeai as genai
+import google.genai as genai
 import os
 from dotenv import load_dotenv
 import shutil
