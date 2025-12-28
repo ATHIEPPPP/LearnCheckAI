@@ -51,6 +51,9 @@ GOOGLE_GEMINI_API_KEY = os.getenv("GOOGLE_GEMINI_API_KEY")
 
 # ===== Google Gemini AI =====
 import google.generativeai as genai
+
+
+# ===== Google Gemini AI configure =====
 if GOOGLE_GEMINI_API_KEY:
     genai.configure(api_key=GOOGLE_GEMINI_API_KEY)
 

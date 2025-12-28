@@ -1,3 +1,5 @@
+pillow
+google-genai
 joblib
 numpy
 langchain>=0.3,<0.4
