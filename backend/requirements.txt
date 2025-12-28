@@ -13,15 +13,7 @@ passlib[bcrypt]
 pyjwt
 python-multipart
 
-# Google Gemini integration
-google-genai>=0.7.0
-langchain-google-genai>=2.0.0
-scikit-learn
-pandas
-tqdm
-google-generativeai>=0.7.0
-faiss-cpu
-sentence-transformers
+# Google Gemini integration (hapus package berat, sisakan requests)
 requests
 
 # Document processing
