@@ -1,5 +1,5 @@
-print("[BACKEND] FastAPI starting...")
 from __future__ import annotations
+print("[BACKEND] FastAPI starting...")
 # ===== OCR SUPPORT =====
 import pytesseract
 from PIL import Image
