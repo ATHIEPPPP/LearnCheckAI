@@ -280,7 +280,14 @@ export default function ClassManagement() {
 
         if (response.ok) {
           const result = await response.json();
-          showNotif(`✅ ${file.name} berhasil diupload!`, "success");
+          let jumlahSoal = result.jumlah_soal_ditambahkan || 0;
+          let msg = `✅ ${file.name} berhasil diupload!`;
+          if (jumlahSoal > 0) {
+            msg += `\nAI berhasil membuat ${jumlahSoal} soal dari materi ini.`;
+          } else {
+            msg += `\nAI tidak berhasil membuat soal dari materi ini.`;
+          }
+          showNotif(msg, "success", 4000);
         } else {
           const error = await response.json().catch(() => ({}));
           showNotif(

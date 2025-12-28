@@ -1,7 +1,30 @@
-
 from __future__ import annotations
+# ===== OCR SUPPORT =====
+import pytesseract
+from PIL import Image
+from pdf2image import convert_from_path
 
-    # ...existing code...
+def extract_text_from_image_file(file_path: Path) -> str:
+    """Ekstrak teks dari file gambar (jpg/png)."""
+    try:
+        img = Image.open(file_path)
+        text = pytesseract.image_to_string(img, lang='ind')
+        return text
+    except Exception as e:
+        print(f"[ERROR] OCR image: {e}")
+        return ""
+
+def extract_text_from_pdf_with_ocr(file_path: Path) -> str:
+    """Ekstrak teks dari PDF (OCR jika p+erlu)."""
+    try:
+        pages = convert_from_path(str(file_path))
+        text = ""
+        for page in pages:
+            text += pytesseract.image_to_string(page, lang='ind') + "\n"
+        return text
+    except Exception as e:
+        print(f"[ERROR] OCR PDF: {e}")
+        return ""
 
 # ===== stdlib =====
 from pathlib import Path
@@ -262,7 +285,7 @@ Output HARUS dalam format JSON array (tanpa markdown, pure JSON):
 """
         
         print("[AI] Calling Gemini API...")
-        model = genai.GenerativeModel("gemini-2.0-flash-exp")
+        model = genai.GenerativeModel("gemini-2.5-flash")
         response = model.generate_content(prompt)
         
         # Parse response
@@ -996,7 +1019,7 @@ def recommend_remedial(req: RemedialRequest):
         
         # Use Gemini to generate personalized remedial recommendations
         try:
-            model = genai.GenerativeModel("gemini-2.0-flash-exp")
+            model = genai.GenerativeModel("gemini-2.5-flash")
             
             prompt = f"""Anda adalah asisten pembelajaran yang membantu siswa memahami materi {req.mapel}.
 
@@ -1104,10 +1127,13 @@ async def upload_material(
         material_text = ""
         if file_extension == "pdf":
             material_text = extract_text_from_pdf(file_path)
+            if not material_text or len(material_text.strip()) < 10:
+                print("[UPLOAD] PDF text extraction failed or too short, trying OCR...")
+                material_text = extract_text_from_pdf_with_ocr(file_path)
         elif file_extension in ["ppt", "pptx"]:
             material_text = extract_text_from_ppt(file_path)
         # Jika ingin support gambar: elif file_extension in ["jpg", "jpeg", "png"]: ...
-        print(f"[UPLOAD] Extracted {len(material_text)} chars from materi")
+        print(f"[UPLOAD] Extracted {len(material_text)} chars from materi (with OCR fallback if needed)")
 
         # Simpan ke database tanpa cek material_text
         
@@ -1143,13 +1169,26 @@ async def upload_material(
             db.rollback()
             raise HTTPException(status_code=500, detail=f"Database error: {str(db_error)}")
         
+        # Proses AI untuk generate soal dari materi
+        jumlah_soal = 0
+        ai_result = None
+        if material_text and len(material_text.strip()) >= 50:
+            ai_result = process_material_with_ai(material_text, subject_normalized)
+            if ai_result and ai_result.get("success") and ai_result.get("questions"):
+                jumlah_soal = save_questions_to_bank(ai_result["questions"], subject_normalized)
+            else:
+                print(f"[UPLOAD] AI gagal generate soal: {ai_result.get('error') if ai_result else 'No result'}")
+        else:
+            print("[UPLOAD] Materi kosong atau terlalu pendek, AI tidak dijalankan.")
+
         print(f"[UPLOAD] ========== UPLOAD COMPLETE ==========")
         return {
             "success": True,
             "material_id": new_material.id,
             "title": new_material.title,
             "mapel": new_material.mapel,
-            "file_path": str(file_path)
+            "file_path": str(file_path),
+            "jumlah_soal_ditambahkan": jumlah_soal
         }
         
     except HTTPException:
