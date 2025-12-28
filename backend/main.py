@@ -52,7 +52,8 @@ load_dotenv(ENV_PATH, override=True)
 
 GOOGLE_GEMINI_API_KEY = os.getenv("GOOGLE_GEMINI_API_KEY")
 if GOOGLE_GEMINI_API_KEY:
-    gemini_model = genai.GenerativeModel("gemini-pro", api_key=GOOGLE_GEMINI_API_KEY)
+    genai.configure(api_key=GOOGLE_GEMINI_API_KEY)
+    gemini_model = genai.GenerativeModel("gemini-2.5-flash")
     print(f"[BACKEND] Gemini API configured: {GOOGLE_GEMINI_API_KEY[:10]}...")
 else:
     print("[BACKEND] Warning: GOOGLE_GEMINI_API_KEY not found in .env")
