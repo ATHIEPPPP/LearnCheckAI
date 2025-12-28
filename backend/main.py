@@ -85,7 +85,6 @@ app.add_middleware(
 )
 
 # ===== Database imports =====
-import importlib
 try:
     from app.db import engine, Base, get_db
     from app.models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
@@ -95,19 +94,8 @@ except ImportError:
         from .db import engine, Base, get_db
         from .models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
         from . import crud, schemas
-    except ImportError:
-        db = importlib.import_module("backend.db")
-        models = importlib.import_module("backend.models")
-        crud = importlib.import_module("backend.crud")
-        schemas = importlib.import_module("backend.schemas")
-        engine = db.engine
-        Base = db.Base
-        get_db = db.get_db
-        DBUser = models.User
-        DBClass = models.Class
-        DBSession = models.Session
-        DBQuiz = models.Quiz
-        DBMaterial = models.Material
+    except ImportError as e:
+        raise ImportError("\n\nGagal mengimpor modul database/models.\n\nPastikan Anda menjalankan backend dengan salah satu cara berikut:\n- 'uvicorn backend.main:app' dari root project\n- 'python -m backend.main' dari root project\n\nError asli: " + str(e))
 from sqlalchemy.orm import Session as DBSessionType
 import json
 
