@@ -1,5 +1,4 @@
 from __future__ import annotations
-print("[BACKEND] FastAPI starting...")
 # ===== OCR SUPPORT =====
 import pytesseract
 from PIL import Image
@@ -40,23 +39,20 @@ from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from pydantic import BaseModel, Field, EmailStr
 import joblib  # untuk load model .joblib
 from passlib.context import CryptContext
+
 import secrets
-import google.genai as genai
 import os
-from dotenv import load_dotenv
 import shutil
 
-# ===== Load environment variables =====
-ENV_PATH = Path(__file__).resolve().parents[1] / "training" / ".env"
-load_dotenv(ENV_PATH, override=True)
+# ===== ENV VARS =====
 
+# ===== ENV VARS =====
 GOOGLE_GEMINI_API_KEY = os.getenv("GOOGLE_GEMINI_API_KEY")
+
+# ===== Google Gemini AI =====
+import google.generativeai as genai
 if GOOGLE_GEMINI_API_KEY:
     genai.configure(api_key=GOOGLE_GEMINI_API_KEY)
-    gemini_model = genai.GenerativeModel("gemini-2.5-flash")
-    print(f"[BACKEND] Gemini API configured: {GOOGLE_GEMINI_API_KEY[:10]}...")
-else:
-    print("[BACKEND] Warning: GOOGLE_GEMINI_API_KEY not found in .env")
 
 # ===== pastikan package "training" bisa di-import =====
 ROOT = Path(__file__).resolve().parents[1]  # .../LearnCheck
@@ -86,9 +82,9 @@ app.add_middleware(
 )
 
 # ===== Database imports =====
-from backend.app.db import engine, Base, get_db
-from backend.app.models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
-from backend.app import crud, schemas
+from app.db import engine, Base, get_db
+from app.models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
+from app import crud, schemas
 from sqlalchemy.orm import Session as DBSessionType
 import json
 
@@ -319,7 +315,6 @@ Output HARUS dalam format JSON array (tanpa markdown, pure JSON):
         
     except json.JSONDecodeError as e:
         print(f"[ERROR] JSON parsing failed: {e}")
-        print(f"[ERROR] Response text: {response_text[:500] if 'response_text' in locals() else 'N/A'}")
         return {"success": False, "error": f"JSON parse error: {str(e)}", "questions": []}
     except Exception as e:
         print(f"[ERROR] AI processing failed: {e}")
@@ -1019,60 +1014,45 @@ def recommend_remedial(req: RemedialRequest):
         with open(materi_path, 'r', encoding='utf-8') as f:
             materi_content = f.read()
         
-        # Use Gemini to generate personalized remedial recommendations
-        try:
-            model = genai.GenerativeModel("gemini-2.5-flash")
-            
-            prompt = f"""Anda adalah asisten pembelajaran yang membantu siswa memahami materi {req.mapel}.
+        # Gunakan Gemini untuk generate rekomendasi remedial
+        if not GOOGLE_GEMINI_API_KEY:
+            print("[ERROR] Gemini API key not configured")
+            return {"content": "Gemini API key not configured.", "mapel": req.mapel}
 
-Siswa telah mengerjakan quiz dan salah menjawab pertanyaan berikut:
-{chr(10).join(f"- {q}" for q in req.wrong_questions)}
+        prompt = f"""Anda adalah asisten pembelajaran yang membantu siswa memahami materi {req.mapel}.
 
-Berikut adalah materi lengkap untuk {req.mapel}:
-{materi_content[:8000]}
+    Siswa telah mengerjakan quiz dan salah menjawab pertanyaan berikut:
+    {chr(10).join(f"- {q}" for q in req.wrong_questions)}
 
-Tugas Anda:
-1. Analisis pertanyaan yang salah dan identifikasi topik/konsep yang perlu dipelajari ulang
-2. Berikan rekomendasi materi SPESIFIK dari materi yang tersedia yang relevan dengan kesalahan siswa
-3. Kutip bagian materi yang paling penting untuk dipelajari ulang
-4. Berikan tips praktis untuk memahami konsep tersebut
+    Berikut adalah materi lengkap untuk {req.mapel}:
+    {materi_content[:8000]}
 
-Format output (gunakan Markdown):
-## 📚 Rekomendasi Materi Remedial
+    Tugas Anda:
+    1. Analisis pertanyaan yang salah dan identifikasi topik/konsep yang perlu dipelajari ulang
+    2. Berikan rekomendasi materi SPESIFIK dari materi yang tersedia yang relevan dengan kesalahan siswa
+    3. Kutip bagian materi yang paling penting untuk dipelajari ulang
+    4. Berikan tips praktis untuk memahami konsep tersebut
 
-### Topik yang Perlu Dipelajari Ulang:
-[List topik dari analisis kesalahan]
+    Format output (gunakan Markdown):
+    ## 📚 Rekomendasi Materi Remedial
 
-### Materi yang Relevan:
-[Kutip materi spesifik dari konten yang diberikan, fokus pada konsep yang belum dipahami]
+    ### Topik yang Perlu Dipelajari Ulang:
+    [List topik dari analisis kesalahan]
 
-### Tips Belajar:
-[Berikan 2-3 tips praktis untuk memahami konsep]
+    ### Materi yang Relevan:
+    [Kutip materi spesifik dari konten yang diberikan, fokus pada konsep yang belum dipahami]
 
-Berikan penjelasan yang jelas, spesifik, dan mudah dipahami siswa."""
+    ### Tips Belajar:
+    [Berikan 2-3 tips praktis untuk memahami konsep]
 
-            response = model.generate_content(prompt)
-            content = response.text
-            
-            return {"content": content, "mapel": req.mapel}
-            
-        except Exception as ai_error:
-            print(f"AI generation error: {ai_error}")
-            # Fallback: return partial materi content
-            materi_lines = materi_content.split('\n')
-            first_materials = '\n'.join(materi_lines[:100])
-            
-            content = f"""## 📚 Materi Pembelajaran {req.mapel.replace('_', ' ').title()}
+    Berikan penjelasan yang jelas, spesifik, dan mudah dipahami siswa."""
 
-Anda telah menyelesaikan quiz dengan {len(req.wrong_questions)} jawaban yang perlu diperbaiki.
-
-### Materi untuk Dipelajari:
-
-{first_materials}
-
-💡 **Tips:** Pelajari kembali materi di atas dengan teliti. Fokus pada konsep-konsep dasar dan contoh soal yang diberikan."""
-            
-            return {"content": content, "mapel": req.mapel}
+        print("[AI] Calling Gemini API for remedial...")
+        model = genai.GenerativeModel("gemini-2.5-flash")
+        response = model.generate_content(prompt)
+        content = response.text
+        print(f"[AI] Remedial response: {content[:200]}")
+        return {"content": content, "mapel": req.mapel}
         
     except Exception as e:
         print(f"Error in remedial recommend: {e}")

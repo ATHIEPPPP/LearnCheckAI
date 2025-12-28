@@ -1,4 +1,3 @@
-# Model serialization
 joblib
 numpy
 langchain>=0.3,<0.4
@@ -9,22 +8,12 @@ psycopg2-binary
 uvicorn
 pydantic>=2.0
 SQLAlchemy>=2.0
-
-passlib[bcrypt]==1.7.4
-bcrypt==4.0.1
+passlib[bcrypt]
 pyjwt
 python-multipart
-
-# Google Gemini integration (hapus package berat, sisakan requests)
 requests
-
-# Document processing
 PyPDF2
 python-pptx
 pdf2image
-
-# Image processing & OCR
 pytesseract
 Pillow
-pdf2image
-google-genai
