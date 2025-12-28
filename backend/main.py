@@ -1,3 +1,4 @@
+print("[BACKEND] FastAPI starting...")
 from __future__ import annotations
 # ===== OCR SUPPORT =====
 import pytesseract
