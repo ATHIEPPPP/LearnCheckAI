@@ -40,7 +40,7 @@ from pydantic import BaseModel, Field, EmailStr
 import joblib  # untuk load model .joblib
 from passlib.context import CryptContext
 import secrets
-import google.generativeai as genai
+import google.genai as genai
 import os
 from dotenv import load_dotenv
 import shutil
@@ -84,9 +84,9 @@ app.add_middleware(
 )
 
 # ===== Database imports =====
-from app.db import engine, Base, get_db
-from app.models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
-from app import crud, schemas
+from backend.app.db import engine, Base, get_db
+from backend.app.models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
+from backend.app import crud, schemas
 from sqlalchemy.orm import Session as DBSessionType
 import json
 
