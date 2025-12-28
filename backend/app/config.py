@@ -17,6 +17,17 @@ class Settings(BaseSettings):
 
     @property
     def database_url(self) -> str:
+        import os
+        env_url = os.getenv("DATABASE_URL")
+        if env_url:
+            # Tambahkan sslmode=require jika belum ada
+            if "sslmode" not in env_url:
+                if "?" in env_url:
+                    env_url += "&sslmode=require"
+                else:
+                    env_url += "?sslmode=require"
+            return env_url
+        # fallback manual build
         return (
             f"postgresql+psycopg2://{self.DB_USER}:"
             f"{self.DB_PASSWORD}@{self.DB_HOST}:{self.DB_PORT}/{self.DB_NAME}"
