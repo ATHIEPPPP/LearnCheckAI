@@ -1,3 +1,5 @@
+# Model serialization
+joblib
 numpy
 langchain>=0.3,<0.4
 fastapi[all]
