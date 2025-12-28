@@ -24,7 +24,7 @@ python-pptx
 pdf2image
 
 # Image processing & OCR
-pyteseract
+pytesseract
 Pillow
 pdf2image
 google-genai>=0.3.0
