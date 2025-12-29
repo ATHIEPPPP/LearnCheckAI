@@ -34,6 +34,7 @@ import csv, json, subprocess, sys, random, re
 
 # ===== third-party =====
 from fastapi import FastAPI, HTTPException, Depends, UploadFile, File, Form
+from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
@@ -105,7 +106,18 @@ app.add_middleware(
 )
 
 # Serve static files for uploaded materials
-app.mount("/uploads", StaticFiles(directory=str(UPLOADS_DIR)), name="uploads")
+# app.mount("/uploads", StaticFiles(directory=str(UPLOADS_DIR)), name="uploads")
+
+@app.get("/uploads/{filename}")
+async def get_uploaded_file(filename: str):
+    """Explicit endpoint to serve uploaded files."""
+    file_path = UPLOADS_DIR / filename
+    print(f"[SERVE] Request for file: {filename}")
+    print(f"[SERVE] Checking path: {file_path}")
+    if not file_path.exists():
+        print(f"[SERVE] File not found: {file_path}")
+        raise HTTPException(status_code=404, detail="File not found on server")
+    return FileResponse(file_path)
 
 # ===== Database imports =====
 from backend.db import engine, Base, get_db
