@@ -136,8 +136,9 @@ export default function ClassManagement() {
   const loadMaterials = useCallback(async () => {
     try {
       const mapelNormalized = subject.name.toLowerCase().replace(/\s+/g, "_");
+      // Add timestamp to prevent caching
       const response = await fetch(
-        `${API_BASE_URL}/materials?mapel=${mapelNormalized}`
+        `${API_BASE_URL}/materials?mapel=${mapelNormalized}&t=${new Date().getTime()}`
       );
       if (response.ok) {
         const data = await response.json();
