@@ -1,14 +1,15 @@
 # Gunakan image Python
-FROM python:3.10
+FROM python:3.11-slim
 
 # Set workdir ke /app
 WORKDIR /app
 
 # Install system dependencies (Tesseract OCR & Poppler)
-RUN apt-get update && apt-get install -y \
+RUN apt-get update && apt-get install -y --no-install-recommends \
     tesseract-ocr \
     poppler-utils \
     libgl1 \
+    build-essential \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy semua file ke container

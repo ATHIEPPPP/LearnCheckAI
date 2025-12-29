@@ -3,7 +3,7 @@
 from pathlib import Path
 from dotenv import load_dotenv
 import os
-import google.generativeai as genai
+from google import genai
 
 # ====== load .env dari training folder ======
 BASE_DIR = Path(__file__).resolve().parents[1]  # training folder
@@ -27,7 +27,7 @@ if not GOOGLE_GEMINI_API_KEY:
 print(f"[QG_SERVICE] API Key loaded: {GOOGLE_GEMINI_API_KEY[:10]}...")
 
 # ====== konfigurasi Gemini ======
-genai.configure(api_key=GOOGLE_GEMINI_API_KEY)
+CLIENT = genai.Client(api_key=GOOGLE_GEMINI_API_KEY)
 MODEL_NAME = "gemini-1.5-flash"
 
 PROMPT_TEMPLATE = """
@@ -63,8 +63,7 @@ def generate_question_raw(context: str) -> str:
     """Panggil Gemini dan kembalikan teks mentah."""
     prompt = PROMPT_TEMPLATE.format(context=context)
     try:
-        model = genai.GenerativeModel(MODEL_NAME)
-        resp = model.generate_content(prompt)
+        resp = CLIENT.models.generate_content(model=MODEL_NAME, contents=prompt)
         
         # Debugging: Cek output raw dari Gemini
         print("DEBUG Gemini RAW output:")
@@ -94,8 +93,7 @@ def generate_remedial(mapel: str, wrong_questions: list) -> str:
     Jelaskan dengan bahasa yang mudah dimengerti siswa sekolah.
     """
     try:
-        model = genai.GenerativeModel(MODEL_NAME)
-        resp = model.generate_content(prompt)
+        resp = CLIENT.models.generate_content(model=MODEL_NAME, contents=prompt)
         return resp.text
     except Exception as e:
         return f"Gagal memuat materi remedial: {str(e)}"

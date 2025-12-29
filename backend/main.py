@@ -50,12 +50,11 @@ import shutil
 GOOGLE_GEMINI_API_KEY = os.getenv("GOOGLE_GEMINI_API_KEY")
 
 # ===== Google Gemini AI =====
-import google.generativeai as genai
+from google import genai
 
 
 # ===== Google Gemini AI configure =====
-if GOOGLE_GEMINI_API_KEY:
-    genai.configure(api_key=GOOGLE_GEMINI_API_KEY)
+CLIENT = genai.Client(api_key=GOOGLE_GEMINI_API_KEY) if GOOGLE_GEMINI_API_KEY else None
 
 # ===== pastikan package "training" bisa di-import =====
 ROOT = Path(__file__).resolve().parents[1]  # .../LearnCheck
@@ -287,8 +286,12 @@ Output HARUS dalam format JSON array (tanpa markdown, pure JSON):
 """
         
         print("[AI] Calling Gemini API...")
-        model = genai.GenerativeModel("gemini-1.5-flash")
-        response = model.generate_content(prompt)
+        if not CLIENT:
+            raise RuntimeError("Gemini client not initialized")
+        response = CLIENT.models.generate_content(
+            model="gemini-1.5-flash",
+            contents=prompt
+        )
         
         # Parse response
         response_text = response.text.strip()
@@ -1108,8 +1111,12 @@ def recommend_remedial(req: RemedialRequest):
     Berikan penjelasan yang jelas, spesifik, dan mudah dipahami siswa."""
 
         print("[AI] Calling Gemini API for remedial...")
-        model = genai.GenerativeModel("gemini-1.5-flash")
-        response = model.generate_content(prompt)
+        if not CLIENT:
+            raise RuntimeError("Gemini client not initialized")
+        response = CLIENT.models.generate_content(
+            model="gemini-1.5-flash",
+            contents=prompt
+        )
         content = response.text
         print(f"[AI] Remedial response: {content[:200]}")
         return {"content": content, "mapel": req.mapel}
