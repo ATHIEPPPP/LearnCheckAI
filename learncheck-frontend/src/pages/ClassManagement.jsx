@@ -500,10 +500,16 @@ export default function ClassManagement() {
             className="flex justify-between items-center p-4 bg-gray-50 rounded-xl border"
           >
             <div className="flex items-center gap-3">
-              <span className="text-2xl">{m.type === "pdf" ? "📕" : "📊"}</span>
+              <span className="text-2xl">
+                {m.file_type === "pdf" ? "📕" : "📊"}
+              </span>
               <div>
-                <p className="font-semibold">{m.name}</p>
-                <p className="text-sm text-gray-500">{m.uploadDate}</p>
+                <p className="font-semibold">{m.title}</p>
+                <p className="text-sm text-gray-500">
+                  {m.created_at
+                    ? new Date(m.created_at).toLocaleString()
+                    : "Baru saja"}
+                </p>
               </div>
             </div>
             <div className="flex gap-2">
