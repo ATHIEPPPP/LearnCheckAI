@@ -515,7 +515,12 @@ export default function ClassManagement() {
             <div className="flex gap-2">
               {m.file_url && (
                 <button
-                  onClick={() => window.open(m.file_url, "_blank")}
+                  onClick={() => {
+                    const url = m.file_url.startsWith("http")
+                      ? m.file_url
+                      : `${API_BASE_URL}${m.file_url}`;
+                    window.open(url, "_blank");
+                  }}
                   className="text-indigo-600 hover:bg-indigo-50 px-3 py-1 rounded-lg"
                 >
                   Lihat
