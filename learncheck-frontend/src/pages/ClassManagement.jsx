@@ -136,14 +136,35 @@ export default function ClassManagement() {
   const loadMaterials = useCallback(async () => {
     try {
       const mapelNormalized = subject.name.toLowerCase().replace(/\s+/g, "_");
-      // Add timestamp to prevent caching
-      const response = await fetch(
-        `${API_BASE_URL}/materials?mapel=${mapelNormalized}&t=${new Date().getTime()}`
+      const timestamp = new Date().getTime();
+
+      // Try fetching with normalized name first
+      let response = await fetch(
+        `${API_BASE_URL}/materials?mapel=${mapelNormalized}&t=${timestamp}`
       );
+
+      let data = [];
       if (response.ok) {
-        const data = await response.json();
-        setMaterials(data);
+        data = await response.json();
       }
+
+      // If empty, try fetching with original name (just in case backend is strict)
+      if (data.length === 0) {
+        const originalName = subject.name; // e.g. "Biologi"
+        response = await fetch(
+          `${API_BASE_URL}/materials?mapel=${encodeURIComponent(
+            originalName
+          )}&t=${timestamp}`
+        );
+        if (response.ok) {
+          const fallbackData = await response.json();
+          if (fallbackData.length > 0) {
+            data = fallbackData;
+          }
+        }
+      }
+
+      setMaterials(data);
     } catch (error) {
       console.error("Error loading materials:", error);
     }
