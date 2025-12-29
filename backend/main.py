@@ -89,6 +89,7 @@ from backend.models import User as DBUser, Class as DBClass, Session as DBSessio
 import backend.crud as crud
 import backend.schemas as schemas
 from sqlalchemy.orm import Session as DBSessionType
+from sqlalchemy import text
 import json
 
 # Create tables on startup
@@ -549,6 +550,15 @@ def root():
 @app.get("/health")
 def health():
     return {"ok": True, "banks": len(BANKS), "models": sorted(MODELS.keys())}
+
+# ===== Database Ping =====
+@app.get("/db/ping")
+def db_ping(db: DBSessionType = Depends(get_db)):
+    try:
+        db.execute(text("SELECT 1"))
+        return {"ok": True}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 # ===== Authentication & User Management =====
 def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(security), 
