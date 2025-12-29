@@ -153,7 +153,12 @@ export default function MaterialList({ subject }) {
               {/* Actions */}
               <div className="flex gap-3">
                 <button
-                  onClick={() => window.open(material.file_url, "_blank")}
+                  onClick={() =>
+                    window.open(
+                      `${API_BASE_URL}${material.file_url?.startsWith("/") ? material.file_url : `/${material.file_url}`}`,
+                      "_blank"
+                    )
+                  }
                   className="flex-1 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white py-2.5 px-4 rounded-xl font-semibold shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-2"
                 >
                   <Download className="w-4 h-4" />

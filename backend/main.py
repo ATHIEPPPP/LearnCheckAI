@@ -35,6 +35,7 @@ import csv, json, subprocess, sys, random, re
 # ===== third-party =====
 from fastapi import FastAPI, HTTPException, Depends, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from pydantic import BaseModel, Field, EmailStr
 import joblib  # untuk load model .joblib
@@ -82,6 +83,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Serve static files for uploaded materials
+app.mount("/uploads", StaticFiles(directory=str(UPLOADS_DIR)), name="uploads")
 
 # ===== Database imports =====
 from backend.db import engine, Base, get_db
@@ -1210,10 +1214,10 @@ async def upload_material(
             new_material = DBMaterial(
                 title=title or file.filename,
                 description=description or f"Materi {subject}",
-                file_url=str(file_path),
+                file_url=f"/uploads/{safe_filename}",
                 file_type=file_extension,
                 mapel=subject_normalized,
-                uploaded_by=uploader.id
+                uploader_id=uploader.id
             )
             
             db.add(new_material)
@@ -1279,7 +1283,7 @@ def list_materials(
                 "file_url": m.file_url,
                 "file_type": m.file_type,
                 "mapel": m.mapel,
-                "uploaded_by": m.uploaded_by,
+                "uploaded_by": m.uploader_id,
                 "created_at": m.created_at.isoformat() if m.created_at else None
             })
         
@@ -1304,7 +1308,7 @@ def get_material(material_id: int, db: DBSessionType = Depends(get_db)):
         "file_url": material.file_url,
         "file_type": material.file_type,
         "mapel": material.mapel,
-        "uploaded_by": material.uploaded_by,
+        "uploaded_by": material.uploader_id,
         "created_at": material.created_at.isoformat() if material.created_at else None
     }
 
