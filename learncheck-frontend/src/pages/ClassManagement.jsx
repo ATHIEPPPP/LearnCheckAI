@@ -138,7 +138,7 @@ export default function ClassManagement() {
       const mapelNormalized = subject.name.toLowerCase().replace(/\s+/g, "_");
       const timestamp = new Date().getTime();
 
-      // Try fetching with normalized name first
+      // Strategy 1: Fetch with normalized name
       let response = await fetch(
         `${API_BASE_URL}/materials?mapel=${mapelNormalized}&t=${timestamp}`
       );
@@ -148,9 +148,9 @@ export default function ClassManagement() {
         data = await response.json();
       }
 
-      // If empty, try fetching with original name (just in case backend is strict)
+      // Strategy 2: If empty, fetch with original name
       if (data.length === 0) {
-        const originalName = subject.name; // e.g. "Biologi"
+        const originalName = subject.name;
         response = await fetch(
           `${API_BASE_URL}/materials?mapel=${encodeURIComponent(
             originalName
@@ -161,6 +161,35 @@ export default function ClassManagement() {
           if (fallbackData.length > 0) {
             data = fallbackData;
           }
+        }
+      }
+
+      // Strategy 3: If still empty, fetch ALL and filter locally (Aggressive Fallback)
+      if (data.length === 0) {
+        console.log(
+          "Strategy 3: Fetching ALL materials for local filtering..."
+        );
+        response = await fetch(`${API_BASE_URL}/materials?t=${timestamp}`);
+        if (response.ok) {
+          const allMaterials = await response.json();
+          const searchTerms = [
+            mapelNormalized,
+            subject.name.toLowerCase(),
+            subject.name.replace("Kelas ", "").toLowerCase(),
+          ];
+
+          data = allMaterials.filter((m) => {
+            const mMapel = (m.mapel || "").toLowerCase();
+            const mDesc = (m.description || "").toLowerCase();
+            const mTitle = (m.title || "").toLowerCase();
+
+            return searchTerms.some(
+              (term) =>
+                mMapel.includes(term) ||
+                mDesc.includes(term) ||
+                mTitle.includes(term)
+            );
+          });
         }
       }
 
