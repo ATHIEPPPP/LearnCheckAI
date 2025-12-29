@@ -4,6 +4,14 @@ import { defineConfig } from "vite";
 export default defineConfig({
   plugins: [react()],
   cacheDir: ".vite",
+  preview: {
+    allowedHosts: [
+      "learncheckai.up.railway.app",
+      "frontend-production-e6ad.up.railway.app",
+      ".up.railway.app",
+    ],
+    host: true,
+  },
   server: {
     proxy: {
       "/api": {
