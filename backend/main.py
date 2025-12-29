@@ -85,17 +85,9 @@ app.add_middleware(
 )
 
 # ===== Database imports =====
-try:
-    from app.db import engine, Base, get_db
-    from app.models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
-    from app import crud, schemas
-except ImportError:
-    try:
-        from .db import engine, Base, get_db
-        from .models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
-        from . import crud, schemas
-    except ImportError as e:
-        raise ImportError("\n\nGagal mengimpor modul database/models.\n\nPastikan Anda menjalankan backend dengan salah satu cara berikut:\n- 'uvicorn backend.main:app' dari root project\n- 'python -m backend.main' dari root project\n\nError asli: " + str(e))
+from db import engine, Base, get_db
+from models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
+import crud, schemas
 from sqlalchemy.orm import Session as DBSessionType
 import json
 
