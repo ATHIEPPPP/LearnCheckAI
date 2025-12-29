@@ -22,6 +22,10 @@ export default function ClassManagement() {
 
   const subject = getSubject();
 
+  const handleStartQuiz = (materialSubject) => {
+    navigate("/student", { state: { selectedSubject: materialSubject } });
+  };
+
   const [activeTab, setActiveTab] = useState("students");
   const [materials, setMaterials] = useState([]);
   const [uploading, setUploading] = useState(false);
@@ -742,7 +746,7 @@ export default function ClassManagement() {
                 </h2>
 
                 {/* Quiz Enable/Disable */}
-                <div className="bg-gradient-to-r from-indigo-50 to-purple-50 p-6 rounded-xl mb-6 border border-indigo-100">
+                <div className="bg-white p-6 rounded-2xl shadow-md border border-gray-200">
                   <div className="flex items-center justify-between">
                     <div>
                       <h3 className="font-bold text-gray-800 mb-1">
