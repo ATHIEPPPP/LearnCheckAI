@@ -1,9 +1,56 @@
+
+from backend.db import Base
 from sqlalchemy import (
 	Column, Integer, String, Text, Boolean, ForeignKey, DateTime
 )
 from sqlalchemy.orm import relationship
 from datetime import datetime
-from .db import Base
+
+# --- Quiz Model ---
+class Quiz(Base):
+	__tablename__ = "quizzes"
+
+	id = Column(Integer, primary_key=True, index=True)
+	title = Column(String(255), nullable=False)
+	mapel = Column(String(100), nullable=False)
+	duration = Column(Integer, default=60)
+	enabled = Column(Boolean, default=True)
+	start_date = Column(DateTime, nullable=True)
+	end_date = Column(DateTime, nullable=True)
+	show_correct_answers = Column(Boolean, default=True)
+	randomize_questions = Column(Boolean, default=False)
+	max_attempts = Column(Integer, default=1)
+	created_by = Column(Integer, ForeignKey("users.id"), nullable=False)
+	created_at = Column(DateTime, default=datetime.utcnow)
+
+	creator = relationship("User", back_populates="quizzes")
+
+# --- Class Model ---
+class Class(Base):
+	__tablename__ = "classes"
+
+	id = Column(Integer, primary_key=True, index=True)
+	class_id = Column(String(255), unique=True, nullable=False, index=True)
+	name = Column(String(255), nullable=False)
+	subject = Column(String(100), nullable=False)
+	teacher_email = Column(String(255), ForeignKey("users.email"), nullable=False)
+	teacher_name = Column(String(255), nullable=False)
+	students = Column(Text, nullable=True)  # JSON array of student emails
+	created_at = Column(DateTime, default=datetime.utcnow)
+
+	teacher = relationship("User", back_populates="created_classes")
+
+# --- Session Model ---
+class Session(Base):
+	__tablename__ = "sessions"
+
+	id = Column(Integer, primary_key=True, index=True)
+	token = Column(String(255), unique=True, nullable=False, index=True)
+	email = Column(String(255), nullable=False)
+	role = Column(String(20), nullable=False)
+	created_at = Column(DateTime, default=datetime.utcnow)
+
+
 
 class User(Base):
 	__tablename__ = "users"
@@ -58,5 +105,9 @@ class Material(Base):
 	id = Column(Integer, primary_key=True, index=True)
 	title = Column(String(255), nullable=False)
 	description = Column(Text)
+	mapel = Column(String(100), nullable=False)  # Mata pelajaran
+	file_url = Column(String(255), nullable=True)  # Path/URL file materi
+	uploader_id = Column(Integer, ForeignKey("users.id"), nullable=False)
+	uploader = relationship("User", back_populates="materials")
 # moved from app/models.py
 

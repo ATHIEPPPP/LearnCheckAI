@@ -2,7 +2,7 @@
 """Database CRUD operations"""
 
 from sqlalchemy.orm import Session
-import models
+import backend.models as models
 import json
 from typing import Optional, List, Dict
 
@@ -57,5 +57,14 @@ def create_session(db: Session, token: str, email: str, role: str) -> models.Ses
 
 def get_session(db: Session, token: str) -> Optional[models.Session]:
 	return db.query(models.Session).filter(models.Session.token == token).first()
-# moved from app/crud.py
+
+# ===== Class Operations =====
+def get_classes_by_teacher(db: Session, teacher_email: str) -> List[models.Class]:
+	"""Get all classes created by a teacher (by email)."""
+	return db.query(models.Class).filter(models.Class.teacher_email == teacher_email).all()
+
+# ===== Quiz Settings Operations =====
+def get_quiz_settings(db: Session, mapel: str) -> Optional[models.Quiz]:
+	"""Get the most recent quiz settings for this subject (mapel)."""
+	return db.query(models.Quiz).filter(models.Quiz.mapel == mapel).order_by(models.Quiz.created_at.desc()).first()
 

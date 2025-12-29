@@ -28,7 +28,7 @@ print(f"[QG_SERVICE] API Key loaded: {GOOGLE_GEMINI_API_KEY[:10]}...")
 
 # ====== konfigurasi Gemini ======
 genai.configure(api_key=GOOGLE_GEMINI_API_KEY)
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-1.5-flash"
 
 PROMPT_TEMPLATE = """
 Peran: Anda adalah guru ahli pembuat soal ujian.

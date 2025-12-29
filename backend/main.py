@@ -85,9 +85,10 @@ app.add_middleware(
 )
 
 # ===== Database imports =====
-from db import engine, Base, get_db
-from models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
-import crud, schemas
+from backend.db import engine, Base, get_db
+from backend.models import User as DBUser, Class as DBClass, Session as DBSession, Quiz as DBQuiz, Material as DBMaterial
+import backend.crud as crud
+import backend.schemas as schemas
 from sqlalchemy.orm import Session as DBSessionType
 import json
 
@@ -286,7 +287,7 @@ Output HARUS dalam format JSON array (tanpa markdown, pure JSON):
 """
         
         print("[AI] Calling Gemini API...")
-        model = genai.GenerativeModel("gemini-2.5-flash")
+        model = genai.GenerativeModel("gemini-1.5-flash")
         response = model.generate_content(prompt)
         
         # Parse response
@@ -857,6 +858,62 @@ def generate_quiz(req: GenerateReq):
     rng.shuffle(out)
     return out
 
+# ---- QG Service (Frontend Integration) ----
+from training.scripts import qg_service
+
+class QGRequest(BaseModel):
+    question_text: str
+    mapel: str
+    topic: Optional[str] = ""
+    difficulty: Optional[str] = "sedang"
+    explanation: Optional[str] = ""
+    choices: List[str] = []
+
+@app.post("/qg/generate")
+def qg_generate(req: QGRequest):
+    """Endpoint untuk generate satu soal via Gemini (dipanggil dari Frontend)."""
+    # Construct context
+    context = f"Materi: {req.question_text}\nMapel: {req.mapel}\nTopik: {req.topic}\nKesulitan: {req.difficulty}"
+    
+    print(f"[QG] Generating question for {req.mapel}...")
+    
+    # Call Gemini via service
+    raw_json = qg_service.generate_question_raw(context)
+    
+    # Clean markdown if present
+    raw_json = raw_json.strip()
+    if raw_json.startswith("```"):
+        lines = raw_json.split("\n")
+        # Remove first line
+        lines = lines[1:]
+        # Remove last line if it is just ```
+        if lines and lines[-1].strip() == "```":
+            lines = lines[:-1]
+        raw_json = "\n".join(lines).strip()
+    
+    # Parse JSON
+    try:
+        data = json.loads(raw_json)
+        
+        # Frontend expects a single object, but service might return a list
+        if isinstance(data, list) and len(data) > 0:
+            return data[0] # Return first question
+        elif isinstance(data, dict):
+            return data
+        else:
+            # Fallback if empty list or other type
+            raise ValueError("Empty or invalid format from AI")
+            
+    except Exception as e:
+        print(f"[ERROR] Failed to parse QG response: {e}")
+        # Fallback dummy so frontend doesn't break
+        return {
+            "question": "Gagal memproses respon AI (JSON Error). Silakan coba lagi.",
+            "options": ["Opsi A", "Opsi B", "Opsi C", "Opsi D"],
+            "answer_index": 0,
+            "explanation": f"Error detail: {str(e)}"
+        }
+
 # ---- simple generate endpoint (for frontend) ----
 @app.post("/generate")
 def generate_simple(mapel: str = None, n: int = 10):
@@ -1051,7 +1108,7 @@ def recommend_remedial(req: RemedialRequest):
     Berikan penjelasan yang jelas, spesifik, dan mudah dipahami siswa."""
 
         print("[AI] Calling Gemini API for remedial...")
-        model = genai.GenerativeModel("gemini-2.5-flash")
+        model = genai.GenerativeModel("gemini-1.5-flash")
         response = model.generate_content(prompt)
         content = response.text
         print(f"[AI] Remedial response: {content[:200]}")
