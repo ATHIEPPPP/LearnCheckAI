@@ -17,6 +17,7 @@ export default function AdminDashboard() {
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState("");
   const [notif, setNotif] = useState(null); // { type: 'success'|'error', message: string }
+  const [searchActive, setSearchActive] = useState(false);
 
   // Form state
   const [formData, setFormData] = useState({
@@ -386,27 +387,39 @@ export default function AdminDashboard() {
 
           {/* Users List */}
           <div className="lg:col-span-2 bg-white rounded-2xl shadow-lg p-6">
-            <div className="flex items-center justify-between mb-6">
+            <div className="flex items-center justify-between mb-4 md:mb-6">
               <div className="flex items-center gap-3">
                 <div className="p-2 bg-purple-100 rounded-lg">
                   <Users className="w-6 h-6 text-purple-600" />
                 </div>
                 <h2 className="text-xl font-bold text-gray-800">Daftar User</h2>
               </div>
-
-              <div className="relative">
-                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-gray-400" />
-                <input
-                  type="text"
-                  placeholder="Cari user..."
-                  value={searchTerm}
-                  onChange={(e) => setSearchTerm(e.target.value)}
-                  className="pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
-                />
-              </div>
+              {!searchActive ? (
+                <button
+                  onClick={() => setSearchActive(true)}
+                  className="inline-flex items-center gap-2 px-3 py-2 border border-gray-300 rounded-lg hover:bg-gray-50"
+                  title="Cari user"
+                >
+                  <Search className="w-5 h-5 text-gray-600" />
+                  <span className="text-gray-700">Cari</span>
+                </button>
+              ) : (
+                <div className="relative w-full max-w-xs">
+                  <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
+                  <input
+                    type="text"
+                    placeholder="Ketik nama atau email..."
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
+                    onBlur={() => {
+                      if (!searchTerm) setSearchActive(false);
+                    }}
+                    autoFocus
+                    className="pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
+                  />
+                </div>
+              )}
             </div>
-
-            {/* Desktop table */}
             <div className="overflow-x-auto hidden md:block">
               <table className="w-full">
                 <thead className="bg-gray-50 border-b-2 border-gray-200">
@@ -505,12 +518,10 @@ export default function AdminDashboard() {
                 </tbody>
               </table>
             </div>
-
-            {/* Mobile cards */}
             <div className="space-y-4 md:hidden">
               {filteredUsers.map((user) => (
-                <div key={user.email} className="border rounded-xl p-4 shadow-sm">
-                  <div className="flex items-center justify-between">
+                <div key={user.email} className="border rounded-xl p-4 shadow-sm bg-white">
+                  <div className="flex items-center justify-between gap-3">
                     <div className="flex items-center gap-3">
                       <div
                         className={`p-2 rounded-lg ${
@@ -559,7 +570,7 @@ export default function AdminDashboard() {
                       <span className="text-gray-400">-</span>
                     )}
                   </div>
-                  <div className="mt-4">
+                  <div className="mt-4 flex justify-end">
                     <button
                       onClick={() => handleDeleteUser(user.email)}
                       disabled={user.role === "admin" && stats.admin === 1}
