@@ -107,12 +107,27 @@ async def startup_event():
             conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS file_type VARCHAR(50)"))
             conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS created_at TIMESTAMP DEFAULT NOW()"))
             conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS uploader_id INTEGER"))
+            conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS file_url VARCHAR(255)"))
             # Migrate legacy column 'uploaded_by' to new 'uploader_id' if exists
             has_legacy = conn.execute(
                 _text("SELECT 1 FROM information_schema.columns WHERE table_name='materials' AND column_name='uploaded_by'")
             ).fetchone()
             if has_legacy:
+                # Drop NOT NULL to avoid violation during migration
+                try:
+                    conn.execute(_text("ALTER TABLE materials ALTER COLUMN uploaded_by DROP NOT NULL"))
+                except Exception:
+                    pass
                 conn.execute(_text("UPDATE materials SET uploader_id = uploaded_by WHERE uploader_id IS NULL"))
+            # Rename legacy column 'durl' to 'file_url' if present
+            has_durl = conn.execute(
+                _text("SELECT 1 FROM information_schema.columns WHERE table_name='materials' AND column_name='durl'")
+            ).fetchone()
+            if has_durl:
+                try:
+                    conn.execute(_text("ALTER TABLE materials RENAME COLUMN durl TO file_url"))
+                except Exception:
+                    pass
     except Exception as e:
         print(f"[STARTUP] Warn: failed to ensure materials columns: {e}")
     # Create default admin if not exists
