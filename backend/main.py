@@ -106,6 +106,13 @@ async def startup_event():
         with engine.begin() as conn:
             conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS file_type VARCHAR(50)"))
             conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS created_at TIMESTAMP DEFAULT NOW()"))
+            conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS uploader_id INTEGER"))
+            # Migrate legacy column 'uploaded_by' to new 'uploader_id' if exists
+            has_legacy = conn.execute(
+                _text("SELECT 1 FROM information_schema.columns WHERE table_name='materials' AND column_name='uploaded_by'")
+            ).fetchone()
+            if has_legacy:
+                conn.execute(_text("UPDATE materials SET uploader_id = uploaded_by WHERE uploader_id IS NULL"))
     except Exception as e:
         print(f"[STARTUP] Warn: failed to ensure materials columns: {e}")
     # Create default admin if not exists
