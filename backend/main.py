@@ -57,6 +57,26 @@ from google import genai
 # ===== Google Gemini AI configure =====
 CLIENT = genai.Client(api_key=GOOGLE_GEMINI_API_KEY) if GOOGLE_GEMINI_API_KEY else None
 
+def _pick_available_model(preferred: list[str] | None = None) -> str:
+    preferred = preferred or [
+        "gemini-1.5-flash",
+        "gemini-1.5-flash-latest",
+        "gemini-1.5-flash-8b",
+        "gemini-1.5-pro",
+    ]
+    try:
+        models = CLIENT.models.list()
+        names = [m.name for m in models] if models else []
+        for p in preferred:
+            if p in names:
+                return p
+        for n in names:
+            if "gemini" in n and "flash" in n:
+                return n
+    except Exception as e:
+        print(f"[AI] List models failed: {e}")
+    return "gemini-1.5-flash"
+
 # ===== pastikan package "training" bisa di-import =====
 ROOT = Path(__file__).resolve().parents[1]  # .../LearnCheck
 if str(ROOT) not in sys.path:
@@ -338,8 +358,9 @@ Output HARUS dalam format JSON array (tanpa markdown, pure JSON):
         all_questions = []
         for idx, ch in enumerate(chunks):
             prompt = prompt_tpl.replace("{material_chunk}", ch)
+            model_name = _pick_available_model()
             response = CLIENT.models.generate_content(
-                model="gemini-1.5-flash",
+                model=model_name,
                 contents=prompt
             )
             response_text = (response.text or "").strip()
