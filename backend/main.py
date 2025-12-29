@@ -287,19 +287,31 @@ def process_material_with_ai(material_text: str, mapel: str) -> dict:
             print("[ERROR] Gemini API key not configured")
             return {"success": False, "error": "Gemini API key not configured", "questions": []}
         
-        if not material_text or len(material_text.strip()) < 50:
+        # Jalankan AI meski teks sedikit, dengan fallback chunking
+        if not material_text or len(material_text.strip()) < 10:
             print(f"[ERROR] Material text too short: {len(material_text)} chars")
             return {"success": False, "error": "Material text is empty or too short", "questions": []}
         
         print(f"[AI] Processing material ({len(material_text)} chars) for {mapel}")
         
-        prompt = f"""
+        # Ambil max 8000 chars; jika lebih, potong per 3000 chars dan gabungkan hasil
+        chunks = []
+        t = material_text.strip()
+        MAX_INPUT = 8000
+        if len(t) <= MAX_INPUT:
+            chunks = [t]
+        else:
+            step = 3000
+            for i in range(0, min(len(t), MAX_INPUT), step):
+                chunks.append(t[i:i+step])
+
+        prompt_tpl = f"""
 Peran: Anda adalah guru ahli pembuat soal ujian untuk mata pelajaran {mapel}.
 
 Tugas: Baca dan pelajari materi berikut, lalu buatlah 10-15 soal pilihan ganda berkualitas yang mencakup berbagai tingkat kesulitan (mudah, sedang, sulit) dan berbagai topik dalam materi.
 
 Materi:
-{material_text[:5000]}
+{{material_chunk}}
 
 Instruksi:
 1. Buat soal yang menguji pemahaman konsep, bukan hanya hafalan
@@ -323,37 +335,37 @@ Output HARUS dalam format JSON array (tanpa markdown, pure JSON):
         print("[AI] Calling Gemini API...")
         if not CLIENT:
             raise RuntimeError("Gemini client not initialized")
-        response = CLIENT.models.generate_content(
-            model="gemini-1.5-flash",
-            contents=prompt
-        )
-        
-        # Parse response
-        response_text = response.text.strip()
-        print(f"[AI] Got response ({len(response_text)} chars)")
-        print(f"[AI] First 200 chars: {response_text[:200]}")
-        
-        # Remove markdown code blocks if present
-        if response_text.startswith("```"):
-            lines = response_text.split("\n")
-            response_text = "\n".join(lines[1:-1])  # Remove first and last line
-            if response_text.startswith("json"):
-                response_text = response_text[4:].strip()
-        
-        print("[AI] Parsing JSON...")
-        questions_data = json.loads(response_text)
-        
-        if not isinstance(questions_data, list):
-            print(f"[ERROR] Response is not a list: {type(questions_data)}")
-            return {"success": False, "error": "Invalid response format", "questions": []}
-        
-        print(f"[AI] Successfully parsed {len(questions_data)} questions")
-        
-        return {
-            "success": True,
-            "questions": questions_data,
-            "count": len(questions_data)
-        }
+        all_questions = []
+        for idx, ch in enumerate(chunks):
+            prompt = prompt_tpl.replace("{material_chunk}", ch)
+            response = CLIENT.models.generate_content(
+                model="gemini-1.5-flash",
+                contents=prompt
+            )
+            response_text = (response.text or "").strip()
+            print(f"[AI] Chunk {idx+1}/{len(chunks)} len={len(response_text)}")
+            if not response_text:
+                continue
+            if response_text.startswith("```"):
+                lines = response_text.split("\n")
+                response_text = "\n".join(lines[1:-1])
+                if response_text.startswith("json"):
+                    response_text = response_text[4:].strip()
+            try:
+                data = json.loads(response_text)
+                if isinstance(data, list):
+                    all_questions.extend(data)
+                elif isinstance(data, dict):
+                    all_questions.append(data)
+            except Exception as e:
+                print(f"[AI] JSON parse failed on chunk {idx+1}: {e}")
+                continue
+
+        if not all_questions:
+            return {"success": False, "error": "AI returned no questions", "questions": []}
+
+        print(f"[AI] Successfully aggregated {len(all_questions)} questions")
+        return {"success": True, "questions": all_questions[:15], "count": len(all_questions)}
         
     except json.JSONDecodeError as e:
         print(f"[ERROR] JSON parsing failed: {e}")
@@ -710,34 +722,39 @@ def delete_user_endpoint(email: str, admin: DBUser = Depends(get_current_admin),
 def create_class(req: CreateClassRequest, credentials: HTTPAuthorizationCredentials = Depends(security),
                 db: DBSessionType = Depends(get_db)):
     """Teacher creates a new class for their subject."""
-    teacher = get_current_user(credentials, db)
-    
-    if teacher.role != "teacher":
-        raise HTTPException(status_code=403, detail="Only teachers can create classes")
-    
-    # Validasi subject sesuai dengan subject teacher
-    if req.subject != teacher.subject:
-        raise HTTPException(status_code=400, detail=f"You can only create classes for {teacher.subject}")
-    
-    class_id = f"{req.subject}_{req.name}_{secrets.token_hex(4)}"
-    
-    cls = crud.create_class(
-        db=db,
-        class_id=class_id,
-        name=req.name,
-        subject=req.subject,
-        teacher_email=teacher.email,
-        teacher_name=teacher.username
-    )
-    
-    return ClassResponse(
-        class_id=cls.class_id,
-        name=cls.name,
-        subject=cls.subject,
-        teacher_email=cls.teacher_email,
-        teacher_name=cls.teacher_name,
-        students=[]
-    )
+    try:
+        teacher = get_current_user(credentials, db)
+        if teacher.role != "teacher":
+            raise HTTPException(status_code=403, detail="Only teachers can create classes")
+        # Jika teacher.subject kosong (data lama), izinkan menggunakan req.subject
+        teacher_subject = (teacher.subject or "").lower()
+        req_subject = (req.subject or "").lower()
+        if not teacher_subject:
+            teacher_subject = req_subject
+        if req_subject != teacher_subject:
+            raise HTTPException(status_code=400, detail=f"You can only create classes for {teacher_subject or 'your subject'}")
+        class_id = f"{req_subject}_{req.name}_{secrets.token_hex(4)}"
+        cls = crud.create_class(
+            db=db,
+            class_id=class_id,
+            name=req.name,
+            subject=req_subject,
+            teacher_email=teacher.email,
+            teacher_name=teacher.username
+        )
+        return ClassResponse(
+            class_id=cls.class_id,
+            name=cls.name,
+            subject=cls.subject,
+            teacher_email=cls.teacher_email,
+            teacher_name=cls.teacher_name,
+            students=[]
+        )
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"[ERROR] create_class failed: {e}")
+        raise HTTPException(status_code=500, detail="Internal error when creating class")
 
 @app.get("/teacher/classes", response_model=List[ClassResponse])
 def list_my_classes(credentials: HTTPAuthorizationCredentials = Depends(security),
