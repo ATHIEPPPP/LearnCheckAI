@@ -78,9 +78,10 @@ export default function ClassManagement() {
 
       if (response.ok) {
         const classes = await response.json();
-        // Find class that matches current subject
-        const teacherSubject = localStorage.getItem("teacher_subject");
-        const currentClass = classes.find((c) => c.subject === teacherSubject);
+        // Find class that matches current subject (case-insensitive)
+        const teacherSubject = localStorage.getItem("teacher_subject") || subject.name;
+        const ts = (teacherSubject || "").toLowerCase();
+        const currentClass = classes.find((c) => (c.subject || "").toLowerCase() === ts);
 
         if (currentClass) {
           setMyClass(currentClass);
@@ -97,7 +98,8 @@ export default function ClassManagement() {
   const createClass = async () => {
     try {
       const token = localStorage.getItem("teacher_token");
-      const teacherSubject = localStorage.getItem("teacher_subject");
+      const teacherSubject = localStorage.getItem("teacher_subject") || subject.name;
+      const reqSubject = (teacherSubject || "").toLowerCase();
 
       const response = await fetch(`${API_BASE_URL}/teacher/classes`, {
         method: "POST",
@@ -107,13 +109,16 @@ export default function ClassManagement() {
         },
         body: JSON.stringify({
           name: `Kelas ${subject.name}`,
-          subject: teacherSubject,
+          subject: reqSubject,
         }),
       });
 
       if (response.ok) {
         const newClass = await response.json();
         setMyClass(newClass);
+      } else {
+        const err = await response.json().catch(() => ({ detail: "unknown" }));
+        console.error("Failed to create class:", err);
       }
     } catch (error) {
       console.error("Failed to create class:", error);
