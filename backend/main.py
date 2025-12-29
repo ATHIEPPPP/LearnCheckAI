@@ -100,6 +100,14 @@ import json
 @app.on_event("startup")
 async def startup_event():
     Base.metadata.create_all(bind=engine)
+    # Ensure missing columns exist (for runtime migrations)
+    try:
+        from sqlalchemy import text as _text
+        with engine.begin() as conn:
+            conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS file_type VARCHAR(50)"))
+            conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS created_at TIMESTAMP DEFAULT NOW()"))
+    except Exception as e:
+        print(f"[STARTUP] Warn: failed to ensure materials columns: {e}")
     # Create default admin if not exists
     db = next(get_db())
     admin = db.query(DBUser).filter(DBUser.email == "admin@learncheck.com").first()

@@ -100,14 +100,15 @@ class QuestionChoice(Base):
 
 
 class Material(Base):
-	__tablename__ = "materials"
+    __tablename__ = "materials"
 
-	id = Column(Integer, primary_key=True, index=True)
-	title = Column(String(255), nullable=False)
-	description = Column(Text)
-	mapel = Column(String(100), nullable=False)  # Mata pelajaran
-	file_url = Column(String(255), nullable=True)  # Path/URL file materi
-	uploader_id = Column(Integer, ForeignKey("users.id"), nullable=False)
-	uploader = relationship("User", back_populates="materials")
+    id = Column(Integer, primary_key=True, index=True)
+    title = Column(String(255), nullable=False)
+    description = Column(Text)
+    mapel = Column(String(100), nullable=False)  # Mata pelajaran
+    file_url = Column(String(255), nullable=True)  # Path/URL file materi
+    file_type = Column(String(50), nullable=True)
+    uploader_id = Column(Integer, ForeignKey("users.id"), nullable=False)
+    uploader = relationship("User", back_populates="materials")
+    created_at = Column(DateTime, default=datetime.utcnow)
 # moved from app/models.py
-
