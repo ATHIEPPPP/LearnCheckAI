@@ -1338,7 +1338,8 @@ def list_materials(
         query = db.query(DBMaterial)
         
         if mapel:
-            query = query.filter(DBMaterial.mapel == mapel)
+            # Use ilike for case-insensitive search
+            query = query.filter(DBMaterial.mapel.ilike(mapel))
         
         materials = query.order_by(DBMaterial.created_at.desc()).all()
         
