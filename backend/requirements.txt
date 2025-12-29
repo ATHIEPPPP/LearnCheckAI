@@ -9,7 +9,8 @@ psycopg2-binary
 uvicorn
 pydantic>=2.0
 SQLAlchemy>=2.0
-passlib[bcrypt]
+passlib[bcrypt]==1.7.4
+bcrypt>=3.2,<4
 pyjwt
 python-multipart
 requests
@@ -17,5 +18,4 @@ PyPDF2
 python-pptx
 pdf2image
 pytesseract
-Pillow
 google-generativeai
