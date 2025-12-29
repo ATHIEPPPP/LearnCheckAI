@@ -61,11 +61,10 @@ export default function TeacherDashboardPage() {
     if (!userSubject) {
       // If no subject, redirect to login
       navigate("/");
-      return;
+    } else {
+      setTeacherSubject(userSubject);
+      setTeacherName(userName || "Guru");
     }
-
-    setTeacherSubject(userSubject);
-    setTeacherName(userName || "Guru");
   }, [navigate]);
 
   function handleManage(subject) {

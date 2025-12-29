@@ -1,4 +1,4 @@
-import SubjectCard from "./SubjectCard";
+import { useNavigate } from "react-router-dom";
 
 const subjects = [
   { id: 'AGH101', name: 'Agama Hindu' },
@@ -12,7 +12,7 @@ const subjects = [
   { id: 'IPS101', name: 'IPS' },
 ];
 
-const SubjectCard = ({ subject, onManage }) => (
+const SubjectCardInternal = ({ subject, onManage }) => (
   <div className="bg-white rounded-lg shadow-sm border px-6 py-5">
     <div className="flex items-center gap-4">
       <div className="w-12 h-12 rounded-md bg-indigo-100 flex items-center justify-center">
@@ -62,7 +62,7 @@ const TeacherDashboard = () => {
         <section>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {subjects.map((s) => (
-              <SubjectCard key={s.id} subject={s} onManage={handleManage} />
+              <SubjectCardInternal key={s.id} subject={s} onManage={handleManage} />
             ))}
           </div>
         </section>
@@ -71,4 +71,4 @@ const TeacherDashboard = () => {
   )
 }
 
-export default TeacherDashboard
+export default TeacherDashboard;

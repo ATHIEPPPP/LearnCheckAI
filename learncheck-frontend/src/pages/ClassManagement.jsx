@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+// LearnCheck Class Management - Fixed Version (Refreshed)
+import { useEffect, useState, useCallback, useMemo } from "react";
 import { PlayCircle } from "lucide-react";
 import { useLocation, useNavigate } from "react-router-dom";
 import { API_BASE_URL } from "../config/api";
@@ -7,53 +8,26 @@ export default function ClassManagement() {
   const location = useLocation();
   const navigate = useNavigate();
 
-  // Get subject from location state or localStorage
-  const getSubject = () => {
-    if (location.state?.subject?.name) {
-      return location.state.subject;
-    }
-    // Fallback to localStorage
-    const teacherSubject = localStorage.getItem("teacher_subject");
-    if (teacherSubject) {
-      return { id: teacherSubject, name: teacherSubject };
-    }
-    return { id: "N/A", name: "Kelas" };
-  };
-
-  const subject = getSubject();
-
-  const handleStartQuiz = (materialSubject) => {
-    navigate("/student", { state: { selectedSubject: materialSubject } });
-  };
-
+  // --- State Management ---
   const [activeTab, setActiveTab] = useState("students");
+  // Data States
   const [materials, setMaterials] = useState([]);
-  const [uploading, setUploading] = useState(false);
-  const [saving, setSaving] = useState(false);
-  // Modal konfirmasi hapus materi
-  const [showDeleteModal, setShowDeleteModal] = useState(false);
-  const [deleteId, setDeleteId] = useState(null);
-  // Notifikasi pop-up
-  const [notif, setNotif] = useState({
-    show: false,
-    message: "",
-    type: "info",
-  });
-  const showNotif = (message, type = "info", timeout = 2500) => {
-    setNotif({ show: true, message, type });
-    setTimeout(
-      () => setNotif({ show: false, message: "", type: "info" }),
-      timeout
-    );
-  };
-
-  // Students management state
   const [myClass, setMyClass] = useState(null);
   const [availableStudents, setAvailableStudents] = useState([]);
-  const [loadingStudents, setLoadingStudents] = useState(false);
-  const [showAddStudent, setShowAddStudent] = useState(false);
+  
+  // Loading States
 
-  // Quiz settings state
+  const [uploading, setUploading] = useState(false);
+  const [loadingStudents, setLoadingStudents] = useState(false);
+  const [saving, setSaving] = useState(false);
+
+  // UI States
+  
+  const [showAddStudent, setShowAddStudent] = useState(false);
+  const [showDeleteModal, setShowDeleteModal] = useState(false);
+  const [deleteId, setDeleteId] = useState(null);
+  const [notif, setNotif] = useState({ show: false, message: "", type: "info" });
+
   const [quizSettings, setQuizSettings] = useState({
     enabled: false,
     timer: 60,
@@ -64,47 +38,29 @@ export default function ClassManagement() {
     attempts: 1,
   });
 
-  // Load quiz settings on mount
-  useEffect(() => {
-    loadQuizSettings();
-    loadMyClass();
-    loadAvailableStudents();
-    loadMaterials();
-  }, [subject.name]);
-
-  const loadMyClass = async () => {
-    try {
-      const token = localStorage.getItem("teacher_token");
-      const response = await fetch(`${API_BASE_URL}/teacher/classes`, {
-        headers: {
-          Authorization: `Bearer ${token}`,
-        },
-      });
-
-      if (response.ok) {
-        const classes = await response.json();
-        // Find class that matches current subject (case-insensitive)
-        const teacherSubject = localStorage.getItem("teacher_subject") || subject.name;
-        const ts = (teacherSubject || "").toLowerCase();
-        const currentClass = classes.find((c) => (c.subject || "").toLowerCase() === ts);
-
-        if (currentClass) {
-          setMyClass(currentClass);
-        } else {
-          // Create class if not exists
-          await createClass();
-        }
-      }
-    } catch (error) {
-      console.error("Failed to load class:", error);
-    }
+  // --- Helpers ---
+  const showNotif = (message, type = "info", timeout = 2500) => {
+    setNotif({ show: true, message, type });
+    setTimeout(() => setNotif({ show: false, message: "", type: "info" }), timeout);
   };
 
-  const createClass = async () => {
+  const subject = useMemo(() => {
+    if (location.state?.subject?.name) {
+      return location.state.subject;
+    }
+    const teacherSubject = localStorage.getItem("teacher_subject");
+    if (teacherSubject) {
+      return { id: teacherSubject, name: teacherSubject };
+    }
+    return { id: "N/A", name: "Kelas" };
+  }, [location.state]);
+
+  // --- API Calls ---
+
+  const createClass = useCallback(async () => {
     try {
       const token = localStorage.getItem("teacher_token");
-      const teacherSubject = localStorage.getItem("teacher_subject") || subject.name;
-      const reqSubject = (teacherSubject || "").toLowerCase();
+      const reqSubject = (subject.name || "").toLowerCase();
 
       const response = await fetch(`${API_BASE_URL}/teacher/classes`, {
         method: "POST",
@@ -121,39 +77,96 @@ export default function ClassManagement() {
       if (response.ok) {
         const newClass = await response.json();
         setMyClass(newClass);
-      } else {
-        const err = await response.json().catch(() => ({ detail: "unknown" }));
-        console.error("Failed to create class:", err);
       }
     } catch (error) {
       console.error("Failed to create class:", error);
     }
-  };
+  }, [subject.name]);
 
-  const loadAvailableStudents = async () => {
+  const loadMyClass = useCallback(async () => {
     try {
       const token = localStorage.getItem("teacher_token");
-      const response = await fetch(
-        `${API_BASE_URL}/teacher/available-students`,
-        {
-          headers: {
-            Authorization: `Bearer ${token}`,
-          },
-        }
-      );
+      const response = await fetch(`${API_BASE_URL}/teacher/classes`, {
+        headers: { Authorization: `Bearer ${token}` },
+      });
 
+      if (response.ok) {
+        const classes = await response.json();
+        const ts = (subject.name || "").toLowerCase();
+        const currentClass = classes.find((c) => (c.subject || "").toLowerCase() === ts);
+
+        if (currentClass) {
+          setMyClass(currentClass);
+        } else {
+          await createClass();
+        }
+      }
+    } catch (error) {
+      console.error("Failed to load class:", error);
+    }
+  }, [subject.name, createClass]);
+
+  const loadAvailableStudents = useCallback(async () => {
+    try {
+      const token = localStorage.getItem("teacher_token");
+      const response = await fetch(`${API_BASE_URL}/teacher/available-students`, {
+        headers: { Authorization: `Bearer ${token}` },
+      });
       if (response.ok) {
         const students = await response.json();
         setAvailableStudents(students);
       }
     } catch (error) {
-      console.error("Failed to load students:", error);
+      console.error("Failed to load available students:", error);
     }
-  };
+  }, []);
+
+  const loadMaterials = useCallback(async () => {
+    try {
+      const mapelNormalized = subject.name.toLowerCase().replace(/\s+/g, "_");
+      const response = await fetch(`${API_BASE_URL}/materials?mapel=${mapelNormalized}`);
+      if (response.ok) {
+        const data = await response.json();
+        setMaterials(data);
+      }
+    } catch (error) {
+      console.error("Error loading materials:", error);
+    }
+  }, [subject.name]);
+
+  const loadQuizSettings = useCallback(async () => {
+    try {
+      const mapelNormalized = subject.name.toLowerCase().replace(/\s+/g, "_");
+      const response = await fetch(`${API_BASE_URL}/quiz-settings/${mapelNormalized}`);
+      if (response.ok) {
+        const data = await response.json();
+        setQuizSettings({
+          enabled: data.enabled,
+          timer: data.timer,
+          startDate: data.startDate || "",
+          endDate: data.endDate || "",
+          showCorrectAnswers: data.showCorrectAnswers,
+          randomizeQuestions: data.randomizeQuestions,
+          attempts: data.attempts,
+        });
+      }
+    } catch (error) {
+      console.error("Failed to load quiz settings:", error);
+    }
+  }, [subject.name]);
+
+  // Initial Load
+  useEffect(() => {
+    loadMyClass();
+    loadAvailableStudents();
+    loadMaterials();
+    loadQuizSettings();
+  }, [loadMyClass, loadAvailableStudents, loadMaterials, loadQuizSettings]);
+
+  // --- Handlers: Students ---
 
   const handleAddStudent = async (studentEmail) => {
     if (!myClass) return;
-
     setLoadingStudents(true);
     try {
       const token = localStorage.getItem("teacher_token");
@@ -178,21 +191,19 @@ export default function ClassManagement() {
         await loadAvailableStudents();
         setShowAddStudent(false);
       } else {
-        const error = await response.json();
-        showNotif(`❌ Error: ${error.detail}`, "error");
+        const err = await response.json();
+        showNotif(`❌ Gagal: ${err.detail}`, "error");
       }
-    } catch (error) {
-      console.error("Failed to add student:", error);
-      showNotif("❌ Gagal menambahkan siswa", "error");
+    } catch (err) {
+      console.error("Failed to add student:", err);
+      showNotif("❌ Terjadi kesalahan", "error");
     } finally {
       setLoadingStudents(false);
     }
   };
 
   const handleRemoveStudent = async (studentEmail) => {
-    if (!myClass) return;
-    if (!confirm("Hapus siswa dari kelas?")) return;
-
+    if (!window.confirm("Hapus siswa dari kelas?")) return;
     setLoadingStudents(true);
     try {
       const token = localStorage.getItem("teacher_token");
@@ -200,722 +211,380 @@ export default function ClassManagement() {
         `${API_BASE_URL}/teacher/classes/${myClass.class_id}/students/${studentEmail}`,
         {
           method: "DELETE",
-          headers: {
-            Authorization: `Bearer ${token}`,
-          },
+          headers: { Authorization: `Bearer ${token}` },
         }
       );
 
       if (response.ok) {
-        showNotif("✅ Siswa berhasil dihapus dari kelas", "success");
+        showNotif("✅ Siswa berhasil dihapus", "success");
         await loadMyClass();
         await loadAvailableStudents();
       } else {
         showNotif("❌ Gagal menghapus siswa", "error");
       }
-    } catch (error) {
-      console.error("Failed to remove student:", error);
-      showNotif("❌ Gagal menghapus siswa", "error");
+    } catch (err) {
+      console.error("Remove student error:", err);
+      showNotif("❌ Terjadi kesalahan", "error");
     } finally {
       setLoadingStudents(false);
     }
   };
 
-  const loadQuizSettings = async () => {
-    try {
-      const mapel = subject.name.toLowerCase().replace(/\s+/g, "_");
-      const response = await fetch(`${API_BASE_URL}/quiz-settings/${mapel}`);
-      if (response.ok) {
-        const data = await response.json();
-        setQuizSettings({
-          enabled: data.enabled,
-          timer: data.timer,
-          startDate: data.startDate || "",
-          endDate: data.endDate || "",
-          showCorrectAnswers: data.showCorrectAnswers,
-          randomizeQuestions: data.randomizeQuestions,
-          attempts: data.attempts,
-        });
-      }
-    } catch (error) {
-      console.error("Failed to load quiz settings:", error);
-    }
-  };
+  // --- Handlers: Materials ---
 
   const handleFileUpload = async (e) => {
     const files = Array.from(e.target.files);
     if (!files.length) return;
-
     setUploading(true);
 
     try {
       for (const file of files) {
-        // Validate file type
-        const allowedTypes = [
-          "application/pdf",
-          "application/vnd.ms-powerpoint",
-          "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-        ];
-
-        if (!allowedTypes.includes(file.type)) {
-          showNotif(
-            `File ${file.name} tidak didukung. Hanya PDF atau PPT yang diperbolehkan.`,
-            "error"
-          );
-          continue;
-        }
-
-        // Validate file size (max 10MB)
-        if (file.size > 10 * 1024 * 1024) {
-          showNotif(`File ${file.name} terlalu besar. Maksimal 10MB.`, "error");
-          continue;
-        }
-
         const formData = new FormData();
         formData.append("file", file);
+        formData.append("mapel", subject.name);
+        formData.append("title", file.name);
+        formData.append("description", `Materi ${subject.name}`);
 
-        // Use subject.name, fallback to localStorage if needed
-        const subjectName =
-          subject.name || localStorage.getItem("teacher_subject") || "unknown";
-        console.log("[UPLOAD] Subject:", subjectName); // Debug log
-
-        formData.append("subject", subjectName);
-        formData.append("title", file.name.replace(/\.[^/.]+$/, "")); // Remove extension
-        formData.append("description", `Materi ${subjectName}`);
-
+        const token = localStorage.getItem("teacher_token");
         const response = await fetch(`${API_BASE_URL}/materials/upload`, {
           method: "POST",
+          headers: { Authorization: `Bearer ${token}` },
           body: formData,
         });
 
         if (response.ok) {
-          const result = await response.json();
-          let jumlahSoal = result.jumlah_soal_ditambahkan || 0;
-          let msg = `✅ ${file.name} berhasil diupload!`;
-          if (jumlahSoal > 0) {
-            msg += `\nAI berhasil membuat ${jumlahSoal} soal dari materi ini.`;
-          } else {
-            msg += `\nAI tidak berhasil membuat soal dari materi ini.`;
-          }
-          showNotif(msg, "success", 4000);
+          showNotif(`✅ ${file.name} berhasil diupload!`, "success");
         } else {
-          const error = await response.json().catch(() => ({}));
-          showNotif(
-            `❌ Gagal upload ${file.name}: ${error.detail || "Unknown error"}`,
-            "error"
-          );
+          showNotif(`❌ Gagal upload ${file.name}`, "error");
         }
       }
-
-      // Reload materials list
       await loadMaterials();
       e.target.value = null;
-    } catch (error) {
-      console.error("Upload error:", error);
-      showNotif("❌ Terjadi kesalahan saat upload", "error");
+    } catch (err) {
+      console.error("Upload error:", err);
+      showNotif("❌ Terjadi kesalahan upload", "error");
     } finally {
       setUploading(false);
     }
   };
 
-  const loadMaterials = async () => {
-    try {
-      const mapel = subject.name.toLowerCase().replace(/\s+/g, "_");
-      const response = await fetch(`${API_BASE_URL}/materials?mapel=${mapel}`);
-
-      if (response.ok) {
-        const data = await response.json();
-        const formattedMaterials = data.map((m) => ({
-          id: m.id,
-          name: m.title,
-          size: "N/A",
-          type: m.file_type,
-          uploadDate: new Date(m.created_at).toLocaleDateString("id-ID"),
-          file_url: m.file_url,
-        }));
-        setMaterials(formattedMaterials);
-      }
-    } catch (error) {
-      console.error("Failed to load materials:", error);
-    }
-  };
-
-  const handleDeleteMaterial = (id) => {
-    setDeleteId(id);
-    setShowDeleteModal(true);
-  };
-
-  const confirmDeleteMaterial = async () => {
+  const handleDeleteMaterial = async () => {
     if (!deleteId) return;
     try {
+      const token = localStorage.getItem("teacher_token");
       const response = await fetch(`${API_BASE_URL}/materials/${deleteId}`, {
         method: "DELETE",
+        headers: { Authorization: `Bearer ${token}` },
       });
+
       if (response.ok) {
-        showNotif("✅ Materi berhasil dihapus permanen!", "success");
-        // Reload list dari backend
+        showNotif("✅ Materi berhasil dihapus", "success");
         await loadMaterials();
       } else {
-        const error = await response.json().catch(() => ({}));
-        showNotif(
-          `❌ Gagal hapus materi: ${error.detail || "Unknown error"}`,
-          "error"
-        );
+        showNotif("❌ Gagal menghapus materi", "error");
       }
-    } catch (error) {
-      showNotif("❌ Gagal hapus materi (server error)", "error");
+    } catch (err) {
+      console.error("Delete material error:", err);
+      showNotif("❌ Terjadi kesalahan", "error");
     } finally {
       setShowDeleteModal(false);
       setDeleteId(null);
     }
   };
 
-  const cancelDeleteMaterial = () => {
-    setShowDeleteModal(false);
-    setDeleteId(null);
-  };
+  // --- Handlers: Quiz ---
 
-  const handleQuizToggle = () => {
-    const newEnabled = !quizSettings.enabled;
-    setQuizSettings({ ...quizSettings, enabled: newEnabled });
-  };
-
-  const saveQuizSettings = async (
-    settings = quizSettings,
-    showNotification = true
-  ) => {
+  const saveQuizSettings = async (newSettings) => {
     setSaving(true);
     try {
-      const mapel = subject.name.toLowerCase().replace(/\s+/g, "_");
+      const mapelNormalized = subject.name.toLowerCase().replace(/\s+/g, "_");
+      const token = localStorage.getItem("teacher_token");
       const response = await fetch(`${API_BASE_URL}/quiz-settings`, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${token}`,
+        },
         body: JSON.stringify({
-          mapel: mapel,
-          enabled: settings.enabled,
-          timer: settings.timer,
-          startDate: settings.startDate || null,
-          endDate: settings.endDate || null,
-          showCorrectAnswers: settings.showCorrectAnswers,
-          randomizeQuestions: settings.randomizeQuestions,
-          attempts: settings.attempts,
+          mapel: mapelNormalized,
+          ...newSettings,
         }),
       });
 
       if (response.ok) {
-        if (showNotification) {
-          showNotif("✅ Pengaturan quiz berhasil tersimpan!", "success");
-        }
-        return true;
+        showNotif("✅ Pengaturan berhasil disimpan", "success");
       } else {
-        if (showNotification) {
-          showNotif("❌ Gagal menyimpan pengaturan", "error");
-        }
-        return false;
+        showNotif("❌ Gagal menyimpan pengaturan", "error");
       }
-    } catch (error) {
-      console.error("Failed to save quiz settings:", error);
-      if (showNotification) {
-        showNotif("❌ Error: " + error.message, "error");
-      }
-      return false;
+    } catch (err) {
+      console.error("Save quiz error:", err);
+      showNotif("❌ Terjadi kesalahan", "error");
     } finally {
       setSaving(false);
     }
   };
 
-  const handleSaveSettings = () => {
-    saveQuizSettings(quizSettings, true);
-  };
+  // --- Render Functions ---
 
-  return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-purple-50/30 pb-12">
-      {/* Notifikasi Pop-up */}
-      {notif.show && (
-        <div
-          className={`fixed top-6 left-1/2 -translate-x-1/2 z-50 px-6 py-3 rounded-xl shadow-lg text-white font-semibold transition-all duration-300 ${
-            notif.type === "error"
-              ? "bg-red-500"
-              : notif.type === "success"
-              ? "bg-green-500"
-              : "bg-indigo-500"
-          }`}
+  const renderStudentsTab = () => (
+    <div>
+      <div className="flex justify-between items-center mb-6">
+        <h2 className="text-2xl font-bold text-gray-800">Daftar Siswa</h2>
+        <button
+          onClick={() => setShowAddStudent(!showAddStudent)}
+          className="bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-2 rounded-xl font-semibold transition-all"
         >
-          {notif.message}
-        </div>
-      )}
-      {/* Modal Konfirmasi Hapus */}
-      {showDeleteModal && (
-        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-40 z-50">
-          <div className="bg-white p-6 rounded shadow-lg w-80">
-            <p className="text-lg font-semibold mb-4">Hapus materi ini?</p>
-            <div className="flex gap-2 justify-end">
-              <button
-                onClick={confirmDeleteMaterial}
-                className="bg-red-500 text-white px-4 py-2 rounded"
-              >
-                Ya
-              </button>
-              <button
-                onClick={cancelDeleteMaterial}
-                className="bg-gray-300 px-4 py-2 rounded"
-              >
-                Batal
-              </button>
-            </div>
-            <p className="text-xs text-gray-400 mt-3">
-              (Untuk delete permanent, perlu implement DELETE endpoint)
-            </p>
-          </div>
-        </div>
-      )}
-      {/* Header */}
-      <div className="bg-white border-b shadow-sm">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <button
-            onClick={() => navigate("/teacher")}
-            className="text-indigo-600 hover:text-indigo-800 mb-3 flex items-center gap-2 text-sm font-medium"
-          >
-            ← Kembali ke Dashboard
-          </button>
-          <div className="flex items-center justify-between">
-            <div>
-              <h1 className="text-3xl font-bold text-gray-800">
-                {subject.name}
-              </h1>
-              <p className="text-gray-600 mt-1">
-                {subject.id} • Semester Genap (B) 2025
-              </p>
-            </div>
-            <div className="bg-indigo-50 px-4 py-2 rounded-xl">
-              <span className="text-sm font-medium text-indigo-700">
-                {myClass?.students?.length || 0} Siswa
-              </span>
-            </div>
-          </div>
-        </div>
+          {showAddStudent ? "Batal" : "+ Tambah Siswa"}
+        </button>
       </div>
 
-      {/* Tabs */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6">
-        <div className="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden">
-          <div className="flex border-b">
-            <button
-              onClick={() => setActiveTab("students")}
-              className={`flex-1 py-4 px-6 font-semibold transition-all ${
-                activeTab === "students"
-                  ? "bg-indigo-50 text-indigo-700 border-b-2 border-indigo-600"
-                  : "text-gray-600 hover:bg-gray-50"
-              }`}
-            >
-              👥 Siswa Kelas
-            </button>
-            <button
-              onClick={() => setActiveTab("materials")}
-              className={`flex-1 py-4 px-6 font-semibold transition-all ${
-                activeTab === "materials"
-                  ? "bg-indigo-50 text-indigo-700 border-b-2 border-indigo-600"
-                  : "text-gray-600 hover:bg-gray-50"
-              }`}
-            >
-              📚 Materi Pembelajaran
-            </button>
-            <button
-              onClick={() => setActiveTab("quiz")}
-              className={`flex-1 py-4 px-6 font-semibold transition-all ${
-                activeTab === "quiz"
-                  ? "bg-indigo-50 text-indigo-700 border-b-2 border-indigo-600"
-                  : "text-gray-600 hover:bg-gray-50"
-              }`}
-            >
-              ⚙️ Pengaturan Quiz
-            </button>
-          </div>
-
-          {/* Tab Content */}
-          <div className="p-6">
-            {activeTab === "students" && (
-              <div>
-                <div className="flex justify-between items-center mb-6">
-                  <div>
-                    <h2 className="text-xl font-bold text-gray-800 mb-1">
-                      Daftar Siswa
-                    </h2>
-                    <p className="text-gray-600 text-sm">
-                      Total: {myClass?.students?.length || 0} siswa
-                    </p>
-                  </div>
+      {showAddStudent && (
+        <div className="mb-6 p-6 bg-indigo-50 rounded-xl border border-indigo-200">
+          <h3 className="font-semibold mb-4">Pilih Siswa untuk Ditambahkan:</h3>
+          {availableStudents.length === 0 ? (
+            <p className="text-gray-500">Tidak ada siswa tersedia.</p>
+          ) : (
+            <div className="space-y-2">
+              {availableStudents.map((s) => (
+                <div key={s.email} className="flex justify-between items-center bg-white p-3 rounded-lg">
+                  <span>{s.username} ({s.email})</span>
                   <button
-                    onClick={() => setShowAddStudent(!showAddStudent)}
-                    className="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-lg font-medium transition-colors flex items-center gap-2"
+                    onClick={() => handleAddStudent(s.email)}
+                    disabled={loadingStudents}
+                    className="bg-green-600 text-white px-4 py-1 rounded-lg text-sm"
                   >
-                    <span>+</span>
-                    Tambah Siswa
+                    Tambah
                   </button>
                 </div>
-
-                {/* Add Student Form */}
-                {showAddStudent && (
-                  <div className="mb-6 bg-indigo-50 border border-indigo-200 rounded-xl p-4">
-                    <h3 className="font-semibold text-gray-800 mb-3">
-                      Tambah Siswa ke Kelas
-                    </h3>
-                    {availableStudents.length === 0 ? (
-                      <p className="text-gray-600 text-sm">
-                        Tidak ada siswa yang tersedia. Semua siswa sudah masuk
-                        kelas atau belum ada siswa terdaftar.
-                      </p>
-                    ) : (
-                      <div className="space-y-2">
-                        {availableStudents.map((student) => (
-                          <div
-                            key={student.email}
-                            className="bg-white p-3 rounded-lg flex justify-between items-center"
-                          >
-                            <div>
-                              <p className="font-medium text-gray-800">
-                                {student.username}
-                              </p>
-                              <p className="text-sm text-gray-500">
-                                {student.email}
-                              </p>
-                            </div>
-                            <button
-                              onClick={() => handleAddStudent(student.email)}
-                              disabled={loadingStudents}
-                              className="bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded-lg text-sm font-medium disabled:opacity-50"
-                            >
-                              Tambahkan
-                            </button>
-                          </div>
-                        ))}
-                      </div>
-                    )}
-                  </div>
-                )}
-
-                {/* Students List */}
-                {myClass && myClass.students && myClass.students.length > 0 ? (
-                  <div className="grid gap-3">
-                    {myClass.students.map((student, index) => (
-                      <div
-                        key={student.email}
-                        className="bg-white border border-gray-200 rounded-lg p-4 flex justify-between items-center hover:shadow-md transition-shadow"
-                      >
-                        <div className="flex items-center gap-3">
-                          <div className="w-10 h-10 bg-indigo-100 rounded-full flex items-center justify-center text-indigo-600 font-bold">
-                            {index + 1}
-                          </div>
-                          <div>
-                            <p className="font-semibold text-gray-800">
-                              {student.username}
-                            </p>
-                            <p className="text-sm text-gray-500">
-                              {student.email}
-                            </p>
-                          </div>
-                        </div>
-                        <button
-                          onClick={() => handleRemoveStudent(student.email)}
-                          disabled={loadingStudents}
-                          className="text-red-600 hover:text-red-700 px-3 py-1 rounded-lg hover:bg-red-50 transition-colors text-sm font-medium disabled:opacity-50"
-                        >
-                          Hapus
-                        </button>
-                      </div>
-                    ))}
-                  </div>
-                ) : (
-                  <div className="text-center py-12 bg-gray-50 rounded-xl">
-                    <div className="text-6xl mb-4">👥</div>
-                    <h3 className="text-lg font-semibold text-gray-700 mb-2">
-                      Belum Ada Siswa
-                    </h3>
-                    <p className="text-gray-500 text-sm">
-                      Klik tombol "Tambah Siswa" untuk menambahkan siswa ke
-                      kelas ini
-                    </p>
-                  </div>
-                )}
-              </div>
-            )}
-
-            {activeTab === "materials" && (
-              <div>
-                <div className="mb-6">
-                  <h2 className="text-xl font-bold text-gray-800 mb-2">
-                    Upload Materi
-                  </h2>
-                  <p className="text-gray-600 text-sm mb-4">
-                    Upload file materi pembelajaran (PDF atau PPT). AI akan
-                    membaca materi dan menambahkan soal ke bank soal.
-                  </p>
-
-                  <label className="block">
-                    <input
-                      type="file"
-                      multiple
-                      accept=".pdf,.ppt,.pptx"
-                      onChange={handleFileUpload}
-                      className="hidden"
-                      id="file-upload"
-                    />
-                    <label
-                      htmlFor="file-upload"
-                      className="cursor-pointer inline-flex items-center gap-2 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white px-6 py-3 rounded-xl font-semibold shadow-lg hover:shadow-xl transition-all disabled:opacity-50"
-                    >
-                      {uploading
-                        ? "⏳ Mengupload..."
-                        : "📤 Pilih File (PDF/PPT)"}
-                    </label>
-                  </label>
-
-                  <div className="mt-3 bg-blue-50 border border-blue-200 rounded-lg p-3">
-                    <p className="text-sm text-blue-800">
-                      <strong>💡 Tips:</strong> AI akan otomatis membaca materi
-                      dan generate 10-15 soal baru untuk ditambahkan ke bank
-                      soal.
-                    </p>
-                  </div>
-                </div>
-
-                {/* Materials List */}
-                <div>
-                  <h3 className="text-lg font-bold text-gray-800 mb-4">
-                    Materi Tersimpan ({materials.length})
-                  </h3>
-
-                  {materials.length === 0 ? (
-                    <div className="text-center py-12 bg-gray-50 rounded-xl border-2 border-dashed border-gray-300">
-                      <div className="text-6xl mb-4">📂</div>
-                      <p className="text-gray-600">
-                        Belum ada materi yang diupload
-                      </p>
-                    </div>
-                  ) : (
-                    <div className="space-y-3">
-                      {materials.map((material) => (
-                        <div
-                          key={material.id}
-                          className="flex items-center justify-between bg-gray-50 p-4 rounded-xl border border-gray-200 hover:shadow-md transition-all"
-                        >
-                          <div className="flex items-center gap-3">
-                            <div className="text-3xl">
-                              {material.type === "pdf" ? "📕" : "📊"}
-                            </div>
-                            <div>
-                              <div className="font-semibold text-gray-800">
-                                {material.name}
-                              </div>
-                              <div className="text-sm text-gray-600">
-                                {material.type?.toUpperCase()} • Diupload{" "}
-                                {material.uploadDate}
-                              </div>
-                            </div>
-                          </div>
-                          <div className="flex gap-2">
-                            {material.file_url && (
-                              <button
-                                onClick={() =>
-                                  window.open(material.file_url, "_blank")
-                                }
-                                className="text-indigo-600 hover:text-indigo-800 px-4 py-2 rounded-lg hover:bg-indigo-50 transition-all"
-                              >
-                                👁️ Lihat
-                              </button>
-                            )}
-                            <button
-                              onClick={() => handleDeleteMaterial(material.id)}
-                              className="text-red-600 hover:text-red-800 px-4 py-2 rounded-lg hover:bg-red-50 transition-all"
-                            >
-                              🗑️ Hapus
-                            </button>
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              </div>
-            )}
-
-            {activeTab === "quiz" && (
-              <div>
-                <h2 className="text-xl font-bold text-gray-800 mb-6">
-                  Pengaturan Quiz
-                </h2>
-
-                {/* Quiz Enable/Disable */}
-                <div className="bg-white p-6 rounded-2xl shadow-md border border-gray-200">
-                  <div className="flex items-center justify-between">
-                    <div>
-                      <h3 className="font-bold text-gray-800 mb-1">
-                        Status Quiz
-                      </h3>
-                      <p className="text-sm text-gray-600">
-                        {quizSettings.enabled
-                          ? "Quiz aktif dan dapat diakses siswa"
-                          : "Quiz nonaktif, siswa tidak dapat mengakses"}
-                      </p>
-                    </div>
-                    <button
-                      onClick={handleQuizToggle}
-                      className={`relative inline-flex h-8 w-16 items-center rounded-full transition-all ${
-                        quizSettings.enabled ? "bg-green-500" : "bg-gray-300"
-                      }`}
-                    >
-                      <span
-                        className={`inline-block w-7 h-7 transform bg-white rounded-full shadow transition-transform duration-200 ${
-                          quizSettings.enabled
-                            ? "translate-x-8"
-                            : "translate-x-1"
-                        }`}
-                      />
-                    </button>
-
-                    <button
-                      onClick={() => handleStartQuiz(subject.name)}
-                      className="px-4 py-2.5 rounded-xl border-2 border-indigo-200 text-indigo-700 hover:bg-indigo-50 transition-all duration-200 flex items-center gap-2"
-                      title="Mulai Quiz"
-                    >
-                      <PlayCircle className="w-5 h-5" />
-                      Mulai Quiz
-                    </button>
-                    <label className="block text-sm font-semibold text-gray-700 mb-2">
-                      ⏱️ Durasi Quiz (menit)
-                    </label>
-                    <input
-                      type="number"
-                      value={quizSettings.timer}
-                      onChange={(e) =>
-                        setQuizSettings({
-                          ...quizSettings,
-                          timer: parseInt(e.target.value) || 0,
-                        })
-                      }
-                      className="w-full px-4 py-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-indigo-500"
-                      min="1"
-                      max="180"
-                    />
-                    <p className="text-sm text-gray-600 mt-1">
-                      Siswa memiliki {quizSettings.timer} menit untuk
-                      menyelesaikan quiz
-                    </p>
-                  </div>
-
-                  {/* Start Date */}
-                  <div>
-                    <label className="block text-sm font-semibold text-gray-700 mb-2">
-                      📅 Tanggal Mulai
-                    </label>
-                    <input
-                      type="datetime-local"
-                      value={quizSettings.startDate}
-                      onChange={(e) =>
-                        setQuizSettings({
-                          ...quizSettings,
-                          startDate: e.target.value,
-                        })
-                      }
-                      className="w-full px-4 py-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-indigo-500"
-                    />
-                  </div>
-
-                  {/* End Date */}
-                  <div>
-                    <label className="block text-sm font-semibold text-gray-700 mb-2">
-                      📅 Tanggal Berakhir
-                    </label>
-                    <input
-                      type="datetime-local"
-                      value={quizSettings.endDate}
-                      onChange={(e) =>
-                        setQuizSettings({
-                          ...quizSettings,
-                          endDate: e.target.value,
-                        })
-                      }
-                      className="w-full px-4 py-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-indigo-500"
-                    />
-                  </div>
-
-                  {/* Attempts */}
-                  <div>
-                    <label className="block text-sm font-semibold text-gray-700 mb-2">
-                      🔄 Jumlah Percobaan
-                    </label>
-                    <input
-                      type="number"
-                      value={quizSettings.attempts}
-                      onChange={(e) =>
-                        setQuizSettings({
-                          ...quizSettings,
-                          attempts: parseInt(e.target.value) || 1,
-                        })
-                      }
-                      className="w-full px-4 py-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-indigo-500"
-                      min="1"
-                      max="10"
-                    />
-                    <p className="text-sm text-gray-600 mt-1">
-                      Siswa dapat mengerjakan quiz maksimal{" "}
-                      {quizSettings.attempts}x
-                    </p>
-                  </div>
-
-                  {/* Additional Options */}
-                  <div className="space-y-3">
-                    <label className="flex items-center gap-3 cursor-pointer">
-                      <input
-                        type="checkbox"
-                        checked={quizSettings.showCorrectAnswers}
-                        onChange={(e) =>
-                          setQuizSettings({
-                            ...quizSettings,
-                            showCorrectAnswers: e.target.checked,
-                          })
-                        }
-                        className="w-5 h-5 text-indigo-600 rounded focus:ring-2 focus:ring-indigo-500"
-                      />
-                      <span className="text-gray-700">
-                        Tampilkan jawaban benar setelah selesai
-                      </span>
-                    </label>
-
-                    <label className="flex items-center gap-3 cursor-pointer">
-                      <input
-                        type="checkbox"
-                        checked={quizSettings.randomizeQuestions}
-                        onChange={(e) =>
-                          setQuizSettings({
-                            ...quizSettings,
-                            randomizeQuestions: e.target.checked,
-                          })
-                        }
-                        className="w-5 h-5 text-indigo-600 rounded focus:ring-2 focus:ring-indigo-500"
-                      />
-                      <span className="text-gray-700">
-                        Acak urutan pertanyaan
-                      </span>
-                    </label>
-                  </div>
-
-                  {/* Save Button */}
-                  <div className="pt-4">
-                    <button
-                      onClick={handleSaveSettings}
-                      disabled={saving}
-                      className="w-full bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white py-4 rounded-xl font-semibold shadow-lg hover:shadow-xl transition-all disabled:opacity-50 disabled:cursor-not-allowed"
-                    >
-                      {saving ? "⏳ Menyimpan..." : "💾 Simpan Pengaturan"}
-                    </button>
-                  </div>
-                </div>
-              </div>
-            )}
-          </div>
+              ))}
+            </div>
+          )}
         </div>
+      )}
+
+      <div className="space-y-3">
+        {myClass?.students?.length > 0 ? (
+          myClass.students.map((s, idx) => (
+            <div key={s.email} className="flex justify-between items-center p-4 bg-gray-50 rounded-xl border">
+              <div className="flex items-center gap-3">
+                <div className="w-8 h-8 bg-indigo-100 rounded-full flex items-center justify-center font-bold text-indigo-600">
+                  {idx + 1}
+                </div>
+                <div>
+                  <p className="font-semibold">{s.username}</p>
+                  <p className="text-sm text-gray-500">{s.email}</p>
+                </div>
+              </div>
+              <button
+                onClick={() => handleRemoveStudent(s.email)}
+                className="text-red-600 hover:bg-red-50 px-3 py-1 rounded-lg text-sm"
+              >
+                Hapus
+              </button>
+            </div>
+          ))
+        ) : (
+          <div className="text-center py-8 text-gray-500">Belum ada siswa di kelas ini.</div>
+        )}
       </div>
     </div>
   );
-}
+
+  const renderMaterialsTab = () => (
+    <div>
+      <div className="mb-6">
+        <h2 className="text-2xl font-bold text-gray-800 mb-2">Upload Materi</h2>
+        <label className="block">
+          <input
+            type="file"
+            multiple
+            accept=".pdf,.ppt,.pptx"
+            onChange={handleFileUpload}
+            className="hidden"
+          />
+          <div className="cursor-pointer inline-flex items-center gap-2 bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-3 rounded-xl font-semibold transition-all">
+            {uploading ? "⏳ Mengupload..." : "📤 Upload File (PDF/PPT)"}
+          </div>
+        </label>
+      </div>
+
+      <h3 className="text-lg font-bold mb-4">Materi Tersimpan ({materials.length})</h3>
+      <div className="space-y-3">
+        {materials.map((m) => (
+          <div key={m.id} className="flex justify-between items-center p-4 bg-gray-50 rounded-xl border">
+            <div className="flex items-center gap-3">
+              <span className="text-2xl">{m.type === "pdf" ? "📕" : "📊"}</span>
+              <div>
+                <p className="font-semibold">{m.name}</p>
+                <p className="text-sm text-gray-500">{m.uploadDate}</p>
+              </div>
+            </div>
+            <div className="flex gap-2">
+              {m.file_url && (
+                <button
+                  onClick={() => window.open(m.file_url, "_blank")}
+                  className="text-indigo-600 hover:bg-indigo-50 px-3 py-1 rounded-lg"
+                >
+                  Lihat
+                </button>
+              )}
+              <button
+                onClick={() => {
+                  setDeleteId(m.id);
+                  setShowDeleteModal(true);
+                }}
+                className="text-red-600 hover:bg-red-50 px-3 py-1 rounded-lg"
+                >
+                  Hapus
+                </button>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    );
+  
+    const renderQuizTab = () => (
+      <div>
+        <div className="flex justify-between items-center mb-6">
+          <h2 className="text-2xl font-bold text-gray-800">Pengaturan Quiz</h2>
+          <div className="flex gap-3">
+            <button
+              onClick={() => {
+                const newEnabled = !quizSettings.enabled;
+                setQuizSettings({ ...quizSettings, enabled: newEnabled });
+                saveQuizSettings({ ...quizSettings, enabled: newEnabled });
+              }}
+              className={`px-4 py-2 rounded-lg font-bold text-white transition-colors ${
+                quizSettings.enabled ? "bg-green-500 hover:bg-green-600" : "bg-gray-400 hover:bg-gray-500"
+              }`}
+            >
+              {quizSettings.enabled ? "Quiz Aktif" : "Quiz Nonaktif"}
+            </button>
+            <button
+              onClick={() => navigate("/student", { state: { selectedSubject: subject.name } })}
+              className="flex items-center gap-2 px-4 py-2 border border-indigo-600 text-indigo-600 rounded-lg hover:bg-indigo-50"
+            >
+              <PlayCircle size={20} /> Preview
+            </button>
+          </div>
+        </div>
+  
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 bg-white p-6 rounded-xl border shadow-sm">
+          <div>
+            <label className="block text-sm font-semibold mb-1">Durasi (menit)</label>
+            <input
+              type="number"
+              value={quizSettings.timer}
+              onChange={(e) => setQuizSettings({ ...quizSettings, timer: parseInt(e.target.value) || 0 })}
+              className="w-full border rounded-lg p-2"
+            />
+          </div>
+          <div>
+            <label className="block text-sm font-semibold mb-1">Max Percobaan</label>
+            <input
+              type="number"
+              value={quizSettings.attempts}
+              onChange={(e) => setQuizSettings({ ...quizSettings, attempts: parseInt(e.target.value) || 1 })}
+              className="w-full border rounded-lg p-2"
+            />
+          </div>
+          <div>
+            <label className="block text-sm font-semibold mb-1">Mulai</label>
+            <input
+              type="datetime-local"
+              value={quizSettings.startDate}
+              onChange={(e) => setQuizSettings({ ...quizSettings, startDate: e.target.value })}
+              className="w-full border rounded-lg p-2"
+            />
+          </div>
+          <div>
+            <label className="block text-sm font-semibold mb-1">Selesai</label>
+            <input
+              type="datetime-local"
+              value={quizSettings.endDate}
+              onChange={(e) => setQuizSettings({ ...quizSettings, endDate: e.target.value })}
+              className="w-full border rounded-lg p-2"
+            />
+          </div>
+        </div>
+  
+        <div className="mt-6">
+          <button
+            onClick={() => saveQuizSettings(quizSettings)}
+            disabled={saving}
+            className="w-full bg-indigo-600 hover:bg-indigo-700 text-white py-3 rounded-xl font-bold transition-all disabled:opacity-50"
+          >
+            {saving ? "Menyimpan..." : "Simpan Pengaturan"}
+          </button>
+        </div>
+      </div>
+    );
+  
+    return (
+      <div className="min-h-screen bg-gray-50 pb-10">
+        {/* Navbar */}
+        <nav className="bg-white shadow-sm border-b px-8 py-4 flex justify-between items-center sticky top-0 z-10">
+          <div className="font-bold text-2xl text-indigo-600">📚 LearnCheck</div>
+          <div className="flex gap-6">
+            <a href="/" className="text-gray-600 hover:text-indigo-600 font-medium">Dashboard</a>
+            <button onClick={() => { localStorage.clear(); navigate("/login"); }} className="text-red-600 font-medium">Logout</button>
+          </div>
+        </nav>
+  
+        <main className="max-w-7xl mx-auto px-4 mt-8">
+          {/* Header */}
+          <div className="mb-8">
+            <button onClick={() => navigate("/")} className="text-indigo-600 text-sm font-medium mb-2">← Kembali</button>
+            <h1 className="text-3xl font-bold text-gray-900">{subject.name}</h1>
+            <p className="text-gray-500">{myClass ? `${myClass.students?.length || 0} Siswa Terdaftar` : "Memuat data kelas..."}</p>
+          </div>
+  
+          {/* Tabs */}
+          <div className="flex border-b mb-6">
+            {["students", "materials", "quiz"].map((tab) => (
+              <button
+                key={tab}
+                onClick={() => setActiveTab(tab)}
+                className={`px-6 py-3 font-medium capitalize ${
+                  activeTab === tab ? "border-b-2 border-indigo-600 text-indigo-600" : "text-gray-500 hover:text-gray-700"
+                }`}
+              >
+                {tab === "students" ? "Siswa" : tab === "materials" ? "Materi" : "Quiz"}
+              </button>
+            ))}
+          </div>
+  
+          {/* Content */}
+          <div className="bg-white p-6 rounded-2xl shadow-sm border">
+            {activeTab === "students" && renderStudentsTab()}
+            {activeTab === "materials" && renderMaterialsTab()}
+            {activeTab === "quiz" && renderQuizTab()}
+          </div>
+        </main>
+  
+        {/* Notifications */}
+        {notif.show && (
+          <div className={`fixed bottom-6 right-6 px-6 py-3 rounded-xl shadow-lg text-white font-medium ${
+            notif.type === "success" ? "bg-green-500" : "bg-red-500"
+          }`}>
+            {notif.message}
+          </div>
+        )}
+  
+        {/* Delete Modal */}
+        {showDeleteModal && (
+          <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50">
+            <div className="bg-white p-6 rounded-xl shadow-xl max-w-sm w-full">
+              <h3 className="text-lg font-bold mb-2">Hapus Materi?</h3>
+              <p className="text-gray-600 mb-6">Tindakan ini tidak dapat dibatalkan.</p>
+              <div className="flex justify-end gap-3">
+                <button onClick={() => setShowDeleteModal(false)} className="px-4 py-2 bg-gray-100 rounded-lg">Batal</button>
+                <button onClick={handleDeleteMaterial} className="px-4 py-2 bg-red-600 text-white rounded-lg">Hapus</button>
+              </div>
+            </div>
+          </div>
+        )}
+      </div>
+    );
+  }
