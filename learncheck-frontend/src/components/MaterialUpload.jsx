@@ -1,5 +1,6 @@
 import { Check, FileText, FileUp, Upload, X } from "lucide-react";
 import { useState } from "react";
+import { API_BASE_URL } from "../config/api";
 
 export default function MaterialUpload() {
   const [selectedFile, setSelectedFile] = useState(null);
@@ -8,6 +9,7 @@ export default function MaterialUpload() {
   const [description, setDescription] = useState("");
   const [uploading, setUploading] = useState(false);
   const [uploadSuccess, setUploadSuccess] = useState(false);
+  const [notif, setNotif] = useState(null); // {type:'success'|'error', message:string}
 
   const subjects = [
     "Matematika",
@@ -47,7 +49,8 @@ export default function MaterialUpload() {
 
   const handleUpload = async () => {
     if (!selectedFile || !subject || !title) {
-      alert("Lengkapi semua field yang wajib!");
+      setNotif({ type: "error", message: "Lengkapi semua field yang wajib" });
+      setTimeout(() => setNotif(null), 3000);
       return;
     }
 
@@ -60,7 +63,7 @@ export default function MaterialUpload() {
       formData.append("title", title);
       formData.append("description", description);
 
-      const res = await fetch("http://127.0.0.1:8000/materials/upload", {
+      const res = await fetch(`${API_BASE_URL}/materials/upload`, {
         method: "POST",
         body: formData,
       });
@@ -72,14 +75,7 @@ export default function MaterialUpload() {
 
       const result = await res.json();
 
-      // Show success with AI processing info
-      if (result.questions_generated > 0) {
-        alert(
-          `Upload berhasil! AI telah mempelajari materi dan menambahkan ${result.questions_generated} soal ke bank soal ${subject}.`
-        );
-      } else {
-        alert("Upload berhasil! Materi tersimpan.");
-      }
+      setNotif({ type: "success", message: "Upload berhasil! Materi tersimpan" });
 
       setUploadSuccess(true);
       setTimeout(() => {
@@ -88,9 +84,11 @@ export default function MaterialUpload() {
         setTitle("");
         setDescription("");
         setUploadSuccess(false);
+        setNotif(null);
       }, 2000);
     } catch (error) {
-      alert("Upload gagal: " + error.message);
+      setNotif({ type: "error", message: `Upload gagal: ${error.message}` });
+      setTimeout(() => setNotif(null), 4000);
     } finally {
       setUploading(false);
     }
@@ -99,6 +97,17 @@ export default function MaterialUpload() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-purple-50/30">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
+        {notif && (
+          <div
+            className={`fixed top-4 right-4 z-50 px-4 py-3 rounded-xl shadow-lg border ${
+              notif.type === "success"
+                ? "bg-green-50 border-green-200 text-green-700"
+                : "bg-red-50 border-red-200 text-red-700"
+            }`}
+          >
+            {notif.message}
+          </div>
+        )}
         {/* Header */}
         <div className="mb-8">
           <h1 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-2">
