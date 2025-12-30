@@ -77,13 +77,18 @@ class CreateClassRequest(BaseModel):
     subject: str = None
     role: str = "teacher"
 
+class StudentInfo(BaseModel):
+    email: str
+    name: str
+    username: str
+
 class ClassResponse(BaseModel):
     class_id: str
     name: str
     subject: str
     teacher_email: str
     teacher_name: str
-    students: List[str] = [] # List of emails (strings)
+    students: List[StudentInfo] = [] 
 
     class Config:
         from_attributes = True

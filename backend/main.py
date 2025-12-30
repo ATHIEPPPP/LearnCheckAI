@@ -905,20 +905,38 @@ def list_my_classes(credentials: HTTPAuthorizationCredentials = Depends(security
     # Manually parse students JSON string to list for Pydantic
     results = []
     for cls in classes:
-        student_list = []
+        student_emails = []
         if cls.students:
             try:
-                student_list = json.loads(cls.students)
+                student_emails = json.loads(cls.students)
             except Exception:
-                student_list = []
+                student_emails = []
         
+        # Enrich with student details
+        student_objs = []
+        for email in student_emails:
+            u = crud.get_user_by_email(db, email)
+            if u:
+                student_objs.append(schemas.StudentInfo(
+                    email=u.email,
+                    name=u.username, # Use username as name if name is missing or same
+                    username=u.username
+                ))
+            else:
+                 # Fallback if user not found in DB but exists in list
+                 student_objs.append(schemas.StudentInfo(
+                    email=email,
+                    name=email.split("@")[0],
+                    username=email.split("@")[0]
+                ))
+
         results.append(ClassResponse(
             class_id=cls.class_id,
             name=cls.name,
             subject=cls.subject,
             teacher_email=cls.teacher_email,
             teacher_name=cls.teacher_name,
-            students=student_list
+            students=student_objs
         ))
     return results
 
@@ -992,9 +1010,26 @@ def add_student_to_class(class_id: str, req: AssignStudentRequest,
     
     # Parse students properly
     try:
-        student_list = json.loads(cls.students or "[]")
+        student_emails = json.loads(cls.students or "[]")
     except:
-        student_list = []
+        student_emails = []
+    
+    # Enrich with student details
+    student_objs = []
+    for email in student_emails:
+        u = crud.get_user_by_email(db, email)
+        if u:
+            student_objs.append(schemas.StudentInfo(
+                email=u.email,
+                name=u.username,
+                username=u.username
+            ))
+        else:
+             student_objs.append(schemas.StudentInfo(
+                email=email,
+                name=email.split("@")[0],
+                username=email.split("@")[0]
+            ))
         
     return {
         "message": "Student added successfully", 
@@ -1004,7 +1039,7 @@ def add_student_to_class(class_id: str, req: AssignStudentRequest,
             subject=cls.subject,
             teacher_email=cls.teacher_email,
             teacher_name=cls.teacher_name,
-            students=student_list # Expects List[str]
+            students=student_objs
         )
     }
 
