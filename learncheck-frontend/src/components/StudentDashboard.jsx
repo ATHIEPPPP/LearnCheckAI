@@ -105,7 +105,9 @@ export default function StudentDashboard() {
   };
 
   // Get subject for this student
-  const mySubject = myClass?.subject ? subjectMapping[myClass.subject] : null;
+  const mySubject = myClass?.subject 
+    ? subjectMapping[myClass.subject] || subjectMapping[myClass.subject.toLowerCase()]
+    : null;
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-indigo-50/30">

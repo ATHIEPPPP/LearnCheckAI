@@ -77,20 +77,46 @@ export default function SubjectDetail() {
 
     try {
       // Get quiz from backend API (using existing questions from database)
-      const mapel = name.toLowerCase().replace(/\s+/g, "_");
-      const response = await fetch(
-        `${API_BASE_URL}/generate?mapel=${mapel}&n=10`,
+      const mapelNormalized = name.toLowerCase().replace(/\s+/g, "_");
+      
+      // Strategy 1: Fetch with normalized name
+      let response = await fetch(
+        `${API_BASE_URL}/generate?mapel=${mapelNormalized}&n=10`,
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
         }
       );
 
-      if (!response.ok) {
-        throw new Error(`Gagal mengambil soal: ${response.status}`);
+      let questions = [];
+      if (response.ok) {
+        questions = await response.json();
       }
 
-      const questions = await response.json();
+      // Strategy 2: If empty or error, try fetching with original name
+      if (!questions || questions.length === 0) {
+        response = await fetch(
+          `${API_BASE_URL}/generate?mapel=${encodeURIComponent(name)}&n=10`,
+          {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+          }
+        );
+        if (response.ok) {
+           const fallbackQuestions = await response.json();
+           if (fallbackQuestions && fallbackQuestions.length > 0) {
+             questions = fallbackQuestions;
+           }
+        }
+      }
+
+      // Strategy 3: (Optional but risky for quiz) - For now rely on 1 & 2 because /generate endpoint filters by mapel strictly
+      // If the backend /generate endpoint doesn't support "fetch all", we can't do strategy 3 easily here without changing backend.
+      // Assuming strategy 2 fixes the case sensitivity issue.
+
+      if (!response.ok && questions.length === 0) {
+        throw new Error(`Gagal mengambil soal: ${response.status}`);
+      }
 
       if (!questions || questions.length === 0) {
         throw new Error("Tidak ada soal tersedia untuk mata pelajaran ini");
