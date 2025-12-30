@@ -145,10 +145,16 @@ async def startup_event():
     try:
         from sqlalchemy import text as _text
         with engine.begin() as conn:
+            # 1. MATERIALS Table Migrations
             conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS file_type VARCHAR(50)"))
             conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS created_at TIMESTAMP DEFAULT NOW()"))
             conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS uploader_id INTEGER"))
             conn.execute(_text("ALTER TABLE materials ADD COLUMN IF NOT EXISTS file_url VARCHAR(255)"))
+            
+            # 2. DB_QUESTIONS Table Migrations (New 'mapel_id' column)
+            conn.execute(_text("ALTER TABLE db_questions ADD COLUMN IF NOT EXISTS mapel_id VARCHAR(100)"))
+            conn.execute(_text("CREATE INDEX IF NOT EXISTS ix_db_questions_mapel_id ON db_questions (mapel_id)"))
+            
             # Migrate legacy column 'uploaded_by' to new 'uploader_id' if exists
             has_legacy = conn.execute(
                 _text("SELECT 1 FROM information_schema.columns WHERE table_name='materials' AND column_name='uploaded_by'")
