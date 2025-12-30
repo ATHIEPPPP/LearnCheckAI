@@ -1181,7 +1181,9 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
                         "tingkat": q.difficulty,
                         "jawaban_benar": q.correct_answer,
                     })
-                 print(f"[GENERATE] Served {len(out)} questions from Manual Filter DB (Emergency Mode: {not mapel.lower() in (selected[0]['mapel'] or '').lower() if selected else False})")
+                 # Fix: Access DBQuestion attribute with dot notation, not dict key
+                 debug_mapel = selected[0].mapel if selected else ""
+                 print(f"[GENERATE] Served {len(out)} questions from Manual Filter DB (Emergency Mode: {not mapel.lower() in (debug_mapel or '').lower() if selected else False})")
                  return out
             
             print(f"[GENERATE] No questions found in DB for mapel '{mapel}' (or variants)")
