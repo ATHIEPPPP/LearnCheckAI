@@ -375,8 +375,8 @@ Output HARUS dalam format JSON array (tanpa markdown, pure JSON):
             prompt = prompt_tpl.replace("{material_chunk}", ch)
             
             # Simple retry logic for 429 errors
-            max_retries = 3
-            retry_delay = 2 # seconds
+            max_retries = 5
+            retry_delay = 5 # seconds
             response = None
             
             for attempt in range(max_retries):
