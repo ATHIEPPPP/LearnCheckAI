@@ -897,6 +897,22 @@ def list_my_classes(credentials: HTTPAuthorizationCredentials = Depends(security
     """Teacher gets list of their classes."""
     teacher = get_current_user(credentials, db)
     
+@app.delete("/admin/reset-questions")
+def reset_all_questions(db: Session = Depends(get_db), current_user: models.User = Depends(get_current_admin)):
+    """
+    ADMIN ONLY: Delete ALL questions from the database.
+    Useful for resetting data to fix structure issues.
+    """
+    try:
+        num_deleted = db.query(models.DBQuestion).delete()
+        db.commit()
+        print(f"[ADMIN] Deleted {num_deleted} questions from DB.")
+        return {"message": f"Successfully deleted {num_deleted} questions."}
+    except Exception as e:
+        db.rollback()
+        print(f"[ADMIN] Failed to reset questions: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+    
     if teacher.role != "teacher":
         raise HTTPException(status_code=403, detail="Only teachers can access this")
     
