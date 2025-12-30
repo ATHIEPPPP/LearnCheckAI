@@ -1156,11 +1156,8 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
             all_qs = db.query(models.DBQuestion).all()
             filtered = [q for q in all_qs if mapel.lower() in (q.mapel or "").lower()]
             
-            # EMERGENCY FALLBACK: If still no questions found, just return ANY questions
-            # This is better than crashing, and at least shows something.
-            if not filtered and all_qs:
-                 print(f"[GENERATE] EMERGENCY: No match for '{mapel}'. Returning RANDOM questions to prevent crash.")
-                 filtered = all_qs
+            # EMERGENCY FALLBACK REMOVED: User requested strict filtering.
+            # We will NOT return random questions if mapel doesn't match.
             
             if filtered:
                  selected = random.sample(filtered, min(n, len(filtered)))
@@ -1181,12 +1178,20 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
                         "tingkat": q.difficulty,
                         "jawaban_benar": q.correct_answer,
                     })
-                 # Fix: Access DBQuestion attribute with dot notation, not dict key
-                 debug_mapel = selected[0].mapel if selected else ""
-                 print(f"[GENERATE] Served {len(out)} questions from Manual Filter DB (Emergency Mode: {not mapel.lower() in (debug_mapel or '').lower() if selected else False})")
+                 print(f"[GENERATE] Served {len(out)} questions from Manual Filter DB")
                  return out
             
-            print(f"[GENERATE] No questions found in DB for mapel '{mapel}' (or variants)")
+            # If we get here, truly no questions found.
+            # Get list of available mapels to help debugging
+            available_mapels = db.query(models.DBQuestion.mapel).distinct().all()
+            available_mapels_list = [m[0] for m in available_mapels]
+            print(f"[GENERATE] No questions found for '{mapel}'. Available in DB: {available_mapels_list}")
+            
+    except Exception as e:
+        print(f"[ERROR] Database fetch failed: {e}")
+        import traceback
+        traceback.print_exc()
+        # Fallback to JSON file logic below
             
     except Exception as e:
         print(f"[ERROR] Database fetch failed: {e}")
