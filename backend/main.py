@@ -501,6 +501,12 @@ def save_questions_to_bank(questions: list, mapel: str) -> int:
         db = next(get_db())
         db_added = 0
         
+        # Normalize mapel for DB consistency
+        # Ensure it's not empty, default to "Umum" if None
+        db_mapel = mapel if mapel else "Umum"
+        
+        print(f"[DB-SAVE] Starting save for mapel: '{db_mapel}' with {len(questions)} questions")
+        
         for q in questions:
             # Normalize fields
             q_text = q.get("question", "") or q.get("pertanyaan", "") or q.get("teks", "")
@@ -508,18 +514,20 @@ def save_questions_to_bank(questions: list, mapel: str) -> int:
             q_kunci = q.get("correct_answer", "") or q.get("jawaban_benar", "") or q.get("kunci", "A")
             
             if not q_text:
+                print(f"[DB-SAVE] Skipping question with empty text: {q}")
                 continue
 
             # Check duplication
+            # Use ilike for mapel to be safe
             existing = db.query(models.DBQuestion).filter(
-                models.DBQuestion.mapel == mapel,
+                models.DBQuestion.mapel.ilike(db_mapel),
                 models.DBQuestion.question_text == q_text
             ).first()
             
             if not existing:
                 new_q = models.DBQuestion(
                     id=str(uuid.uuid4()),
-                    mapel=mapel,
+                    mapel=db_mapel, # Use the explicitly checked mapel
                     topic=q.get("topic", "") or q.get("topik", "Umum"),
                     difficulty=q.get("difficulty", "") or q.get("tingkat", "Sedang"),
                     question_text=q_text,
@@ -534,12 +542,16 @@ def save_questions_to_bank(questions: list, mapel: str) -> int:
                 )
                 db.add(new_q)
                 db_added += 1
+            else:
+                print(f"[DB-SAVE] Duplicate found for: {q_text[:30]}...")
         
         db.commit()
-        print(f"[DB] Successfully saved {db_added} questions to PostgreSQL.")
+        print(f"[DB] Successfully saved {db_added} questions to PostgreSQL for mapel '{db_mapel}'.")
         
     except Exception as e:
         print(f"[ERROR] Failed to save questions to Database: {e}")
+        import traceback
+        traceback.print_exc()
         
     return saved_count
 
