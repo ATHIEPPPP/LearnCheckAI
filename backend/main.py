@@ -1122,14 +1122,11 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
         # Case-insensitive search for mapel
         # Also try exact match for robustness
         db_questions = db.query(models.DBQuestion).filter(
-            models.DBQuestion.mapel.ilike(mapel)
+            models.DBQuestion.mapel.ilike(f"%{mapel}%") # Use wildcard search to be extremely permissive
         ).all()
         
-        # If no result, try normalized version (e.g. "Biologi" -> "biologi")
-        if not db_questions:
-             db_questions = db.query(models.DBQuestion).filter(
-                models.DBQuestion.mapel.ilike(mapel.lower())
-            ).all()
+        # Debug log
+        print(f"[GENERATE] Searching DB for mapel ILIKE '%{mapel}%'. Found: {len(db_questions) if db_questions else 0}")
 
         if db_questions and len(db_questions) > 0:
             # Pick random questions
@@ -1154,6 +1151,33 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
             print(f"[GENERATE] Served {len(out)} questions from PostgreSQL DB for mapel '{mapel}'")
             return out
         else:
+             # Try fetching ALL questions and filter manually as last resort
+            print(f"[GENERATE] Fallback: Fetching ALL questions to filter manually for '{mapel}'")
+            all_qs = db.query(models.DBQuestion).all()
+            filtered = [q for q in all_qs if mapel.lower() in (q.mapel or "").lower()]
+            
+            if filtered:
+                 selected = random.sample(filtered, min(n, len(filtered)))
+                 out = []
+                 for q in selected:
+                     out.append({
+                        "id": str(q.id),
+                        "mapel": q.mapel,
+                        "teks": q.question_text,
+                        "opsi": {
+                            "A": q.option_a or "",
+                            "B": q.option_b or "",
+                            "C": q.option_c or "",
+                            "D": q.option_d or "",
+                            "E": q.option_e or ""
+                        },
+                        "topik": q.topic,
+                        "tingkat": q.difficulty,
+                        "jawaban_benar": q.correct_answer,
+                    })
+                 print(f"[GENERATE] Served {len(out)} questions from Manual Filter DB")
+                 return out
+            
             print(f"[GENERATE] No questions found in DB for mapel '{mapel}' (or variants)")
             
     except Exception as e:
