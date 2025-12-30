@@ -42,10 +42,11 @@ from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from pydantic import BaseModel, Field, EmailStr
 import joblib  # untuk load model .joblib
 from passlib.context import CryptContext
-from sqlalchemy.orm import Session # Added for DB session
-from db import engine, get_db # Added for DB access
-import models # Added for DB models
-import schemas # Added for Pydantic schemas
+from sqlalchemy.orm import Session
+# Use absolute imports from root since Docker CMD is "uvicorn backend.main:app"
+from backend.db import engine, get_db
+from backend import models
+from backend import schemas
 
 import secrets
 import os
