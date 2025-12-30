@@ -1720,9 +1720,13 @@ class QuizSettingsResp(BaseModel):
 @app.get("/quiz-settings/{mapel}")
 def get_quiz_settings_endpoint(mapel: str, db: DBSessionType = Depends(get_db)) -> QuizSettingsResp:
     """Get quiz settings for a specific mapel."""
-    quiz = crud.get_quiz_settings(db, mapel.lower())
+    mapel_key = mapel.lower().strip()
+    print(f"[QUIZ-SETTINGS] Fetching for mapel: '{mapel}' (key: '{mapel_key}')")
+    
+    quiz = crud.get_quiz_settings(db, mapel_key)
     
     if quiz:
+        print(f"[QUIZ-SETTINGS] Found: enabled={quiz.enabled}, start={quiz.start_date}, end={quiz.end_date}")
         return QuizSettingsResp(
             mapel=mapel,
             enabled=quiz.enabled,
@@ -1734,6 +1738,7 @@ def get_quiz_settings_endpoint(mapel: str, db: DBSessionType = Depends(get_db)) 
             attempts=quiz.max_attempts
         )
     else:
+        print(f"[QUIZ-SETTINGS] Not found for '{mapel_key}', returning defaults")
         # Return defaults
         return QuizSettingsResp(
             mapel=mapel,
