@@ -989,6 +989,13 @@ def add_student_to_class(class_id: str, req: AssignStudentRequest,
     
     # Reload class for response
     cls = crud.get_class_by_id(db, class_id)
+    
+    # Parse students properly
+    try:
+        student_list = json.loads(cls.students or "[]")
+    except:
+        student_list = []
+        
     return {
         "message": "Student added successfully", 
         "class": ClassResponse(
@@ -997,8 +1004,7 @@ def add_student_to_class(class_id: str, req: AssignStudentRequest,
             subject=cls.subject,
             teacher_email=cls.teacher_email,
             teacher_name=cls.teacher_name,
-            students=[{"email": email, "username": email.split('@')[0]} 
-                     for email in json.loads(cls.students or "[]")]
+            students=student_list # Expects List[str]
         )
     }
 
