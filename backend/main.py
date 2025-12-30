@@ -43,7 +43,7 @@ from pydantic import BaseModel, Field, EmailStr
 import joblib  # untuk load model .joblib
 from passlib.context import CryptContext
 from sqlalchemy.orm import Session # Added for DB session
-from database import engine, get_db # Added for DB access
+from db import engine, get_db # Added for DB access
 import models # Added for DB models
 import schemas # Added for Pydantic schemas
 
