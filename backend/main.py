@@ -959,21 +959,6 @@ def reset_all_questions(db: Session = Depends(get_db)):
         db.rollback()
         print(f"[ADMIN] Failed to reset questions: {e}")
         raise HTTPException(status_code=500, detail=str(e))
-    
-    classes = crud.get_classes_by_teacher(db, teacher.email)
-    
-    return [
-        ClassResponse(
-            class_id=c.class_id,
-            name=c.name,
-            subject=c.subject,
-            teacher_email=c.teacher_email,
-            teacher_name=c.teacher_name,
-            students=[{"email": email, "username": email.split('@')[0]} 
-                     for email in json.loads(c.students or "[]")]
-        )
-        for c in classes
-    ]
 
 @app.post("/teacher/classes/{class_id}/students")
 def add_student_to_class(class_id: str, req: AssignStudentRequest, 
