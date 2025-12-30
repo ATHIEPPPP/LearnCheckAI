@@ -437,7 +437,10 @@ Output HARUS dalam format JSON array (tanpa markdown, pure JSON):
         return {"success": False, "error": str(e), "questions": []}
 
 def save_questions_to_bank(questions: list, mapel: str) -> int:
-    """Simpan soal yang di-generate AI ke bank soal JSON."""
+    """Save generated questions to JSON file AND PostgreSQL Database."""
+    saved_count = 0
+    
+    # 1. Save to JSON File (Legacy/Backup)
     try:
         mapel_normalized = mapel.lower().replace(" ", "_")
         bank_file = SOAL_DIR / f"{mapel_normalized}.json"
@@ -452,26 +455,26 @@ def save_questions_to_bank(questions: list, mapel: str) -> int:
         else:
             bank_data = []
         
-        # Get next ID
-        existing_ids = [q.get("id", 0) for q in bank_data if isinstance(q, dict)]
+        # Get next ID for JSON
+        existing_ids = [int(q.get("id", 0)) for q in bank_data if isinstance(q.get("id"), (int, str)) and str(q.get("id")).isdigit()]
         next_id = max(existing_ids, default=0) + 1
         
-        # Add new questions
-        added_count = 0
+        # Add new questions to JSON
+        json_added = 0
         for q in questions:
             new_question = {
                 "id": next_id,
-                "teks": q.get("question", ""),
-                "opsi": q.get("options", {}),
-                "kunci": q.get("correct_answer", "A"),
-                "topik": q.get("topic", ""),
-                "tingkat": q.get("difficulty", "sedang"),
-                "penjelasan": q.get("explanation", ""),
+                "teks": q.get("question", "") or q.get("pertanyaan", "") or q.get("teks", ""),
+                "opsi": q.get("options", {}) or q.get("opsi", {}),
+                "kunci": q.get("correct_answer", "") or q.get("jawaban_benar", "") or q.get("kunci", "A"),
+                "topik": q.get("topic", "") or q.get("topik", ""),
+                "tingkat": q.get("difficulty", "") or q.get("tingkat", "sedang"),
+                "penjelasan": q.get("explanation", "") or q.get("pembahasan", ""),
                 "source": "ai_material"
             }
             bank_data.append(new_question)
             next_id += 1
-            added_count += 1
+            json_added += 1
         
         # Save back to file
         with open(bank_file, 'w', encoding='utf-8') as f:
@@ -479,12 +482,57 @@ def save_questions_to_bank(questions: list, mapel: str) -> int:
         
         # Reload banks
         _rebuild_indexes()
-        
-        return added_count
+        saved_count = json_added
         
     except Exception as e:
-        print(f"[ERROR] Failed to save questions to bank: {e}")
-        return 0
+        print(f"[ERROR] Failed to save questions to JSON bank: {e}")
+
+    # 2. Save to PostgreSQL Database (Persistence)
+    try:
+        db = next(get_db())
+        db_added = 0
+        
+        for q in questions:
+            # Normalize fields
+            q_text = q.get("question", "") or q.get("pertanyaan", "") or q.get("teks", "")
+            q_opsi = q.get("options", {}) or q.get("opsi", {})
+            q_kunci = q.get("correct_answer", "") or q.get("jawaban_benar", "") or q.get("kunci", "A")
+            
+            if not q_text:
+                continue
+
+            # Check duplication
+            existing = db.query(models.DBQuestion).filter(
+                models.DBQuestion.mapel == mapel,
+                models.DBQuestion.question_text == q_text
+            ).first()
+            
+            if not existing:
+                new_q = models.DBQuestion(
+                    id=str(uuid.uuid4()),
+                    mapel=mapel,
+                    topic=q.get("topic", "") or q.get("topik", "Umum"),
+                    difficulty=q.get("difficulty", "") or q.get("tingkat", "Sedang"),
+                    question_text=q_text,
+                    option_a=q_opsi.get("A", ""),
+                    option_b=q_opsi.get("B", ""),
+                    option_c=q_opsi.get("C", ""),
+                    option_d=q_opsi.get("D", ""),
+                    option_e=q_opsi.get("E", ""),
+                    correct_answer=q_kunci,
+                    explanation=q.get("explanation", "") or q.get("pembahasan", "") or q.get("penjelasan", ""),
+                    created_at=datetime.utcnow()
+                )
+                db.add(new_q)
+                db_added += 1
+        
+        db.commit()
+        print(f"[DB] Successfully saved {db_added} questions to PostgreSQL.")
+        
+    except Exception as e:
+        print(f"[ERROR] Failed to save questions to Database: {e}")
+        
+    return saved_count
 
 @app.on_event("startup")
 def _init():
