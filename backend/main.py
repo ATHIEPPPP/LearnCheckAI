@@ -1125,11 +1125,13 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
         # Case-insensitive search for mapel
         # Use strict mapel_id filtering for reliability
         target_slug = mapel.lower().strip()
+        print(f"[GENERATE] Request mapel: '{mapel}' -> Slug: '{target_slug}'")
         
         # 1. Try strict slug match (Preferred)
         db_questions = db.query(models.DBQuestion).filter(
             models.DBQuestion.mapel_id == target_slug
         ).all()
+        print(f"[GENERATE] Strict slug match result: {len(db_questions)} questions")
         
         # 2. If no slug match (legacy data), fallback to ILIKE on name
         if not db_questions:
@@ -1137,6 +1139,7 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
              db_questions = db.query(models.DBQuestion).filter(
                  models.DBQuestion.mapel.ilike(f"%{mapel}%")
              ).all()
+             print(f"[GENERATE] Legacy ILIKE search result: {len(db_questions)} questions")
 
         # Debug log
         print(f"[GENERATE] Searching DB for mapel_id='{target_slug}'. Found: {len(db_questions) if db_questions else 0}")
