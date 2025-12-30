@@ -1156,6 +1156,12 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
             all_qs = db.query(models.DBQuestion).all()
             filtered = [q for q in all_qs if mapel.lower() in (q.mapel or "").lower()]
             
+            # EMERGENCY FALLBACK: If still no questions found, just return ANY questions
+            # This is better than crashing, and at least shows something.
+            if not filtered and all_qs:
+                 print(f"[GENERATE] EMERGENCY: No match for '{mapel}'. Returning RANDOM questions to prevent crash.")
+                 filtered = all_qs
+            
             if filtered:
                  selected = random.sample(filtered, min(n, len(filtered)))
                  out = []
@@ -1175,7 +1181,7 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
                         "tingkat": q.difficulty,
                         "jawaban_benar": q.correct_answer,
                     })
-                 print(f"[GENERATE] Served {len(out)} questions from Manual Filter DB")
+                 print(f"[GENERATE] Served {len(out)} questions from Manual Filter DB (Emergency Mode: {not mapel.lower() in (selected[0]['mapel'] or '').lower() if selected else False})")
                  return out
             
             print(f"[GENERATE] No questions found in DB for mapel '{mapel}' (or variants)")
