@@ -1097,11 +1097,46 @@ def qg_generate(req: QGRequest):
 
 # ---- simple generate endpoint (for frontend) ----
 @app.post("/generate")
-def generate_simple(mapel: str = None, n: int = 10):
+def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db)):
     """Simple endpoint to generate quiz questions from database."""
     if not mapel:
         return {"error": "Parameter 'mapel' diperlukan"}
     
+    # 1. Try fetching from Database first (Persistent Storage)
+    try:
+        # Case-insensitive search for mapel
+        db_questions = db.query(models.DBQuestion).filter(
+            models.DBQuestion.mapel.ilike(mapel)
+        ).all()
+        
+        if db_questions and len(db_questions) > 0:
+            # Pick random questions
+            selected = random.sample(db_questions, min(n, len(db_questions)))
+            out = []
+            for q in selected:
+                out.append({
+                    "id": q.id,
+                    "mapel": q.mapel,
+                    "teks": q.question_text,
+                    "opsi": {
+                        "A": q.option_a or "",
+                        "B": q.option_b or "",
+                        "C": q.option_c or "",
+                        "D": q.option_d or "",
+                        "E": q.option_e or ""
+                    },
+                    "topik": q.topic,
+                    "tingkat": q.difficulty,
+                    "jawaban_benar": q.correct_answer,
+                })
+            print(f"[GENERATE] Served {len(out)} questions from PostgreSQL DB")
+            return out
+            
+    except Exception as e:
+        print(f"[ERROR] Database fetch failed: {e}")
+        # Fallback to JSON file logic below
+    
+    # 2. Fallback to JSON File (Legacy)
     mapel_lower = mapel.lower()
     bank = BANKS.get(mapel_lower)
     
@@ -1114,7 +1149,7 @@ def generate_simple(mapel: str = None, n: int = 10):
     
     if not bank:
         # Debug info
-        print(f"[GENERATE] Mapel '{mapel}' not found. Available: {list(BANKS.keys())}")
+        print(f"[GENERATE] Mapel '{mapel}' not found in JSON banks. Available: {list(BANKS.keys())}")
         # Try to reload banks just in case
         _rebuild_indexes()
         bank = BANKS.get(mapel_lower)
