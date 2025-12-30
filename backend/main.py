@@ -897,6 +897,11 @@ def list_my_classes(credentials: HTTPAuthorizationCredentials = Depends(security
     """Teacher gets list of their classes."""
     teacher = get_current_user(credentials, db)
     
+    if teacher.role != "teacher":
+        raise HTTPException(status_code=403, detail="Only teachers can access this")
+        
+    return crud.get_teacher_classes(db, teacher.email)
+
 # Change to GET for easy browser access
 @app.get("/admin/reset-questions")
 def reset_all_questions(db: Session = Depends(get_db)):
@@ -906,6 +911,8 @@ def reset_all_questions(db: Session = Depends(get_db)):
     Access via browser to trigger.
     """
     try:
+        # Only delete from DBQuestion table
+        # Verify no cascade delete affects Users
         num_deleted = db.query(models.DBQuestion).delete()
         db.commit()
         print(f"[ADMIN] Deleted {num_deleted} questions from DB.")
@@ -914,9 +921,6 @@ def reset_all_questions(db: Session = Depends(get_db)):
         db.rollback()
         print(f"[ADMIN] Failed to reset questions: {e}")
         raise HTTPException(status_code=500, detail=str(e))
-    
-    if teacher.role != "teacher":
-        raise HTTPException(status_code=403, detail="Only teachers can access this")
     
     classes = crud.get_classes_by_teacher(db, teacher.email)
     
