@@ -1048,11 +1048,25 @@ def generate_simple(mapel: str = None, n: int = 10):
     if not mapel:
         return {"error": "Parameter 'mapel' diperlukan"}
     
-    mapel = mapel.lower()
-    bank = BANKS.get(mapel)
+    mapel_lower = mapel.lower()
+    bank = BANKS.get(mapel_lower)
+    
+    # Try finding case-insensitive match if exact match fails
+    if not bank:
+        for k in BANKS.keys():
+            if k.lower() == mapel_lower:
+                bank = BANKS[k]
+                break
     
     if not bank:
-        return {"error": f"Mapel '{mapel}' tidak ditemukan. Available: {list(BANKS.keys())}"}
+        # Debug info
+        print(f"[GENERATE] Mapel '{mapel}' not found. Available: {list(BANKS.keys())}")
+        # Try to reload banks just in case
+        _rebuild_indexes()
+        bank = BANKS.get(mapel_lower)
+        
+        if not bank:
+             return {"error": f"Mapel '{mapel}' tidak ditemukan. Available: {list(BANKS.keys())}"}
     
     # Pick random questions (no allow_duplicate parameter)
     questions = LC.pick_questions(bank, n=n)
@@ -1063,6 +1077,14 @@ def generate_simple(mapel: str = None, n: int = 10):
         # Map field names: "pertanyaan" or "teks" -> "teks"
         question_text = q.get("pertanyaan") or q.get("teks", "")
         
+        # Ensure we have a valid question text
+        if not question_text:
+            continue
+            
+        # Ensure options exist
+        if not opsi:
+            continue
+
         out.append({
             "id": str(q.get("id", "")),
             "mapel": mapel,
@@ -1070,9 +1092,12 @@ def generate_simple(mapel: str = None, n: int = 10):
             "opsi": {k: opsi.get(k, "") for k in ("A", "B", "C", "D", "E")},
             "topik": q.get("topik", ""),
             "tingkat": q.get("tingkat", ""),
-            "jawaban_benar": q.get("jawaban_benar", ""),  # Include correct answer key
+            "jawaban_benar": q.get("kunci") or q.get("jawaban_benar", ""),  # Include correct answer key
         })
     
+    if not out:
+        return {"error": "Tidak ada soal yang valid ditemukan untuk mapel ini"}
+
     return out
 
 # ---- score (tanpa remedial) + rekap guru opsional ----
