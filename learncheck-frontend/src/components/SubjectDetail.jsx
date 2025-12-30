@@ -125,6 +125,11 @@ export default function SubjectDetail() {
       console.log("[SubjectDetail] Raw questions from backend:", questions);
 
       // Transform questions to quiz format
+      if (!Array.isArray(questions)) {
+        console.error("Questions is not an array:", questions);
+        throw new Error("Format soal tidak valid dari server.");
+      }
+
       const quizQuestions = questions.map((q) => {
         const options = q.opsi
           ? [
