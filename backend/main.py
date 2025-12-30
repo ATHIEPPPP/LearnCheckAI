@@ -900,7 +900,7 @@ def list_my_classes(credentials: HTTPAuthorizationCredentials = Depends(security
     if teacher.role != "teacher":
         raise HTTPException(status_code=403, detail="Only teachers can access this")
         
-    return crud.get_teacher_classes(db, teacher.email)
+    return crud.get_classes_by_teacher(db, teacher.email)
 
 # Change to GET for easy browser access
 @app.get("/admin/reset-questions")
