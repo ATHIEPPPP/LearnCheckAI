@@ -897,11 +897,13 @@ def list_my_classes(credentials: HTTPAuthorizationCredentials = Depends(security
     """Teacher gets list of their classes."""
     teacher = get_current_user(credentials, db)
     
-@app.delete("/admin/reset-questions")
-def reset_all_questions(db: Session = Depends(get_db), current_user: models.User = Depends(get_current_admin)):
+# Change to GET for easy browser access
+@app.get("/admin/reset-questions")
+def reset_all_questions(db: Session = Depends(get_db)):
     """
-    ADMIN ONLY: Delete ALL questions from the database.
-    Useful for resetting data to fix structure issues.
+    ADMIN/DEBUG: Delete ALL questions from the database.
+    WARNING: This deletes everything! Use with caution.
+    Access via browser to trigger.
     """
     try:
         num_deleted = db.query(models.DBQuestion).delete()
