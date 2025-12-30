@@ -618,7 +618,7 @@ class ClassResponse(BaseModel):
     subject: str
     teacher_email: str
     teacher_name: str
-    students: List[str] = []  # List of emails
+    students: List[schemas.StudentInfo] = []  # List of StudentInfo objects
 
 class AssignStudentRequest(BaseModel):
     student_email: str
