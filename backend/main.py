@@ -31,6 +31,7 @@ from pathlib import Path
 from datetime import datetime
 from typing import List, Dict, Optional
 import csv, json, subprocess, sys, random, re
+import uuid # Added for UUID generation
 
 # ===== third-party =====
 from fastapi import FastAPI, HTTPException, Depends, UploadFile, File, Form
@@ -41,6 +42,10 @@ from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from pydantic import BaseModel, Field, EmailStr
 import joblib  # untuk load model .joblib
 from passlib.context import CryptContext
+from sqlalchemy.orm import Session # Added for DB session
+from database import engine, get_db # Added for DB access
+import models # Added for DB models
+import schemas # Added for Pydantic schemas
 
 import secrets
 import os
