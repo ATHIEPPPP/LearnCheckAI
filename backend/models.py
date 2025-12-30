@@ -116,7 +116,8 @@ class DBQuestion(Base):
     __tablename__ = "db_questions"
 
     id = Column(String(36), primary_key=True, index=True)
-    mapel = Column(String(100), nullable=False)
+    mapel = Column(String(100), nullable=False) # Judul asli, e.g. "Biologi Dasar"
+    mapel_id = Column(String(100), nullable=True, index=True) # Slug untuk filter, e.g. "biologi"
     topic = Column(String(255))
     difficulty = Column(String(20))
     question_text = Column(Text, nullable=False)

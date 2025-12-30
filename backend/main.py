@@ -504,8 +504,10 @@ def save_questions_to_bank(questions: list, mapel: str) -> int:
         # Normalize mapel for DB consistency
         # Ensure it's not empty, default to "Umum" if None
         db_mapel = mapel if mapel else "Umum"
+        # Generate slug for strict filtering (e.g. "Biologi" -> "biologi")
+        db_mapel_id = db_mapel.lower().strip()
         
-        print(f"[DB-SAVE] Starting save for mapel: '{db_mapel}' with {len(questions)} questions")
+        print(f"[DB-SAVE] Starting save for mapel: '{db_mapel}' (ID: {db_mapel_id}) with {len(questions)} questions")
         
         for q in questions:
             # Normalize fields
@@ -520,14 +522,15 @@ def save_questions_to_bank(questions: list, mapel: str) -> int:
             # Check duplication
             # Use ilike for mapel to be safe
             existing = db.query(models.DBQuestion).filter(
-                models.DBQuestion.mapel.ilike(db_mapel),
+                models.DBQuestion.mapel_id == db_mapel_id, # Strict check on ID
                 models.DBQuestion.question_text == q_text
             ).first()
             
             if not existing:
                 new_q = models.DBQuestion(
                     id=str(uuid.uuid4()),
-                    mapel=db_mapel, # Use the explicitly checked mapel
+                    mapel=db_mapel, # Original name
+                    mapel_id=db_mapel_id, # Slug for filtering
                     topic=q.get("topic", "") or q.get("topik", "Umum"),
                     difficulty=q.get("difficulty", "") or q.get("tingkat", "Sedang"),
                     question_text=q_text,
@@ -546,7 +549,7 @@ def save_questions_to_bank(questions: list, mapel: str) -> int:
                 print(f"[DB-SAVE] Duplicate found for: {q_text[:30]}...")
         
         db.commit()
-        print(f"[DB] Successfully saved {db_added} questions to PostgreSQL for mapel '{db_mapel}'.")
+        print(f"[DB] Successfully saved {db_added} questions to PostgreSQL for mapel '{db_mapel}' (ID: {db_mapel_id}).")
         
     except Exception as e:
         print(f"[ERROR] Failed to save questions to Database: {e}")
@@ -1120,13 +1123,23 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
     # 1. Try fetching from Database first (Persistent Storage)
     try:
         # Case-insensitive search for mapel
-        # Also try exact match for robustness
+        # Use strict mapel_id filtering for reliability
+        target_slug = mapel.lower().strip()
+        
+        # 1. Try strict slug match (Preferred)
         db_questions = db.query(models.DBQuestion).filter(
-            models.DBQuestion.mapel.ilike(f"%{mapel}%") # Use wildcard search to be extremely permissive
+            models.DBQuestion.mapel_id == target_slug
         ).all()
         
+        # 2. If no slug match (legacy data), fallback to ILIKE on name
+        if not db_questions:
+             print(f"[GENERATE] Slug '{target_slug}' not found. Trying legacy ILIKE search...")
+             db_questions = db.query(models.DBQuestion).filter(
+                 models.DBQuestion.mapel.ilike(f"%{mapel}%")
+             ).all()
+
         # Debug log
-        print(f"[GENERATE] Searching DB for mapel ILIKE '%{mapel}%'. Found: {len(db_questions) if db_questions else 0}")
+        print(f"[GENERATE] Searching DB for mapel_id='{target_slug}'. Found: {len(db_questions) if db_questions else 0}")
 
         if db_questions and len(db_questions) > 0:
             # Pick random questions
@@ -1155,9 +1168,6 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
             print(f"[GENERATE] Fallback: Fetching ALL questions to filter manually for '{mapel}'")
             all_qs = db.query(models.DBQuestion).all()
             filtered = [q for q in all_qs if mapel.lower() in (q.mapel or "").lower()]
-            
-            # EMERGENCY FALLBACK REMOVED: User requested strict filtering.
-            # We will NOT return random questions if mapel doesn't match.
             
             if filtered:
                  selected = random.sample(filtered, min(n, len(filtered)))
