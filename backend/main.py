@@ -137,7 +137,10 @@ import json
 # Create tables on startup
 @app.on_event("startup")
 async def startup_event():
+    # Make sure all tables are created
     Base.metadata.create_all(bind=engine)
+    print("[STARTUP] Database tables created/verified.")
+    
     # Ensure missing columns exist (for runtime migrations)
     try:
         from sqlalchemy import text as _text
