@@ -111,4 +111,21 @@ class Material(Base):
     uploader_id = Column(Integer, ForeignKey("users.id"), nullable=False)
     uploader = relationship("User", back_populates="materials")
     created_at = Column(DateTime, default=datetime.utcnow)
+
+class DBQuestion(Base):
+    __tablename__ = "db_questions"
+
+    id = Column(String(36), primary_key=True, index=True)
+    mapel = Column(String(100), nullable=False)
+    topic = Column(String(255))
+    difficulty = Column(String(20))
+    question_text = Column(Text, nullable=False)
+    option_a = Column(Text)
+    option_b = Column(Text)
+    option_c = Column(Text)
+    option_d = Column(Text)
+    option_e = Column(Text)
+    correct_answer = Column(String(1))
+    explanation = Column(Text)
+    created_at = Column(DateTime, default=datetime.utcnow)
 # moved from app/models.py
