@@ -1108,17 +1108,24 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
     # 1. Try fetching from Database first (Persistent Storage)
     try:
         # Case-insensitive search for mapel
+        # Also try exact match for robustness
         db_questions = db.query(models.DBQuestion).filter(
             models.DBQuestion.mapel.ilike(mapel)
         ).all()
         
+        # If no result, try normalized version (e.g. "Biologi" -> "biologi")
+        if not db_questions:
+             db_questions = db.query(models.DBQuestion).filter(
+                models.DBQuestion.mapel.ilike(mapel.lower())
+            ).all()
+
         if db_questions and len(db_questions) > 0:
             # Pick random questions
             selected = random.sample(db_questions, min(n, len(db_questions)))
             out = []
             for q in selected:
                 out.append({
-                    "id": q.id,
+                    "id": str(q.id), # Ensure ID is string
                     "mapel": q.mapel,
                     "teks": q.question_text,
                     "opsi": {
@@ -1132,11 +1139,15 @@ def generate_simple(mapel: str = None, n: int = 10, db: Session = Depends(get_db
                     "tingkat": q.difficulty,
                     "jawaban_benar": q.correct_answer,
                 })
-            print(f"[GENERATE] Served {len(out)} questions from PostgreSQL DB")
+            print(f"[GENERATE] Served {len(out)} questions from PostgreSQL DB for mapel '{mapel}'")
             return out
+        else:
+            print(f"[GENERATE] No questions found in DB for mapel '{mapel}' (or variants)")
             
     except Exception as e:
         print(f"[ERROR] Database fetch failed: {e}")
+        import traceback
+        traceback.print_exc()
         # Fallback to JSON file logic below
     
     # 2. Fallback to JSON File (Legacy)
