@@ -24,17 +24,59 @@ export default function MaterialList({ subject }) {
     try {
       setLoading(true);
       const mapelNormalized = subject.toLowerCase().replace(/\s+/g, "_");
-      const response = await fetch(
-        `${API_BASE_URL}/materials?mapel=${mapelNormalized}`
+      const timestamp = new Date().getTime();
+
+      // Strategy 1: Fetch with normalized name
+      let response = await fetch(
+        `${API_BASE_URL}/materials?mapel=${mapelNormalized}&t=${timestamp}`
       );
 
+      let data = [];
       if (response.ok) {
-        const data = await response.json();
-        setMaterials(data);
-      } else {
-        console.error("Failed to load materials");
-        setMaterials([]);
+        data = await response.json();
       }
+
+      // Strategy 2: If empty, fetch with original name
+      if (data.length === 0) {
+        response = await fetch(
+          `${API_BASE_URL}/materials?mapel=${encodeURIComponent(subject)}&t=${timestamp}`
+        );
+        if (response.ok) {
+          const fallbackData = await response.json();
+          if (fallbackData.length > 0) {
+            data = fallbackData;
+          }
+        }
+      }
+
+      // Strategy 3: Aggressive Fallback (Fetch All & Filter)
+      if (data.length === 0) {
+        console.log("[MaterialList] Strategy 3: Fetching ALL materials...");
+        response = await fetch(`${API_BASE_URL}/materials?t=${timestamp}`);
+        if (response.ok) {
+          const allMaterials = await response.json();
+          const searchTerms = [
+            mapelNormalized,
+            subject.toLowerCase(),
+            subject.replace("Kelas ", "").toLowerCase(),
+          ];
+
+          data = allMaterials.filter((m) => {
+            const mMapel = (m.mapel || "").toLowerCase();
+            const mDesc = (m.description || "").toLowerCase();
+            const mTitle = (m.title || "").toLowerCase();
+
+            return searchTerms.some(
+              (term) =>
+                mMapel.includes(term) ||
+                mDesc.includes(term) ||
+                mTitle.includes(term)
+            );
+          });
+        }
+      }
+
+      setMaterials(data);
     } catch (error) {
       console.error("Error loading materials:", error);
       // Fallback to localStorage for demo
