@@ -442,6 +442,9 @@ def save_questions_to_bank(questions: list, mapel: str) -> int:
         mapel_normalized = mapel.lower().replace(" ", "_")
         bank_file = SOAL_DIR / f"{mapel_normalized}.json"
         
+        # Ensure SOAL_DIR exists
+        SOAL_DIR.mkdir(parents=True, exist_ok=True)
+        
         # Load existing bank or create new
         if bank_file.exists():
             with open(bank_file, 'r', encoding='utf-8') as f:
