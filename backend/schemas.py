@@ -57,5 +57,35 @@ class MaterialCreate(BaseModel):
 	file_url: str
 	file_type: Optional[str] = "document"
 	mapel: str
+
+class MaterialResponse(BaseModel):
+	id: int
+	title: str
+	description: Optional[str] = None
+	mapel: str
+	file_url: Optional[str] = None
+	file_type: Optional[str] = None
+	created_at: datetime
+
+	class Config:
+		from_attributes = True
+
+# ==================== CLASS SCHEMAS ====================
+
+class CreateClassRequest(BaseModel):
+    name: str
+    subject: str = None
+    role: str = "teacher"
+
+class ClassResponse(BaseModel):
+    class_id: str
+    name: str
+    subject: str
+    teacher_email: str
+    teacher_name: str
+    students: List[str] = [] # List of emails (strings)
+
+    class Config:
+        from_attributes = True
 # moved from app/schemas.py
 
