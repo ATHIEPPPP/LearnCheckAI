@@ -1754,26 +1754,37 @@ def get_quiz_settings_endpoint(mapel: str, db: DBSessionType = Depends(get_db)) 
 @app.post("/quiz-settings")
 def update_quiz_settings_endpoint(req: QuizSettingsReq, db: DBSessionType = Depends(get_db)) -> QuizSettingsResp:
     """Update quiz settings for a specific mapel."""
-    from datetime import datetime
+    from datetime import datetime, timezone
     
     start_date = None
     end_date = None
     
+    print(f"[QUIZ-SETTINGS] Update request for '{req.mapel}': Start='{req.startDate}', End='{req.endDate}'")
+
     if req.startDate:
         try:
+            # Parse ISO format. If naive, assume UTC (or better yet, handle as server local time if intended)
+            # Frontend usually sends ISO with 'Z' (UTC) or offset.
             start_date = datetime.fromisoformat(req.startDate.replace('Z', '+00:00'))
-        except:
-            pass
+            print(f"[QUIZ-SETTINGS] Parsed Start Date: {start_date} (TZ: {start_date.tzinfo})")
+        except Exception as e:
+             print(f"[QUIZ-SETTINGS] Error parsing Start Date: {e}")
+             pass
     
     if req.endDate:
         try:
             end_date = datetime.fromisoformat(req.endDate.replace('Z', '+00:00'))
-        except:
+            print(f"[QUIZ-SETTINGS] Parsed End Date: {end_date} (TZ: {end_date.tzinfo})")
+        except Exception as e:
+            print(f"[QUIZ-SETTINGS] Error parsing End Date: {e}")
             pass
+    
+    # Normalize mapel key
+    mapel_key = req.mapel.lower().strip()
     
     quiz = crud.upsert_quiz_settings(
         db=db,
-        mapel=req.mapel.lower(),
+        mapel=mapel_key,
         enabled=req.enabled,
         timer=req.timer,
         start_date=start_date,
@@ -1782,6 +1793,8 @@ def update_quiz_settings_endpoint(req: QuizSettingsReq, db: DBSessionType = Depe
         randomize_questions=req.randomizeQuestions,
         attempts=req.attempts
     )
+    
+    print(f"[QUIZ-SETTINGS] Saved for '{mapel_key}'. ID: {quiz.id}")
     
     return QuizSettingsResp(
         mapel=req.mapel,
