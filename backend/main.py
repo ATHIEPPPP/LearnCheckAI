@@ -367,14 +367,41 @@ Output HARUS dalam format JSON array (tanpa markdown, pure JSON):
         print("[AI] Calling Gemini API...")
         if not CLIENT:
             raise RuntimeError("Gemini client not initialized")
+        
         all_questions = []
+        import time
+        
         for idx, ch in enumerate(chunks):
             prompt = prompt_tpl.replace("{material_chunk}", ch)
-            model_name = _pick_available_model()
-            response = CLIENT.models.generate_content(
-                model=model_name,
-                contents=prompt
-            )
+            
+            # Simple retry logic for 429 errors
+            max_retries = 3
+            retry_delay = 2 # seconds
+            response = None
+            
+            for attempt in range(max_retries):
+                try:
+                    model_name = _pick_available_model()
+                    response = CLIENT.models.generate_content(
+                        model=model_name,
+                        contents=prompt
+                    )
+                    break # Success, exit retry loop
+                except Exception as e:
+                    if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+                        if attempt < max_retries - 1:
+                            print(f"[AI] Rate limit hit. Retrying in {retry_delay}s... (Attempt {attempt+1}/{max_retries})")
+                            time.sleep(retry_delay)
+                            retry_delay *= 2 # Exponential backoff
+                        else:
+                            print(f"[AI] Max retries exceeded for chunk {idx+1}")
+                            raise e
+                    else:
+                        raise e # Re-raise other errors immediately
+
+            if not response:
+                continue
+
             response_text = (response.text or "").strip()
             print(f"[AI] Chunk {idx+1}/{len(chunks)} len={len(response_text)}")
             if not response_text:
